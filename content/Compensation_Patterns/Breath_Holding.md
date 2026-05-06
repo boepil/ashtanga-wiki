@@ -11,7 +11,7 @@ updated: 2026-05-02
 
 # Breath Holding Under Effort
 
-![[ChatGPT Image May 5, 2026, 04_48_48 PM.png]]
+![[ChatGPT Image May 6, 2026, 08_14_33 PM.png]]
 ### 1. Vinyasa Synchronization and Subtle Support
 
 **Lack**  

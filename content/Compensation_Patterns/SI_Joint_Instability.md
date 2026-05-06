@@ -10,6 +10,7 @@ updated: 2026-05-02
 
 # SI Joint Instability in Asymmetric Poses
 
+![[ChatGPT Image May 6, 2026, 08_39_11 PM.png]]
 ### 1. Pelvic Stability and Coronal Alignment
 
 **Lack**  

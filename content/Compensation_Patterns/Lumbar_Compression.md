@@ -10,7 +10,7 @@ updated: 2026-05-02
 
 # Lumbar Compression in Backbends
 
-![[ChatGPT Image May 5, 2026, 04_48_37 PM.png]]
+![[ChatGPT Image May 6, 2026, 08_14_08 PM.png]]
 ### 1. Thoracic Mobility and Hip Extension
 
 **Lack**  

@@ -10,6 +10,7 @@ updated: 2026-05-02
 
 # Hamstring Overstretching vs. Posterior Chain Weakness
 
+![[ChatGPT Image May 6, 2026, 08_18_41 PM.png]]
 ### 1. Posterior Chain Stability
 
 **Lack**  
