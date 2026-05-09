@@ -34,7 +34,7 @@ Welcome to the Ashtanga Yoga Knowledge Wiki.
 - [[Om]]
 - [[Womens_Practice_Traditions]]
 - [[Sanskrit_Mantras_and_Terminology]]
-- [[The_Bohr_Effect_and_Kumbhaka]] — Cellular oxygenation and the paradox of restricted breathing — (concept, essay-seed) — 12 sources
+- [[The_Bohr_Effect_and_Kumbhaka]]
 
 ## 02. Pranayama
 - [[Pranayama_Overview]]
