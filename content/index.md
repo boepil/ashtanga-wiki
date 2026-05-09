@@ -145,6 +145,9 @@ Note: [[Bohr_Effect_and_Kumbhaka]] — breath physiology → pranayama
 - [[SI_Joint_Instability_Modifications]] — Stabilizing the pelvis in asymmetric poses
 - [[Breath_Holding_Modifications]] — Maintaining thin, smooth Ujjayi
 
+## Reference
+- [Asana Dictionary (Full A-Z List)](Asana_Dictionary)
+- [[Hebrew_Translation_Cues]]
 
 
 </div>
