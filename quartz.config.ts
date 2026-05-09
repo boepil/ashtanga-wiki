@@ -23,21 +23,21 @@ const config: QuartzConfig = {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "Schibsted Grotesk",
-        body: "Source Sans Pro",
+        header: "Georgia",
+        body: "Inter",
         code: "IBM Plex Mono",
       },
       colors: {
         lightMode: {
-          light: "#faf8f8",
-          lightgray: "#e5e5e5",
-          gray: "#b8b8b8",
-          darkgray: "#4e4e4e",
-          dark: "#2b2b2b",
-          secondary: "#284b63",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
-          textHighlight: "#fff23688",
+          light: "#FAFAF9", // neutral
+          lightgray: "#F5F5F4", // surface
+          gray: "#D6D3D1", // subtle border
+          darkgray: "#57534E", // secondary (body text)
+          dark: "#1C1917", // primary (headings)
+          secondary: "#B45309", // tertiary (links, amber)
+          tertiary: "#92400E", // sanskrit color for accents
+          highlight: "rgba(180, 83, 9, 0.15)", // amber highlight
+          textHighlight: "#FFFBEB", // controversy flag yellow
         },
         darkMode: {
           light: "#161618",

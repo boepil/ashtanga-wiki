@@ -1,3 +1,123 @@
 @use "./base.scss";
 
-// put your custom CSS here!
+// Ashtanga Wiki Custom Styles from DESIGN.md
+
+:root {
+  --primary: #1C1917;
+  --secondary: #57534E;
+  --tertiary: #B45309;
+  --neutral: #FAFAF9;
+  --surface: #F5F5F4;
+  --danger: #B91C1C;
+  --success: #15803D;
+  --info: #1D4ED8;
+  --sanskrit: #92400E;
+}
+
+body {
+  line-height: 1.75;
+}
+
+/* Page Type Identifiers */
+.is-bridge {
+  border-left: 4px solid var(--tertiary);
+  padding-left: 16px;
+}
+
+.is-compensation {
+  border-left: 4px solid var(--danger);
+  padding-left: 16px;
+}
+
+.is-rehabilitation {
+  border-left: 4px solid var(--success);
+  padding-left: 16px;
+}
+
+.is-asana {
+  border-left: none;
+}
+
+/* Typography and Components */
+.sanskrit {
+  font-family: Georgia, serif;
+  color: var(--sanskrit);
+  font-style: italic;
+  font-size: 1em;
+}
+
+.citation-block {
+  background-color: var(--surface);
+  color: var(--secondary);
+  border-left: 2px solid var(--secondary);
+  border-radius: 4px;
+  padding: 8px 16px;
+  font-size: 0.8rem;
+  line-height: 1.5;
+  display: block;
+  margin-top: 4px;
+  margin-bottom: 16px;
+}
+
+.controversy-flag {
+  background-color: #FFFBEB;
+  color: var(--primary);
+  border-radius: 4px;
+  padding: 16px;
+  margin: 16px 0;
+  
+  strong {
+    display: block;
+    margin-bottom: 8px;
+  }
+}
+
+.warning-block {
+  background-color: #FEF2F2;
+  color: var(--danger);
+  border-radius: 4px;
+  padding: 16px;
+  margin: 16px 0;
+}
+
+.asana-tag {
+  background-color: var(--tertiary);
+  color: var(--neutral);
+  border-radius: 9999px;
+  padding: 4px 12px;
+  font-size: 0.875rem;
+  font-weight: 600;
+  display: inline-block;
+  margin-right: 8px;
+  margin-bottom: 8px;
+}
+
+.phase-header-a {
+  background-color: var(--danger);
+  color: var(--neutral);
+  border-radius: 4px;
+  padding: 8px 16px;
+}
+
+.phase-header-b {
+  background-color: var(--tertiary);
+  color: var(--neutral);
+  border-radius: 4px;
+  padding: 8px 16px;
+}
+
+.phase-header-c {
+  background-color: var(--success);
+  color: var(--neutral);
+  border-radius: 4px;
+  padding: 8px 16px;
+}
+
+/* Quartz Content Overrides */
+article {
+  max-width: 800px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  letter-spacing: -0.01em;
+}
