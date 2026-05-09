@@ -9,6 +9,9 @@ sources:
   - "Yoga and Human Anatomy [via NotebookLM]"
 updated: 2026-05-02
 ---
+<div class="page-wrapper is-asana">
+
+
 
 # Nervous system dysregulation — asana modifications
 
@@ -60,3 +63,6 @@ The system is regulated when the practitioner can move through the full Primary 
 - (Forward Folds and Parasympathetic Shift, p. 4049) — Yoga and Human Anatomy
 - (Vagal Tone and Breath, p. 4077) — Yoga and Human Anatomy
 - (Ashtanga Application of PNS, p. 4072) — Yoga and Human Anatomy
+
+
+</div>

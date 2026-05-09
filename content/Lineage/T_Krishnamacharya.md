@@ -4,6 +4,9 @@ tags: [krishnamacharya, history, vinyasa]
 sources: []
 updated: 2026-04-29
 ---
+<div class="page-wrapper is-asana">
+
+
 
 # T. Krishnamacharya
 
@@ -44,3 +47,6 @@ Historically, he was known as a demanding figure. "Krishnamacharya's manner was 
 - Mark Stephens, *Teaching Yoga: Essential Foundations and Techniques* [via NotebookLM - Yoga Philosophy and Origins]
 - Srivatsa Ramaswami, *My Studies With Śrī Krishnamacharya* [via NotebookLM - Yoga Philosophy and Origins]
 - Stuart Ray Sarbacker, *Tracing the Path of Yoga* [via NotebookLM - Yoga Philosophy and Origins]
+
+
+</div>

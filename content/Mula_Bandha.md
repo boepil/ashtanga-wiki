@@ -1,3 +1,5 @@
+<div class="page-wrapper is-asana">
+
 # Mula Bandha (Root Lock)
 
 *Mula* is Sanskrit for "root," "source," or "foundation." Mula Bandha is the foundational seal of the body, located at the floor of the pelvis. It acts as the "bottom lid" of the abdominal cylinder.
@@ -29,3 +31,6 @@ Mula Bandha is a spiritual anchor and a catalyst for the movement of subtle ener
 - **Reversing the Flow:** It redirects *Apana Vayu* (the naturally downward-moving energy of elimination) and forces it to move upward to meet *Prana Vayu* at the navel.
 - **Internal Heat (*Agni*):** This union at the navel generates intense internal heat, essential for purification.
 - **Awakening Kundalini:** The fire produced by this union awakens the dormant Kundalini energy. As Kundalini ascends, she pierces the *Brahma Granthi* (the "root knot" blocking energy flow at the spine's base), allowing vital air to travel toward the crown.
+
+
+</div>

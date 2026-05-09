@@ -4,6 +4,9 @@ tags: [asana, advanced-series, sthira-bhaga]
 sources: [raw/01_ASANA/3. Advanced_Series_(Sthira_Bhaga)/*]
 updated: 2026-04-29
 ---
+<div class="page-wrapper is-asana">
+
+
 
 # Advanced Series (Sthira Bhaga)
 
@@ -34,3 +37,6 @@ The physical demands of Sthira Bhaga are so intense that it forces the practitio
 ## Sources
 - `raw/01_ASANA/3. Advanced_Series_(Sthira_Bhaga)/3. Advanced_Series_(Sthira_Bhaga).md`
 - `raw/01_ASANA/3. Advanced_Series_(Sthira_Bhaga)/Adho Mukha Vrksasana.md`
+
+
+</div>

@@ -13,6 +13,9 @@ sources:
   - "ASHTANGA_YOGA_KNOWLEDGE_BASE.pdf, Unknown"
 updated: 2026-05-02
 ---
+<div class="page-wrapper is-asana">
+
+
 
 # Salamba Sarvangasana (Supported Shoulderstand)
 
@@ -34,11 +37,11 @@ updated: 2026-05-02
 
 ## Drishti
 Toes (or navel)
-*(raw PDF)*
+<div class="citation-block">(raw PDF) </div>
 
 ## Movement
 Lift the legs up directly over the head, support the back with your hands, elbows close to the trunk. The goal is to stack the hips directly over the shoulders.
-*(raw PDF)*
+<div class="citation-block">(raw PDF) </div>
 
 ## Anatomical Focus
 **Primary Muscles Engaged:**
@@ -58,19 +61,19 @@ Lift the legs up directly over the head, support the back with your hands, elbow
 
 ## Common Mistakes & Injury Flags
 **Anatomical Risks:**
-- **Neck (C7) Overloading:** "Weight must rest on the shoulders and upper arms, not the neck. Overloading the C7 vertebra can lead to disc compression." *(raw PDF)*
-- **Hyperflexion of the Cervical Spine:** "Turning the head side-to-side in this pose can cause acute ligament or joint injury." *(raw PDF)*
+- **Neck (C7) Overloading:** "Weight must rest on the shoulders and upper arms, not the neck. Overloading the C7 vertebra can lead to disc compression." <div class="citation-block">(raw PDF) </div>
+- **Hyperflexion of the Cervical Spine:** "Turning the head side-to-side in this pose can cause acute ligament or joint injury." <div class="citation-block">(raw PDF) </div>
 
 **Injury Prevention Cues:**
-- "Use folded blankets under the shoulders to preserve the natural curve of the cervical spine." *(raw PDF)*
-- "Walk hands down the back (towards shoulder blades) to lift the chest and move the weight off the neck." *(raw PDF)*
+- "Use folded blankets under the shoulders to preserve the natural curve of the cervical spine." <div class="citation-block">(raw PDF) </div>
+- "Walk hands down the back (towards shoulder blades) to lift the chest and move the weight off the neck." <div class="citation-block">(raw PDF) </div>
 
 ## Teaching Notes
 "The 'firm chinlock' increases the blood supply to the thyroid and parathyroid glands situated in the neck." 
 *(Light on Yoga, B.K.S. Iyengar, p. 213) — Yoga Philosophy and Origins*
 
 "Known as the 'Queen of Asanas' for its calming effect on the nervous system." 
-*(raw PDF)*
+<div class="citation-block">(raw PDF) </div>
 
 ## Connections
 - [[Halasana]]
@@ -85,3 +88,6 @@ Lift the legs up directly over the head, support the back with your hands, elbow
 - (Ashtanga Yoga Anusthana, Sharath Jois, p. 77) — Yoga Philosophy and Origins
 - (Yoga Makaranda, T. Krishnamacharya, p. 1362) — Yoga Philosophy and Origins
 - (ASHTANGA_YOGA_KNOWLEDGE_BASE.pdf, Unknown) — Yoga and Human Anatomy
+
+
+</div>

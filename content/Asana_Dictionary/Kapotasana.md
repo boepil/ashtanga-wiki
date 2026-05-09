@@ -12,6 +12,9 @@ sources:
   - "ASHTANGA_YOGA_KNOWLEDGE_BASE.pdf, Unknown"
 updated: 2026-05-02
 ---
+<div class="page-wrapper is-asana">
+
+
 
 # Kapotasana (Pigeon Pose)
 
@@ -33,11 +36,11 @@ updated: 2026-05-02
 
 ## Drishti
 Nose (nasagre)
-*(raw PDF)*
+<div class="citation-block">(raw PDF) </div>
 
 ## Movement
 Kneeling, deep backbend, holding heels or toes, elbows on floor.
-*(raw PDF)*
+<div class="citation-block">(raw PDF) </div>
 
 ## Anatomical Focus
 **Primary Muscles Engaged:**
@@ -58,8 +61,8 @@ Kneeling, deep backbend, holding heels or toes, elbows on floor.
 - **Shoulder Girdle Tension:** "Forcing the elbows to the floor without sufficient thoracic mobility can strain the rotator cuff." *(ASHTANGA_YOGA_KNOWLEDGE_BASE.pdf, Unknown, p. 228) — Yoga and Human Anatomy*
 
 **Injury Prevention Cues:**
-- "Focus on moving the hips forward and the chest up before reaching for the feet." *(raw PDF)*
-- "Rule: If you cannot breathe freely, you have gone too deep. Back off until the breath is steady." *(raw PDF)*
+- "Focus on moving the hips forward and the chest up before reaching for the feet." <div class="citation-block">(raw PDF) </div>
+- "Rule: If you cannot breathe freely, you have gone too deep. Back off until the breath is steady." <div class="citation-block">(raw PDF) </div>
 
 ## Teaching Notes
 "Kapotasana is the 'peak' backbend of the Intermediate Series. It requires a combination of quad strength, hip flexibility, and deep core control." 
@@ -76,3 +79,6 @@ Kneeling, deep backbend, holding heels or toes, elbows on floor.
 - (Ashtanga Yoga Anusthana, Sharath Jois, p. 57) — Yoga Philosophy and Origins
 - (Teaching Yoga Essential Foundations and Techniques, Mark Stephens, p. 801) — Yoga Philosophy and Origins
 - (ASHTANGA_YOGA_KNOWLEDGE_BASE.pdf, Unknown) — Yoga and Human Anatomy
+
+
+</div>

@@ -12,6 +12,9 @@ sources:
   - "ASHTANGA_YOGA_KNOWLEDGE_BASE.pdf, Unknown"
 updated: 2026-05-02
 ---
+<div class="page-wrapper is-asana">
+
+
 
 # Supta Vajrasana (Reclining Thunderbolt Pose)
 
@@ -33,11 +36,11 @@ updated: 2026-05-02
 
 ## Drishti
 Nose (nasagre)
-*(raw PDF)*
+<div class="citation-block">(raw PDF) </div>
 
 ## Movement
 Seated in Lotus, reclining back, arching the spine with the crown of the head on the floor, holding the big toes with crossed arms behind the back.
-*(raw PDF)*
+<div class="citation-block">(raw PDF) </div>
 
 ## Anatomical Focus
 **Primary Muscles Engaged:**
@@ -58,8 +61,8 @@ Seated in Lotus, reclining back, arching the spine with the crown of the head on
 - **Neck Compression:** "Putting too much weight on the head without enough lift from the chest can compress the cervical spine." *(ASHTANGA_YOGA_KNOWLEDGE_BASE.pdf, Unknown, p. 238) — Yoga and Human Anatomy*
 
 **Injury Prevention Cues:**
-- "If the knees feel any pain, do not perform the bind; instead, keep the hands on the floor for support." *(raw PDF)*
-- "Rule: The knees must stay grounded. If they lift, the arch is too deep for the current flexibility of the hips." *(raw PDF)*
+- "If the knees feel any pain, do not perform the bind; instead, keep the hands on the floor for support." <div class="citation-block">(raw PDF) </div>
+- "Rule: The knees must stay grounded. If they lift, the arch is too deep for the current flexibility of the hips." <div class="citation-block">(raw PDF) </div>
 
 ## Teaching Notes
 "This asana is a powerful counter-pose to the intense forward folds. It opens the chest and stretches the pelvic region deeply." 
@@ -76,3 +79,6 @@ Seated in Lotus, reclining back, arching the spine with the crown of the head on
 - (Ashtanga Yoga Anusthana, Sharath Jois, p. 58) — Yoga Philosophy and Origins
 - (Teaching Yoga Essential Foundations and Techniques, Mark Stephens, p. 802) — Yoga Philosophy and Origins
 - (ASHTANGA_YOGA_KNOWLEDGE_BASE.pdf, Unknown) — Yoga and Human Anatomy
+
+
+</div>

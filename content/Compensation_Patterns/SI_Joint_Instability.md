@@ -7,6 +7,9 @@ sources:
   - "Yoga and Human Anatomy [via NotebookLM]"
 updated: 2026-05-02
 ---
+<div class="page-wrapper is-compensation">
+
+
 
 # SI Joint Instability in Asymmetric Poses
 
@@ -51,3 +54,6 @@ Practitioners often try to "square the hips" in poses where the hips should natu
 - (Gluteus Medius Role, p. 644) — Yoga and Human Anatomy
 - (Pelvic Neutrality, p. 492) — Yoga and Human Anatomy
 - (Anatomy of the Twist, p. 624) — Yoga and Human Anatomy
+
+
+</div>

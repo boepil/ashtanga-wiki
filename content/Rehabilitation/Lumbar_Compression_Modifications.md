@@ -10,6 +10,9 @@ sources:
   - (Starrett, Becoming a Supple Leopard, p. 55)
 updated: 2026-05-02
 ---
+<div class="page-wrapper is-asana">
+
+
 
 # Lumbar Compression — asana modifications
 
@@ -40,3 +43,6 @@ Lumbar compression occurs when the lower back is forced to "hinge" at a single s
 - [[Joint_Stability#Thoracic_Mobility]]
 - [[Mula_Bandha]]
 - [[Surya_Namaskar]]
+
+
+</div>

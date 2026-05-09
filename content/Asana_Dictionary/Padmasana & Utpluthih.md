@@ -12,6 +12,9 @@ sources:
   - "ASHTANGA_YOGA_KNOWLEDGE_BASE.pdf, Unknown"
 updated: 2026-05-02
 ---
+<div class="page-wrapper is-asana">
+
+
 
 # Padmasana & Utpluthih
 
@@ -39,12 +42,12 @@ updated: 2026-05-02
 
 ## Drishti
 Tip of the nose
-*(raw PDF)*
+<div class="citation-block">(raw PDF) </div>
 
 ## Movement
 - **Padmasana:** Rest the hands on the knees in Chin Mudra (or Jñāna Mudra), shoulders away from the ears, spine straight.
 - **Utpluthih:** Palms on the floor, lift the entire body off the floor using core and arm strength. Maintain the lift for as long as possible.
-*(raw PDF)*
+<div class="citation-block">(raw PDF) </div>
 
 ## Anatomical Focus
 **Primary Muscles Engaged:**
@@ -68,8 +71,8 @@ Tip of the nose
 - **Wrist Compression:** "In Utpluthih, weight must be distributed across the entire palm and fingers to avoid compressing the carpal tunnel." *(ASHTANGA_YOGA_KNOWLEDGE_BASE.pdf, Unknown, p. 152) — Yoga and Human Anatomy*
 
 **Injury Prevention Cues:**
-- "Use easier variations like Sukhasana (Easy Pose) or Ardha Padmasana (Half Lotus) if full lotus causes any knee discomfort." *(raw PDF)*
-- "Rule: Focus on the upward lift from the core rather than just pushing with the arms in Utpluthih." *(raw PDF)*
+- "Use easier variations like Sukhasana (Easy Pose) or Ardha Padmasana (Half Lotus) if full lotus causes any knee discomfort." <div class="citation-block">(raw PDF) </div>
+- "Rule: Focus on the upward lift from the core rather than just pushing with the arms in Utpluthih." <div class="citation-block">(raw PDF) </div>
 
 ## Teaching Notes
 "Padmasana is said to cure all diseases and prepare the mind for Samadhi." 
@@ -86,3 +89,6 @@ Tip of the nose
 - (Ashtanga Yoga Anusthana, Sharath Jois, p. 52-53) — Yoga Philosophy and Origins
 - (Teaching Yoga Essential Foundations and Techniques, Mark Stephens, p. 792) — Yoga Philosophy and Origins
 - (ASHTANGA_YOGA_KNOWLEDGE_BASE.pdf, Unknown) — Yoga and Human Anatomy
+
+
+</div>

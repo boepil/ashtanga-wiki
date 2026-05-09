@@ -7,6 +7,9 @@ sources:
   - "Yoga and Human Anatomy [via NotebookLM]"
 updated: 2026-05-02
 ---
+<div class="page-wrapper is-compensation">
+
+
 
 # Hamstring Overstretching vs. Posterior Chain Weakness
 
@@ -51,3 +54,6 @@ Practitioners often think that "more stretching" is the cure for tight or painfu
 - (Hanging on Ligaments, p. 223) — Yoga and Human Anatomy
 - (Reciprocal Innervation, p. 516) — Yoga and Human Anatomy
 - (Asana and Stability, p. 541) — Yoga and Human Anatomy
+
+
+</div>

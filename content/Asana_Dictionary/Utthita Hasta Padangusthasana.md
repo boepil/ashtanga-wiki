@@ -14,6 +14,9 @@ sources:
   - "ASHTANGA_YOGA_KNOWLEDGE_BASE.pdf, Unknown"
 updated: 2026-04-30
 ---
+<div class="page-wrapper is-asana">
+
+
 
 # Utthita Hasta Padangusthasana (Extended Hand to Big Toe Pose)
 
@@ -43,14 +46,14 @@ updated: 2026-04-30
 
 ## Drishti
 tip of the nose (for A), to the left (for B), tip of the nose (for C)
-*(raw PDF)*
+<div class="citation-block">(raw PDF) </div>
 
 ## Movement
 A: right leg up, hold the big toe, left hand on the hip, bring the leg towards the face and the face towards the knee
 B: right leg up, hold the big toe, left hand on the hip, bring the leg out to the right
 C: right leg up, hands on hips, hold the leg extended straight, foot pointed.
 Repeat on the left side.
-*(raw PDF)*
+<div class="citation-block">(raw PDF) </div>
 
 ## Anatomical Focus
 **Primary Muscles Engaged:**
@@ -100,3 +103,6 @@ Repeat on the left side.
 - (Yoga Mat Companion 1, Ray Long) — Yoga and Human Anatomy
 - (The Physiology of Yoga, Andrew McGonigle and Matthew Huy) — Yoga and Human Anatomy
 - (ASHTANGA_YOGA_KNOWLEDGE_BASE.pdf, Unknown) — Yoga and Human Anatomy
+
+
+</div>

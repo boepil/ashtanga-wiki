@@ -4,6 +4,9 @@ tags: [anatomy, muscular-system, core, psoas, gluteals]
 sources: [raw/06_ANATOMY/01_Foundational_Systems/02_Muscular/*]
 updated: 2026-04-29
 ---
+<div class="page-wrapper is-bridge">
+
+
 
 # The Muscular System and Core Stability
 
@@ -51,3 +54,6 @@ Composed of the Psoas Major and Iliacus, it is the strongest hip flexor and a cr
 - `raw/06_ANATOMY/01_Foundational_Systems/02_Muscular/Iliopsoas (The Flying Buttress).md`
 - `raw/06_ANATOMY/01_Foundational_Systems/02_Muscular/Major_Muscle_Groups/Core_Stabilizers/שרירי הליבה ‏(core ‏).md`
 - `raw/06_ANATOMY/01_Foundational_Systems/02_Muscular/Major_Muscle_Groups/Major_Muscle_Groups.md`
+
+
+</div>

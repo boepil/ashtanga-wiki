@@ -10,9 +10,13 @@ sources:
   - (Myers, Anatomy Trains, p. 288-504)
 updated: 2026-05-02
 ---
+<div class="page-wrapper is-rehabilitation">
+
+
 
 # Chaturanga Collapse — rehabilitation protocol
 
+![[ChatGPT Image May 9, 2026, 01_27_23 PM.png]]
 ## Overview
 This protocol addresses the structural failure in Chaturanga Dandasana, characterized by winging scapulae, rounded shoulders, and a sagging midsection. Grounded in the "Spiral Line" force transmission, it focuses on the myofascial continuity between the serratus anterior and the external obliques (Myers, Anatomy Trains, p. 289). Failure occurs when the Pectoralis Minor is "locked-short," pulling the scapula into an anterior tilt (Myers, p. 322), and the core fails to maintain Intra-Abdominal Pressure (IAP), resulting in an "arch fault" (Starrett, Becoming a Supple Leopard, p. 40).
 
@@ -103,3 +107,6 @@ Criteria for advancing:
 - (Hogan, Scott, Built From Broken, p. 190-364) — Yoga Rehab Library
 - (Starrett, Kelly, Becoming a Supple Leopard, p. 40-276) — Yoga Rehab Library
 - (Myers, Thomas, Anatomy Trains 4th Edition, p. 288-504) — Yoga Rehab Library
+
+
+</div>

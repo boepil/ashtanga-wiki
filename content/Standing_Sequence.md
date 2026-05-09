@@ -4,6 +4,9 @@ tags: [asana, standing-sequence, primary-series]
 sources: [raw/01_ASANA/1. Primary_Series_(Sanskrit Name-English Meaning)/Standing_Sequence/*]
 updated: 2026-04-29
 ---
+<div class="page-wrapper is-asana">
+
+
 
 # Standing Sequence
 
@@ -38,3 +41,6 @@ This sequence establishes the core alignment principles that will be heavily rel
 ## Sources
 - `raw/01_ASANA/1. Primary_Series_(Sanskrit Name-English Meaning)/1. Primary_Series_(Sanskrit Name-English Meaning).md`
 - `raw/01_ASANA/1. Primary_Series_(Sanskrit Name-English Meaning)/Primary Series, Yoga Chikitsa.md`
+
+
+</div>

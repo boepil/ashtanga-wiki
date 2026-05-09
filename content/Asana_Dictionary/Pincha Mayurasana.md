@@ -12,6 +12,9 @@ sources:
   - "ASHTANGA_YOGA_KNOWLEDGE_BASE.pdf, Unknown"
 updated: 2026-05-02
 ---
+<div class="page-wrapper is-asana">
+
+
 
 # Pincha Mayurasana (Feathered Peacock Pose)
 
@@ -33,11 +36,11 @@ updated: 2026-05-02
 
 ## Drishti
 Nose (nasagre) - or between the thumbs.
-*(raw PDF)*
+<div class="citation-block">(raw PDF) </div>
 
 ## Movement
 Forearm balance, body vertical, legs together and straight.
-*(raw PDF)*
+<div class="citation-block">(raw PDF) </div>
 
 ## Anatomical Focus
 **Primary Muscles Engaged:**
@@ -58,8 +61,8 @@ Forearm balance, body vertical, legs together and straight.
 - **Lumbar Hyperextension:** "If the core is weak, the weight falls into the lower back, creating an unstable arch." *(ASHTANGA_YOGA_KNOWLEDGE_BASE.pdf, Unknown, p. 308) — Yoga and Human Anatomy*
 
 **Injury Prevention Cues:**
-- "Press the forearms firmly into the floor to 'lift' out of the shoulders." *(raw PDF)*
-- "Rule: Keep the gaze forward to help maintain the balance, but don't crunch the neck." *(raw PDF)*
+- "Press the forearms firmly into the floor to 'lift' out of the shoulders." <div class="citation-block">(raw PDF) </div>
+- "Rule: Keep the gaze forward to help maintain the balance, but don't crunch the neck." <div class="citation-block">(raw PDF) </div>
 
 ## Teaching Notes
 "This inversion is harder than Sirsasana because the base (forearms) is narrower and requires more shoulder mobility." 
@@ -76,3 +79,6 @@ Forearm balance, body vertical, legs together and straight.
 - (Ashtanga Yoga Anusthana, Sharath Jois, p. 61) — Yoga Philosophy and Origins
 - (Teaching Yoga Essential Foundations and Techniques, Mark Stephens, p. 809) — Yoga Philosophy and Origins
 - (ASHTANGA_YOGA_KNOWLEDGE_BASE.pdf, Unknown) — Yoga and Human Anatomy
+
+
+</div>

@@ -3,6 +3,9 @@ title: "Yoga Sutras of Patanjali"
 tags: [texts, classical-yoga, philosophy]
 aliases: [Yoga Sutras, Patanjali]
 ---
+<div class="page-wrapper is-asana">
+
+
 
 # Yoga Sutras of Patanjali
 
@@ -19,3 +22,6 @@ The text is divided into four chapters (Padas):
 ## Historical Context and Relevance
 
 While modern yoga often looks to the Sutras for validation of postural practice, historical scholarship indicates that Patañjali’s system was primarily a meditative and contemplative one. The text's only mention of physical posture ([[Asana]]) describes a steady and comfortable seated position for meditation. However, its psychological insights into the nature of suffering and the methodology for stilling the mind remain the philosophical bedrock for the Ashtanga Vinyasa system and modern yoga as a whole.
+
+
+</div>

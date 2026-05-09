@@ -12,6 +12,9 @@ sources:
   - "ASHTANGA_YOGA_KNOWLEDGE_BASE.pdf, Unknown"
 updated: 2026-05-02
 ---
+<div class="page-wrapper is-asana">
+
+
 
 # Gomukhasana (Cow Face Pose)
 
@@ -24,11 +27,11 @@ updated: 2026-05-02
 ## Variations
 ### Gomukhasana A
 Seated with knees stacked, holding hands behind the back.
-*(raw PDF)*
+<div class="citation-block">(raw PDF) </div>
 
 ### Gomukhasana B
 Forward fold in the seated position while maintaining the arm bind.
-*(raw PDF)*
+<div class="citation-block">(raw PDF) </div>
 
 ## Vinyasa Count & Entry
 "Gomukhasana has five vinyasas. The 3rd is the state of the asana." 
@@ -42,11 +45,11 @@ Forward fold in the seated position while maintaining the arm bind.
 
 ## Drishti
 Nose (nasagre)
-*(raw PDF)*
+<div class="citation-block">(raw PDF) </div>
 
 ## Movement
 Seated, knees stacked, arms bound behind back (one from above, one from below).
-*(raw PDF)*
+<div class="citation-block">(raw PDF) </div>
 
 ## Anatomical Focus
 **Primary Muscles Engaged:**
@@ -67,8 +70,8 @@ Seated, knees stacked, arms bound behind back (one from above, one from below).
 - **Knee Torque:** "If the hips are tight, stacking the knees can put lateral pressure on the joint." *(ASHTANGA_YOGA_KNOWLEDGE_BASE.pdf, Unknown, p. 368) — Yoga and Human Anatomy*
 
 **Injury Prevention Cues:**
-- "Use a strap if the hands do not touch; never force the bind." *(raw PDF)*
-- "Rule: Keep both sit-bones evenly grounded on the floor." *(raw PDF)*
+- "Use a strap if the hands do not touch; never force the bind." <div class="citation-block">(raw PDF) </div>
+- "Rule: Keep both sit-bones evenly grounded on the floor." <div class="citation-block">(raw PDF) </div>
 
 ## Teaching Notes
 "This asana is excellent for improving shoulder mobility and relieving tension in the hips. It is the final 'cool down' of the Intermediate core sequence before moving into the finishing sequence." 
@@ -85,3 +88,6 @@ Seated, knees stacked, arms bound behind back (one from above, one from below).
 - (Ashtanga Yoga Anusthana, Sharath Jois, p. 63) — Yoga Philosophy and Origins
 - (Teaching Yoga Essential Foundations and Techniques, Mark Stephens, p. 815) — Yoga Philosophy and Origins
 - (ASHTANGA_YOGA_KNOWLEDGE_BASE.pdf, Unknown) — Yoga and Human Anatomy
+
+
+</div>

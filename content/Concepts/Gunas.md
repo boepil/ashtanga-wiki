@@ -3,6 +3,9 @@ title: "The Three Gunas"
 tags: [philosophy, samkhya]
 aliases: [Gunas, Sattva, Rajas, Tamas]
 ---
+<div class="page-wrapper is-asana">
+
+
 
 # The Three Gunas
 
@@ -17,3 +20,6 @@ In Samkhya philosophy and the [[Yoga_Sutras]], the **Gunas** are the three funda
 ## Integration in Practice
 
 The goal of yoga practice is not initially to destroy the gunas, but to cultivate a *Sattvic* state by reducing Rajas and Tamas. Through ethical living ([[Yamas]] and [[Niyamas]]), physical purification ([[Asana]]), and breath regulation ([[Pranayama]]), the practitioner refines the mind and body. Once Sattva becomes the dominant force, the mind becomes clear enough to reflect the true Self (Purusha), eventually allowing the yogi to transcend the gunas entirely in the state of [[Samadhi]].
+
+
+</div>

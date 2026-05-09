@@ -12,6 +12,9 @@ sources:
   - "ASHTANGA_YOGA_KNOWLEDGE_BASE.pdf, Unknown"
 updated: 2026-05-02
 ---
+<div class="page-wrapper is-asana">
+
+
 
 # Baddha Padmasana & Yoga Mudra
 
@@ -36,11 +39,11 @@ updated: 2026-05-02
 
 ## Drishti
 Third eye
-*(raw PDF)*
+<div class="citation-block">(raw PDF) </div>
 
 ## Movement
 Legs in Padmasana, wrap the arms crossed behind the back to grab the big toes with the opposite hand. For **Yoga Mudra**, exhale and forward fold until the forehead or chin touches the floor.
-*(raw PDF)*
+<div class="citation-block">(raw PDF) </div>
 
 ## Anatomical Focus
 **Primary Muscles Engaged:**
@@ -64,8 +67,8 @@ Legs in Padmasana, wrap the arms crossed behind the back to grab the big toes wi
 - **Shoulder Impingement:** "Aggressive binding without proper shoulder mobility can lead to impingement of the rotator cuff." *(ASHTANGA_YOGA_KNOWLEDGE_BASE.pdf, Unknown, p. 142) — Yoga and Human Anatomy*
 
 **Injury Prevention Cues:**
-- "If the bind is not accessible, simply hold the opposite elbows behind the back while in Padmasana." *(raw PDF)*
-- "Rule: Never pull on the feet to force the bind; allow the hips to open naturally over time." *(raw PDF)*
+- "If the bind is not accessible, simply hold the opposite elbows behind the back while in Padmasana." <div class="citation-block">(raw PDF) </div>
+- "Rule: Never pull on the feet to force the bind; allow the hips to open naturally over time." <div class="citation-block">(raw PDF) </div>
 
 ## Teaching Notes
 "This posture is considered the 'Seal' of the practice, locking in the energy (Prana) generated during the session." 
@@ -82,3 +85,6 @@ Legs in Padmasana, wrap the arms crossed behind the back to grab the big toes wi
 - (Ashtanga Yoga Anusthana, Sharath Jois, p. 52) — Yoga Philosophy and Origins
 - (Teaching Yoga Essential Foundations and Techniques, Mark Stephens, p. 791) — Yoga Philosophy and Origins
 - (ASHTANGA_YOGA_KNOWLEDGE_BASE.pdf, Unknown) — Yoga and Human Anatomy
+
+
+</div>

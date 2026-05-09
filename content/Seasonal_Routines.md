@@ -1,3 +1,5 @@
+<div class="page-wrapper is-asana">
+
 # Seasonal Routines (Ritucharya)
 
 **Ritucharya** (seasonal routine) is the Ayurvedic practice of aligning one’s lifestyle, diet, and yoga discipline with the rhythms of nature. Because seasonal shifts directly impact the balance of the body's *Doshas*, the practice must adapt accordingly.
@@ -32,3 +34,6 @@ The season of wind and rapid change, often leading to mental restlessness, physi
 - **Moderation:** Strictly follow *Mitahara* (moderate diet).
 - **Gradual Shift:** Change practice intensity gradually (*shanaih shanaih*). Do not abruptly switch from a vigorous winter practice to a slow summer practice.
 - **Purity:** Maintain *Saucha* (cleanliness) and devotion to keep the mind steady through the environmental transition.
+
+
+</div>

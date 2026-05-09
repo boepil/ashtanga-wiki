@@ -3,6 +3,9 @@ title: "Om (Aum)"
 tags: [philosophy, mantra]
 aliases: [Om, Aum, Pranava]
 ---
+<div class="page-wrapper is-asana">
+
+
 
 # Om (Aum)
 
@@ -19,3 +22,6 @@ The syllable is composed of three distinct phonetic components (A, U, M) and a f
 ## Integration in Practice
 
 In the [[Yoga_Sutras]], Patañjali refers to Om as the designator of Ishvara (the supreme soul) and recommends its constant repetition and reflection on its meaning as a powerful means to achieve [[Dharana]] (concentration) and clear the mind of obstacles ([[Kleshas]]). Chanting Om at the beginning and end of a practice serves to center the mind, align the energy of the group, and connect the physical practice to its spiritual foundation.
+
+
+</div>

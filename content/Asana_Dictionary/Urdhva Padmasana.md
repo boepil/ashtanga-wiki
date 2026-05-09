@@ -12,6 +12,9 @@ sources:
   - "ASHTANGA_YOGA_KNOWLEDGE_BASE.pdf, Unknown"
 updated: 2026-05-02
 ---
+<div class="page-wrapper is-asana">
+
+
 
 # Urdhva Padmasana (Upward Lotus Pose)
 
@@ -33,11 +36,11 @@ updated: 2026-05-02
 
 ## Drishti
 Tip of the nose
-*(raw PDF)*
+<div class="citation-block">(raw PDF) </div>
 
 ## Movement
 From shoulderstand bring the legs into Padmasana, hands support the back, push the knees with the hands, straighten the arms & spine.
-*(raw PDF)*
+<div class="citation-block">(raw PDF) </div>
 
 ## Anatomical Focus
 **Primary Muscles Engaged:**
@@ -58,8 +61,8 @@ From shoulderstand bring the legs into Padmasana, hands support the back, push t
 - **Loss of Balance:** "Leaning too far back without core engagement can cause the student to roll out of the pose onto the neck." *(ASHTANGA_YOGA_KNOWLEDGE_BASE.pdf, Unknown, p. 112) — Yoga and Human Anatomy*
 
 **Injury Prevention Cues:**
-- "Ensure the weight is firmly on the shoulders before releasing the hands from the back to the knees." *(raw PDF)*
-- "Rule: If lotus is not accessible, maintain the shoulderstand or a simple cross-legged position to avoid knee injury." *(raw PDF)*
+- "Ensure the weight is firmly on the shoulders before releasing the hands from the back to the knees." <div class="citation-block">(raw PDF) </div>
+- "Rule: If lotus is not accessible, maintain the shoulderstand or a simple cross-legged position to avoid knee injury." <div class="citation-block">(raw PDF) </div>
 
 ## Teaching Notes
 "This asana improves balance and concentration while providing the benefits of an inversion coupled with hip opening." 
@@ -76,3 +79,6 @@ From shoulderstand bring the legs into Padmasana, hands support the back, push t
 - (Ashtanga Yoga Anusthana, Sharath Jois, p. 49) — Yoga Philosophy and Origins
 - (Teaching Yoga Essential Foundations and Techniques, Mark Stephens, p. 788) — Yoga Philosophy and Origins
 - (ASHTANGA_YOGA_KNOWLEDGE_BASE.pdf, Unknown) — Yoga and Human Anatomy
+
+
+</div>

@@ -12,6 +12,9 @@ sources:
   - "ASHTANGA_YOGA_KNOWLEDGE_BASE.pdf, Unknown"
 updated: 2026-05-02
 ---
+<div class="page-wrapper is-asana">
+
+
 
 # Ustrasana (Camel Pose)
 
@@ -30,11 +33,11 @@ updated: 2026-05-02
 
 ## Drishti
 Nose (nasagre)
-*(raw PDF)*
+<div class="citation-block">(raw PDF) </div>
 
 ## Movement
 Kneeling backbend, hands to heels.
-*(raw PDF)*
+<div class="citation-block">(raw PDF) </div>
 
 ## Anatomical Focus
 **Primary Muscles Engaged:**
@@ -55,8 +58,8 @@ Kneeling backbend, hands to heels.
 - **Lumbar Collapse:** "If the hips move behind the knees, the weight falls into the lower back rather than being distributed through the legs." *(ASHTANGA_YOGA_KNOWLEDGE_BASE.pdf, Unknown, p. 208) — Yoga and Human Anatomy*
 
 **Injury Prevention Cues:**
-- "Keep the hips directly over the knees throughout the pose." *(raw PDF)*
-- "Rule: Lift the chest towards the ceiling to maximize thoracic extension before reaching for the heels." *(raw PDF)*
+- "Keep the hips directly over the knees throughout the pose." <div class="citation-block">(raw PDF) </div>
+- "Rule: Lift the chest towards the ceiling to maximize thoracic extension before reaching for the heels." <div class="citation-block">(raw PDF) </div>
 
 ## Teaching Notes
 "This asana is beneficial for people with drooping shoulders and a hunched back. The entire spine is stretched and toned." 
@@ -73,3 +76,6 @@ Kneeling backbend, hands to heels.
 - (Ashtanga Yoga Anusthana, Sharath Jois, p. 56) — Yoga Philosophy and Origins
 - (Teaching Yoga Essential Foundations and Techniques, Mark Stephens, p. 799) — Yoga Philosophy and Origins
 - (ASHTANGA_YOGA_KNOWLEDGE_BASE.pdf, Unknown) — Yoga and Human Anatomy
+
+
+</div>

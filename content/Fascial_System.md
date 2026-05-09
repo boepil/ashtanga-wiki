@@ -4,6 +4,9 @@ tags: [anatomy, fascia, connective-tissue, bandhas]
 sources: []
 updated: 2026-04-29
 ---
+<div class="page-wrapper is-bridge">
+
+
 
 # The Fascial System
 
@@ -42,3 +45,6 @@ This continuity extends all the way down to the feet. "The inner foot and inseam
 - Bernie Clark, *Your Body, Your Yoga* [via NotebookLM - Yoga and Human Anatomy]
 - Tias Little, *Yoga of the Subtle Body* [via NotebookLM - Yoga and Human Anatomy]
 - `raw/06_ANATOMY/נקודות אנטאטומיות מרכזיות ביוגה.md` [via NotebookLM - Yoga and Human Anatomy]
+
+
+</div>

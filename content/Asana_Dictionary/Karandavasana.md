@@ -12,6 +12,9 @@ sources:
   - "ASHTANGA_YOGA_KNOWLEDGE_BASE.pdf, Unknown"
 updated: 2026-05-02
 ---
+<div class="page-wrapper is-asana">
+
+
 
 # Karandavasana (Himalayan Duck Pose)
 
@@ -33,11 +36,11 @@ updated: 2026-05-02
 
 ## Drishti
 Nose (nasagre)
-*(raw PDF)*
+<div class="citation-block">(raw PDF) </div>
 
 ## Movement
 Forearm balance with Lotus legs, lowering the lotus to rest on the upper arms, then lifting back up.
-*(raw PDF)*
+<div class="citation-block">(raw PDF) </div>
 
 ## Anatomical Focus
 **Primary Muscles Engaged:**
@@ -58,8 +61,8 @@ Forearm balance with Lotus legs, lowering the lotus to rest on the upper arms, t
 - **Knee Torque:** "Maintaining Lotus while inverted and moving can stress the knee if the hips are not open." *(ASHTANGA_YOGA_KNOWLEDGE_BASE.pdf, Unknown, p. 318) — Yoga and Human Anatomy*
 
 **Injury Prevention Cues:**
-- "Keep the elbows narrow; if they spread, the stability of the pose is lost." *(raw PDF)*
-- "Rule: Focus on the 'suction' of the belly to lift the legs, rather than just pushing with the arms." *(raw PDF)*
+- "Keep the elbows narrow; if they spread, the stability of the pose is lost." <div class="citation-block">(raw PDF) </div>
+- "Rule: Focus on the 'suction' of the belly to lift the legs, rather than just pushing with the arms." <div class="citation-block">(raw PDF) </div>
 
 ## Teaching Notes
 "Karandavasana is one of the most physically demanding poses in the Second Series, requiring advanced strength, balance, and hip mobility." 
@@ -75,3 +78,6 @@ Forearm balance with Lotus legs, lowering the lotus to rest on the upper arms, t
 - (Ashtanga Yoga Anusthana, Sharath Jois, p. 62) — Yoga Philosophy and Origins
 - (Teaching Yoga Essential Foundations and Techniques, Mark Stephens, p. 810) — Yoga Philosophy and Origins
 - (ASHTANGA_YOGA_KNOWLEDGE_BASE.pdf, Unknown) — Yoga and Human Anatomy
+
+
+</div>

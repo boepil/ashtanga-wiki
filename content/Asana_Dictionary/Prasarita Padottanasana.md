@@ -19,6 +19,9 @@ sources:
   - "ASHTANGA_YOGA_KNOWLEDGE_BASE.pdf, Unknown"
 updated: 2026-04-30
 ---
+<div class="page-wrapper is-asana">
+
+
 
 # Prasarita Padottanasana (Spread Foot Stretching Pose)
 
@@ -43,7 +46,7 @@ updated: 2026-04-30
 
 ## Drishti
 Tip of the nose
-*(raw PDF)*
+<div class="citation-block">(raw PDF) </div>
 
 "nāsāgre dṛṣṭi tip of the nose." 
 *(Ashtanga Yoga Anusthana, Sharath Jois, p. 40-41) — Yoga Philosophy and Origins*
@@ -53,7 +56,7 @@ A: feet parallel 4ft apart, fold forward from the hips with exhalation, both han
 B: feet parallel 4ft apart, keep hands on the hips, fold forward from the hips with exhalation, head towards the floor.
 C: feet parallel 4ft apart, interlace fingers behind the back, chest open, fold forward, interlaced hands towards the floor over the head.
 D: feet parallel 4ft apart, hands to the big toes, fold forward with exhalation, head towards the floor.
-*(raw PDF)*
+<div class="citation-block">(raw PDF) </div>
 
 ## Anatomical Focus
 **Primary Muscles Engaged:**
@@ -104,3 +107,6 @@ D: feet parallel 4ft apart, hands to the big toes, fold forward with exhalation,
 - (Science of Yoga, Ann Swanson, p. 92, 113) — Yoga and Human Anatomy
 - (Identifying Postural Imbalances, Vayu Jung Doohwa, p. 39) — Yoga and Human Anatomy
 - (ASHTANGA_YOGA_KNOWLEDGE_BASE.pdf, Unknown, p. 28) — Yoga and Human Anatomy
+
+
+</div>

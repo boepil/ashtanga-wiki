@@ -12,6 +12,9 @@ sources:
   - "ASHTANGA_YOGA_KNOWLEDGE_BASE.pdf, Unknown"
 updated: 2026-05-02
 ---
+<div class="page-wrapper is-asana">
+
+
 
 # Bhujapidasana (Arm Pressure Pose)
 
@@ -34,12 +37,12 @@ updated: 2026-05-02
 
 ## Drishti
 Tip of the nose
-*(raw PDF)*
+<div class="citation-block">(raw PDF) </div>
 
 ## Movement
 **Variation A:** Jump over upper arm from downward dog, wrap legs around arm, fingers engaged & spread, straight arms.
 **Variation B:** From Variation A, exhale, bend elbows & lean forward to place chin on ground.
-*(raw PDF)*
+<div class="citation-block">(raw PDF) </div>
 
 ## Anatomical Focus
 **Primary Muscles Engaged:**
@@ -81,3 +84,6 @@ Tip of the nose
 - (Teaching Yoga Essential Foundations and Techniques, Mark Stephens, p. 890) — Yoga Philosophy and Origins
 - (Yoga Mala, K. Pattabhi Jois, p. 1572, 1573) — Yoga Philosophy and Origins
 - (ASHTANGA_YOGA_KNOWLEDGE_BASE.pdf, Unknown) — Yoga and Human Anatomy
+
+
+</div>

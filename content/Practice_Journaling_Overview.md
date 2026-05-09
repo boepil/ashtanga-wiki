@@ -1,3 +1,5 @@
+<div class="page-wrapper is-asana">
+
 # Practice Journaling Overview
 
 In the Ashtanga tradition, a personal practice journal is not merely a diary of workouts; it is an active tool for **Svādhyāya** (self-study). The journal transforms the yoga mat into a laboratory where the practitioner acts as both the performer of the action and the observer of the self.
@@ -22,3 +24,6 @@ Use the following specific templates to structure your daily Svādhyāya:
 - [[Adjustments_That_Worked]]: For recording physical and neurological breakthroughs provided by a teacher.
 - [[Inspiration_and_Insights]]: For linking textual wisdom with direct experience on the mat.
 - [[Self_Inquiry_Journal]]: For deep philosophical investigation (*Atma-Vicara*) and identifying the *Vrittis* (mental fluctuations).
+
+
+</div>

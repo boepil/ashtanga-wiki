@@ -12,6 +12,9 @@ sources:
   - "ASHTANGA_YOGA_KNOWLEDGE_BASE.pdf, Unknown"
 updated: 2026-05-02
 ---
+<div class="page-wrapper is-asana">
+
+
 
 # Garbha Pindasana (Embryo in the Womb Pose)
 
@@ -33,11 +36,11 @@ updated: 2026-05-02
 
 ## Drishti
 Tip of the nose
-*(raw PDF)*
+<div class="citation-block">(raw PDF) </div>
 
 ## Movement
 Legs in Padmasana, slide the hands between the calves and the thighs, bend the arms, place palms over cheeks. Rock and roll in a full circle on around 5-9 times (clockwise).
-*(raw PDF)*
+<div class="citation-block">(raw PDF) </div>
 
 ## Anatomical Focus
 **Primary Muscles Engaged:**
@@ -77,3 +80,6 @@ Legs in Padmasana, slide the hands between the calves and the thighs, bend the a
 - (Yoga Mala, K. Pattabhi Jois, p. 1569, 1536, 1570) — Yoga Philosophy and Origins
 - (Ashtanga Yoga Anusthana, Sharath Jois, p. 78) — Yoga Philosophy and Origins
 - (ASHTANGA_YOGA_KNOWLEDGE_BASE.pdf, Unknown) — Yoga and Human Anatomy
+
+
+</div>

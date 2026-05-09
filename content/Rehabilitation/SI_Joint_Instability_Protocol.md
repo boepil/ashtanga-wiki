@@ -11,6 +11,9 @@ sources:
   - (Starrett, Becoming a Supple Leopard, p. 40-299)
 updated: 2026-05-02
 ---
+<div class="page-wrapper is-rehabilitation">
+
+
 
 # SI Joint Instability — rehabilitation protocol
 
@@ -112,3 +115,6 @@ Criteria for progress:
 - (Kaminoff, Leslie, Yoga Anatomy 2nd Edition, p. 246-255) — Yoga Rehab Library
 - (Myers, Thomas, Anatomy Trains 4th Edition, p. 131-146) — Yoga Rehab Library
 - (Starrett, Kelly, Becoming a Supple Leopard, p. 40-299) — Yoga Rehab Library
+
+
+</div>

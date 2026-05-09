@@ -4,6 +4,9 @@ tags: [anatomy, cardiovascular, lymphatic, tapas, vinyasa]
 sources: []
 updated: 2026-04-29
 ---
+<div class="page-wrapper is-bridge">
+
+
 
 # Cardiovascular and Lymphatic Systems
 
@@ -48,3 +51,6 @@ The lymphatic system lacks a central pump (like the heart) and relies entirely o
 - Tias Little, *Yoga of the Subtle Body* [via NotebookLM - Yoga and Human Anatomy]
 - Bernie Clark, *Your Body, Your Yoga* [via NotebookLM - Yoga and Human Anatomy]
 - `raw/06_ANATOMY/נקודות אנטאטומיות מרכזיות ביוגה.md` [via NotebookLM - Yoga and Human Anatomy]
+
+
+</div>

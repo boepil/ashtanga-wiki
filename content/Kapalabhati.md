@@ -1,3 +1,5 @@
+<div class="page-wrapper is-asana">
+
 # Kapalabhati (Skull Shining Breath)
 
 *Kapālabhāti* (*Kapāla* = skull, *bhāti* = lustre or shining) is a powerful respiratory cleansing technique designed to purify the skull, brain, and respiratory passages. It stokes the internal fire (*agni*) and is a vital preliminary practice for advanced pranayama.
@@ -29,3 +31,6 @@ Kapālabhāti reverses the usual mechanics of breathing by using a rhythmic "bel
   - **Cranial Pressure:** Avoid if suffering from glaucoma, detached retinas, or inner ear infections.
 
 See [[Shatkarma_Safety_and_Timing]] for more details on proper practice protocols.
+
+
+</div>

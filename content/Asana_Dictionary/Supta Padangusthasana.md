@@ -13,6 +13,9 @@ sources:
   - "ASHTANGA_YOGA_KNOWLEDGE_BASE.pdf, Unknown"
 updated: 2026-05-02
 ---
+<div class="page-wrapper is-asana">
+
+
 
 # Supta Padangusthasana (Reclining Big Toe Pose)
 
@@ -39,14 +42,14 @@ updated: 2026-05-02
 ## Drishti
 - **A:** Foot
 - **B:** To the left side (opposite of the leg)
-*(raw PDF)*
+<div class="citation-block">(raw PDF) </div>
 
 ## Movement
 From lying down position bring the right leg up, hold the big toe, the left hand over the left thigh.
 **Variation A:** Lift up, chin towards shin bone.
 **Variation B:** Take the right leg to the side, turn the head to the left side.
 Repeat on the left side.
-*(raw PDF)*
+<div class="citation-block">(raw PDF) </div>
 
 ## Anatomical Focus
 **Primary Muscles Engaged:**
@@ -89,3 +92,6 @@ Repeat on the left side.
 - (Yoga Mala, K. Pattabhi Jois, p. 1432, 1433) — Yoga Philosophy and Origins
 - (Yoga Makaranda, T. Krishnamacharya, p. 1330) — Yoga Philosophy and Origins
 - (ASHTANGA_YOGA_KNOWLEDGE_BASE.pdf, Unknown) — Yoga and Human Anatomy
+
+
+</div>

@@ -4,6 +4,9 @@ tags: [iyengar, alignment, history, props]
 sources: []
 updated: 2026-04-29
 ---
+<div class="page-wrapper is-asana">
+
+
 
 # B.K.S. Iyengar
 
@@ -43,3 +46,6 @@ His influence penetrated public institutions; in 1969, Iyengar’s method was of
 - Mark Stephens, *Teaching Yoga: Essential Foundations and Techniques* [via NotebookLM - Yoga Philosophy and Origins]
 - Elliott Goldberg, *The Path of Modern Yoga* [via NotebookLM - Yoga Philosophy and Origins]
 - Stuart Ray Sarbacker, *Tracing the Path of Yoga* [via NotebookLM - Yoga Philosophy and Origins]
+
+
+</div>

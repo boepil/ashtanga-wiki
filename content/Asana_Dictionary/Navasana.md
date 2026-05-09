@@ -13,6 +13,9 @@ sources:
   - "Science of Yoga, Ann Swanson"
 updated: 2026-05-02
 ---
+<div class="page-wrapper is-asana">
+
+
 
 # Navasana (Boat Pose)
 
@@ -40,11 +43,11 @@ updated: 2026-05-02
 
 ## Drishti
 Toes
-*(raw PDF)*
+<div class="citation-block">(raw PDF) </div>
 
 ## Movement
 Sit in, extend legs up, both legs straight, trunk up, angle between trunk & legs 90 around, arms parallel to the floor, engage abdominal muscle. Repeat 5 times (lifting up between sets).
-*(raw PDF)*
+<div class="citation-block">(raw PDF) </div>
 
 ## Anatomical Focus
 **Primary Muscles Engaged:**
@@ -94,3 +97,6 @@ Sit in, extend legs up, both legs straight, trunk up, angle between trunk & legs
 - (ASHTANGA_YOGA_KNOWLEDGE_BASE.pdf, Unknown) — Yoga and Human Anatomy
 - (Science of Yoga, Ann Swanson, p. 301) — Yoga and Human Anatomy
 - (B. K. S. Iyengar Yoga, B. K. S. Iyengar) — Yoga and Human Anatomy
+
+
+</div>

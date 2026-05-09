@@ -1,3 +1,5 @@
+<div class="page-wrapper is-asana">
+
 # Diet and Digestion (Agni and Mitahara)
 
 In the Ashtanga tradition, asana practice alone is considered insufficient if the diet is inappropriate. Proper nutrition is the foundation that allows the physical and energetic bodies to be purified.
@@ -32,3 +34,6 @@ According to K. Pattabhi Jois in *Yoga Mala*:
 - **Savasana:** Always conclude with 10–15 minutes of rest to remove fatigue and allow the nervous system to integrate the practice.
 
 See [[The_Three_Gunas]] for specific food recommendations.
+
+
+</div>

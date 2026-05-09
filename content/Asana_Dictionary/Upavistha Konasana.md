@@ -12,6 +12,9 @@ sources:
   - "ASHTANGA_YOGA_KNOWLEDGE_BASE.pdf, Unknown"
 updated: 2026-05-02
 ---
+<div class="page-wrapper is-asana">
+
+
 
 # Upavistha Konasana (Seated Wide Angle Pose)
 
@@ -38,12 +41,12 @@ updated: 2026-05-02
 ## Drishti
 - **A:** Tip of the nose or third eye
 - **B:** Towards the sky (or third eye)
-*(raw PDF)*
+<div class="citation-block">(raw PDF) </div>
 
 ## Movement
 **Variation A:** Sit with legs wide apart, hold the outside edges of the feet, bend forward, bring the chin and the chest to the floor.
 **Variation B:** From Variation A lift straight legs, hold the outside edges of the feet, balance on the tailbone.
-*(raw PDF)*
+<div class="citation-block">(raw PDF) </div>
 
 ## Anatomical Focus
 **Primary Muscles Engaged:**
@@ -85,3 +88,6 @@ updated: 2026-05-02
 - (Yoga Mala, K. Pattabhi Jois, p. 1402, 1403) — Yoga Philosophy and Origins
 - (Yoga Makaranda, T. Krishnamacharya, p. 91, 1305) — Yoga Philosophy and Origins
 - (ASHTANGA_YOGA_KNOWLEDGE_BASE.pdf, Unknown) — Yoga and Human Anatomy
+
+
+</div>

@@ -1,3 +1,5 @@
+<div class="page-wrapper is-asana">
+
 # Student and Teacher Development
 
 Growth in Ashtanga Yoga is a continuous, lifelong process for both the student and the teacher. Advancement is measured not just by physical capability, but by internal refinement, ethical grounding, and nervous system regulation.
@@ -36,3 +38,6 @@ Teaching in the Mysore room presents interpersonal and energetic challenges that
 - **Managing the Gunas:** Address *Rajasic* restlessness with slow breathing and grounding cues; address *Tamasic* lethargy with invigorating sequences.
 - **Student Resistance:** Gently remind students that yoga is a purificatory therapy (*Yoga Chikitsa*), not a competitive sport.
 - **Teacher's *Svādhyāya*:** Use challenges to observe personal ego (*Asmita*) and practice detachment (*Vairagya*). The most difficult student is often the teacher's greatest lesson.
+
+
+</div>

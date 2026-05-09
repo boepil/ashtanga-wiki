@@ -3,6 +3,9 @@ title: "The Five Koshas"
 tags: [philosophy, subtle-body]
 aliases: [Koshas, Sheaths, Annamaya, Pranamaya, Manomaya, Vijnanamaya, Anandamaya]
 ---
+<div class="page-wrapper is-asana">
+
+
 
 # The Five Koshas
 
@@ -19,3 +22,6 @@ The **Koshas** are the five "sheaths" or layers that encase the true Self (Atman
 ## Integration in Practice
 
 In Ashtanga Yoga, the practice systematically addresses these sheaths. Asana works primarily on the Annamaya and Pranamaya Koshas, Pranayama refines the energetic layer, while the meditative limbs ([[Dharana]] and [[Dhyana]]) penetrate the Manomaya and Vijnanamaya Koshas, eventually revealing the blissful core.
+
+
+</div>

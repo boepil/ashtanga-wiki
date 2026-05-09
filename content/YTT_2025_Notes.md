@@ -1,3 +1,5 @@
+<div class="page-wrapper is-asana">
+
 # Yoga Teacher Training Notes (YTT 2025)
 
 A Yoga Teacher Training (YTT) intensive is designed to be a "psychic hygiene" process. The journey requires a profound transition from being a performer of postures to an observer of the self, and eventually, a clear mirror for others.
@@ -45,3 +47,6 @@ Record your engagement with the structured intensive model (e.g., the "6-6-6-6" 
 ### 5. Weekly Integration
 - **The Guna Profile:** Reflect on your overall energy for the week—were you Sattvic, Rajasic, or exhausted (Tamasic)?
 - **Aha! Moments:** Document breakthroughs in your understanding of pedagogy or personal practice.
+
+
+</div>

@@ -9,6 +9,9 @@ sources:
   - "Yoga and Human Anatomy [via NotebookLM]"
 updated: 2026-05-02
 ---
+<div class="page-wrapper is-asana">
+
+
 
 # Hamstring overstretching — asana modifications
 
@@ -63,3 +66,6 @@ The condition is resolved when the practitioner can perform a full **Paschimotta
 - (Micro-bending Rationale, p. 11) — Yoga and Human Anatomy
 - (Eccentric Control in Folds, p. 2017) — Yoga and Human Anatomy
 - (Yoga Butt Prevention, p. 1606) — Yoga and Human Anatomy
+
+
+</div>

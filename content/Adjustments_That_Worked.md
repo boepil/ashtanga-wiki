@@ -1,3 +1,5 @@
+<div class="page-wrapper is-asana">
+
 # Adjustments That Worked
 
 The outer teacher acts as a guide to help you deepen your relationship with your own inner teacher. Recording significant adjustments ensures that a fleeting moment of guidance becomes firmly embedded in your daily practice through constant repetition (*Abhyāsa*).
@@ -9,13 +11,13 @@ The outer teacher acts as a guide to help you deepen your relationship with your
 **Teacher:** ____________________
 
 ### Description of Adjustment
-*(Detail whether the cue was verbal or hands-on. Describe the specific physical action, e.g., "rotating the upper arm bone externally and grounding the inner heel".)*
+<div class="citation-block">(Detail whether the cue was verbal or hands-on. Describe the specific physical action, e.g., "rotating the upper arm bone externally and grounding the inner heel".) </div>
 
 ### Immediate Result
-*(Record the initial sensation. Did you feel a "rebounce effect" of space in the joints, a sudden release of tension, or a new sense of core stability?)*
+<div class="citation-block">(Record the initial sensation. Did you feel a "rebounce effect" of space in the joints, a sudden release of tension, or a new sense of core stability?) </div>
 
 ### Long-Term Integration
-*(Note how this adjustment has transformed the pose over the following weeks. Does the posture now come with effortless ease?)*
+<div class="citation-block">(Note how this adjustment has transformed the pose over the following weeks. Does the posture now come with effortless ease?) </div>
 
 ---
 
@@ -34,3 +36,6 @@ Involves a shift in proprioception—the internal sense of how the body moves in
 ### 3. The Energetic Breakthrough
 A transition from the gross physical body to the subtle energetic body (*sūkṣma-śarīra*).
 - **Indicators:** A sudden surge of heat (*tapas*), a feeling of "blissful fusion," or a moment of being "thoughtfully thoughtless." You clearly perceive the movement of *Prana* through the *Nadis*, piercing through physical resistance.
+
+
+</div>

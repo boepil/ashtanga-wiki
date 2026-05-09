@@ -16,6 +16,9 @@ sources:
   - "Your Body, Your Yoga, Bernie Clark"
 updated: 2026-04-30
 ---
+<div class="page-wrapper is-asana">
+
+
 
 # Pada Angusthasana (Big Toe Pose)
 
@@ -41,7 +44,7 @@ updated: 2026-04-30
 
 ## Drishti
 third eye or tip of the nose (A) / tip of the nose (B)
-*(raw PDF)*
+<div class="citation-block">(raw PDF) </div>
 
 "padāgre dṛṣṭi tip of the big toe." 
 *(Ashtanga Yoga Anusthana, R. Sharath Jois, p. 64) — Yoga Philosophy and Origins*
@@ -49,7 +52,7 @@ third eye or tip of the nose (A) / tip of the nose (B)
 ## Movement
 A: feet hip distance apart, lets & spine straight, chest open, hold big toes.
 B: feet hip distance apart, bend forward, hold big toes, crown of the head towards the floor
-*(raw PDF)*
+<div class="citation-block">(raw PDF) </div>
 
 ## Anatomical Focus
 **Primary Muscles Engaged:**
@@ -97,3 +100,6 @@ B: feet hip distance apart, bend forward, hold big toes, crown of the head towar
 - (Yoga of the Subtle Body, Tias Little) — Yoga and Human Anatomy
 - (Science of Yoga, Ann Swanson) — Yoga and Human Anatomy
 - (Your Body, Your Yoga, Bernie Clark) — Yoga and Human Anatomy
+
+
+</div>

@@ -1,3 +1,5 @@
+<div class="page-wrapper is-asana">
+
 # Pranayama Overview
 
 Pranayama is the fourth limb of Patanjali's Ashtanga Yoga. It is typically defined as breath control, but more accurately, it is the expansion and regulation of *Prana* (vital life energy) through deliberate respiratory practices. 
@@ -38,3 +40,6 @@ Because pranayama profoundly affects the nervous and cardiovascular systems, cla
 - **Asana Proficiency:** A steady, comfortable seated posture is required before advanced breath control is attempted.
 - **Contraindications:** Breath retention (*Kumbhaka*) is generally contraindicated for pregnant women and individuals with high blood pressure, heart disease, glaucoma, or severe anxiety.
 - **No Force:** The breath should be tamed gradually, like "lions, elephants, and tigers." Forceful breathing can irritate the nervous system and damage respiratory tissues.
+
+
+</div>

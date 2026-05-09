@@ -15,6 +15,9 @@ sources:
   - "Hatha Yoga Pradipika, Swami Swatmarama"
 updated: 2026-04-30
 ---
+<div class="page-wrapper is-asana">
+
+
 
 # Paschimottanasana (Seated Forward Bend)
 
@@ -42,12 +45,12 @@ updated: 2026-04-30
 
 ## Drishti
 Foot or tip of the nose
-*(raw PDF)*
+<div class="citation-block">(raw PDF) </div>
 
 ## Movement
 Variations A, B, C: bend forward from the hips, feet flexed, hold onto big toes, bring the chest to the thighs, chin towards shin bone, root lock.
 Variation D: bend forward from the hips, feet flexed, grab the right wrist with the left hand, bring the chest to the thighs, chin towards shin bone, root lock.
-*(raw PDF)*
+<div class="citation-block">(raw PDF) </div>
 
 ## Anatomical Focus
 **Primary Muscles Engaged:**
@@ -100,3 +103,6 @@ Variation D: bend forward from the hips, feet flexed, grab the right wrist with 
 - (Ashtanga Yoga Anusthana, Sharath Jois, p. 74) — Yoga Philosophy and Origins
 - (Hatha Yoga Pradipika, Swami Swatmarama, p. 83) — Yoga Philosophy and Origins
 - (NotebookLM Anatomy extraction sources unavailable) — Yoga and Human Anatomy
+
+
+</div>

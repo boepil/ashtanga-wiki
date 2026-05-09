@@ -1,3 +1,5 @@
+<div class="page-wrapper is-asana">
+
 # Mudra Overview
 
 *Mudrā* (मुद्रा) comes from the Sanskrit root *mud* ("to delight" or "to please") and *rā* ("to give"). It is often translated as "that which bestows bliss," or more commonly in yoga, as a "seal," "gesture," or "energy lock." 
@@ -30,3 +32,6 @@ The extensive catalog of mudras comes from classical Hatha Yoga texts rather tha
 - **Hatha Yoga Pradipika:** Lists 10 main mudras (such as Mahamudra, Khechari, and Vajroli) and states that mudras are the key to awakening Kundalini.
 - **Gheranda Samhita:** Names 25 distinct mudras.
 - **Shiva Samhita:** Describes the use of mudras for spiritual transformation and conquering death.
+
+
+</div>

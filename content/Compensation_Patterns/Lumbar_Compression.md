@@ -7,6 +7,9 @@ sources:
   - "Yoga and Human Anatomy [via NotebookLM]"
 updated: 2026-05-02
 ---
+<div class="page-wrapper is-compensation">
+
+
 
 # Lumbar Compression in Backbends
 
@@ -47,3 +50,6 @@ Practitioners are often told to "squeeze the glutes" to lift higher. While the l
 - (Anatomy of the Arch, p. 618) — Yoga and Human Anatomy
 - (Engagement Strategy in Backbends, p. 652) — Yoga and Human Anatomy
 - (Spinal Movement Patterns, p. 619) — Yoga and Human Anatomy
+
+
+</div>

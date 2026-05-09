@@ -20,6 +20,9 @@ sources:
   - "Your Body, Your Yoga, Bernie Clark"
 updated: 2026-04-30
 ---
+<div class="page-wrapper is-asana">
+
+
 
 # Samasthitihi (Equal Standing)
 
@@ -47,11 +50,11 @@ updated: 2026-04-30
 
 ## Drishti
 the tip of the nose
-*(raw PDF)*
+<div class="citation-block">(raw PDF) </div>
 
 ## Movement
 Feet engaged with surface awareness, toes stretched & heel pressed, pull knee-cap up, gentle root & abdomen lock, open chest, shoulder depressed, arms to the sides.
-*(raw PDF)*
+<div class="citation-block">(raw PDF) </div>
 
 ## Anatomical Focus
 **Primary Muscles Engaged:**
@@ -105,3 +108,6 @@ Feet engaged with surface awareness, toes stretched & heel pressed, pull knee-ca
 - (Science of Yoga, Ann Swanson, p. 86) — Yoga and Human Anatomy
 - (Yoga of the Subtle Body, Tias Little, Chapter 1) — Yoga and Human Anatomy
 - (Your Body, Your Yoga, Bernie Clark, p. 185, 183, 184) — Yoga and Human Anatomy
+
+
+</div>

@@ -15,6 +15,9 @@ sources:
   - "B. K. S. Iyengar Yoga: The Path to Holistic Health, B. K. S. Iyengar"
 updated: 2026-04-30
 ---
+<div class="page-wrapper is-asana">
+
+
 
 # Virabhadrasana A (Warrior I Pose)
 
@@ -45,11 +48,11 @@ updated: 2026-04-30
 
 ## Drishti
 Thumbs
-*(raw PDF)*
+<div class="citation-block">(raw PDF) </div>
 
 ## Movement
 (This continues from Utkatasana) hands on the floor, lift the body, jump back, Chaturanga, Urdhava mukha, adho mukha. Step the right foot forward between the hands, left foot 45, arms up, palms together. Repeat on the left side.
-*(raw PDF)*
+<div class="citation-block">(raw PDF) </div>
 
 ## Anatomical Focus
 **Primary Muscles Engaged:**
@@ -102,3 +105,6 @@ Thumbs
 - (Yoga Mat Companion 1, Ray Long, p. 25, 122) — Yoga and Human Anatomy
 - (Identifying Postural Imbalances, Vayu Jung Doohwa, p. 132) — Yoga and Human Anatomy
 - (B. K. S. Iyengar Yoga: The Path to Holistic Health, B. K. S. Iyengar, p. 98, 97) — Yoga and Human Anatomy
+
+
+</div>

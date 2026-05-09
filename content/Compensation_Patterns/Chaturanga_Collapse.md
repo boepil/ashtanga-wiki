@@ -8,6 +8,9 @@ sources:
   - "Yoga and Human Anatomy [via NotebookLM]"
 updated: 2026-05-02
 ---
+<div class="page-wrapper is-compensation">
+
+
 
 # Collapse in Chaturanga
 
@@ -57,3 +60,6 @@ Practitioners often think Chaturanga is a "tricep exercise." While the triceps a
 - (Serratus Anterior Engagement, p. 589) — Yoga and Human Anatomy
 - (Intra-Abdominal Pressure (IAP), p. 323) — Yoga and Human Anatomy
 - (Asana Principles, p. 27) — Yoga Philosophy and Origins
+
+
+</div>

@@ -12,6 +12,9 @@ sources:
   - "ASHTANGA_YOGA_KNOWLEDGE_BASE.pdf, Unknown"
 updated: 2026-05-02
 ---
+<div class="page-wrapper is-asana">
+
+
 
 # Kukkutasana (Rooster Pose)
 
@@ -30,11 +33,11 @@ updated: 2026-05-02
 
 ## Drishti
 Tip of the nose
-*(raw PDF)*
+<div class="citation-block">(raw PDF) </div>
 
 ## Movement
 Legs in Padmasana, arms between the calves and the thighs, palms flat on the floor, lift the body up and off the mat with root lock.
-*(raw PDF)*
+<div class="citation-block">(raw PDF) </div>
 
 ## Anatomical Focus
 **Primary Muscles Engaged:**
@@ -74,3 +77,6 @@ Legs in Padmasana, arms between the calves and the thighs, palms flat on the flo
 - (Light on Yoga, B.K.S. Iyengar, p. 140) — Yoga Philosophy and Origins
 - (Yoga Mala, K. Pattabhi Jois, p. 1570, 1571) — Yoga Philosophy and Origins
 - (ASHTANGA_YOGA_KNOWLEDGE_BASE.pdf, Unknown) — Yoga and Human Anatomy
+
+
+</div>

@@ -19,6 +19,9 @@ sources:
   - "Your Body, Your Yoga, Bernie Clark"
 updated: 2026-04-30
 ---
+<div class="page-wrapper is-asana">
+
+
 
 # Utthita Trikonasana (Extended Triangle Pose)
 
@@ -46,11 +49,11 @@ updated: 2026-04-30
 
 ## Drishti
 Finger tip of the left hand
-*(raw PDF)*
+<div class="citation-block">(raw PDF) </div>
 
 ## Movement
 Feet 3 to 3.5ft apart, right foot 90, left foot 45, bend to the right over the foot, hold big toe, left arm up, chest open. Repeat on the left side.
-*(raw PDF)*
+<div class="citation-block">(raw PDF) </div>
 
 ## Anatomical Focus
 **Primary Muscles Engaged:**
@@ -101,3 +104,6 @@ Feet 3 to 3.5ft apart, right foot 90, left foot 45, bend to the right over the f
 - (Science of Yoga, Ann Swanson) — Yoga and Human Anatomy
 - (Yoga of the Subtle Body, Tias Little) — Yoga and Human Anatomy
 - (Your Body, Your Yoga, Bernie Clark) — Yoga and Human Anatomy
+
+
+</div>

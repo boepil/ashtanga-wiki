@@ -8,6 +8,9 @@ sources:
   - "Yoga and Human Anatomy [via NotebookLM]"
 updated: 2026-05-02
 ---
+<div class="page-wrapper is-compensation">
+
+
 
 # Breath Holding Under Effort
 
@@ -48,3 +51,6 @@ Practitioners often think that "holding the core" means "holding the breath." In
 - (Floating and Levity, p. 532) — Yoga and Human Anatomy
 - (Asana Principles, p. 27) — Yoga Philosophy and Origins
 - (Bandha Overview, p. 11) — wiki/Bandha_Overview.md
+
+
+</div>

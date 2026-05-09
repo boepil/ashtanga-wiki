@@ -7,6 +7,9 @@ sources:
   - "Yoga and Human Anatomy [via NotebookLM]"
 updated: 2026-05-02
 ---
+<div class="page-wrapper is-compensation">
+
+
 
 # Hip Flexor Dominance in Forward Folds
 
@@ -46,3 +49,6 @@ Practitioners often think they need to "pull harder" with their arms to get deep
 - (Spinal Movement Patterns, p. 611) — Yoga and Human Anatomy
 - (Eccentric Engagement in Forward Folds, p. 896) — Yoga and Human Anatomy
 - (Anatomy of the Fold, p. 612) — Yoga and Human Anatomy
+
+
+</div>

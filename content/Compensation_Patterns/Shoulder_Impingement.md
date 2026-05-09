@@ -8,6 +8,9 @@ sources:
   - "Yoga and Human Anatomy [via NotebookLM]"
 updated: 2026-05-02
 ---
+<div class="page-wrapper is-compensation">
+
+
 
 # Shoulder Impingement in Yoga
 
@@ -56,3 +59,6 @@ Practitioners often try to "pull the shoulders down and back" during overhead re
 - (Your Upper Body, Your Yoga / The shoulder complex, p. 239) — Yoga and Human Anatomy
 - (Shoulder Joint Actions, p. 547) — Yoga and Human Anatomy
 - (Scapulohumeral Rhythm, p. 252) — Yoga and Human Anatomy
+
+
+</div>

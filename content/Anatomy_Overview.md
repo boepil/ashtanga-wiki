@@ -4,6 +4,9 @@ tags: [anatomy, overview, skeletal-variation, biomechanics]
 sources: [raw/06_ANATOMY/01_Foundational_Systems/01_Skeletal/01_Skeletal.md, raw/06_ANATOMY/01_Foundational_Systems/01_Skeletal/Skeletal Variation & Individual Limits.md]
 updated: 2026-04-29
 ---
+<div class="page-wrapper is-bridge">
+
+
 
 # Anatomy Overview in Ashtanga Yoga
 
@@ -31,6 +34,7 @@ Alignment is the intelligent arrangement of the body to maximize energy flow and
 - [[Asana_Fundamentals]] — The application of these anatomical principles in physical practice.
 - [[Skeletal_System]] — Detailed exploration of the bones and joints.
 - [[Muscular_System]] — The muscles that move and stabilize the framework.
+- [[Anatomy_Glossary]] — Definitions of key anatomical terms used in the wiki.
 
 ## Writing angles
 - How the Western anatomical view (biomechanics) complements the Eastern energetic view (Prana/Nadis).
@@ -40,3 +44,6 @@ Alignment is the intelligent arrangement of the body to maximize energy flow and
 - `raw/06_ANATOMY/01_Foundational_Systems/01_Skeletal/01_Skeletal.md`
 - `raw/06_ANATOMY/01_Foundational_Systems/01_Skeletal/Skeletal Variation & Individual Limits.md`
 - `raw/06_ANATOMY/Anatomy Tutorial.md`
+
+
+</div>

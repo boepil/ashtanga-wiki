@@ -16,6 +16,9 @@ sources:
   - "Science of Yoga, Ann Swanson"
 updated: 2026-04-30
 ---
+<div class="page-wrapper is-asana">
+
+
 
 # Ardha Baddha Padmottanasana (Half-Bound Lotus Intense Stretch Pose)
 
@@ -43,11 +46,11 @@ updated: 2026-04-30
 
 ## Drishti
 Tip of the nose
-*(raw PDF)*
+<div class="citation-block">(raw PDF) </div>
 
 ## Movement
 Right leg in Padmasana, wrap the right arm around behind the back, hold the big toe, bend forward, left hand on the floor. Repeat on the left side.
-*(raw PDF)*
+<div class="citation-block">(raw PDF) </div>
 
 ## Anatomical Focus
 **Primary Muscles Engaged:**
@@ -95,3 +98,6 @@ Right leg in Padmasana, wrap the right arm around behind the back, hold the big 
 - (Your Upper Body, Your Yoga, Bernie Clark, p. 631) — Yoga and Human Anatomy
 - (Your Body, Your Yoga, Bernie Clark, p. 573) — Yoga and Human Anatomy
 - (Science of Yoga, Ann Swanson, p. 305, 337) — Yoga and Human Anatomy
+
+
+</div>

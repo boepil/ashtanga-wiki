@@ -12,6 +12,9 @@ sources:
   - "ASHTANGA_YOGA_KNOWLEDGE_BASE.pdf, Unknown"
 updated: 2026-05-02
 ---
+<div class="page-wrapper is-asana">
+
+
 
 # Tittibhasana (Firefly Pose)
 
@@ -24,15 +27,15 @@ updated: 2026-05-02
 ## Variations
 ### Tittibhasana A
 Arm balance with legs straight and wide, resting on the upper arms.
-*(raw PDF)*
+<div class="citation-block">(raw PDF) </div>
 
 ### Tittibhasana B
 Standing forward fold, legs wide, arms reaching through and hands clasping behind the back.
-*(raw PDF)*
+<div class="citation-block">(raw PDF) </div>
 
 ### Tittibhasana C
 Transitioning from A to B or maintaining the leg-behind-arm position while lowering the hips towards the floor.
-*(raw PDF)*
+<div class="citation-block">(raw PDF) </div>
 
 ## Vinyasa Count & Entry
 "Tittibhasana has fifteen vinyasas. The 7th is the state of the asana." 
@@ -43,13 +46,13 @@ Transitioning from A to B or maintaining the leg-behind-arm position while lower
 
 ## Drishti
 Nose (nasagre)
-*(raw PDF)*
+<div class="citation-block">(raw PDF) </div>
 
 ## Movement
 - **A:** Arm balance, legs straight and wide.
 - **B:** Standing fold, legs wide, arms bound behind.
 - **C:** Hips lowering towards floor from A.
-*(raw PDF)*
+<div class="citation-block">(raw PDF) </div>
 
 ## Anatomical Focus
 **Primary Muscles Engaged:**
@@ -70,8 +73,8 @@ Nose (nasagre)
 - **Wrist Compression:** "The forward lean in the arm balance puts significant pressure on the wrist joints." *(ASHTANGA_YOGA_KNOWLEDGE_BASE.pdf, Unknown, p. 298) — Yoga and Human Anatomy*
 
 **Injury Prevention Cues:**
-- "Spread the fingers wide to distribute the weight across the whole hand." *(raw PDF)*
-- "Rule: Focus on lifting the chest to counter the weight of the legs." *(raw PDF)*
+- "Spread the fingers wide to distribute the weight across the whole hand." <div class="citation-block">(raw PDF) </div>
+- "Rule: Focus on lifting the chest to counter the weight of the legs." <div class="citation-block">(raw PDF) </div>
 
 ## Teaching Notes
 "Tittibhasana combines the hip flexibility of the 'leg-behind-head' poses with the arm strength of Bakasana. It is a transition into the more advanced arm balances." 
@@ -88,3 +91,6 @@ Nose (nasagre)
 - (Ashtanga Yoga Anusthana, Sharath Jois, p. 61) — Yoga Philosophy and Origins
 - (Teaching Yoga Essential Foundations and Techniques, Mark Stephens, p. 808) — Yoga Philosophy and Origins
 - (ASHTANGA_YOGA_KNOWLEDGE_BASE.pdf, Unknown) — Yoga and Human Anatomy
+
+
+</div>

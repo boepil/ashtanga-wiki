@@ -4,6 +4,9 @@ tags: [anatomy, skeletal-system, spine, joints]
 sources: [raw/06_ANATOMY/01_Foundational_Systems/01_Skeletal/Spine_and_Core_Stability.md, raw/06_ANATOMY/01_Foundational_Systems/01_Skeletal/The Spine.md]
 updated: 2026-04-29
 ---
+<div class="page-wrapper is-bridge">
+
+
 
 # The Skeletal System
 
@@ -45,3 +48,6 @@ The spine is the central axis of the body, serving both as structural support an
 - `raw/06_ANATOMY/01_Foundational_Systems/01_Skeletal/The Spine.md`
 - `raw/06_ANATOMY/01_Foundational_Systems/01_Skeletal/Spine_and_Core_Stability.md`
 - `raw/06_ANATOMY/01_Foundational_Systems/01_Skeletal/01_Skeletal.md`
+
+
+</div>

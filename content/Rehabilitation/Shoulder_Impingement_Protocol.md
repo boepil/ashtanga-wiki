@@ -10,6 +10,9 @@ sources:
   - (Myers, Anatomy Trains, p. 494-505)
 updated: 2026-05-02
 ---
+<div class="page-wrapper is-rehabilitation">
+
+
 
 # Shoulder Impingement — rehabilitation protocol
 
@@ -119,3 +122,6 @@ Criteria for advancing through the protocol:
 - (Starrett, Kelly, Becoming a Supple Leopard, p. 336-342) — Yoga Rehab Library
 - (Kaminoff, Leslie, Yoga Anatomy, p. 82-83) — Yoga Rehab Library
 - (Myers, Thomas, Anatomy Trains, p. 494-505) — Yoga Rehab Library
+
+
+</div>

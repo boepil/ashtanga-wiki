@@ -1,3 +1,5 @@
+<div class="page-wrapper is-asana">
+
 # Jalandhara Bandha (Throat Lock)
 
 *Jalandhara Bandha* is the uppermost of the three primary bandhas. The name comes from *Jala* (net or mesh) and *Dhara* (holding). It functions to "hold the network" of nadis (energy channels) in the neck and serves as a seal for the thoracic outlet.
@@ -34,3 +36,6 @@ Jalandhara Bandha is essential for managing the increased internal pressure gene
 
 - **Rolled Towel:** If the chin cannot comfortably reach the chest, placing a small rolled-up washcloth in the throat pit provides tactile feedback and a gentle seal without forcing the cervical spine.
 - **Neutral Alignment:** For those with neck pain, maintain a neutral "long neck" position without forward flexion, utilizing only the glottal seal.
+
+
+</div>

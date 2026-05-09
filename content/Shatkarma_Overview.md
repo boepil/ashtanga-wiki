@@ -1,3 +1,5 @@
+<div class="page-wrapper is-asana">
+
 # Shatkarma Overview
 
 The *Shatkarmas* (Six Cleansing Actions) are a set of traditional purificatory duties (*kriyas*) described in classical Hatha Yoga texts. They are designed to cleanse the physical body's internal environment, balance the bodily humors (*doshas*), and prepare the practitioner for advanced breathing (Pranayama) and meditation.
@@ -22,3 +24,6 @@ The central aim of these actions is to remove gross physical and energetic impur
 It is important to distinguish the somatic Kriya Yoga of the Hatha tradition from the psychological Kriya Yoga of Patanjali.
 - **Somatic Kriya (Hatha):** Refers to the physical actions (the Shatkarmas) used to literally "bake" and cleanse the physical body.
 - **Patanjali's Kriya:** Focuses on *Tapas* (discipline), *Svadhyaya* (self-study), and *Ishvara Pranidhana* (surrender to the divine).
+
+
+</div>

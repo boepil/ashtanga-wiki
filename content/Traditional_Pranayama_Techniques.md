@@ -1,3 +1,5 @@
+<div class="page-wrapper is-asana">
+
 # Traditional Pranayama Techniques
 
 Beyond Ujjayi and Nadi Shodhana, classical Hatha Yoga texts outline several specialized breath control techniques designed to manipulate internal body temperature, stimulate digestion, and induce specific states of consciousness.
@@ -51,3 +53,6 @@ An alternative for those unable to roll their tongue for Sheetali.
 ### 9. Plavini (Floating Breath)
 - **Method:** Swallowing air to fill the stomach (not just the lungs) and retaining it.
 - **Purpose:** Traditionally said to make the body buoyant enough to float on water. *Rarely taught in modern yoga.*
+
+
+</div>

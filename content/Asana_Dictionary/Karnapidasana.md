@@ -12,6 +12,9 @@ sources:
   - "ASHTANGA_YOGA_KNOWLEDGE_BASE.pdf, Unknown"
 updated: 2026-05-02
 ---
+<div class="page-wrapper is-asana">
+
+
 
 # Karnapidasana (Ear Pressure Pose)
 
@@ -33,11 +36,11 @@ updated: 2026-05-02
 
 ## Drishti
 Tip of the nose
-*(raw PDF)*
+<div class="citation-block">(raw PDF) </div>
 
 ## Movement
 Bring the knees to the floor by the ears, press on the ears with the knees, feet together, arms on the floor, fingers interlaced.
-*(raw PDF)*
+<div class="citation-block">(raw PDF) </div>
 
 ## Anatomical Focus
 **Primary Muscles Engaged:**
@@ -58,8 +61,8 @@ Bring the knees to the floor by the ears, press on the ears with the knees, feet
 - **Restricted Breathing:** "The compression of the chest and throat can lead to panic or shallow breathing if the student is not relaxed." *(ASHTANGA_YOGA_KNOWLEDGE_BASE.pdf, Unknown, p. 108) — Yoga and Human Anatomy*
 
 **Injury Prevention Cues:**
-- "Keep the heels together and the tops of the feet pressing into the floor to maintain stability and prevent the knees from splaying." *(raw PDF)*
-- "Rule: Focus on breathing into the back of the lungs to maintain internal space during the compression." *(raw PDF)*
+- "Keep the heels together and the tops of the feet pressing into the floor to maintain stability and prevent the knees from splaying." <div class="citation-block">(raw PDF) </div>
+- "Rule: Focus on breathing into the back of the lungs to maintain internal space during the compression." <div class="citation-block">(raw PDF) </div>
 
 ## Teaching Notes
 "This pose gives rest to the heart and the legs. It also helps to internalize the senses (Pratyahara) by blocking the ears." 
@@ -76,3 +79,6 @@ Bring the knees to the floor by the ears, press on the ears with the knees, feet
 - (Ashtanga Yoga Anusthana, Sharath Jois, p. 48) — Yoga Philosophy and Origins
 - (Yoga Makaranda Part II, T. Krishnamacharya, p. 1212) — Yoga Philosophy and Origins
 - (ASHTANGA_YOGA_KNOWLEDGE_BASE.pdf, Unknown) — Yoga and Human Anatomy
+
+
+</div>

@@ -4,6 +4,9 @@ tags: [pattabhi-jois, ashtanga, history]
 sources: []
 updated: 2026-04-29
 ---
+<div class="page-wrapper is-asana">
+
+
 
 # K. Pattabhi Jois
 
@@ -31,6 +34,13 @@ Jois was "discovered" by the Belgian yogin André Van Lysebeth, who published *P
 
 The highly fashionable Ashtanga Vinyasa yoga is a direct development of a specific, unrepeated phase of Krishnamacharya’s teaching. The style that came to prominence in the West since the late 1980s through Pattabhi Jois "represents a unique and unrepeated phase of Krishnamacharya’s teaching" (Singleton, *Yoga Body*, pp. 175-176).
 
+### The Transition from Palace to Global Practice
+The Ashtanga system underwent a significant pedagogical and anatomical shift as it moved from preadolescent boys at the Mysore Palace to a global adult population:
+- **Anatomical Adaptation**: Originally designed for young boys with narrow hips, the practice has adapted for adult practitioners (predominantly women). This includes modifications like standing with feet hip-distance in certain poses to manage joint stress [3].
+- **From Gymnastics to Therapy**: What began as a vigorous, athletic training method influenced by Indian martial arts and Western gymnastics was formalized by Jois as "Yoga Chikitsa" (Yoga Therapy), emphasizing internal cleansing and purification [1][6].
+- **The Fixed Sequence as a Mirror**: Jois utilized the constancy of the sequence as a "mirror" to reflect the practitioner's changing internal state, moving the focus from physical performance to self-observation [30].
+- **Management of the "Yoga Industrial Complex"**: Jois preserved the practice's intensity while making it a "premium lifestyle," using the "teacher as gatekeeper" model to ensure stability before progression [21][28].
+
 ## Connections
 - [[T_Krishnamacharya]] — His Guru who transmitted the initial vinyasa system.
 - [[Primary_Series]] — The foundational sequence formalized by Jois.
@@ -45,3 +55,10 @@ The highly fashionable Ashtanga Vinyasa yoga is a direct development of a specif
 - Stuart Ray Sarbacker, *Tracing the Path of Yoga* [via NotebookLM - Yoga Philosophy and Origins]
 - Elliott Goldberg, *The Path of Modern Yoga* [via NotebookLM - Yoga Philosophy and Origins]
 - Mark Singleton, *Yoga Body: The Origins of Modern Posture Practice* [via NotebookLM - Yoga Philosophy and Origins]
+- ASHTANGA_YOGA_KNOWLEDGE_BASE.pdf [via NotebookLM - Yoga and Human Anatomy]
+- Ann Swanson, *Science Of Yoga* [via NotebookLM - Yoga and Human Anatomy]
+- Bernie Clark, *Your Body, Your Yoga* [via NotebookLM - Yoga and Human Anatomy]
+- William J. Broad, *The Science of Yoga* [via NotebookLM - Yoga and Human Anatomy]
+
+
+</div>

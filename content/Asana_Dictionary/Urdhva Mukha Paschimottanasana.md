@@ -12,6 +12,9 @@ sources:
   - "ASHTANGA_YOGA_KNOWLEDGE_BASE.pdf, Unknown"
 updated: 2026-05-02
 ---
+<div class="page-wrapper is-asana">
+
+
 
 # Urdhva Mukha Paschimottanasana (Upward Facing Forward Bend)
 
@@ -30,11 +33,11 @@ updated: 2026-05-02
 
 ## Drishti
 Toes
-*(raw PDF)*
+<div class="citation-block">(raw PDF) </div>
 
 ## Movement
 Balance on the sit bones, hold outer edge of feet, pull the chest towards the thighs, arms and legs are extended.
-*(raw PDF)*
+<div class="citation-block">(raw PDF) </div>
 
 ## Anatomical Focus
 **Primary Muscles Engaged:**
@@ -74,3 +77,6 @@ Balance on the sit bones, hold outer edge of feet, pull the chest towards the th
 - (Yoga Mala, K. Pattabhi Jois, p. 1435) — Yoga Philosophy and Origins
 - (The Manual of Yoga Anatomy, Sally Parkes, p. 394) — Yoga and Human Anatomy
 - (ASHTANGA_YOGA_KNOWLEDGE_BASE.pdf, Unknown) — Yoga and Human Anatomy
+
+
+</div>

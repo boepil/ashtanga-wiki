@@ -1,3 +1,5 @@
+<div class="page-wrapper is-asana">
+
 # Shatkarma Safety and Timing
 
 The Shatkarmas are specialized, highly forceful purificatory techniques. Because they manipulate the body's internal pressure and organ systems, they carry significant risks if performed incorrectly.
@@ -22,3 +24,6 @@ The Shatkarmas are specialized, highly forceful purificatory techniques. Because
 - **Not Self-Taught:** Traditional texts emphatically state that Shatkarmas should only be learned under the direct supervision of an experienced Guru. Attempting to learn them from books or videos is dangerous.
 - **The Rule of Secrecy:** The *Hatha Yoga Pradipika* commands that these actions be kept secret like a "box of jewelry." This maintains their potency and ensures they are not diluted by unqualified practitioners.
 - **Referring Out:** Yoga teachers must recognize their scope. Students with severe medical conditions should be referred to medical professionals or high-level therapeutic specialists rather than attempting to "cure" them with forceful kriyas.
+
+
+</div>

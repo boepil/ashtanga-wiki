@@ -10,6 +10,9 @@ sources:
   - "Yoga and Human Anatomy [via NotebookLM]"
 updated: 2026-05-02
 ---
+<div class="page-wrapper is-asana">
+
+
 
 # Shoulder impingement — asana modifications
 
@@ -65,3 +68,6 @@ The compensation is resolved when the practitioner can maintain **Scapular Protr
 - (Injury Modification Table, p. 11) — Yoga and Human Anatomy
 - (Functional vs Aesthetic Alignment, p. 14) — Yoga and Human Anatomy
 - (Preserving the Shoulder, p. 16) — Yoga and Human Anatomy
+
+
+</div>

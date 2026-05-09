@@ -4,6 +4,9 @@ tags: [anatomy, injuries, rehabilitation, safety]
 sources: []
 updated: 2026-04-29
 ---
+<div class="page-wrapper is-asana">
+
+
 
 # Injury Management and Rehabilitation
 
@@ -45,3 +48,6 @@ The knee is a hinge joint designed for flexion and extension, not rotation. Forc
 - Bernie Clark, *Your Body, Your Yoga* [via NotebookLM - Yoga and Human Anatomy]
 - Ray Long, *Key Muscles of Yoga* [via NotebookLM - Yoga and Human Anatomy]
 - `raw/06_ANATOMY/נקודות אנטאטומיות מרכזיות ביוגה.md` [via NotebookLM - Yoga and Human Anatomy]
+
+
+</div>

@@ -12,6 +12,9 @@ sources:
   - "ASHTANGA_YOGA_KNOWLEDGE_BASE.pdf, Unknown"
 updated: 2026-05-02
 ---
+<div class="page-wrapper is-asana">
+
+
 
 # Nakrasana (Crocodile Pose)
 
@@ -33,11 +36,11 @@ updated: 2026-05-02
 
 ## Drishti
 Nose (nasagre)
-*(raw PDF)*
+<div class="citation-block">(raw PDF) </div>
 
 ## Movement
 Dynamic hops forward and backward in Chaturanga Dandasana.
-*(raw PDF)*
+<div class="citation-block">(raw PDF) </div>
 
 ## Anatomical Focus
 **Primary Muscles Engaged:**
@@ -58,8 +61,8 @@ Dynamic hops forward and backward in Chaturanga Dandasana.
 - **Lumbar Jolting:** "If the core is not engaged, the landing impact can travel into the lower back." *(ASHTANGA_YOGA_KNOWLEDGE_BASE.pdf, Unknown, p. 338) — Yoga and Human Anatomy*
 
 **Injury Prevention Cues:**
-- "Focus on light landings; the sound of the feet and hands hitting the floor should be minimal." *(raw PDF)*
-- "Rule: The body must remain stiff as a board throughout the movement." *(raw PDF)*
+- "Focus on light landings; the sound of the feet and hands hitting the floor should be minimal." <div class="citation-block">(raw PDF) </div>
+- "Rule: The body must remain stiff as a board throughout the movement." <div class="citation-block">(raw PDF) </div>
 
 ## Teaching Notes
 "This asana develops powerful explosive strength in the arms and core. It is one of the few truly 'ballistic' movements in the Ashtanga sequence." 
@@ -76,3 +79,6 @@ Dynamic hops forward and backward in Chaturanga Dandasana.
 - (Ashtanga Yoga Anusthana, Sharath Jois, p. 62) — Yoga Philosophy and Origins
 - (Teaching Yoga Essential Foundations and Techniques, Mark Stephens, p. 812) — Yoga Philosophy and Origins
 - (ASHTANGA_YOGA_KNOWLEDGE_BASE.pdf, Unknown) — Yoga and Human Anatomy
+
+
+</div>

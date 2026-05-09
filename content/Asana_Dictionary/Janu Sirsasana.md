@@ -15,6 +15,9 @@ sources:
   - "B. K. S. Iyengar Yoga: The Path to Holistic Health, B. K. S. Iyengar"
 updated: 2026-05-02
 ---
+<div class="page-wrapper is-asana">
+
+
 
 # Janu Sirsasana (Head-to-Knee Pose)
 
@@ -47,13 +50,13 @@ updated: 2026-05-02
 
 ## Drishti
 Big toe of the extended leg
-*(raw PDF)*
+<div class="citation-block">(raw PDF) </div>
 
 ## Movement
 **Variation A:** Right knee bent, heel close to groin, extend the left leg, foot flexed, grab the right wrist over the left foot with the left hand, bend forward, place the chest on the thigh.
 **Variation B:** Right knee bent, heel over the anus, extend the left leg, foot flexed, grab the right wrist over the left foot with the left hand, bend forward, place the chest on the thigh.
 **Variation C:** Right knee bent, right foot on the floor with toes flexed on the floor, heel pushing into the lower belly, extend the left leg, foot flexed, grab the right wrist over the left foot with the left hand, bend forward, place the chest on the thigh.
-*(raw PDF)*
+<div class="citation-block">(raw PDF) </div>
 
 ## Anatomical Focus
 **Primary Muscles Engaged:**
@@ -98,3 +101,6 @@ Big toe of the extended leg
 - (ASHTANGA_YOGA_KNOWLEDGE_BASE.pdf, Unknown) — Yoga and Human Anatomy
 - (Key Muscles of Yoga, Ray Long) — Yoga and Human Anatomy
 - (B. K. S. Iyengar Yoga: The Path to Holistic Health, B. K. S. Iyengar, p. 133, 136, 135) — Yoga and Human Anatomy
+
+
+</div>

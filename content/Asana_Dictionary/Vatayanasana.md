@@ -12,6 +12,9 @@ sources:
   - "ASHTANGA_YOGA_KNOWLEDGE_BASE.pdf, Unknown"
 updated: 2026-05-02
 ---
+<div class="page-wrapper is-asana">
+
+
 
 # Vatayanasana (Horse Pose)
 
@@ -33,11 +36,11 @@ updated: 2026-05-02
 
 ## Drishti
 Third eye (nasagre/midbrow)
-*(raw PDF)*
+<div class="citation-block">(raw PDF) </div>
 
 ## Movement
 One leg in half-lotus, kneeling on that knee, other foot flat on floor with knee bent at 90 degrees, arms entwined.
-*(raw PDF)*
+<div class="citation-block">(raw PDF) </div>
 
 ## Anatomical Focus
 **Primary Muscles Engaged:**
@@ -58,8 +61,8 @@ One leg in half-lotus, kneeling on that knee, other foot flat on floor with knee
 - **Loss of Balance:** "Leaning forward shifts the center of gravity and increases pressure on the kneeling joint." *(ASHTANGA_YOGA_KNOWLEDGE_BASE.pdf, Unknown, p. 348) — Yoga and Human Anatomy*
 
 **Injury Prevention Cues:**
-- "Push the pelvis forward to keep the torso vertical." *(raw PDF)*
-- "Rule: Use a wall for balance until the hip and knee are strong enough to support the full weight." *(raw PDF)*
+- "Push the pelvis forward to keep the torso vertical." <div class="citation-block">(raw PDF) </div>
+- "Rule: Use a wall for balance until the hip and knee are strong enough to support the full weight." <div class="citation-block">(raw PDF) </div>
 
 ## Teaching Notes
 "This asana is unique in that it combines the hip opening of Padmasana with a balance that requires significant lower body strength." 
@@ -76,3 +79,6 @@ One leg in half-lotus, kneeling on that knee, other foot flat on floor with knee
 - (Ashtanga Yoga Anusthana, Sharath Jois, p. 62) — Yoga Philosophy and Origins
 - (Teaching Yoga Essential Foundations and Techniques, Mark Stephens, p. 813) — Yoga Philosophy and Origins
 - (ASHTANGA_YOGA_KNOWLEDGE_BASE.pdf, Unknown) — Yoga and Human Anatomy
+
+
+</div>

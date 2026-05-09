@@ -9,6 +9,9 @@ sources:
   - "Yoga and Human Anatomy [via NotebookLM]"
 updated: 2026-05-02
 ---
+<div class="page-wrapper is-asana">
+
+
 
 # Chaturanga collapse — asana modifications
 
@@ -63,3 +66,6 @@ Resolution is reached when the practitioner can transition from Plank to Chatura
 - (Hollow Body Position, p. 2769) — Yoga and Human Anatomy
 - (Serratus Anterior in Transitions, p. 2770) — Yoga and Human Anatomy
 - (Injury Modification Table, p. 11) — Yoga and Human Anatomy
+
+
+</div>

@@ -1,3 +1,5 @@
+<div class="page-wrapper is-asana">
+
 # Inspiration and Insights
 
 Integrating practice and theory requires a space for reflecting on insights that arise when the physical practice meets the *Shastras* (sacred texts). True knowledge is confirmed through direct perception (*Pratyaksha*) on the mat. External inspiration acts as a catalyst for this direct knowledge.
@@ -20,4 +22,7 @@ The ultimate goal of yoga is to develop a relationship with the **Inner Teacher*
 *(Note exactly where the insight occurred: During the intensity of a specific posture, the synchronization of breath and movement, or the stillness of Savasana).*
 
 ### 4. Reflection and Future Application
-*(Discuss how this alters your relationship with your practice. How will this insight transform your approach to the mat tomorrow? How does it apply to life off the mat?)*
+<div class="citation-block">(Discuss how this alters your relationship with your practice. How will this insight transform your approach to the mat tomorrow? How does it apply to life off the mat?) </div>
+
+
+</div>

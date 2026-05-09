@@ -1,3 +1,5 @@
+<div class="page-wrapper is-asana">
+
 # Daily Sequence Notes
 
 In Ashtanga Yoga, the sequence of postures is fixed. This strict constancy acts as a reliable mirror: because the sequence does not change, any variation you experience—whether a pose feels "easy" or "impossible"—is revealed to be a product of your own internal fluctuations (*Parinamavada*).
@@ -32,3 +34,6 @@ Identify the predominant energetic quality after *Savasana*:
 
 **Key Insight of the Day:** 
 *(e.g., Noticed frustration arising in backbends; felt deeply grounded and Sattvic after standing poses).*
+
+
+</div>

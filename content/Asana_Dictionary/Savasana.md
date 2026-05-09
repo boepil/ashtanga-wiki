@@ -11,6 +11,9 @@ sources:
   - "ASHTANGA_YOGA_KNOWLEDGE_BASE.pdf, Unknown"
 updated: 2026-05-02
 ---
+<div class="page-wrapper is-asana">
+
+
 
 # Savasana (Corpse Pose)
 
@@ -29,11 +32,11 @@ updated: 2026-05-02
 
 ## Drishti
 Inwards (closed eyes)
-*(raw PDF)*
+<div class="citation-block">(raw PDF) </div>
 
 ## Movement
 Relax the whole body, witness the movement of your breath. Stay for 10 to 15 minutes.
-*(raw PDF)*
+<div class="citation-block">(raw PDF) </div>
 
 ## Anatomical Focus
 **Primary Action:**
@@ -49,11 +52,11 @@ Relax the whole body, witness the movement of your breath. Stay for 10 to 15 min
 ## Common Mistakes & Injury Flags
 **Anatomical Risks:**
 - **Lower Back Discomfort:** "If the lower back feels tight, placing a bolster under the knees can help flatten the lumbar spine." *(ASHTANGA_YOGA_KNOWLEDGE_BASE.pdf, Unknown, p. 160) — Yoga and Human Anatomy*
-- **Falling Asleep:** "The goal is 'sleep with awareness.' If you fall asleep, the conscious benefits of the relaxation are reduced." *(raw PDF)*
+- **Falling Asleep:** "The goal is 'sleep with awareness.' If you fall asleep, the conscious benefits of the relaxation are reduced." <div class="citation-block">(raw PDF) </div>
 
 **Injury Prevention Cues:**
-- "Ensure the body is warm (use a blanket if needed) to prevent muscle tension during the rest." *(raw PDF)*
-- "Rule: Let go of all effort, including the control of the breath." *(raw PDF)*
+- "Ensure the body is warm (use a blanket if needed) to prevent muscle tension during the rest." <div class="citation-block">(raw PDF) </div>
+- "Rule: Let go of all effort, including the control of the breath." <div class="citation-block">(raw PDF) </div>
 
 ## Teaching Notes
 "This is the most difficult asana to master because it requires the complete stillness of both the body and the mind." 
@@ -69,3 +72,6 @@ Relax the whole body, witness the movement of your breath. Stay for 10 to 15 min
 - (Teaching Yoga Essential Foundations and Techniques, Mark Stephens, p. 793) — Yoga Philosophy and Origins
 - (Yoga Mala, K. Pattabhi Jois, p. 1415) — Yoga Philosophy and Origins
 - (ASHTANGA_YOGA_KNOWLEDGE_BASE.pdf, Unknown) — Yoga and Human Anatomy
+
+
+</div>

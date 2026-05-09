@@ -1,3 +1,5 @@
+<div class="page-wrapper is-asana">
+
 # Practice Journaling
 
 In the Ashtanga Yoga tradition, the practice is an exploration of human psychology and a process for "stilling the changing states of the mind" (*cittavṛttinirodha*). Journaling transforms the physical practice into **Svadhyaya** (self-study), turning the mat into a laboratory for observing the interplay of body, breath, and mind.
@@ -50,3 +52,6 @@ Teachers use journaling to refine their pedagogy and maintain ethical vigilance.
 - **Observation:** Did I accurately identify the students' needs (tension vs. compression)?
 - **Adjustments:** Were my physical assists safe, grounding, and consensual?
 - **Ego Check:** Am I teaching to serve the student (*Karma Yoga*), or am I attached to their progress to validate my own authority?
+
+
+</div>

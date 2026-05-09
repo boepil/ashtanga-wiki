@@ -12,6 +12,9 @@ sources:
   - "ASHTANGA_YOGA_KNOWLEDGE_BASE.pdf, Unknown"
 updated: 2026-05-02
 ---
+<div class="page-wrapper is-asana">
+
+
 
 # Parighasana (Gate Pose)
 
@@ -30,11 +33,11 @@ updated: 2026-05-02
 
 ## Drishti
 Third eye (nasagre/midbrow)
-*(raw PDF)*
+<div class="citation-block">(raw PDF) </div>
 
 ## Movement
 Kneeling on one knee, other leg extended to the side, lateral side stretch over the extended leg.
-*(raw PDF)*
+<div class="citation-block">(raw PDF) </div>
 
 ## Anatomical Focus
 **Primary Muscles Engaged:**
@@ -55,8 +58,8 @@ Kneeling on one knee, other leg extended to the side, lateral side stretch over 
 - **Knee Compression:** "The kneeling knee can become painful if the weight is not distributed through the extended leg." *(ASHTANGA_YOGA_KNOWLEDGE_BASE.pdf, Unknown, p. 358) — Yoga and Human Anatomy*
 
 **Injury Prevention Cues:**
-- "Keep the chest open and facing forward, not looking at the floor." *(raw PDF)*
-- "Rule: Imagine you are between two panes of glass." *(raw PDF)*
+- "Keep the chest open and facing forward, not looking at the floor." <div class="citation-block">(raw PDF) </div>
+- "Rule: Imagine you are between two panes of glass." <div class="citation-block">(raw PDF) </div>
 
 ## Teaching Notes
 "This asana is excellent for people who feel 'stiff' in the sides of the body. it improves breathing by opening the ribcage." 
@@ -73,3 +76,6 @@ Kneeling on one knee, other leg extended to the side, lateral side stretch over 
 - (Ashtanga Yoga Anusthana, Sharath Jois, p. 63) — Yoga Philosophy and Origins
 - (Teaching Yoga Essential Foundations and Techniques, Mark Stephens, p. 814) — Yoga Philosophy and Origins
 - (ASHTANGA_YOGA_KNOWLEDGE_BASE.pdf, Unknown) — Yoga and Human Anatomy
+
+
+</div>

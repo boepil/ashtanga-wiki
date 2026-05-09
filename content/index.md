@@ -1,3 +1,5 @@
+<div class="page-wrapper is-asana">
+
 # Ashtanga Yoga Knowledge Wiki
 
 Welcome to the Ashtanga Yoga Knowledge Wiki.
@@ -29,6 +31,7 @@ Welcome to the Ashtanga Yoga Knowledge Wiki.
 - [[Om]]
 - [[Womens_Practice_Traditions]]
 - [[Sanskrit_Mantras_and_Terminology]]
+- [[The_Bohr_Effect_and_Kumbhaka]] — Cellular oxygenation and the paradox of restricted breathing — (concept, essay-seed) — 12 sources
 
 ## 02. Pranayama
 - [[Pranayama_Overview]]
@@ -100,6 +103,13 @@ Welcome to the Ashtanga Yoga Knowledge Wiki.
 - [[K_Pattabhi_Jois]]
 - [[BKS_Iyengar]]
 
+## Cross-Disciplinary Bridges
+- [[Vagal_Tone_and_Tristana]] — nervous system → contemplative practice
+- [[Tensegrity_and_Deep_Front_Line]] — fascia → energetic yoga concepts
+- [[Tissue_Mechanics_Vinyasa_Count]] — biomechanics → traditional methodology
+- [[Lotus_Protocol_and_Meniscus]] — pathology → structural anatomy
+Note: [[Bohr_Effect_and_Kumbhaka]] — breath physiology → pranayama
+
 ## Compensation Patterns
 - [[Shoulder_Impingement]] — Scapular stability and upward rotation analysis — (compensation-map) — 4 sources
 - [[Chaturanga_Collapse]] — Serratus anterior and core integration analysis — (compensation-map) — 4 sources
@@ -132,3 +142,6 @@ Welcome to the Ashtanga Yoga Knowledge Wiki.
 - [[SI_Joint_Instability_Modifications]] — Stabilizing the pelvis in asymmetric poses
 - [[Breath_Holding_Modifications]] — Maintaining thin, smooth Ujjayi
 
+
+
+</div>

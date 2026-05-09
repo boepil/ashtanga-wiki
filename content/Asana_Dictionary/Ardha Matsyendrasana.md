@@ -12,6 +12,9 @@ sources:
   - "ASHTANGA_YOGA_KNOWLEDGE_BASE.pdf, Unknown"
 updated: 2026-05-02
 ---
+<div class="page-wrapper is-asana">
+
+
 
 # Ardha Matsyendrasana (Half Lord of the Fishes)
 
@@ -30,11 +33,11 @@ updated: 2026-05-02
 
 ## Drishti
 Side (parshva drishti) - looking over the shoulder.
-*(raw PDF)*
+<div class="citation-block">(raw PDF) </div>
 
 ## Movement
 Seated twist, one leg folded under, other leg over, deep bind with arms.
-*(raw PDF)*
+<div class="citation-block">(raw PDF) </div>
 
 ## Anatomical Focus
 **Primary Muscles Engaged:**
@@ -55,8 +58,8 @@ Seated twist, one leg folded under, other leg over, deep bind with arms.
 - **SI Joint Irritation:** "If the hips are not grounded, the twist can migrate into the sacroiliac joint, causing sharp pain." *(ASHTANGA_YOGA_KNOWLEDGE_BASE.pdf, Unknown, p. 268) — Yoga and Human Anatomy*
 
 **Injury Prevention Cues:**
-- "Ensure both sit-bones are firmly on the floor before initiating the twist." *(raw PDF)*
-- "Rule: Always find length on the inhale and depth on the exhale." *(raw PDF)*
+- "Ensure both sit-bones are firmly on the floor before initiating the twist." <div class="citation-block">(raw PDF) </div>
+- "Rule: Always find length on the inhale and depth on the exhale." <div class="citation-block">(raw PDF) </div>
 
 ## Teaching Notes
 "This asana is famous for its detoxifying effects on the liver and kidneys. It is the most complete twist in the Intermediate Series." 
@@ -73,3 +76,6 @@ Seated twist, one leg folded under, other leg over, deep bind with arms.
 - (Ashtanga Yoga Anusthana, Sharath Jois, p. 59) — Yoga Philosophy and Origins
 - (Teaching Yoga Essential Foundations and Techniques, Mark Stephens, p. 805) — Yoga Philosophy and Origins
 - (ASHTANGA_YOGA_KNOWLEDGE_BASE.pdf, Unknown) — Yoga and Human Anatomy
+
+
+</div>

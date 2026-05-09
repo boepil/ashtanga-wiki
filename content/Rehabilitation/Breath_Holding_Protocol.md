@@ -11,9 +11,13 @@ sources:
   - (Broad, Science of Yoga, p. 62-85)
 updated: 2026-05-02
 ---
+<div class="page-wrapper is-rehabilitation">
+
+
 
 # Breath Holding — rehabilitation protocol
 
+![[ChatGPT Image May 9, 2026, 01_22_54 PM.png]]
 ## Overview
 Breath holding under effort (involuntary Kumbhaka) is a sign of high CO2 sensitivity and poor metabolic efficiency (McKeown, The Oxygen Advantage, p. 55). In Ashtanga vinyasa, this manifests as gasping after intense transitions or "locking" the breath to create stability. This protocol retrains the chemoreceptors to tolerate higher levels of CO2, allowing for calm, nasal breathing even under significant physical load (Nestor, Breath, p. 210).
 
@@ -102,3 +106,6 @@ Criteria for progress:
 - (Kaminoff, Leslie, Yoga Anatomy 2nd Edition, p. 124-188) — Yoga Rehab Library
 - (Starrett, Kelly, Becoming a Supple Leopard, p. 44) — Yoga Rehab Library
 - (Broad, William, The Science of Yoga, p. 62-85) — Yoga Rehab Library
+
+
+</div>

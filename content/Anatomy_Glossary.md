@@ -4,6 +4,9 @@ tags: [anatomy, glossary, sanskrit, hebrew]
 sources: [raw/06_ANATOMY/נקודות אנטאטומיות מרכזיות ביוגה.md]
 updated: 2026-04-29
 ---
+<div class="page-wrapper is-asana">
+
+
 
 # Anatomical Glossary
 
@@ -51,3 +54,6 @@ This glossary maps key anatomical points using their Sanskrit, Scientific (Latin
 
 ## Sources
 - `raw/06_ANATOMY/נקודות אנטאטומיות מרכזיות ביוגה.md`
+
+
+</div>

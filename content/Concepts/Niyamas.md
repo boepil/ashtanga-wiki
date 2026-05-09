@@ -3,6 +3,9 @@ title: "Niyamas (Personal Observances)"
 tags: [philosophy, ethics, eight-limbs]
 aliases: [Niyama, Personal Observances, Saucha, Santosha, Tapas, Svadhyaya, Isvara Pranidhana]
 ---
+<div class="page-wrapper is-asana">
+
+
 
 # Niyamas (Personal Observances)
 
@@ -19,3 +22,6 @@ The **Niyamas** constitute the second limb of the [[Eight_Limbs]] of yoga. While
 ## Integration in Practice
 
 The Niyamas are cultivated on the yoga mat through the discipline of showing up consistently (Tapas), maintaining cleanliness of the body and breath (Saucha), observing the mind without judgment (Svadhyaya), finding contentment in one's current physical abilities (Santosha), and surrendering the effort to a higher awareness (Isvara Pranidhana).
+
+
+</div>

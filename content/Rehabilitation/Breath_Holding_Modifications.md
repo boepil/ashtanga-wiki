@@ -10,6 +10,9 @@ sources:
   - (Ashtanga Knowledge Base, p. 256)
 updated: 2026-05-02
 ---
+<div class="page-wrapper is-asana">
+
+
 
 # Breath Holding — asana modifications
 
@@ -41,3 +44,6 @@ Breath holding (involuntary Kumbhaka) usually occurs when the physical demand of
 - [[Ujjayi_Pranayama]]
 - [[Sanskrit_Mantras_and_Terminology#Vinyasa_Count]]
 - [[Uddiyana_Bandha]]
+
+
+</div>

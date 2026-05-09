@@ -1,3 +1,5 @@
+<div class="page-wrapper is-asana">
+
 # Body Mudras (Kaya Mudras)
 
 While hand gestures (*hasta mudras*) work on subtle energy channels in the extremities, body-level mudras (*kaya mudras*) involve the entire physical structure to create a powerful energetic "lock" or "seal."
@@ -25,3 +27,6 @@ Certain postures in the Ashtanga and Hatha traditions are classified specificall
 - **Technique:** An inversion where the legs are held up, often with the pelvis supported by the hands (a gentler variation of Shoulderstand).
 - **Classification:** It is classified as a mudra due to its profound effect on the subtle body's internal fluids.
 - **Effect:** The yogic texts describe a "nectar" (*Amrita*) stored in the head (the moon) that constantly drips down into the navel (the sun), where it is consumed, leading to aging. By inverting the body, *Viparita Karani* prevents this nectar from falling into the fire, thereby preserving vitality, youth, and longevity.
+
+
+</div>

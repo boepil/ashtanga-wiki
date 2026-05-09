@@ -12,6 +12,9 @@ sources:
   - "ASHTANGA_YOGA_KNOWLEDGE_BASE.pdf, Unknown"
 updated: 2026-05-02
 ---
+<div class="page-wrapper is-asana">
+
+
 
 # Mayurasana (Peacock Pose)
 
@@ -30,11 +33,11 @@ updated: 2026-05-02
 
 ## Drishti
 Nose (nasagre)
-*(raw PDF)*
+<div class="citation-block">(raw PDF) </div>
 
 ## Movement
 Arm balance, elbows in abdomen, body horizontal, legs together and straight.
-*(raw PDF)*
+<div class="citation-block">(raw PDF) </div>
 
 ## Anatomical Focus
 **Primary Muscles Engaged:**
@@ -55,8 +58,8 @@ Arm balance, elbows in abdomen, body horizontal, legs together and straight.
 - **Visceral Compression:** "Improper placement of the elbows can cause discomfort or bruising of the internal organs." *(ASHTANGA_YOGA_KNOWLEDGE_BASE.pdf, Unknown, p. 328) — Yoga and Human Anatomy*
 
 **Injury Prevention Cues:**
-- "Keep the elbows close together in the center of the abdomen." *(raw PDF)*
-- "Rule: Lean forward enough so that the head balances the weight of the legs." *(raw PDF)*
+- "Keep the elbows close together in the center of the abdomen." <div class="citation-block">(raw PDF) </div>
+- "Rule: Lean forward enough so that the head balances the weight of the legs." <div class="citation-block">(raw PDF) </div>
 
 ## Teaching Notes
 "Mayurasana is famous for its digestive benefits, as the pressure on the abdomen stimulates the blood flow to the digestive organs. It is said to neutralize poisons in the body." 
@@ -73,3 +76,6 @@ Arm balance, elbows in abdomen, body horizontal, legs together and straight.
 - (Ashtanga Yoga Anusthana, Sharath Jois, p. 62) — Yoga Philosophy and Origins
 - (Teaching Yoga Essential Foundations and Techniques, Mark Stephens, p. 811) — Yoga Philosophy and Origins
 - (ASHTANGA_YOGA_KNOWLEDGE_BASE.pdf, Unknown) — Yoga and Human Anatomy
+
+
+</div>

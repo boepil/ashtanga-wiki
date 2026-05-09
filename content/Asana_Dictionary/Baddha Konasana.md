@@ -12,6 +12,9 @@ sources:
   - "ASHTANGA_YOGA_KNOWLEDGE_BASE.pdf, Unknown"
 updated: 2026-05-02
 ---
+<div class="page-wrapper is-asana">
+
+
 
 # Baddha Konasana (Bound Angle Pose)
 
@@ -33,17 +36,17 @@ updated: 2026-05-02
 *(Yoga Mala, K. Pattabhi Jois, p. 1400) — Yoga Philosophy and Origins*
 
 **Variation B:** "Bend forward to bring forehead to sole of feet." 
-*(raw PDF)*
+<div class="citation-block">(raw PDF) </div>
 
 ## Drishti
 Tip of the nose or third eye
-*(raw PDF)*
+<div class="citation-block">(raw PDF) </div>
 
 ## Movement
 Bring the feet together and close to the perineum, hold the feet with both hands and open the soles out like a book, knees towards the floor.
 **Variation A:** Lean forward, chin to chest (neutral spine).
 **Variation B:** Bend forward to bring forehead to sole of feet (rounded spine).
-*(raw PDF)*
+<div class="citation-block">(raw PDF) </div>
 
 ## Anatomical Focus
 **Primary Muscles Engaged:**
@@ -84,3 +87,6 @@ Bring the feet together and close to the perineum, hold the feet with both hands
 - (Yoga Mala, K. Pattabhi Jois, p. 1400, 1401) — Yoga Philosophy and Origins
 - (Yoga Makaranda, T. Krishnamacharya, p. 93, 1307-1308) — Yoga Philosophy and Origins
 - (ASHTANGA_YOGA_KNOWLEDGE_BASE.pdf, Unknown) — Yoga and Human Anatomy
+
+
+</div>

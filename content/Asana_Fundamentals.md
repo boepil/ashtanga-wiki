@@ -4,6 +4,9 @@ tags: [asana, fundamentals, anatomy, alignment]
 sources: [raw/01_ASANA/Asana_Fundamentals/*]
 updated: 2026-04-29
 ---
+<div class="page-wrapper is-bridge">
+
+
 
 # Asana Fundamentals
 
@@ -54,3 +57,6 @@ Every asana must incorporate the three pillars of attention:
 - `raw/01_ASANA/Asana_Fundamentals/Hip_Openers.md`
 - `raw/01_ASANA/Asana_Fundamentals/Modifications_and_Props.md`
 - `raw/01_ASANA/Asana_Fundamentals/Twists.md`
+
+
+</div>

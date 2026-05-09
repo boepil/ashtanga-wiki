@@ -19,6 +19,9 @@ sources:
   - "B. K. S. Iyengar Yoga: The Path to Holistic Health, B. K. S. Iyengar"
 updated: 2026-04-30
 ---
+<div class="page-wrapper is-asana">
+
+
 
 # Virabhadrasana B (Warrior II Pose)
 
@@ -46,11 +49,11 @@ updated: 2026-04-30
 
 ## Drishti
 Finger tips
-*(raw PDF)*
+<div class="citation-block">(raw PDF) </div>
 
 ## Movement
 (Continuing from Virabhadrasana A), from the left side open the hip to the side, open the arms parallel to the floor, bend the knee over the ankle. Repeat on the right side. hands to the floor, lift the body, jump back...
-*(raw PDF)*
+<div class="citation-block">(raw PDF) </div>
 
 ## Anatomical Focus
 **Primary Muscles Engaged:**
@@ -103,3 +106,6 @@ Finger tips
 - (Your Upper Body, Your Yoga, Bernie Clark, p. 624) — Yoga and Human Anatomy
 - (Your Body, Your Yoga, Bernie Clark, p. 581, 577) — Yoga and Human Anatomy
 - (B. K. S. Iyengar Yoga: The Path to Holistic Health, B. K. S. Iyengar, p. 83, 84, 85) — Yoga and Human Anatomy
+
+
+</div>

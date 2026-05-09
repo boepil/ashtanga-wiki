@@ -12,6 +12,9 @@ sources:
   - "ASHTANGA_YOGA_KNOWLEDGE_BASE.pdf, Unknown"
 updated: 2026-05-02
 ---
+<div class="page-wrapper is-asana">
+
+
 
 # Dhanurasana & Parsva Dhanurasana
 
@@ -36,12 +39,12 @@ updated: 2026-05-02
 
 ## Drishti
 Nose (nasagre)
-*(raw PDF)*
+<div class="citation-block">(raw PDF) </div>
 
 ## Movement
 - **Dhanurasana:** Lying on stomach, holding ankles, body arched.
 - **Parsva Dhanurasana:** Rolling onto the side while maintaining the grip on the ankles.
-*(raw PDF)*
+<div class="citation-block">(raw PDF) </div>
 
 ## Anatomical Focus
 **Primary Muscles Engaged:**
@@ -62,8 +65,8 @@ Nose (nasagre)
 - **Sacroiliac (SI) Joint Strain:** "Uneven pulling in Parsva Dhanurasana can strain the SI joint." *(ASHTANGA_YOGA_KNOWLEDGE_BASE.pdf, Unknown, p. 198) — Yoga and Human Anatomy*
 
 **Injury Prevention Cues:**
-- "Keep the big toes touching to prevent the knees from splaying too wide, which protects the lower back." *(raw PDF)*
-- "Rule: Use the strength of the legs pushing into the hands to create the lift, rather than just pulling with the arms." *(raw PDF)*
+- "Keep the big toes touching to prevent the knees from splaying too wide, which protects the lower back." <div class="citation-block">(raw PDF) </div>
+- "Rule: Use the strength of the legs pushing into the hands to create the lift, rather than just pulling with the arms." <div class="citation-block">(raw PDF) </div>
 
 ## Teaching Notes
 "This asana brings back flexibility to the spine and tones the abdominal organs. It is more intense than Salabhasana because the arms provide leverage." 
@@ -80,3 +83,6 @@ Nose (nasagre)
 - (Ashtanga Yoga Anusthana, Sharath Jois, p. 56) — Yoga Philosophy and Origins
 - (Teaching Yoga Essential Foundations and Techniques, Mark Stephens, p. 798) — Yoga Philosophy and Origins
 - (ASHTANGA_YOGA_KNOWLEDGE_BASE.pdf, Unknown) — Yoga and Human Anatomy
+
+
+</div>

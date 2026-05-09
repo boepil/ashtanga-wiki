@@ -16,6 +16,9 @@ sources:
   - "Your Body, Your Yoga, Bernie Clark"
 updated: 2026-05-02
 ---
+<div class="page-wrapper is-asana">
+
+
 
 # Marichyasana (Sage Marichi Pose)
 
@@ -32,7 +35,7 @@ updated: 2026-05-02
 *(Yoga Makaranda, T. Krishnamacharya, p. 1499) — Yoga Philosophy and Origins*
 
 **Sanskrit Breakdown:** *Marīci* (מארִיצ’י) means "Ray of Light" (of the sun). Marichi is one of the *Sapta-Rishi* (seven ancient sages).
-*(raw PDF)*
+<div class="citation-block">(raw PDF) </div>
 
 ## Vinyasa Count & Entry
 "The first and second forms of the asana (A & B) have twenty-two vinyasas, and the third and fourth (C & D) have eighteen vinyasas each." 
@@ -59,14 +62,14 @@ updated: 2026-05-02
 - **B:** Tip of the nose
 - **C:** To the right side (or left when repeating)
 - **D:** To the right side (or left when repeating)
-*(raw PDF)*
+<div class="citation-block">(raw PDF) </div>
 
 ## Movement
 **Variation A:** Right knee bent, foot four fingers away from thigh, wrap right arm around bent leg, grab left wrist behind back, fold forward, chin to shin.
 **Variation B:** Left leg in Padmasana, right knee bent, wrap right arm around right leg, grab left wrist, bend forward, chin to shin.
 **Variation C:** Right knee bent, twist & wrap left arm around right leg, grab right wrist.
 **Variation D:** Left leg in Padmasana, right knee bent, wrap left arm around right leg, grab right wrist.
-*(raw PDF)*
+<div class="citation-block">(raw PDF) </div>
 
 ## Anatomical Focus
 **Primary Muscles Engaged:**
@@ -111,3 +114,6 @@ updated: 2026-05-02
 - (Key Muscles of Yoga, Ray Long, p. 200, 225, 194, 218) — Yoga and Human Anatomy
 - (Science of Yoga, Ann Swanson, p. 301) — Yoga and Human Anatomy
 - (Your Body, Your Yoga, Bernie Clark, p. 582) — Yoga and Human Anatomy
+
+
+</div>

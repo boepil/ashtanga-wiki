@@ -1,3 +1,5 @@
+<div class="page-wrapper is-asana">
+
 # Uddiyana Bandha (Upward Flying Lock)
 
 Derived from the Sanskrit for "flying up" or "soaring," *Uddiyana Bandha* is a sophisticated seal that manipulates the internal pressure of the torso by drawing the abdominal organs upward and backward.
@@ -32,3 +34,6 @@ Traditionally, the full Uddiyana Bandha is practiced as a standalone *kriya* (cl
 
 - **Empty Stomach:** The most critical requirement. It must be practiced after fasting (ideally first thing in the morning) so the organs can move freely without food or waste.
 - **Progression:** Beginners should master *Mula Bandha* and *Jalandhara Bandha* first, as Uddiyana is significantly more intense. Standing Uddiyana is the easiest version to learn due to gravity assistance.
+
+
+</div>

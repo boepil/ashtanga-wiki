@@ -8,6 +8,9 @@ sources:
   - "Yoga and Human Anatomy [via NotebookLM]"
 updated: 2026-05-02
 ---
+<div class="page-wrapper is-compensation">
+
+
 
 # Nervous System Dysregulation in Practice
 
@@ -57,3 +60,6 @@ Practitioners often mistake "sweating and pushing" for progress. While heat is a
 - (Ujjayi as a Barometer, p. 543) — Yoga and Human Anatomy
 - (Vagal Tone and Breath, p. 38) — Yoga and Human Anatomy
 - (Sthira Sukham Asanam, p. 11) — wiki/Concepts/Asana.md
+
+
+</div>

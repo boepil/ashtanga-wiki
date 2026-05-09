@@ -16,6 +16,9 @@ sources:
   - "Your Body, Your Yoga, Bernie Clark"
 updated: 2026-04-30
 ---
+<div class="page-wrapper is-asana">
+
+
 
 # Pada Hastasana (Hands to Feet Pose)
 
@@ -41,12 +44,12 @@ updated: 2026-04-30
 
 ## Drishti
 third eye or tip of the nose (A) / tip of the nose (B)
-*(raw PDF)*
+<div class="citation-block">(raw PDF) </div>
 
 ## Movement
 A: feet hip distance apart, spine straight, chest open, slide hand under feet.
 B: slide hands under feet (the rest as in Padangusthasana-B).
-*(raw PDF)*
+<div class="citation-block">(raw PDF) </div>
 
 ## Anatomical Focus
 **Primary Muscles Engaged:**
@@ -99,3 +102,6 @@ B: slide hands under feet (the rest as in Padangusthasana-B).
 - (Science of Yoga, Ann Swanson) — Yoga and Human Anatomy
 - (Yoga of the Subtle Body, Tias Little) — Yoga and Human Anatomy
 - (Your Body, Your Yoga, Bernie Clark) — Yoga and Human Anatomy
+
+
+</div>

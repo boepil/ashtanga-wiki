@@ -1,3 +1,5 @@
+<div class="page-wrapper is-asana">
+
 # Hand Mudras (Hasta Mudras)
 
 *Hasta Mudras* are symbolic hand gestures used primarily during meditation and *pranayama*. They act as closed circuits, looping the subtle energy (*prana*) that would normally flow out of the fingertips back into the body.
@@ -42,3 +44,6 @@ Also known as *Jnana Mudra*, this gesture is physically similar to Chin Mudra bu
 
 ## 5. Mrigi Mudra (Deer Seal)
 Often used interchangeably with Vishnu Mudra in some lineages for Pranayama. It involves folding the index and middle fingers in, extending the thumb, ring, and pinky to manipulate the nostrils and regulate the *Prana* moving through the *Ida* and *Pingala* channels.
+
+
+</div>

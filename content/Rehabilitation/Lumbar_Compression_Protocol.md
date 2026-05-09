@@ -11,9 +11,13 @@ sources:
   - (Myers, Anatomy Trains, p. 536-563)
 updated: 2026-05-02
 ---
+<div class="page-wrapper is-rehabilitation">
+
+
 
 # Lumbar Compression — rehabilitation protocol
 
+![[ChatGPT Image May 9, 2026, 01_31_47 PM.png]]
 ## Overview
 This protocol addresses "local hinge faults" where individual lumbar vertebrae bend independently, creating shear forces and disc compression (Starrett, Becoming a Supple Leopard, p. 54). In Ashtanga, this is most common during backbends (Urdhva Dhanurasana) or when "dropping back" without adequate hip extension. The goal is to build spinal stiffness through the "McGill Big 3" (McGill, Back Mechanic, p. 333) and restore the "S-shape" curve of the spine through axial extension and decompression breathing (Kaminoff, Yoga Anatomy, p. 237; Goodman, Foundation, p. 241).
 
@@ -118,3 +122,6 @@ Criteria for progress:
 - (Starrett, Kelly, Becoming a Supple Leopard, p. 28-55) — Yoga Rehab Library
 - (Kaminoff, Leslie, Yoga Anatomy 2nd Edition, p. 237-250) — Yoga Rehab Library
 - (Myers, Thomas, Anatomy Trains 4th Edition, p. 536-563) — Yoga Rehab Library
+
+
+</div>

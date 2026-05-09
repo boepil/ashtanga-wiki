@@ -4,6 +4,9 @@ tags: [anatomy, endocrine, inversions, thyroid, pituitary]
 sources: []
 updated: 2026-04-29
 ---
+<div class="page-wrapper is-bridge">
+
+
 
 # Endocrine System and Inversions
 
@@ -43,3 +46,6 @@ Modern science emphasizes the body's strict autoregulation mechanisms, particula
 - Sally Parkes, *The Manual of Yoga Anatomy* [via NotebookLM - Yoga and Human Anatomy]
 - Tias Little, *Yoga of the Subtle Body* [via NotebookLM - Yoga and Human Anatomy]
 - Andrew McGonigle and Matthew Huy, *The Physiology of Yoga* [via NotebookLM - Yoga and Human Anatomy]
+
+
+</div>

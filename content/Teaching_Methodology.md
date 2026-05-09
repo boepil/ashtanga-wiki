@@ -1,3 +1,5 @@
+<div class="page-wrapper is-asana">
+
 # Teaching Methodology Overview
 
 Teaching Ashtanga Yoga requires a delicate balance between upholding the rigid traditional sequences (**Paramparā**) and employing responsive pedagogy tailored to the individual (**Viniyoga**). The role of the teacher is not merely to instruct physical shapes, but to facilitate a process of self-discovery, utilizing the mat as a laboratory for the student's internal transformation.
@@ -42,3 +44,6 @@ Effective teaching requires managing the subtle energy (*prana*) of both the ind
 - **Returning to the Source:** Studying in Mysore (Mysuru) or with senior authorized teachers.
 - **Specialized Workshops:** Training in hands-on adjustments, functional anatomy, and scriptural study (*Yoga Sutras*, *Bhagavad Gita*).
 - **Svādhyāya (Self-Study):** Scholarly study is the "education of the self," internalizing ennobling thoughts to manifest in character.
+
+
+</div>

@@ -12,6 +12,9 @@ sources:
   - "ASHTANGA_YOGA_KNOWLEDGE_BASE.pdf, Unknown"
 updated: 2026-05-02
 ---
+<div class="page-wrapper is-asana">
+
+
 
 # Halasana (Plow Pose)
 
@@ -33,11 +36,11 @@ updated: 2026-05-02
 
 ## Drishti
 Tip of the nose
-*(raw PDF)*
+<div class="citation-block">(raw PDF) </div>
 
 ## Movement
 Bring the legs over the head to the floor, feet together and pointed, arms on the floor, fingers interlaced.
-*(raw PDF)*
+<div class="citation-block">(raw PDF) </div>
 
 ## Anatomical Focus
 **Primary Muscles Engaged:**
@@ -61,8 +64,8 @@ Practice begins with a "firm chinlock" (Jalandhara Bandha) established in Sarvan
 - **Lumbar Tension:** "Collapsing the back instead of lifting the sit bones can cause excessive pressure in the lumbar spine." *(ASHTANGA_YOGA_KNOWLEDGE_BASE.pdf, Unknown, p. 102) — Yoga and Human Anatomy*
 
 **Injury Prevention Cues:**
-- "Interlace the fingers and press the arms into the floor to lift the trunk and create space for the neck." *(raw PDF)*
-- "Rule: Keep the gaze fixed on the nose and never turn the head side-to-side while in the pose." *(raw PDF)*
+- "Interlace the fingers and press the arms into the floor to lift the trunk and create space for the neck." <div class="citation-block">(raw PDF) </div>
+- "Rule: Keep the gaze fixed on the nose and never turn the head side-to-side while in the pose." <div class="citation-block">(raw PDF) </div>
 
 ## Teaching Notes
 "This asana rejuvenates the abdominal organs and helps relieve backaches by stretching the entire posterior chain." 
@@ -79,3 +82,6 @@ Practice begins with a "firm chinlock" (Jalandhara Bandha) established in Sarvan
 - (Ashtanga Yoga Anusthana, Sharath Jois, p. 48) — Yoga Philosophy and Origins
 - (Yoga Makaranda, T. Krishnamacharya, p. 1341) — Yoga Philosophy and Origins
 - (ASHTANGA_YOGA_KNOWLEDGE_BASE.pdf, Unknown) — Yoga and Human Anatomy
+
+
+</div>

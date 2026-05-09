@@ -12,6 +12,9 @@ sources:
   - "ASHTANGA_YOGA_KNOWLEDGE_BASE.pdf, Unknown"
 updated: 2026-05-02
 ---
+<div class="page-wrapper is-asana">
+
+
 
 # Matsyasana (Fish Pose)
 
@@ -33,11 +36,11 @@ updated: 2026-05-02
 
 ## Drishti
 Third eye
-*(raw PDF)*
+<div class="citation-block">(raw PDF) </div>
 
 ## Movement
 Legs in Padmasana, chest lifted, the crown of the head on the floor, hold the big toes.
-*(raw PDF)*
+<div class="citation-block">(raw PDF) </div>
 
 ## Anatomical Focus
 **Primary Muscles Engaged:**
@@ -58,8 +61,8 @@ Legs in Padmasana, chest lifted, the crown of the head on the floor, hold the bi
 - **Knee Strain:** "If Padmasana is forced, the internal rotation required can strain the knee ligaments." *(ASHTANGA_YOGA_KNOWLEDGE_BASE.pdf, Unknown, p. 122) — Yoga and Human Anatomy*
 
 **Injury Prevention Cues:**
-- "Ensure the lift comes from the thoracic spine and the shoulder blades moving together, rather than just tilting the head back." *(raw PDF)*
-- "Rule: Keep the weight distributed between the hips and the crown of the head, with minimal pressure on the neck." *(raw PDF)*
+- "Ensure the lift comes from the thoracic spine and the shoulder blades moving together, rather than just tilting the head back." <div class="citation-block">(raw PDF) </div>
+- "Rule: Keep the weight distributed between the hips and the crown of the head, with minimal pressure on the neck." <div class="citation-block">(raw PDF) </div>
 
 ## Teaching Notes
 "This asana is the counter-pose to the deep flexion of the shoulderstand sequence, helping to reset the cervical spine and expand the lungs." 
@@ -76,3 +79,6 @@ Legs in Padmasana, chest lifted, the crown of the head on the floor, hold the bi
 - (Ashtanga Yoga Anusthana, Sharath Jois, p. 50) — Yoga Philosophy and Origins
 - (Teaching Yoga Essential Foundations and Techniques, Mark Stephens, p. 789) — Yoga Philosophy and Origins
 - (ASHTANGA_YOGA_KNOWLEDGE_BASE.pdf, Unknown) — Yoga and Human Anatomy
+
+
+</div>

@@ -4,6 +4,9 @@ tags: [asana, intermediate-series, nadi-shodhana]
 sources: [raw/01_ASANA/2. Intermediate_Series_(Nadi_Shodhana)/*]
 updated: 2026-04-29
 ---
+<div class="page-wrapper is-asana">
+
+
 
 # Intermediate Series (Nadi Shodhana)
 
@@ -61,3 +64,6 @@ Practicing Nadi Shodhana is deeply heating and can release stored emotions or ps
 
 ## Sources
 - `raw/01_ASANA/2. Intermediate_Series_(Nadi_Shodhana)/2. Intermediate_Series_(Nadi_Shodhana).md`
+
+
+</div>

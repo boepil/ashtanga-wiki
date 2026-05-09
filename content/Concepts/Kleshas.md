@@ -3,6 +3,9 @@ title: "The Five Kleshas"
 tags: [philosophy, yoga-sutras]
 aliases: [Kleshas, Afflictions, Avidya]
 ---
+<div class="page-wrapper is-asana">
+
+
 
 # The Five Kleshas
 
@@ -19,3 +22,6 @@ The **Kleshas** are the five mental afflictions or obstacles identified by Pata√
 ## Integration in Practice
 
 Yoga provides a methodology to attenuate the kleshas. By engaging in Kriya Yoga (action yoga consisting of *Tapas*, *Svadhyaya*, and *Isvara Pranidhana* from the [[Niyamas]]), the practitioner weakens the grip of these afflictions. The ultimate eradication of the kleshas occurs through deep meditation ([[Dhyana]]) and the dawn of true discernment (*viveka*).
+
+
+</div>

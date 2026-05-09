@@ -17,6 +17,9 @@ sources:
   - "Your Body, Your Yoga, Bernie Clark"
 updated: 2026-04-30
 ---
+<div class="page-wrapper is-asana">
+
+
 
 # Utkatasana (Chair Pose)
 
@@ -44,11 +47,11 @@ updated: 2026-04-30
 
 ## Drishti
 Thumbs
-*(raw PDF)*
+<div class="citation-block">(raw PDF) </div>
 
 ## Movement
 Bend knees, raise arms up, palms together.
-*(raw PDF)*
+<div class="citation-block">(raw PDF) </div>
 
 ## Anatomical Focus
 **Primary Muscles Engaged:**
@@ -99,3 +102,6 @@ Bend knees, raise arms up, palms together.
 - (Yoga Mat Companion 1, Ray Long, p. 83, 84, 82) — Yoga and Human Anatomy
 - (ASHTANGA_YOGA_KNOWLEDGE_BASE.pdf, Unknown, p. 8, 30, 40) — Yoga and Human Anatomy
 - (Your Body, Your Yoga, Bernie Clark, p. 180, 184) — Yoga and Human Anatomy
+
+
+</div>

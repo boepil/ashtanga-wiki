@@ -4,6 +4,9 @@ tags: [asana, finishing-sequence, primary-series]
 sources: [raw/01_ASANA/1. Primary_Series_(Sanskrit Name-English Meaning)/Finishing_Sequence/*]
 updated: 2026-04-29
 ---
+<div class="page-wrapper is-asana">
+
+
 
 # Finishing Sequence
 
@@ -42,3 +45,6 @@ The sequence progresses through several distinct energetic shifts:
 - `raw/01_ASANA/1. Primary_Series_(Sanskrit Name-English Meaning)/Finishing_Sequence/Final_Rest_(Savasana).md`
 - `raw/01_ASANA/1. Primary_Series_(Sanskrit Name-English Meaning)/Finishing_Sequence/Salamba Sarvangasana.md`
 - `raw/01_ASANA/1. Primary_Series_(Sanskrit Name-English Meaning)/Finishing_Sequence/Headstand_Preparation.md`
+
+
+</div>

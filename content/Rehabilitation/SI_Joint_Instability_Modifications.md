@@ -9,6 +9,9 @@ sources:
   - "Yoga and Human Anatomy [via NotebookLM]"
 updated: 2026-05-02
 ---
+<div class="page-wrapper is-asana">
+
+
 
 # SI joint instability — asana modifications
 
@@ -63,3 +66,6 @@ The SI joint is considered stable when the practitioner can perform **Utthita Ha
 - (Shearing Prevention in Twists, p. 11) — Yoga and Human Anatomy
 - (Symmetrical Loading Benefits, p. 883) — Yoga and Human Anatomy
 - (Hip Abductor Roles, p. 1700) — Yoga and Human Anatomy
+
+
+</div>

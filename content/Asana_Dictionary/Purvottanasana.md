@@ -15,6 +15,9 @@ sources:
   - "Your Upper Body, Your Yoga, Bernie Clark"
 updated: 2026-04-30
 ---
+<div class="page-wrapper is-asana">
+
+
 
 # Purvottanasana (Intense East Stretch Pose)
 
@@ -42,11 +45,11 @@ updated: 2026-04-30
 
 ## Drishti
 Third eye or tip of nose
-*(raw PDF)*
+<div class="citation-block">(raw PDF) </div>
 
 ## Movement
 Hands behind hips (20 to 30 cm) fingers pointing towards the feet, lift the hips up, weight on the hands and feet, feet together, bring the toes to the floor.
-*(raw PDF)*
+<div class="citation-block">(raw PDF) </div>
 
 ## Anatomical Focus
 **Primary Muscles Engaged:**
@@ -95,3 +98,6 @@ Hands behind hips (20 to 30 cm) fingers pointing towards the feet, lift the hips
 - (Yoga Mat Companion 3, Ray Long, p. 104-105, 109, 103, 9, 106, 108, 102) — Yoga and Human Anatomy
 - (ASHTANGA_YOGA_KNOWLEDGE_BASE.pdf, Unknown, p. 77) — Yoga and Human Anatomy
 - (Your Upper Body, Your Yoga, Bernie Clark, p. 604) — Yoga and Human Anatomy
+
+
+</div>

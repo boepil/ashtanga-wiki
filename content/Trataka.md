@@ -1,3 +1,5 @@
+<div class="page-wrapper is-asana">
+
 # Trataka (Concentrated Gazing)
 
 *Trāṭaka* is the Shatkarma of concentrated gazing. It is a dual-purpose practice designed to cleanse the physical eyes and simultaneously steady the mind, serving as a bridge between physical purification and deep meditation.
@@ -25,3 +27,6 @@ Performed with the eyes closed, the internal gaze is focused either on the tip o
 
 - **Eye Conditions:** Individuals with glaucoma, a displaced retina, or active eye infections (pus) should avoid forceful gazing.
 - **Initial Discomfort:** Beginners may feel a slight burning sensation or experience heavy tearing; this is a normal part of the cleansing process and subsides as the ocular muscles strengthen.
+
+
+</div>

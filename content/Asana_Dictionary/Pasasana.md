@@ -12,6 +12,9 @@ sources:
   - "ASHTANGA_YOGA_KNOWLEDGE_BASE.pdf, Unknown"
 updated: 2026-05-02
 ---
+<div class="page-wrapper is-asana">
+
+
 
 # Pasasana (Noose Pose)
 
@@ -34,7 +37,7 @@ Nose (nasagre). Iyengar instructs to "gaze back."
 
 ## Movement
 Squatting twist, heels on the ground, arms bound around the knees.
-*(raw PDF)*
+<div class="citation-block">(raw PDF) </div>
 
 ## Anatomical Focus
 **Primary Muscles Engaged:**
@@ -55,8 +58,8 @@ Squatting twist, heels on the ground, arms bound around the knees.
 - **Spinal Compression:** "Twisting without enough vertical length can compress the intervertebral discs." *(ASHTANGA_YOGA_KNOWLEDGE_BASE.pdf, Unknown, p. 172) — Yoga and Human Anatomy*
 
 **Injury Prevention Cues:**
-- "Keep the heels firmly on the floor. If they lift, place a folded blanket or mat under them." *(raw PDF)*
-- "Rule: Elongate the spine on the inhalation before deepening the twist on the exhalation." *(raw PDF)*
+- "Keep the heels firmly on the floor. If they lift, place a folded blanket or mat under them." <div class="citation-block">(raw PDF) </div>
+- "Rule: Elongate the spine on the inhalation before deepening the twist on the exhalation." <div class="citation-block">(raw PDF) </div>
 
 ## Teaching Notes
 "Pasasana stimulates the abdominal organs and helps to correct the alignment of the spine after the intense forward folds of the Primary Series." 
@@ -73,3 +76,6 @@ Squatting twist, heels on the ground, arms bound around the knees.
 - (Ashtanga Yoga Anusthana, Sharath Jois, p. 55) — Yoga Philosophy and Origins
 - (Teaching Yoga Essential Foundations and Techniques, Mark Stephens, p. 794) — Yoga Philosophy and Origins
 - (ASHTANGA_YOGA_KNOWLEDGE_BASE.pdf, Unknown) — Yoga and Human Anatomy
+
+
+</div>

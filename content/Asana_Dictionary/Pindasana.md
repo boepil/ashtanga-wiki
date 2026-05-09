@@ -12,6 +12,9 @@ sources:
   - "ASHTANGA_YOGA_KNOWLEDGE_BASE.pdf, Unknown"
 updated: 2026-05-02
 ---
+<div class="page-wrapper is-asana">
+
+
 
 # Pindasana (Embryo Pose)
 
@@ -33,11 +36,11 @@ updated: 2026-05-02
 
 ## Drishti
 Tip of the nose
-*(raw PDF)*
+<div class="citation-block">(raw PDF) </div>
 
 ## Movement
 Legs in Padmasana, bring the knees to the chest, wrap the arms around, clasp the hands together, avoid pressure on neck.
-*(raw PDF)*
+<div class="citation-block">(raw PDF) </div>
 
 ## Anatomical Focus
 **Primary Muscles Engaged:**
@@ -61,8 +64,8 @@ Legs in Padmasana, bring the knees to the chest, wrap the arms around, clasp the
 - **Chest Restriction:** "The intense compression of the torso can restrict breathing if the student is not calm." *(ASHTANGA_YOGA_KNOWLEDGE_BASE.pdf, Unknown, p. 118) — Yoga and Human Anatomy*
 
 **Injury Prevention Cues:**
-- "Clasp the hands or wrists around the legs to maintain the balance on the shoulders, not the neck." *(raw PDF)*
-- "Rule: Focus on keeping the weight centered over the shoulder blades throughout the hold." *(raw PDF)*
+- "Clasp the hands or wrists around the legs to maintain the balance on the shoulders, not the neck." <div class="citation-block">(raw PDF) </div>
+- "Rule: Focus on keeping the weight centered over the shoulder blades throughout the hold." <div class="citation-block">(raw PDF) </div>
 
 ## Teaching Notes
 "This posture massages the abdominal organs and helps to quiet the mind through the physical sensation of containment." 
@@ -79,3 +82,6 @@ Legs in Padmasana, bring the knees to the chest, wrap the arms around, clasp the
 - (Ashtanga Yoga Anusthana, Sharath Jois, p. 49) — Yoga Philosophy and Origins
 - (Teaching Yoga Essential Foundations and Techniques, Mark Stephens, p. 788) — Yoga Philosophy and Origins
 - (ASHTANGA_YOGA_KNOWLEDGE_BASE.pdf, Unknown) — Yoga and Human Anatomy
+
+
+</div>

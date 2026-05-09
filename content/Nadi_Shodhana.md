@@ -1,3 +1,5 @@
+<div class="page-wrapper is-asana">
+
 # Nadi Shodhana (Alternate Nostril Breathing)
 
 *Nadi Shodhana* (*Nadi* = channel; *Shodhana* = purification) is a fundamental pranayama technique designed to clear the subtle energy channels and balance the left and right hemispheres of the brain.
@@ -34,3 +36,6 @@ This completes one full cycle. A typical practice consists of 5 to 10 cycles.
 - **No Retention for Beginners:** Alternate nostril breathing should initially be practiced without breath holding. 
 - **Contraindications:** Individuals with high blood pressure or cardiovascular issues should strictly avoid *Kumbhaka* (retention) ratios, practicing only the continuous flow of Anuloma Viloma.
 - **No Force:** If a nostril is naturally blocked due to a cold or deviated septum, the practice should not be forced.
+
+
+</div>

@@ -4,6 +4,9 @@ tags: [mantra, sanskrit, tradition, lineage]
 sources: []
 updated: 2026-04-29
 ---
+<div class="page-wrapper is-bridge">
+
+
 
 # Sanskrit Mantras and Terminology
 
@@ -57,3 +60,6 @@ The standardization of Ashtanga relies heavily on the exact Sanskrit count (Ekam
 - Mark Singleton, *Yoga Body: The Origins of Modern Posture Practice* [via NotebookLM - Yoga Philosophy and Origins]
 - T. Krishnamacharya, *Yoga Makaranda* [via NotebookLM - Yoga Philosophy and Origins]
 - `raw/01_ASANA/קרישנמצריה מלמד סדרה ראשונה.md` [via NotebookLM - Yoga Philosophy and Origins]
+
+
+</div>

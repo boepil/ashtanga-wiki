@@ -12,6 +12,9 @@ sources:
   - "ASHTANGA_YOGA_KNOWLEDGE_BASE.pdf, Unknown"
 updated: 2026-05-02
 ---
+<div class="page-wrapper is-asana">
+
+
 
 # Krounchasana (Heron Pose)
 
@@ -37,7 +40,7 @@ Toes (padayoragra). Yoga Makaranda defaults to midbrow if unspecified.
 
 ## Movement
 One leg in Virasana (bent back by hip), other leg straight and pulled towards the face. Chin to knee.
-*(raw PDF)*
+<div class="citation-block">(raw PDF) </div>
 
 ## Anatomical Focus
 **Primary Muscles Engaged:**
@@ -58,8 +61,8 @@ One leg in Virasana (bent back by hip), other leg straight and pulled towards th
 - **Hamstring Tear:** "Aggressively pulling the straight leg towards the face without sufficient warmth can cause micro-tears at the ischial tuberosity (sit-bone)." *(ASHTANGA_YOGA_KNOWLEDGE_BASE.pdf, Unknown, p. 178) — Yoga and Human Anatomy*
 
 **Injury Prevention Cues:**
-- "Ensure the knees are touching. If the Virasana hip is lifting, sit on a block or blanket." *(raw PDF)*
-- "Rule: Focus on keeping the spine long rather than rounding to touch the chin to the knee." *(raw PDF)*
+- "Ensure the knees are touching. If the Virasana hip is lifting, sit on a block or blanket." <div class="citation-block">(raw PDF) </div>
+- "Rule: Focus on keeping the spine long rather than rounding to touch the chin to the knee." <div class="citation-block">(raw PDF) </div>
 
 ## Teaching Notes
 "This asana effectively combines the opening of Virasana with the deep hamstring stretch of Paschimottanasana, targeting the entire lower body." 
@@ -75,3 +78,6 @@ One leg in Virasana (bent back by hip), other leg straight and pulled towards th
 - (Ashtanga Yoga Anusthana, Sharath Jois, p. 55) — Yoga Philosophy and Origins
 - (Teaching Yoga Essential Foundations and Techniques, Mark Stephens, p. 795) — Yoga Philosophy and Origins
 - (ASHTANGA_YOGA_KNOWLEDGE_BASE.pdf, Unknown) — Yoga and Human Anatomy
+
+
+</div>

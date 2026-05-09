@@ -12,6 +12,9 @@ sources:
   - "ASHTANGA_YOGA_KNOWLEDGE_BASE.pdf, Unknown"
 updated: 2026-05-02
 ---
+<div class="page-wrapper is-asana">
+
+
 
 # Supta Konasana (Reclining Angle Pose)
 
@@ -33,11 +36,11 @@ updated: 2026-05-02
 
 ## Drishti
 Tip of the nose
-*(raw PDF)*
+<div class="citation-block">(raw PDF) </div>
 
 ## Movement
 From lying down position with inhalation lift the legs over the head, rock back to the floor, legs wide apart, lengthen spine upwards, avoid pressure on neck. Roll forward into a seated position.
-*(raw PDF)*
+<div class="citation-block">(raw PDF) </div>
 
 ## Anatomical Focus
 **Primary Muscles Engaged:**
@@ -61,7 +64,7 @@ From lying down position with inhalation lift the legs over the head, rock back 
 - **Lower Back Strain:** "Rounding the lower back aggressively during the roll forward can strain the lumbar ligaments." *(ASHTANGA_YOGA_KNOWLEDGE_BASE.pdf, Unknown, p. 88) — Yoga and Human Anatomy*
 
 **Injury Prevention Cues:**
-- "Avoid pressure on the neck. Use the strength of the arms to stabilize the roll." *(raw PDF)*
+- "Avoid pressure on the neck. Use the strength of the arms to stabilize the roll." <div class="citation-block">(raw PDF) </div>
 - "Engage the core completely to control the momentum of the roll, ensuring a smooth transition to the seated position." *(ASHTANGA_YOGA_KNOWLEDGE_BASE.pdf, Unknown, p. 145) — Yoga and Human Anatomy*
 
 ## Teaching Notes
@@ -78,3 +81,6 @@ From lying down position with inhalation lift the legs over the head, rock back 
 - (Yoga Mala, K. Pattabhi Jois, p. 1404, 1405) — Yoga Philosophy and Origins
 - (Yoga Makaranda, T. Krishnamacharya, p. 99, 1326, 1327) — Yoga Philosophy and Origins
 - (ASHTANGA_YOGA_KNOWLEDGE_BASE.pdf, Unknown) — Yoga and Human Anatomy
+
+
+</div>

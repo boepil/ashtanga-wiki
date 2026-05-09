@@ -4,6 +4,9 @@ tags: [anatomy, biomechanics, joint-stability, safety]
 sources: [raw/06_ANATOMY/01_Foundational_Systems/01_Skeletal/Joint_Stability/*]
 updated: 2026-04-29
 ---
+<div class="page-wrapper is-bridge">
+
+
 
 # Joint Stability and Mechanics
 
@@ -49,3 +52,6 @@ The most mobile joint complex in the body, presenting unique challenges in weigh
 - `raw/06_ANATOMY/01_Foundational_Systems/01_Skeletal/Joint_Stability/Knee_and_Ankle_Stability.md`
 - `raw/06_ANATOMY/01_Foundational_Systems/01_Skeletal/Joint_Stability/Shoulder_Joint_Actions.md`
 - `raw/06_ANATOMY/01_Foundational_Systems/01_Skeletal/Joint_Stability/Spinal_Movement_Patterns.md`
+
+
+</div>

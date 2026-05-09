@@ -12,6 +12,9 @@ sources:
   - "ASHTANGA_YOGA_KNOWLEDGE_BASE.pdf, Unknown"
 updated: 2026-05-02
 ---
+<div class="page-wrapper is-asana">
+
+
 
 # Sirsasana (Headstand)
 
@@ -24,11 +27,11 @@ updated: 2026-05-02
 ## Variations
 ### Sirsasana A
 Crown of the head on the floor, hands clasped together behind the head, legs straight and up, forearm firmly engaged on the mat.
-*(raw PDF)*
+<div class="citation-block">(raw PDF) </div>
 
 ### Sirsasana B (Ardha Sirsasana)
 From Sirsasana-A, bring straight legs down parallel to the ground (90 degrees). Rest other movement like Sirsasana – A.
-*(raw PDF)*
+<div class="citation-block">(raw PDF) </div>
 
 ## Vinyasa Count & Entry
 "Sirsasana has four vinyasas. The 3rd is the state of the asana." 
@@ -39,7 +42,7 @@ From Sirsasana-A, bring straight legs down parallel to the ground (90 degrees). 
 
 ## Drishti
 Tip of the nose
-*(raw PDF)*
+<div class="citation-block">(raw PDF) </div>
 
 ## Anatomical Focus
 **Primary Muscles Engaged:**
@@ -63,8 +66,8 @@ Tip of the nose
 - **Lumbar Arching:** "A weak core leads to a 'banana back,' which strains the lumbar spine and destabilizes the pose." *(ASHTANGA_YOGA_KNOWLEDGE_BASE.pdf, Unknown, p. 132) — Yoga and Human Anatomy*
 
 **Injury Prevention Cues:**
-- "Ensure 80-90% of the weight is on the forearms and only 10-20% on the head." *(raw PDF)*
-- "Rule: If the neck feels any sharp pain or compression, come down immediately and rest in Balasana (Child's Pose)." *(raw PDF)*
+- "Ensure 80-90% of the weight is on the forearms and only 10-20% on the head." <div class="citation-block">(raw PDF) </div>
+- "Rule: If the neck feels any sharp pain or compression, come down immediately and rest in Balasana (Child's Pose)." <div class="citation-block">(raw PDF) </div>
 
 ## Teaching Notes
 "Known as the 'King of Asanas' because it increases blood flow to the brain, stimulating the pituitary and pineal glands, which govern growth and health." 
@@ -81,3 +84,6 @@ Tip of the nose
 - (Ashtanga Yoga Anusthana, Sharath Jois, p. 51) — Yoga Philosophy and Origins
 - (Teaching Yoga Essential Foundations and Techniques, Mark Stephens, p. 790) — Yoga Philosophy and Origins
 - (ASHTANGA_YOGA_KNOWLEDGE_BASE.pdf, Unknown) — Yoga and Human Anatomy
+
+
+</div>

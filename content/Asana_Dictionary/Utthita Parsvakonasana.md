@@ -18,6 +18,9 @@ sources:
   - "The Physiology of Yoga, Andrew McGonigle and Matthew Huy"
 updated: 2026-04-30
 ---
+<div class="page-wrapper is-asana">
+
+
 
 # Utthita Parsvakonasana (Extended Side Angle Pose)
 
@@ -42,11 +45,11 @@ updated: 2026-04-30
 
 ## Drishti
 Finger tip of the left hand
-*(raw PDF)*
+<div class="citation-block">(raw PDF) </div>
 
 ## Movement
 Feet 4ft apart, bend the right knee over the ankle, bring right hand to the floor outside the right foot, chest open, left arm extended in line with the ear, back foot firm on the mat. Repeat on the left side.
-*(raw PDF)*
+<div class="citation-block">(raw PDF) </div>
 
 ## Anatomical Focus
 **Primary Muscles Engaged:**
@@ -95,3 +98,6 @@ Feet 4ft apart, bend the right knee over the ankle, bring right hand to the floo
 - (Your Body, Your Yoga, Bernie Clark, p. 567, 565) — Yoga and Human Anatomy
 - (Identifying Postural Imbalances, Vayu Jung Doohwa, p. 228) — Yoga and Human Anatomy
 - (The Physiology of Yoga, Andrew McGonigle and Matthew Huy, p. 403) — Yoga and Human Anatomy
+
+
+</div>

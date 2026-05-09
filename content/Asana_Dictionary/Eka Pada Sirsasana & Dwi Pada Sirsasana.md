@@ -12,6 +12,9 @@ sources:
   - "ASHTANGA_YOGA_KNOWLEDGE_BASE.pdf, Unknown"
 updated: 2026-05-02
 ---
+<div class="page-wrapper is-asana">
+
+
 
 # Eka Pada Sirsasana & Dwi Pada Sirsasana
 
@@ -36,12 +39,12 @@ updated: 2026-05-02
 
 ## Drishti
 Nose (nasagre)
-*(raw PDF)*
+<div class="citation-block">(raw PDF) </div>
 
 ## Movement
 - **Eka Pada Sirsasana:** One leg behind the neck, torso upright, palms together.
 - **Dwi Pada Sirsasana:** Both legs behind the neck, feet crossed, balancing on the hands (or seated).
-*(raw PDF)*
+<div class="citation-block">(raw PDF) </div>
 
 ## Anatomical Focus
 **Primary Muscles Engaged:**
@@ -62,8 +65,8 @@ Nose (nasagre)
 - **Cervical Strain:** "The leg pressing on the neck can cause forward head posture and strain the cervical vertebrae." *(ASHTANGA_YOGA_KNOWLEDGE_BASE.pdf, Unknown, p. 278) — Yoga and Human Anatomy*
 
 **Injury Prevention Cues:**
-- "Ensure the shoulder is moved forward in front of the calf to allow the leg to rest on the upper back/neck rather than the head." *(raw PDF)*
-- "Rule: The movement must come from the hip socket, not the knee joint." *(raw PDF)*
+- "Ensure the shoulder is moved forward in front of the calf to allow the leg to rest on the upper back/neck rather than the head." <div class="citation-block">(raw PDF) </div>
+- "Rule: The movement must come from the hip socket, not the knee joint." <div class="citation-block">(raw PDF) </div>
 
 ## Teaching Notes
 "These postures develop tremendous flexibility in the hips and strengthen the spine. They are considered milestones in the Intermediate Series." 
@@ -80,3 +83,6 @@ Nose (nasagre)
 - (Ashtanga Yoga Anusthana, Sharath Jois, p. 59-60) — Yoga Philosophy and Origins
 - (Teaching Yoga Essential Foundations and Techniques, Mark Stephens, p. 806) — Yoga Philosophy and Origins
 - (ASHTANGA_YOGA_KNOWLEDGE_BASE.pdf, Unknown) — Yoga and Human Anatomy
+
+
+</div>

@@ -14,6 +14,9 @@ sources:
   - "Your Upper Body, Your Yoga, Bernie Clark"
 updated: 2026-04-30
 ---
+<div class="page-wrapper is-asana">
+
+
 
 # Ardha Baddha Padma Paschimottanasana (Half Bound Lotus Seated Forward Bend)
 
@@ -44,11 +47,11 @@ updated: 2026-04-30
 
 ## Drishti
 Foot
-*(raw PDF)*
+<div class="citation-block">(raw PDF) </div>
 
 ## Movement
 Right leg in Padmasana, wrap the right arm around behind the back, hold the big toe, bend forward, chin to shin or knee. Repeat on the left side.
-*(raw PDF)*
+<div class="citation-block">(raw PDF) </div>
 
 ## Anatomical Focus
 **Primary Muscles Engaged:**
@@ -96,3 +99,6 @@ Right leg in Padmasana, wrap the right arm around behind the back, hold the big 
 - (ASHTANGA_YOGA_KNOWLEDGE_BASE.pdf, Unknown) — Yoga and Human Anatomy
 - (Your Body, Your Yoga, Bernie Clark) — Yoga and Human Anatomy
 - (Your Upper Body, Your Yoga, Bernie Clark) — Yoga and Human Anatomy
+
+
+</div>

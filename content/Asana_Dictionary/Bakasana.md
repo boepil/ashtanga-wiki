@@ -12,6 +12,9 @@ sources:
   - "ASHTANGA_YOGA_KNOWLEDGE_BASE.pdf, Unknown"
 updated: 2026-05-02
 ---
+<div class="page-wrapper is-asana">
+
+
 
 # Bakasana (Crane Pose)
 
@@ -24,11 +27,11 @@ updated: 2026-05-02
 ## Variations
 ### Bakasana A
 Squat on the floor, palms flat. Place the knees on the back of the upper arms, near the armpits. Exhale, lean forward and lift the feet off the floor. Straighten the arms as much as possible.
-*(raw PDF)*
+<div class="citation-block">(raw PDF) </div>
 
 ### Bakasana B
 From Adho Mukha Svanasana, jump forward and land with the knees directly in the armpits, balancing immediately.
-*(raw PDF)*
+<div class="citation-block">(raw PDF) </div>
 
 ## Vinyasa Count & Entry
 "Bakasana has twelve vinyasas. The 7th is the state of the asana." 
@@ -39,11 +42,11 @@ From Adho Mukha Svanasana, jump forward and land with the knees directly in the 
 
 ## Drishti
 Nose (nasagre)
-*(raw PDF)*
+<div class="citation-block">(raw PDF) </div>
 
 ## Movement
 Arm balance, knees in armpits, arms straight.
-*(raw PDF)*
+<div class="citation-block">(raw PDF) </div>
 
 ## Anatomical Focus
 **Primary Muscles Engaged:**
@@ -64,8 +67,8 @@ Arm balance, knees in armpits, arms straight.
 - **Shoulder Collapsing:** "Lack of serratus engagement leads to 'winging' scapulae and instability." *(ASHTANGA_YOGA_KNOWLEDGE_BASE.pdf, Unknown, p. 248) — Yoga and Human Anatomy*
 
 **Injury Prevention Cues:**
-- "Spread the fingers wide and grip the floor with the fingertips to distribute weight." *(raw PDF)*
-- "Rule: Keep the gaze slightly forward rather than straight down to prevent falling forward on the head." *(raw PDF)*
+- "Spread the fingers wide and grip the floor with the fingertips to distribute weight." <div class="citation-block">(raw PDF) </div>
+- "Rule: Keep the gaze slightly forward rather than straight down to prevent falling forward on the head." <div class="citation-block">(raw PDF) </div>
 
 ## Teaching Notes
 "Bakasana strengthens the arms and abdominal organs and improves balance and coordination." 
@@ -82,3 +85,6 @@ Arm balance, knees in armpits, arms straight.
 - (Ashtanga Yoga Anusthana, Sharath Jois, p. 58) — Yoga Philosophy and Origins
 - (Teaching Yoga Essential Foundations and Techniques, Mark Stephens, p. 803) — Yoga Philosophy and Origins
 - (ASHTANGA_YOGA_KNOWLEDGE_BASE.pdf, Unknown) — Yoga and Human Anatomy
+
+
+</div>

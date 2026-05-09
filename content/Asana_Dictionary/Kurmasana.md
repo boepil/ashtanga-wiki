@@ -12,6 +12,9 @@ sources:
   - "ASHTANGA_YOGA_KNOWLEDGE_BASE.pdf, Unknown"
 updated: 2026-05-02
 ---
+<div class="page-wrapper is-asana">
+
+
 
 # Kurmasana (Tortoise Pose)
 
@@ -30,11 +33,11 @@ updated: 2026-05-02
 
 ## Drishti
 Tip of the nose or third eye
-*(raw PDF)*
+<div class="citation-block">(raw PDF) </div>
 
 ## Movement
 Jump over upper arm from downward dog then sit down, legs extended to the sides, arms extended to the sides underneath the legs (knees over upper arms), chin and chest to the floor.
-*(raw PDF)*
+<div class="citation-block">(raw PDF) </div>
 
 ## Anatomical Focus
 **Primary Muscles Engaged:**
@@ -74,3 +77,6 @@ Jump over upper arm from downward dog then sit down, legs extended to the sides,
 - (Teaching Yoga Essential Foundations and Techniques, Mark Stephens, p. 890) — Yoga Philosophy and Origins
 - (Yoga Mala, K. Pattabhi Jois, p. 1573) — Yoga Philosophy and Origins
 - (ASHTANGA_YOGA_KNOWLEDGE_BASE.pdf, Unknown) — Yoga and Human Anatomy
+
+
+</div>

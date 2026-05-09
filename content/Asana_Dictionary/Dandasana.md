@@ -18,6 +18,9 @@ sources:
   - "Key Muscles of Yoga, Ray Long"
 updated: 2026-04-30
 ---
+<div class="page-wrapper is-asana">
+
+
 
 # Dandasana (Staff Pose)
 
@@ -45,11 +48,11 @@ updated: 2026-04-30
 
 ## Drishti
 Tip of the nose
-*(raw PDF)*
+<div class="citation-block">(raw PDF) </div>
 
 ## Movement
 Extend the legs to the front, feet flexed, hands on the floor by the hips, spine straight, Use root, abdomen & throat lock, pull the scapulas down.
-*(raw PDF)*
+<div class="citation-block">(raw PDF) </div>
 
 ## Anatomical Focus
 **Primary Muscles Engaged:**
@@ -59,7 +62,7 @@ Extend the legs to the front, feet flexed, hands on the floor by the hips, spine
 - "Contract the erector spinae to straighten the spine... Draw the scapulae toward the midline by contracting the rhomboids... Contract the latissimus dorsi to further open the chest... Lift the spine by gently contracting the triceps." *(Key Muscles of Yoga, Ray Long, p. 292) — Yoga and Human Anatomy*
 
 **Joint Actions:**
-*(Data pending from anatomical extraction)*
+<div class="citation-block">(Data pending from anatomical extraction) </div>
 
 ## Bandha Application
 "After exhalation, pull in the region of abdomen in all the way into the navel. During inhalation, the chest is to be expanded. Rechaka has to be longer than Puraka." 
@@ -73,7 +76,7 @@ Extend the legs to the front, feet flexed, hands on the floor by the hips, spine
 
 ## Common Mistakes & Injury Flags
 **Anatomical Risks:**
-*(Data pending from anatomical extraction)*
+<div class="citation-block">(Data pending from anatomical extraction) </div>
 
 **Injury Prevention Cues:**
 "In DANDASANA it will not be possible for [those with diabetes/obesity] to sit upright. ... It is enough for them to sit half reclined by having a bedroll behind their back as a support, but it is important to see that the legs are stretched in front, knees together, legs are kept rigid." 
@@ -99,3 +102,6 @@ Extend the legs to the front, feet flexed, hands on the floor by the hips, spine
 - (ASHTANGA_YOGA_KNOWLEDGE_BASE.pdf, Unknown, p. 21, 68) — Yoga and Human Anatomy
 - (B. K. S. Iyengar Yoga: The Path to Holistic Health, B. K. S. Iyengar, p. 125) — Yoga and Human Anatomy
 - (Key Muscles of Yoga, Ray Long, p. 292) — Yoga and Human Anatomy
+
+
+</div>

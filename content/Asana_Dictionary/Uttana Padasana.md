@@ -12,6 +12,9 @@ sources:
   - "ASHTANGA_YOGA_KNOWLEDGE_BASE.pdf, Unknown"
 updated: 2026-05-02
 ---
+<div class="page-wrapper is-asana">
+
+
 
 # Uttana Padasana (Extended Leg Pose)
 
@@ -33,11 +36,11 @@ updated: 2026-05-02
 
 ## Drishti
 Third eye
-*(raw PDF)*
+<div class="citation-block">(raw PDF) </div>
 
 ## Movement
 Legs straight and extended at 45 degrees, arms extended parallel to the legs, palms together. The crown of the head remains on the floor.
-*(raw PDF)*
+<div class="citation-block">(raw PDF) </div>
 
 ## Anatomical Focus
 **Primary Muscles Engaged:**
@@ -58,8 +61,8 @@ Legs straight and extended at 45 degrees, arms extended parallel to the legs, pa
 - **Neck Instability:** "Lifting the legs and arms reduces the surface area of the foundation, potentially increasing pressure on the crown of the head." *(ASHTANGA_YOGA_KNOWLEDGE_BASE.pdf, Unknown, p. 128) — Yoga and Human Anatomy*
 
 **Injury Prevention Cues:**
-- "Keep the palms pressed firmly together to help stabilize the upper body." *(raw PDF)*
-- "Rule: If the lower back feels strained, lower the legs slightly or return to Matsyasana." *(raw PDF)*
+- "Keep the palms pressed firmly together to help stabilize the upper body." <div class="citation-block">(raw PDF) </div>
+- "Rule: If the lower back feels strained, lower the legs slightly or return to Matsyasana." <div class="citation-block">(raw PDF) </div>
 
 ## Teaching Notes
 "This asana intensifies the benefits of Matsyasana, further stimulating the thyroid and strengthening the core." 
@@ -76,3 +79,6 @@ Legs straight and extended at 45 degrees, arms extended parallel to the legs, pa
 - (Ashtanga Yoga Anusthana, Sharath Jois, p. 50) — Yoga Philosophy and Origins
 - (Teaching Yoga Essential Foundations and Techniques, Mark Stephens, p. 789) — Yoga Philosophy and Origins
 - (ASHTANGA_YOGA_KNOWLEDGE_BASE.pdf, Unknown) — Yoga and Human Anatomy
+
+
+</div>

@@ -10,6 +10,9 @@ sources:
   - (Starrett, Becoming a Supple Leopard, p. 44-47)
 updated: 2026-05-02
 ---
+<div class="page-wrapper is-rehabilitation">
+
+
 
 # Nervous System Dysregulation — rehabilitation protocol
 
@@ -105,3 +108,6 @@ Criteria for progress:
 - (McKeown, Patrick, The Oxygen Advantage, p. 37-145) — Yoga Rehab Library
 - (Kaminoff, Leslie, Yoga Anatomy 2nd Edition, p. 11-238) — Yoga Rehab Library
 - (Starrett, Kelly, Becoming a Supple Leopard, p. 44-47) — Yoga Rehab Library
+
+
+</div>

@@ -18,6 +18,9 @@ sources:
   - "ASHTANGA_YOGA_KNOWLEDGE_BASE.pdf, Unknown"
 updated: 2026-04-30
 ---
+<div class="page-wrapper is-asana">
+
+
 
 # Parsvottanasana (Intense Extended Side-Stretch Pose)
 
@@ -39,11 +42,11 @@ updated: 2026-04-30
 
 ## Drishti
 Tip of the nose
-*(raw PDF)*
+<div class="citation-block">(raw PDF) </div>
 
 ## Movement
 Feet 3ft apart, right foot 90, left foot 45, hands in Paschim namaskar mudra (in prayer behind the back), fold forward towards the right knee, bring the chin to the shin. Repeat on the left side.
-*(raw PDF)*
+<div class="citation-block">(raw PDF) </div>
 
 ## Anatomical Focus
 **Primary Muscles Engaged:**
@@ -93,3 +96,6 @@ Feet 3ft apart, right foot 90, left foot 45, hands in Paschim namaskar mudra (in
 - (B. K. S. Iyengar Yoga: The Path to Holistic Health, B. K. S. Iyengar, p. 122) — Yoga and Human Anatomy
 - (The Physiology of Yoga, Andrew McGonigle and Matthew Huy, p. 369) — Yoga and Human Anatomy
 - (ASHTANGA_YOGA_KNOWLEDGE_BASE.pdf, Unknown, p. 73, 43) — Yoga and Human Anatomy
+
+
+</div>

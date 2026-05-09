@@ -3,6 +3,9 @@ title: "Dharana (Concentration)"
 tags: [philosophy, eight-limbs, meditation]
 aliases: [Dharana, Concentration]
 ---
+<div class="page-wrapper is-asana">
+
+
 
 # Dharana (Concentration)
 
@@ -22,3 +25,6 @@ The mind can be fixed on various objects, including:
 ## Integration in Practice
 
 Dharana requires active mental effort to continuously bring the attention back to the chosen point of focus whenever it wanders. In daily life and physical practice, this translates to maintaining unbroken attention on the present moment or the specific task at hand, which serves as the foundation for entering the continuous flow of [[Dhyana]] (meditation).
+
+
+</div>

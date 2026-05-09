@@ -4,6 +4,9 @@ tags: [women, moon-days, menstruation, pregnancy, tradition]
 sources: []
 updated: 2026-04-29
 ---
+<div class="page-wrapper is-asana">
+
+
 
 # Women's Practice Traditions
 
@@ -67,3 +70,6 @@ All sources universally forbid inversions during menstruation.
 - K. Pattabhi Jois, *Yoga Mala* [via NotebookLM - Yoga Philosophy and Origins]
 - Stuart Ray Sarbacker, *Tracing the Path of Yoga* [via NotebookLM - Yoga Philosophy and Origins]
 - `raw/01_ASANA/קרישנמצריה מלמד סדרה ראשונה.md` [via NotebookLM - Yoga Philosophy and Origins]
+
+
+</div>

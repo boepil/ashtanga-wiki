@@ -9,6 +9,9 @@ sources:
   - (Ashtanga Knowledge Base, p. 33-254)
 updated: 2026-05-02
 ---
+<div class="page-wrapper is-asana">
+
+
 
 # Hip Flexor Dominance — asana modifications
 
@@ -39,3 +42,6 @@ When the hip flexors (psoas/iliacus) are overactive, they "pull" the pelvis into
 - [[Paschimottanasana]]
 - [[Urdhva Dhanurasana]]
 - [[Muscular_System#Gluteal_Amnesia]]
+
+
+</div>

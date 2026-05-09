@@ -12,6 +12,9 @@ sources:
   - "ASHTANGA_YOGA_KNOWLEDGE_BASE.pdf, Unknown"
 updated: 2026-05-02
 ---
+<div class="page-wrapper is-asana">
+
+
 
 # Urdhva Dhanurasana (Upward Bow / Wheel Pose)
 
@@ -30,11 +33,11 @@ updated: 2026-05-02
 
 ## Drishti
 Third eye or tip of the nose
-*(raw PDF)*
+<div class="citation-block">(raw PDF) </div>
 
 ## Movement
 From lying down position bend the knees, feet close to the buttocks, feet parallel and firmly planted, palms by the ears close to shoulders, fingers towards the feet, lift the pelvis, straighten the arms, head loose. Repeat 3 times.
-*(raw PDF)*
+<div class="citation-block">(raw PDF) </div>
 
 ## Anatomical Focus
 **Primary Muscles Engaged:**
@@ -76,3 +79,6 @@ From lying down position bend the knees, feet close to the buttocks, feet parall
 - (Teaching Yoga Essential Foundations and Techniques, Mark Stephens, p. 774, 753, 692) — Yoga Philosophy and Origins
 - (A Little Book of Yoga, Orit Sen-Gupta, p. 47) — Yoga Philosophy and Origins
 - (ASHTANGA_YOGA_KNOWLEDGE_BASE.pdf, Unknown) — Yoga and Human Anatomy
+
+
+</div>

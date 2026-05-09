@@ -3,6 +3,9 @@ title: "Pratyahara (Withdrawal of Senses)"
 tags: [philosophy, eight-limbs]
 aliases: [Pratyahara, Sense Withdrawal]
 ---
+<div class="page-wrapper is-asana">
+
+
 
 # Pratyahara (Withdrawal of Senses)
 
@@ -20,3 +23,6 @@ In the Ashtanga Vinyasa method, Pratyahara is actively cultivated through the th
 3. **Bandhas**: Engaging energetic locks keeps the vital energy (*prana*) and focus internal.
 
 Without Pratyahara, the mind remains scattered by the senses, making true concentration impossible.
+
+
+</div>

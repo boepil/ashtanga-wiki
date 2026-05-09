@@ -12,6 +12,9 @@ sources:
   - "ASHTANGA_YOGA_KNOWLEDGE_BASE.pdf, Unknown"
 updated: 2026-05-02
 ---
+<div class="page-wrapper is-asana">
+
+
 
 # Bharadvajasana (Bharadvaja's Twist)
 
@@ -33,11 +36,11 @@ updated: 2026-05-02
 
 ## Drishti
 Side (parshva drishti) - looking over the shoulder.
-*(raw PDF)*
+<div class="citation-block">(raw PDF) </div>
 
 ## Movement
 Seated twist, legs folded to one side (or one in half-lotus), arm binding behind the back.
-*(raw PDF)*
+<div class="citation-block">(raw PDF) </div>
 
 ## Anatomical Focus
 **Primary Muscles Engaged:**
@@ -58,8 +61,8 @@ Seated twist, legs folded to one side (or one in half-lotus), arm binding behind
 - **Slumping:** "Twisting with a rounded spine can lead to disc herniation over time." *(ASHTANGA_YOGA_KNOWLEDGE_BASE.pdf, Unknown, p. 258) — Yoga and Human Anatomy*
 
 **Injury Prevention Cues:**
-- "Inhale to find length in the spine before exhaling to rotate." *(raw PDF)*
-- "Rule: Keep both sit-bones grounded to ensure the twist is even." *(raw PDF)*
+- "Inhale to find length in the spine before exhaling to rotate." <div class="citation-block">(raw PDF) </div>
+- "Rule: Keep both sit-bones grounded to ensure the twist is even." <div class="citation-block">(raw PDF) </div>
 
 ## Teaching Notes
 "This twist is considered more 'accessible' than Pasasana but serves as a deep spinal cleanser and preparation for Ardha Matsyendrasana." 
@@ -76,3 +79,6 @@ Seated twist, legs folded to one side (or one in half-lotus), arm binding behind
 - (Ashtanga Yoga Anusthana, Sharath Jois, p. 58) — Yoga Philosophy and Origins
 - (Teaching Yoga Essential Foundations and Techniques, Mark Stephens, p. 804) — Yoga Philosophy and Origins
 - (ASHTANGA_YOGA_KNOWLEDGE_BASE.pdf, Unknown) — Yoga and Human Anatomy
+
+
+</div>

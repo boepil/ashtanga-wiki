@@ -12,6 +12,9 @@ sources:
   - "ASHTANGA_YOGA_KNOWLEDGE_BASE.pdf, Unknown"
 updated: 2026-05-02
 ---
+<div class="page-wrapper is-asana">
+
+
 
 # Laghu Vajrasana (Little Thunderbolt Pose)
 
@@ -33,11 +36,11 @@ updated: 2026-05-02
 
 ## Drishti
 Nose (nasagre)
-*(raw PDF)*
+<div class="citation-block">(raw PDF) </div>
 
 ## Movement
 Kneeling, head to floor behind, hands on knees.
-*(raw PDF)*
+<div class="citation-block">(raw PDF) </div>
 
 ## Anatomical Focus
 **Primary Muscles Engaged:**
@@ -58,8 +61,8 @@ Kneeling, head to floor behind, hands on knees.
 - **Cervical Compression:** "Collapsing into the head rather than maintaining the arch puts dangerous pressure on the neck." *(ASHTANGA_YOGA_KNOWLEDGE_BASE.pdf, Unknown, p. 218) — Yoga and Human Anatomy*
 
 **Injury Prevention Cues:**
-- "Push the knees and shins firmly into the floor to help 'lift' the hips forward." *(raw PDF)*
-- "Rule: Only lower as far as you can while maintaining the ability to come back up with control." *(raw PDF)*
+- "Push the knees and shins firmly into the floor to help 'lift' the hips forward." <div class="citation-block">(raw PDF) </div>
+- "Rule: Only lower as far as you can while maintaining the ability to come back up with control." <div class="citation-block">(raw PDF) </div>
 
 ## Teaching Notes
 "This asana prepares the practitioner for Kapotasana by strengthening the legs and deepening the spinal arch while keeping the foundation stable." 
@@ -76,3 +79,6 @@ Kneeling, head to floor behind, hands on knees.
 - (Ashtanga Yoga Anusthana, Sharath Jois, p. 57) — Yoga Philosophy and Origins
 - (Teaching Yoga Essential Foundations and Techniques, Mark Stephens, p. 800) — Yoga Philosophy and Origins
 - (ASHTANGA_YOGA_KNOWLEDGE_BASE.pdf, Unknown) — Yoga and Human Anatomy
+
+
+</div>

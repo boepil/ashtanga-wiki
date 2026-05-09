@@ -1,3 +1,5 @@
+<div class="page-wrapper is-asana">
+
 # Vegetarian Nutrition for Yoga
 
 While classical texts focus on the *Gunas* (Sattvic, Rajasic, Tamasic), modern yoga practitioners often need to balance traditional dietary laws with the physiological demands of intense strength and flexibility training. A vegetarian diet can fully support muscle building, recovery, and cognitive health when properly planned.
@@ -35,3 +37,6 @@ Because a vegetarian diet naturally lacks certain compounds found in meat, speci
 - **Sweat:** Vigorous Vinyasa expels toxins through the skin.
 
 **Modern Warning:** Extreme "quick detox" diets (like extreme juice fasts) can be harmful and depleting. True detoxification is an ongoing lifestyle combining hydration, sleep, clean vegetarian nutrition, and consistent physical/breath practice, rather than a crash diet.
+
+
+</div>

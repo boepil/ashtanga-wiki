@@ -1,3 +1,5 @@
+<div class="page-wrapper is-asana">
+
 # Observation and Adjustment
 
 Observation and adjustment are the primary pedagogical tools in the Ashtanga yoga room. The goal is to inform the student's body and internal awareness, not to force a specific aesthetic shape.
@@ -48,3 +50,6 @@ Effective cueing acts as a bridge between the teacher's understanding and the st
    - **Say Less, Teach More:** Over-cueing creates mental noise. Silence allows students to process.
    - **Inquiry over Correction:** Ask "What do you feel here?" or "What stops you?" to foster self-study (*svadhyaya*).
    - **Empowering Language:** Avoid "Nocebos" (fear-based language). Use positive, explorative language.
+
+
+</div>

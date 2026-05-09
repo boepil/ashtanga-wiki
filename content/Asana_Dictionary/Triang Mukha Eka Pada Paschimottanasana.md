@@ -16,6 +16,9 @@ sources:
   - "B. K. S. Iyengar Yoga: The Path to Holistic Health, B. K. S. Iyengar"
 updated: 2026-05-02
 ---
+<div class="page-wrapper is-asana">
+
+
 
 # Triang Mukha Eka Pada Paschimottanasana (Three-Limb Face One-Foot Seated Forward Bend)
 
@@ -43,11 +46,11 @@ updated: 2026-05-02
 
 ## Drishti
 Big toe of the extended leg
-*(raw PDF)*
+<div class="citation-block">(raw PDF) </div>
 
 ## Movement
 Bend the right leg, place the foot by the hip, left leg extended to the front, fold forward, hold the right wrist with the left hand around the foot, bring the chin to the shin. Repeat on the left side.
-*(raw PDF)*
+<div class="citation-block">(raw PDF) </div>
 
 ## Anatomical Focus
 **Primary Muscles Engaged:**
@@ -96,3 +99,6 @@ Bend the right leg, place the foot by the hip, left leg extended to the front, f
 - (Key Muscles of Yoga, Ray Long, p. 243) — Yoga and Human Anatomy
 - (Yoga Mat Companion 1, Ray Long, p. 477) — Yoga and Human Anatomy
 - (B. K. S. Iyengar Yoga: The Path to Holistic Health, B. K. S. Iyengar, p. 133, 136, 134, 135) — Yoga and Human Anatomy
+
+
+</div>

@@ -4,6 +4,9 @@ tags: [anatomy, respiratory-system, diaphragm, bandhas, endocrine]
 sources: [raw/06_ANATOMY/01_Foundational_Systems/01_Skeletal/Endocrine_System/בלוטת התריס.md, raw/06_ANATOMY/01_Foundational_Systems/02_Muscular/Major_Muscle_Groups/Pelvic Floor.md]
 updated: 2026-04-29
 ---
+<div class="page-wrapper is-bridge">
+
+
 
 # Respiratory Anatomy and Physiology
 
@@ -40,3 +43,6 @@ The [[Bandha_Overview|Bandhas]] are somatic manifestations of respiratory and mu
 - `raw/06_ANATOMY/01_Foundational_Systems/01_Skeletal/Endocrine_System/בלוטת התריס.md`
 - `raw/06_ANATOMY/01_Foundational_Systems/02_Muscular/Major_Muscle_Groups/Core_Stabilizers/שרירי הליבה ‏(core ‏).md`
 - `raw/06_ANATOMY/01_Foundational_Systems/01_Skeletal/Spine_and_Core_Stability.md`
+
+
+</div>

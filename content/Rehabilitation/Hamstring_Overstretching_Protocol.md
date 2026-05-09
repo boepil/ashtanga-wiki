@@ -10,9 +10,13 @@ sources:
   - (Hogan, Built From Broken, p. 327-342)
 updated: 2026-05-02
 ---
+<div class="page-wrapper is-rehabilitation">
+
+
 
 # Hamstring Overstretching — rehabilitation protocol
 
+![[ChatGPT Image May 9, 2026, 01_29_28 PM.png]]
 ## Overview
 This protocol addresses "Yoga Butt" (Proximal Hamstring Tendinopathy), an overuse injury at the ischial tuberosity caused by repetitive end-range passive stretching without adequate eccentric strength (Hogan, Built From Broken, p. 340). In the Superficial Back Line (SBL), the hamstrings function as a "jump rope" of tension from the pelvis to the feet (Myers, Anatomy Trains, p. 39). When the hamstrings are overstretched, this line "derails," leading to a loss of structural integrity and chronic inflammation at the tendon attachment.
 
@@ -104,3 +108,6 @@ Criteria for progress:
 - (Goodman, Eric, Foundation, p. 245-314) — Yoga Rehab Library
 - (Myers, Thomas, Anatomy Trains 4th Edition, p. 39-104) — Yoga Rehab Library
 - (Hogan, Scott, Built From Broken, p. 327-342) — Yoga Rehab Library
+
+
+</div>

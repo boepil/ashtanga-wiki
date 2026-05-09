@@ -1,3 +1,5 @@
+<div class="page-wrapper is-asana">
+
 # Breath Awareness and Anatomy
 
 Before attempting advanced pranayama, a practitioner must develop a high degree of somatic awareness regarding their natural respiratory patterns. This practice of observation (*Svadhyaya*) is the bridge between unconscious physiology and conscious regulation.
@@ -35,3 +37,6 @@ The inhalation moves smoothly from the bottom up (Pelvis → Ribs → Collarbone
   - **Tamasic States (Lethargy):** Invigorating practices (Kapalabhati, Surya Bhedana) can stimulate energy.
   - **Rajasic States (Anxiety):** Slower breathing, longer exhalations, and Nadi Shodhana can ground the nervous system.
 - **Oxygen Saturation:** Deep, slow, diaphragmatic breathing maximizes alveolar ventilation, improving the efficiency of gas exchange and increasing blood oxygen levels compared to shallow chest breathing.
+
+
+</div>

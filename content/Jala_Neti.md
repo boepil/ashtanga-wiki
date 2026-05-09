@@ -1,3 +1,5 @@
+<div class="page-wrapper is-asana">
+
 # Jala Neti (Nasal Irrigation)
 
 *Jala Neti* is the Shatkarma focused on purifying the nasal passages and the head. While modern practitioners typically use a Neti pot, classical texts outline multiple variations of water-based purification.
@@ -27,3 +29,6 @@
 - **Not a Daily Requirement**: Nasal kriyas are primarily curative. They should not be practiced blindly every day if the practitioner is already healthy, as they can be habit-forming or irritate the mucous membranes.
 
 See [[Shatkarma_Safety_and_Timing]] for broader contraindications.
+
+
+</div>

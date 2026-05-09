@@ -12,6 +12,9 @@ sources:
   - "ASHTANGA_YOGA_KNOWLEDGE_BASE.pdf, Unknown"
 updated: 2026-05-02
 ---
+<div class="page-wrapper is-asana">
+
+
 
 # Salabhasana (Locust Pose)
 
@@ -24,11 +27,11 @@ updated: 2026-05-02
 ## Variations
 ### Salabhasana A
 Lie on the stomach, arms back, palms up. Exhale, lift the head, chest, and legs off the floor as high as possible. Only the abdomen bears the weight.
-*(raw PDF)*
+<div class="citation-block">(raw PDF) </div>
 
 ### Salabhasana B
 Same as A, but with hands under the shoulders (as if for Bhujangasana) or with fingers interlaced behind the back.
-*(raw PDF)*
+<div class="citation-block">(raw PDF) </div>
 
 ## Vinyasa Count & Entry
 "Salabhasana is ranked third in Jois’s Intermediate Series list." 
@@ -39,11 +42,11 @@ Same as A, but with hands under the shoulders (as if for Bhujangasana) or with f
 
 ## Drishti
 Nose (nasagre)
-*(raw PDF)*
+<div class="citation-block">(raw PDF) </div>
 
 ## Movement
 Lying on stomach, legs and chest lifted.
-*(raw PDF)*
+<div class="citation-block">(raw PDF) </div>
 
 ## Anatomical Focus
 **Primary Muscles Engaged:**
@@ -64,8 +67,8 @@ Lying on stomach, legs and chest lifted.
 - **Neck Strain:** "Cranking the head back too aggressively can compress the cervical vertebrae." *(ASHTANGA_YOGA_KNOWLEDGE_BASE.pdf, Unknown, p. 185) — Yoga and Human Anatomy*
 
 **Injury Prevention Cues:**
-- "Think about lengthening the body forward and back rather than just lifting up." *(raw PDF)*
-- "Rule: Keep the neck long and gaze at the tip of the nose to avoid neck strain." *(raw PDF)*
+- "Think about lengthening the body forward and back rather than just lifting up." <div class="citation-block">(raw PDF) </div>
+- "Rule: Keep the neck long and gaze at the tip of the nose to avoid neck strain." <div class="citation-block">(raw PDF) </div>
 
 ## Teaching Notes
 "This asana aids digestion, relieves gastric troubles and flatulence, and strengthens the entire back." 
@@ -81,3 +84,6 @@ Lying on stomach, legs and chest lifted.
 - (Ashtanga Yoga Anusthana, Sharath Jois, p. 55) — Yoga Philosophy and Origins
 - (Teaching Yoga Essential Foundations and Techniques, Mark Stephens, p. 796) — Yoga Philosophy and Origins
 - (ASHTANGA_YOGA_KNOWLEDGE_BASE.pdf, Unknown) — Yoga and Human Anatomy
+
+
+</div>

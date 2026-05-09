@@ -12,6 +12,9 @@ sources:
   - "ASHTANGA_YOGA_KNOWLEDGE_BASE.pdf, Unknown"
 updated: 2026-05-02
 ---
+<div class="page-wrapper is-asana">
+
+
 
 # Yoganidrasana (Yogic Sleep Pose)
 
@@ -33,11 +36,11 @@ updated: 2026-05-02
 
 ## Drishti
 Third eye (nasagre/midbrow)
-*(raw PDF)*
+<div class="citation-block">(raw PDF) </div>
 
 ## Movement
 Lying on back, both legs behind the neck, feet crossed, hands clasped behind the back.
-*(raw PDF)*
+<div class="citation-block">(raw PDF) </div>
 
 ## Anatomical Focus
 **Primary Muscles Engaged:**
@@ -58,8 +61,8 @@ Lying on back, both legs behind the neck, feet crossed, hands clasped behind the
 - **Knee Instability:** "Similar to Dwi Pada, the risk of torquing the knee is high if the hips are not open." *(ASHTANGA_YOGA_KNOWLEDGE_BASE.pdf, Unknown, p. 288) — Yoga and Human Anatomy*
 
 **Injury Prevention Cues:**
-- "Only attempt the bind if the legs are comfortably behind the neck and the spine is not in pain." *(raw PDF)*
-- "Rule: Focus on the relaxation of the nervous system (Nidra) rather than the physical 'closeness' of the pose." *(raw PDF)*
+- "Only attempt the bind if the legs are comfortably behind the neck and the spine is not in pain." <div class="citation-block">(raw PDF) </div>
+- "Rule: Focus on the relaxation of the nervous system (Nidra) rather than the physical 'closeness' of the pose." <div class="citation-block">(raw PDF) </div>
 
 ## Teaching Notes
 "This asana is said to induce a state of deep internal focus and is highly beneficial for the nervous system, provided the physical prerequisites are met." 
@@ -76,3 +79,6 @@ Lying on back, both legs behind the neck, feet crossed, hands clasped behind the
 - (Ashtanga Yoga Anusthana, Sharath Jois, p. 60) — Yoga Philosophy and Origins
 - (Teaching Yoga Essential Foundations and Techniques, Mark Stephens, p. 807) — Yoga Philosophy and Origins
 - (ASHTANGA_YOGA_KNOWLEDGE_BASE.pdf, Unknown) — Yoga and Human Anatomy
+
+
+</div>

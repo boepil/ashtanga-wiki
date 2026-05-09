@@ -1,3 +1,5 @@
+<div class="page-wrapper is-asana">
+
 # Ujjayi Pranayama (Victorious Breath)
 
 *Ujjayi* (Victorious Breath, or Ocean Breath) is the foundational breathing technique of the Ashtanga Vinyasa system. It is characterized by a subtle constriction at the back of the throat, producing a soft, resonant, wave-like sound. 
@@ -28,3 +30,6 @@ Unlike many pranayamas practiced only in a seated posture, Ujjayi is maintained 
 - **Throat Tension:** If the throat (*Vishuddhi* chakra) tightens excessively, the brain can feel heavy. Lifting the sternum helps relax the throat musculature.
 - **Athletic Force:** Beginners often force the breath to make it loud. The goal is a steady, effortless resonance, not volume.
 - **Saliva Management:** Accumulation of saliva is common. Practitioners should swallow only after a complete exhalation, never during the active phase of the breath.
+
+
+</div>

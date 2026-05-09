@@ -12,6 +12,9 @@ sources:
   - "ASHTANGA_YOGA_KNOWLEDGE_BASE.pdf, Unknown"
 updated: 2026-05-02
 ---
+<div class="page-wrapper is-asana">
+
+
 
 # Setu Bandhasana (Bridge Pose)
 
@@ -33,11 +36,11 @@ updated: 2026-05-02
 
 ## Drishti
 Tip of the nose or third eye
-*(raw PDF)*
+<div class="citation-block">(raw PDF) </div>
 
 ## Movement
 Heels together, toes pointed outwards, lift the chest off the floor, roll head to bring crown of head to floor, with balance of the head and the feet lift hip upwards. Arms are crossed over the chest.
-*(raw PDF)*
+<div class="citation-block">(raw PDF) </div>
 
 ## Anatomical Focus
 **Primary Muscles Engaged:**
@@ -80,3 +83,6 @@ Heels together, toes pointed outwards, lift the chest off the floor, roll head t
 - (Yoga Mala, K. Pattabhi Jois, p. 1396, 1397, 1408) — Yoga Philosophy and Origins
 - (Yoga Makaranda Part II, T. Krishnamacharya, p. 1283-1284) — Yoga Philosophy and Origins
 - (ASHTANGA_YOGA_KNOWLEDGE_BASE.pdf, Unknown) — Yoga and Human Anatomy
+
+
+</div>

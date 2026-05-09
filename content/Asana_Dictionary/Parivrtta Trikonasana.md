@@ -17,6 +17,9 @@ sources:
   - "Your Body, Your Yoga, Bernie Clark"
 updated: 2026-04-30
 ---
+<div class="page-wrapper is-asana">
+
+
 
 # Parivrtta Trikonasana (Revolved Triangle Pose)
 
@@ -38,11 +41,11 @@ updated: 2026-04-30
 
 ## Drishti
 Finger tip of the right hand
-*(raw PDF)*
+<div class="citation-block">(raw PDF) </div>
 
 ## Movement
 Revolve around, bring left hand to the floor outside the right foot, right arm up. Repeat on the left side.
-*(raw PDF)*
+<div class="citation-block">(raw PDF) </div>
 
 ## Anatomical Focus
 **Primary Muscles Engaged:**
@@ -92,3 +95,6 @@ Revolve around, bring left hand to the floor outside the right foot, right arm u
 - (Identifying Postural Imbalances, Vayu Jung Doohwa) — Yoga and Human Anatomy
 - (Science of Yoga, Ann Swanson) — Yoga and Human Anatomy
 - (Your Body, Your Yoga, Bernie Clark) — Yoga and Human Anatomy
+
+
+</div>

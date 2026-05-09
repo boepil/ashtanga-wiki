@@ -12,6 +12,9 @@ sources:
   - "ASHTANGA_YOGA_KNOWLEDGE_BASE.pdf, Unknown"
 updated: 2026-05-02
 ---
+<div class="page-wrapper is-asana">
+
+
 
 # Bhekasana (Frog Pose)
 
@@ -33,11 +36,11 @@ updated: 2026-05-02
 
 ## Drishti
 Nose (nasagre)
-*(raw PDF)*
+<div class="citation-block">(raw PDF) </div>
 
 ## Movement
 Lying on stomach, knees bent, feet pressed down by hips with hands. Chest lifted.
-*(raw PDF)*
+<div class="citation-block">(raw PDF) </div>
 
 ## Anatomical Focus
 **Primary Muscles Engaged:**
@@ -58,8 +61,8 @@ Lying on stomach, knees bent, feet pressed down by hips with hands. Chest lifted
 - **Wrist Strain:** "The required 'frog hand' position (fingers pointing forward) can strain the wrists if they are not sufficiently mobile." *(ASHTANGA_YOGA_KNOWLEDGE_BASE.pdf, Unknown, p. 192) — Yoga and Human Anatomy*
 
 **Injury Prevention Cues:**
-- "If the knees feel sharp pain, do one leg at a time (Ardha Bhekasana)." *(raw PDF)*
-- "Rule: Keep the neck long and gaze at the tip of the nose to avoid neck strain." *(raw PDF)*
+- "If the knees feel sharp pain, do one leg at a time (Ardha Bhekasana)." <div class="citation-block">(raw PDF) </div>
+- "Rule: Keep the neck long and gaze at the tip of the nose to avoid neck strain." <div class="citation-block">(raw PDF) </div>
 
 ## Teaching Notes
 "Bhekasana is excellent for developing the arches of the feet and relieving gout or other pains in the knees." 
@@ -75,3 +78,6 @@ Lying on stomach, knees bent, feet pressed down by hips with hands. Chest lifted
 - (Ashtanga Yoga Anusthana, Sharath Jois, p. 55) — Yoga Philosophy and Origins
 - (Teaching Yoga Essential Foundations and Techniques, Mark Stephens, p. 797) — Yoga Philosophy and Origins
 - (ASHTANGA_YOGA_KNOWLEDGE_BASE.pdf, Unknown) — Yoga and Human Anatomy
+
+
+</div>
