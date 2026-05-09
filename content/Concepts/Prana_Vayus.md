@@ -2,7 +2,7 @@
 title: "The Five Prana Vayus"
 tags: [philosophy, subtle-body, energy]
 aliases: [Prana Vayus, Vayus, Prana, Apana, Samana, Udana, Vyana]
-sequence: 79
+sequence: 23
 ---
 <div class="page-wrapper is-asana">
 

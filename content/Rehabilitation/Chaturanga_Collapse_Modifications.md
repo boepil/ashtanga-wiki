@@ -8,7 +8,7 @@ sources:
   - "raw/06_ANATOMY/01_Foundational_Systems/02_Muscular/Serratus Anterior (The Lift Muscle).md"
   - "Yoga and Human Anatomy [via NotebookLM]"
 updated: 2026-05-02
-sequence: 154
+sequence: 100
 ---
 <div class="page-wrapper is-asana">
 

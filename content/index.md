@@ -146,7 +146,7 @@ Note: [[Bohr_Effect_and_Kumbhaka]] — breath physiology → pranayama
 - [[Breath_Holding_Modifications]] — Maintaining thin, smooth Ujjayi
 
 ## Reference
-- [Asana Dictionary (Full A-Z List)](Asana_Dictionary)
+- [[Asana_Dictionary/index|Asana Dictionary (Full A-Z List)]]
 - [[Hebrew_Translation_Cues]]
 
 

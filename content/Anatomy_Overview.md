@@ -3,7 +3,7 @@ type: concept
 tags: [anatomy, overview, skeletal-variation, biomechanics]
 sources: [raw/06_ANATOMY/01_Foundational_Systems/01_Skeletal/01_Skeletal.md, raw/06_ANATOMY/01_Foundational_Systems/01_Skeletal/Skeletal Variation & Individual Limits.md]
 updated: 2026-04-29
-sequence: 102
+sequence: 48
 ---
 <div class="page-wrapper is-bridge">
 

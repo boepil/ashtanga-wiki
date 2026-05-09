@@ -2,7 +2,7 @@
 title: "The Five Koshas"
 tags: [philosophy, subtle-body]
 aliases: [Koshas, Sheaths, Annamaya, Pranamaya, Manomaya, Vijnanamaya, Anandamaya]
-sequence: 78
+sequence: 22
 ---
 <div class="page-wrapper is-asana">
 

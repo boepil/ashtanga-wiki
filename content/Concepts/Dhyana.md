@@ -2,7 +2,7 @@
 title: "Dhyana (Meditation)"
 tags: [philosophy, eight-limbs, meditation]
 aliases: [Dhyana, Meditation]
-sequence: 73
+sequence: 17
 ---
 <div class="page-wrapper is-asana">
 

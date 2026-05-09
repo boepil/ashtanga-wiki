@@ -17,7 +17,7 @@ sources:
   - "B. K. S. Iyengar Yoga: The Path to Holistic Health, B. K. S. Iyengar"
   - "Key Muscles of Yoga, Ray Long"
 updated: 2026-04-30
-sequence: 11
+sequence: 9999
 ---
 <div class="page-wrapper is-asana">
 

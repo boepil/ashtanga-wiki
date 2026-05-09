@@ -3,7 +3,7 @@ type: concept
 tags: [anatomy, endocrine, inversions, thyroid, pituitary]
 sources: []
 updated: 2026-04-29
-sequence: 107
+sequence: 53
 ---
 <div class="page-wrapper is-bridge">
 

@@ -2,7 +2,7 @@
 title: "The Five Kleshas"
 tags: [philosophy, yoga-sutras]
 aliases: [Kleshas, Afflictions, Avidya]
-sequence: 77
+sequence: 21
 ---
 <div class="page-wrapper is-asana">
 

@@ -2,7 +2,7 @@
 title: "Pratyahara (Withdrawal of Senses)"
 tags: [philosophy, eight-limbs]
 aliases: [Pratyahara, Sense Withdrawal]
-sequence: 71
+sequence: 15
 ---
 <div class="page-wrapper is-asana">
 

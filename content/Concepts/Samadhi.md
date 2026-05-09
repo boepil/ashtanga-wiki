@@ -2,7 +2,7 @@
 title: "Samadhi (Union and Absorption)"
 tags: [philosophy, eight-limbs, meditation]
 aliases: [Samadhi, Absorption, Union]
-sequence: 74
+sequence: 18
 ---
 <div class="page-wrapper is-asana">
 

@@ -2,7 +2,7 @@
 type: dictionary
 tags: [hebrew, karaoke, translation, asana]
 updated: 2026-05-09
-sequence: 161
+sequence: 107
 ---
 <div class="page-wrapper is-asana">
 

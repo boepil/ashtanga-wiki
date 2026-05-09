@@ -2,7 +2,7 @@
 title: "Purusha and Prakriti"
 tags: [philosophy, samkhya, core-concepts]
 aliases: [Purusha, Prakriti, Dualism]
-sequence: 75
+sequence: 19
 ---
 <div class="page-wrapper is-asana">
 

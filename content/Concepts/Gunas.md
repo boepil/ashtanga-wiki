@@ -2,7 +2,7 @@
 title: "The Three Gunas"
 tags: [philosophy, samkhya]
 aliases: [Gunas, Sattva, Rajas, Tamas]
-sequence: 76
+sequence: 20
 ---
 <div class="page-wrapper is-asana">
 

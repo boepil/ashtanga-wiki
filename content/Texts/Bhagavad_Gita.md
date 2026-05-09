@@ -2,7 +2,7 @@
 title: "Bhagavad Gita"
 tags: [texts, philosophy, karma-yoga]
 aliases: [Bhagavad Gita, The Gita]
-sequence: 128
+sequence: 74
 ---
 <div class="page-wrapper is-asana">
 

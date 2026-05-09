@@ -2,7 +2,7 @@
 title: "Dharana (Concentration)"
 tags: [philosophy, eight-limbs, meditation]
 aliases: [Dharana, Concentration]
-sequence: 72
+sequence: 16
 ---
 <div class="page-wrapper is-asana">
 

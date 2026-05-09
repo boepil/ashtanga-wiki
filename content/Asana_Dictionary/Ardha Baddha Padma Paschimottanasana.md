@@ -13,7 +13,7 @@ sources:
   - "Your Body, Your Yoga, Bernie Clark"
   - "Your Upper Body, Your Yoga, Bernie Clark"
 updated: 2026-04-30
-sequence: 14
+sequence: 9999
 ---
 <div class="page-wrapper is-asana">
 

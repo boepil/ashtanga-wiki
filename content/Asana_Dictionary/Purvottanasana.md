@@ -14,7 +14,7 @@ sources:
   - "ASHTANGA_YOGA_KNOWLEDGE_BASE.pdf, Unknown"
   - "Your Upper Body, Your Yoga, Bernie Clark"
 updated: 2026-04-30
-sequence: 13
+sequence: 9999
 ---
 <div class="page-wrapper is-asana">
 

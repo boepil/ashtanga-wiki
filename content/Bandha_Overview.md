@@ -1,5 +1,5 @@
 ---
-sequence: 70
+sequence: 34
 ---
 <div class="page-wrapper is-asana">
 

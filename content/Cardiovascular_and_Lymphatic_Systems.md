@@ -3,7 +3,7 @@ type: concept
 tags: [anatomy, cardiovascular, lymphatic, tapas, vinyasa]
 sources: []
 updated: 2026-04-29
-sequence: 106
+sequence: 52
 ---
 <div class="page-wrapper is-bridge">
 

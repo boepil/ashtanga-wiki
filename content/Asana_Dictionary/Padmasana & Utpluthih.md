@@ -11,7 +11,7 @@ sources:
   - "Teaching Yoga Essential Foundations and Techniques, Mark Stephens"
   - "ASHTANGA_YOGA_KNOWLEDGE_BASE.pdf, Unknown"
 updated: 2026-05-02
-sequence: 42
+sequence: 9999
 ---
 <div class="page-wrapper is-asana">
 

@@ -2,7 +2,7 @@
 title: "Sushumna Nadi"
 tags: [philosophy, subtle-body, energy]
 aliases: [Sushumna, Central Channel]
-sequence: 68
+sequence: 24
 ---
 <div class="page-wrapper is-asana">
 
