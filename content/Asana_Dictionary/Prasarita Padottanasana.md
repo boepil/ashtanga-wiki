@@ -18,7 +18,7 @@ sources:
   - "Identifying Postural Imbalances, Vayu Jung Doohwa"
   - "ASHTANGA_YOGA_KNOWLEDGE_BASE.pdf, Unknown"
 updated: 2026-04-30
-sequence: 62
+sequence: 9999
 ---
 <div class="page-wrapper is-asana">
 

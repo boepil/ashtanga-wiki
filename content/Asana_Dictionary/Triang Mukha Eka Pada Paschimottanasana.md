@@ -15,7 +15,7 @@ sources:
   - "Yoga Mat Companion 1, Ray Long"
   - "B. K. S. Iyengar Yoga: The Path to Holistic Health, B. K. S. Iyengar"
 updated: 2026-05-02
-sequence: 40
+sequence: 15
 ---
 <div class="page-wrapper is-asana">
 

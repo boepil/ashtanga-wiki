@@ -11,7 +11,7 @@ sources:
   - "The Manual of Yoga Anatomy, Sally Parkes"
   - "ASHTANGA_YOGA_KNOWLEDGE_BASE.pdf, Unknown"
 updated: 2026-05-02
-sequence: 57
+sequence: 29
 ---
 <div class="page-wrapper is-asana">
 

@@ -3,7 +3,7 @@ type: practice
 tags: [asana, finishing-sequence, primary-series]
 sources: [raw/01_ASANA/1. Primary_Series_(Sanskrit Name-English Meaning)/Finishing_Sequence/*]
 updated: 2026-04-29
-sequence: 94
+sequence: 31
 ---
 <div class="page-wrapper is-asana">
 

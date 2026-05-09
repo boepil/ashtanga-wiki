@@ -2,7 +2,7 @@
 title: "Yoga Sutras of Patanjali"
 tags: [texts, classical-yoga, philosophy]
 aliases: [Yoga Sutras, Patanjali]
-sequence: 3
+sequence: 126
 ---
 <div class="page-wrapper is-asana">
 

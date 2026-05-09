@@ -3,7 +3,7 @@ type: practice
 tags: [asana, primary-series, yoga-chikitsa]
 sources: [raw/01_ASANA/1. Primary_Series_(Sanskrit Name-English Meaning)/*]
 updated: 2026-04-29
-sequence: 23
+sequence: 8
 ---
 <div class="page-wrapper is-asana">
 

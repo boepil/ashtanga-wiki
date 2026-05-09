@@ -3,7 +3,7 @@ type: concept
 tags: [anatomy, muscular-system, core, psoas, gluteals]
 sources: [raw/06_ANATOMY/01_Foundational_Systems/02_Muscular/*]
 updated: 2026-04-29
-sequence: 156
+sequence: 104
 ---
 <div class="page-wrapper is-bridge">
 

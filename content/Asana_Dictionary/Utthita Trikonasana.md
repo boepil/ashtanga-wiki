@@ -18,7 +18,7 @@ sources:
   - "Yoga of the Subtle Body, Tias Little"
   - "Your Body, Your Yoga, Bernie Clark"
 updated: 2026-04-30
-sequence: 180
+sequence: 9999
 ---
 <div class="page-wrapper is-asana">
 

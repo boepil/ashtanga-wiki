@@ -3,7 +3,7 @@ type: practice
 tags: [women, moon-days, menstruation, pregnancy, tradition]
 sources: []
 updated: 2026-04-29
-sequence: 126
+sequence: 81
 ---
 <div class="page-wrapper is-asana">
 

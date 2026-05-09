@@ -3,7 +3,7 @@ type: concept
 tags: [mantra, sanskrit, tradition, lineage]
 sources: []
 updated: 2026-04-29
-sequence: 127
+sequence: 82
 ---
 <div class="page-wrapper is-bridge">
 

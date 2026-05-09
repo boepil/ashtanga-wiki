@@ -3,7 +3,7 @@ type: concept
 tags: [anatomy, biomechanics, joint-stability, safety]
 sources: [raw/06_ANATOMY/01_Foundational_Systems/01_Skeletal/Joint_Stability/*]
 updated: 2026-04-29
-sequence: 155
+sequence: 108
 ---
 <div class="page-wrapper is-bridge">
 

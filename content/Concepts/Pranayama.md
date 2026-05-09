@@ -2,7 +2,7 @@
 title: "Pranayama (Breath Control)"
 tags: [philosophy, eight-limbs, subtle-body]
 aliases: [Pranayama, Breath Control]
-sequence: 9
+sequence: 44
 ---
 <div class="page-wrapper is-asana">
 

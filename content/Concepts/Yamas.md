@@ -2,7 +2,7 @@
 title: "Yamas (Ethical Restraints)"
 tags: [philosophy, ethics, eight-limbs]
 aliases: [Yama, Ethical Restraints, Ahimsa, Satya, Asteya, Brahmacharya, Aparigraha]
-sequence: 6
+sequence: 3
 ---
 <div class="page-wrapper is-asana">
 

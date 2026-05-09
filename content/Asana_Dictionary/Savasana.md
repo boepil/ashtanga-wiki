@@ -10,7 +10,7 @@ sources:
   - "Yoga Mala, K. Pattabhi Jois"
   - "ASHTANGA_YOGA_KNOWLEDGE_BASE.pdf, Unknown"
 updated: 2026-05-02
-sequence: 98
+sequence: 43
 ---
 <div class="page-wrapper is-asana">
 

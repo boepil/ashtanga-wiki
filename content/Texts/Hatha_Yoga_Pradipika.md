@@ -2,7 +2,7 @@
 title: "Hatha Yoga Pradipika"
 tags: [texts, hatha-yoga, subtle-body]
 aliases: [Hatha Yoga Pradipika, HYP, Svatmarama]
-sequence: 8
+sequence: 127
 ---
 <div class="page-wrapper is-asana">
 

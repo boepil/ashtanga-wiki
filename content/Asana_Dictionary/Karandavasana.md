@@ -11,7 +11,7 @@ sources:
   - "Ashtanga Yoga Anusthana, Sharath Jois"
   - "ASHTANGA_YOGA_KNOWLEDGE_BASE.pdf, Unknown"
 updated: 2026-05-02
-sequence: 85
+sequence: 62
 ---
 <div class="page-wrapper is-asana">
 

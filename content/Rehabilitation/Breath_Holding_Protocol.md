@@ -10,7 +10,7 @@ sources:
   - (Starrett, Becoming a Supple Leopard, p. 44)
   - (Broad, Science of Yoga, p. 62-85)
 updated: 2026-05-02
-sequence: 217
+sequence: 152
 ---
 <div class="page-wrapper is-rehabilitation">
 

@@ -18,7 +18,7 @@ sources:
   - "Your Body, Your Yoga, Bernie Clark"
   - "B. K. S. Iyengar Yoga: The Path to Holistic Health, B. K. S. Iyengar"
 updated: 2026-04-30
-sequence: 36
+sequence: 9999
 ---
 <div class="page-wrapper is-asana">
 
