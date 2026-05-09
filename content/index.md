@@ -111,14 +111,14 @@ Welcome to the Ashtanga Yoga Knowledge Wiki.
 Note: [[Bohr_Effect_and_Kumbhaka]] — breath physiology → pranayama
 
 ## Compensation Patterns
-- [[Shoulder_Impingement]] — Scapular stability and upward rotation analysis — (compensation-map) — 4 sources
-- [[Chaturanga_Collapse]] — Serratus anterior and core integration analysis — (compensation-map) — 4 sources
-- [[Nervous_System_Dysregulation]] — Parasympathetic vagal tone and breath regulation — (compensation-map) — 4 sources
-- [[Hip_Flexor_Dominance]] — Pelvic tilt and spinal integrity in forward folds — (compensation-map) — 3 sources
-- [[Lumbar_Compression]] — Thoracic mobility and hip extension in backbends — (compensation-map) — 4 sources
-- [[Breath_Holding]] — Vinyasa synchronization and subtle support — (compensation-map) — 4 sources
-- [[Hamstring_Overstretching]] — Posterior chain stability vs hanging on ligaments — (compensation-map) — 4 sources
-- [[SI_Joint_Instability]] — Pelvic stability and coronal alignment in asymmetric poses — (compensation-map) — 4 sources
+- [[Shoulder_Impingement]] — Scapular stability and upward rotation analysis
+- [[Chaturanga_Collapse]] — Serratus anterior and core integration analysis
+- [[Nervous_System_Dysregulation]] — Parasympathetic vagal tone and breath regulation
+- [[Hip_Flexor_Dominance]] — Pelvic tilt and spinal integrity in forward folds
+- [[Lumbar_Compression]] — Thoracic mobility and hip extension in backbends
+- [[Breath_Holding]] — Vinyasa synchronization and subtle support
+- [[Hamstring_Overstretching]] — Posterior chain stability vs hanging on ligaments
+- [[SI_Joint_Instability]] — Pelvic stability and coronal alignment in asymmetric poses
 
 ## Rehabilitation & Corrective Practice
 
