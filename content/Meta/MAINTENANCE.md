@@ -1,3 +1,13 @@
+<div class="page-wrapper is-asana">
+
+# Ashtanga Wiki — Vault Maintenance Workflow
+
+You are the maintenance agent for the Ashtanga Yoga Knowledge Wiki.
+Your role is to keep the wiki accurate, current, and compounding.
+Read WIKI_SCHEMA.md before every session.
+The wiki has four maintenance operations.
+Identify which one applies and execute it.
+
 ---
 
 ## Session Memory Protocol
@@ -8,9 +18,6 @@ The log is the only persistent memory between sessions.
 Without it, every new agent starts blind.
 
 ---
-<div class="page-wrapper is-asana">
-
-
 
 ### SESSION START — Read State (always first)
 

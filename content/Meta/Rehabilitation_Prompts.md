@@ -1,4 +1,12 @@
----~~
+<div class="page-wrapper is-asana">
+
+# ~~AI Image Generation Prompts for Rehabilitation Protocols~~
+
+~~Below is the complete set of customized AI image generation prompts for every rehabilitation protocol in your wiki. They perfectly match the layout, color coding, and structure of your reference infographic series.~~
+
+~~To avoid text layout hallucinations in ChatGPT, copy these structured prompts exactly. They use a strict 3-panel layout (Left, Central, Right) where Phase B is placed below the Anatomy in the Central Panel.~~
+
+~~---~~
 
 ### ~~1. Breath Holding under Effort~~
 ```text
@@ -37,10 +45,7 @@ Bottom footer:
 - Frequency: Daily (especially nasal breathing awareness). | Session: 15-20 minutes of dedicated training. | Pain guide: /Safety guide | **Dizziness/Lightheadedness:** Normal during air hunger drills, but stop if it becomes overwhelming. | **Tinnitus (Ringing in ears):** Reduce intensity immediately. | **Panic/Anxiety:** Use "Box Breathing" to down-regulate the nervous system (Nestor, p. 205).
 - Key Takeaway: "CO2 Tolerance. The urge to breathe is triggered by CO2 buildup, not lack of oxygen. By increasing CO2 tolerance, we reduce the "breathlessness" response in vinyasa (McKeown, p. 128)."
 ```
-~~---
-<div class="page-wrapper is-asana">
-
-~~
+~~---~~
 
 ### ~~2. Chaturanga Collapse~~
 ```text

@@ -1,12 +1,37 @@
+<div class="page-wrapper is-asana">
+
+# Ashtanga Wiki Schema
+
+## Purpose
+A persistent, LLM-maintained knowledge wiki for deep personal practice and writing/publishing. 
+Knowledge-based only (no personal practice notes at this stage).
+
+## Folder structure
+- `raw/` — immutable source files. Never modify.
+- `wiki/` — all LLM-generated pages live here.
+- `log.md` — append-only ingest/query/lint log.
+- `wiki/index.md` — master catalog of all wiki pages.
+
+## Wiki page types
+- **Concept** — philosophical or theoretical idea (e.g. Brahmacharya, Pratyahara)
+- **Asana** — individual posture (technical + philosophical dimensions)
+- **Practice** — methodology, sequencing logic, teaching approach
+- **Lineage** — teachers, transmission, historical context
+- **Text** — primary source summaries (Yoga Sutras, Hatha Yoga Pradipika, etc.)
+- **Essay Seed** — a flagged insight, contradiction, or thread worth developing into writing
+- **Compensation Map** — a structured lack/compensation analysis integrating biomechanics, motor control, and yogic frameworks
+- **Rehabilitation Protocol** — a targeted corrective exercise program addressing a specific compensation pattern (Prep/Mobility → Strength → Control/Endurance)
+- **Asana Modification** — a practice guide for specific conditions, detailing which asanas to avoid, emphasize, or modify
+
+## Page format
+Every wiki page uses this structure:
+
 ---
 type: [concept|asana|practice|lineage|text|essay-seed|compensation-map|rehabilitation-protocol|asana-modification]
 tags: []
 sources: []
 updated: YYYY-MM-DD
 ---
-<div class="page-wrapper is-asana">
-
-
 
 # [Title]
 

@@ -1,7 +1,21 @@
---- | :---
 <div class="page-wrapper is-asana">
 
- | :--- |
+# Drishti (Yogic Gaze)
+
+*Dṛṣṭi* (gaze or focal point) is a fundamental tool in Ashtanga Yoga for steadying the mind (*citta*) and internalizing awareness. It is the visual component of the **Tristana** method.
+
+## The Purpose of Drishti
+
+- **The Pillar of Focus:** The mind naturally follows the eyes. By fixing the gaze on a singular point, the practitioner limits the influx of external visual stimuli, bridging the gap toward *Pratyahara* (sense withdrawal).
+- **Steadying the Chitta:** A wandering, oscillating gaze reflects a distracted or anxious mind. Training the eyes to remain steady cultivates mental stillness and intense concentration (*Dharana*).
+- **Preventing Energy Dissipation:** In the context of Mudra, fixing the gaze "seals" the vital energy within the practitioner's sphere, preventing it from leaking out through visual distraction.
+
+## The Nine Drishti Points
+
+The Ashtanga tradition dictates nine specific focal points. Every posture in the sequences is assigned a specific *Drishti*.
+
+| Sanskrit Name | English Translation | Anatomical Location / Focal Point |
+| :--- | :--- | :--- |
 | **Nāsāgre dṛṣṭi** | Nose-tip gaze | The tip of the nose (stimulates the vagus nerve/parasympathetic system). |
 | **Brūmadhye dṛṣṭi** | Third-eye gaze | Between the eyebrows (Ajna Chakra). |
 | **Nābhau dṛṣṭi** | Navel gaze | The navel (belly button). |
