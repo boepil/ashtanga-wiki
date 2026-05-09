@@ -8,6 +8,7 @@ sources:
   - "raw/06_ANATOMY/02_Biomechanics_&_Dynamics/03_Applied_Movement/Optimizing_Alignment.md"
   - "Yoga and Human Anatomy [via NotebookLM]"
 updated: 2026-05-02
+sequence: 197
 ---
 <div class="page-wrapper is-asana">
 

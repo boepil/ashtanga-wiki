@@ -3,6 +3,7 @@ type: lineage
 tags: [pattabhi-jois, ashtanga, history]
 sources: []
 updated: 2026-04-29
+sequence: 129
 ---
 <div class="page-wrapper is-asana">
 

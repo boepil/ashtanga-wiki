@@ -1,3 +1,6 @@
+---
+sequence: 22
+---
 <div class="page-wrapper is-asana">
 
 # Drishti (Yogic Gaze)

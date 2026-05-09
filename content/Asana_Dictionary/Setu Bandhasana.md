@@ -11,6 +11,7 @@ sources:
   - "Yoga Makaranda Part II, T. Krishnamacharya"
   - "ASHTANGA_YOGA_KNOWLEDGE_BASE.pdf, Unknown"
 updated: 2026-05-02
+sequence: 56
 ---
 <div class="page-wrapper is-asana">
 

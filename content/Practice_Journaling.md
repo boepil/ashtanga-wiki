@@ -1,3 +1,6 @@
+---
+sequence: 175
+---
 <div class="page-wrapper is-asana">
 
 # Practice Journaling

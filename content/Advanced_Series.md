@@ -3,6 +3,7 @@ type: practice
 tags: [asana, advanced-series, sthira-bhaga]
 sources: [raw/01_ASANA/3. Advanced_Series_(Sthira_Bhaga)/*]
 updated: 2026-04-29
+sequence: 124
 ---
 <div class="page-wrapper is-asana">
 

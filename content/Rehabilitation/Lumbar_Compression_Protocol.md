@@ -10,6 +10,7 @@ sources:
   - (Kaminoff, Yoga Anatomy, p. 237-250)
   - (Myers, Anatomy Trains, p. 536-563)
 updated: 2026-05-02
+sequence: 214
 ---
 <div class="page-wrapper is-rehabilitation">
 

@@ -1,3 +1,6 @@
+---
+sequence: 142
+---
 <div class="page-wrapper is-asana">
 
 # Nadi Shodhana (Alternate Nostril Breathing)

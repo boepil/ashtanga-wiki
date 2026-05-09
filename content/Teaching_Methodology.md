@@ -1,3 +1,6 @@
+---
+sequence: 130
+---
 <div class="page-wrapper is-asana">
 
 # Teaching Methodology Overview

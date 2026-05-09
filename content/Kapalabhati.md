@@ -1,3 +1,6 @@
+---
+sequence: 150
+---
 <div class="page-wrapper is-asana">
 
 # Kapalabhati (Skull Shining Breath)

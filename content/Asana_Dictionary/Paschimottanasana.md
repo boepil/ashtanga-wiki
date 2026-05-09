@@ -14,6 +14,7 @@ sources:
   - "Ashtanga Yoga Anusthana, Sharath Jois"
   - "Hatha Yoga Pradipika, Swami Swatmarama"
 updated: 2026-04-30
+sequence: 28
 ---
 <div class="page-wrapper is-asana">
 

@@ -2,6 +2,7 @@
 title: "Om (Aum)"
 tags: [philosophy, mantra]
 aliases: [Om, Aum, Pranava]
+sequence: 17
 ---
 <div class="page-wrapper is-asana">
 

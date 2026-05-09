@@ -15,6 +15,7 @@ sources:
   - "ASHTANGA_YOGA_KNOWLEDGE_BASE.pdf, Unknown"
   - "Yoga Biomechanics: Stretching Redefined, Jules Mitchell"
 updated: 2026-04-30
+sequence: 187
 ---
 <div class="page-wrapper is-asana">
 

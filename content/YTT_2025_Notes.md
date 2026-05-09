@@ -1,3 +1,6 @@
+---
+sequence: 169
+---
 <div class="page-wrapper is-asana">
 
 # Yoga Teacher Training Notes (YTT 2025)

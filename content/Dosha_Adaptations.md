@@ -1,3 +1,6 @@
+---
+sequence: 172
+---
 <div class="page-wrapper is-asana">
 
 # Dosha Adaptations

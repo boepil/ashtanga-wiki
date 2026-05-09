@@ -1,3 +1,6 @@
+---
+sequence: 152
+---
 <div class="page-wrapper is-asana">
 
 # Trataka (Concentrated Gazing)

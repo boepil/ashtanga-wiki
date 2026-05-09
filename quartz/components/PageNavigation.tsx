@@ -8,10 +8,15 @@ export default (() => {
       return null
     }
 
-    // Filter out index pages and sort by title for a logical reading sequence
+    // Filter out index pages and sort by sequence for logical reading
     const sortedFiles = allFiles
       .filter((f) => f.slug !== "index" && !f.slug?.startsWith("tags/") && !f.slug?.startsWith("folder/"))
       .sort((a, b) => {
+        const seqA = a.frontmatter?.sequence ?? 9999
+        const seqB = b.frontmatter?.sequence ?? 9999
+        if (seqA !== seqB) {
+          return (seqA as number) - (seqB as number)
+        }
         const titleA = a.frontmatter?.title ?? a.slug!
         const titleB = b.frontmatter?.title ?? b.slug!
         return titleA > titleB ? 1 : -1

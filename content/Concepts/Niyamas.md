@@ -2,6 +2,7 @@
 title: "Niyamas (Personal Observances)"
 tags: [philosophy, ethics, eight-limbs]
 aliases: [Niyama, Personal Observances, Saucha, Santosha, Tapas, Svadhyaya, Isvara Pranidhana]
+sequence: 15
 ---
 <div class="page-wrapper is-asana">
 

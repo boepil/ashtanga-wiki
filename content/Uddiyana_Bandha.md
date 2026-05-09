@@ -1,3 +1,6 @@
+---
+sequence: 103
+---
 <div class="page-wrapper is-asana">
 
 # Uddiyana Bandha (Upward Flying Lock)

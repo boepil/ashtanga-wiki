@@ -1,3 +1,6 @@
+---
+sequence: 173
+---
 <div class="page-wrapper is-asana">
 
 # Seasonal Routines (Ritucharya)

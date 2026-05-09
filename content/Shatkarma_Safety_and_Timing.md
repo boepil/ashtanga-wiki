@@ -1,3 +1,6 @@
+---
+sequence: 151
+---
 <div class="page-wrapper is-asana">
 
 # Shatkarma Safety and Timing

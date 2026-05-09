@@ -17,6 +17,7 @@ sources:
   - "Identifying Postural Imbalances, Vayu Jung Doohwa"
   - "The Physiology of Yoga, Andrew McGonigle and Matthew Huy"
 updated: 2026-04-30
+sequence: 186
 ---
 <div class="page-wrapper is-asana">
 

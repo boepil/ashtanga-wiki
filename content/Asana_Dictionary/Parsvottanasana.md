@@ -17,6 +17,7 @@ sources:
   - "The Physiology of Yoga, Andrew McGonigle and Matthew Huy"
   - "ASHTANGA_YOGA_KNOWLEDGE_BASE.pdf, Unknown"
 updated: 2026-04-30
+sequence: 61
 ---
 <div class="page-wrapper is-asana">
 

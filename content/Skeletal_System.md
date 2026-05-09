@@ -3,6 +3,7 @@ type: concept
 tags: [anatomy, skeletal-system, spine, joints]
 sources: [raw/06_ANATOMY/01_Foundational_Systems/01_Skeletal/Spine_and_Core_Stability.md, raw/06_ANATOMY/01_Foundational_Systems/01_Skeletal/The Spine.md]
 updated: 2026-04-29
+sequence: 154
 ---
 <div class="page-wrapper is-bridge">
 

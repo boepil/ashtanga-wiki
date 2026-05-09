@@ -1,3 +1,6 @@
+---
+sequence: 170
+---
 <div class="page-wrapper is-asana">
 
 # Diet and Digestion (Agni and Mitahara)

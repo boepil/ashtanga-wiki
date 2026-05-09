@@ -3,6 +3,7 @@ type: concept
 tags: [anatomy, fascia, connective-tissue, bandhas]
 sources: []
 updated: 2026-04-29
+sequence: 159
 ---
 <div class="page-wrapper is-bridge">
 

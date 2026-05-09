@@ -15,6 +15,7 @@ sources:
   - "Your Body, Your Yoga, Bernie Clark"
   - "Science of Yoga, Ann Swanson"
 updated: 2026-04-30
+sequence: 33
 ---
 <div class="page-wrapper is-asana">
 

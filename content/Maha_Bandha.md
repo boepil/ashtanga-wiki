@@ -1,3 +1,6 @@
+---
+sequence: 105
+---
 <div class="page-wrapper is-asana">
 
 # Maha Bandha (The Great Lock)

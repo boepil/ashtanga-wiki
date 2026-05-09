@@ -1,3 +1,6 @@
+---
+sequence: 146
+---
 <div class="page-wrapper is-asana">
 
 # Hand Mudras (Hasta Mudras)

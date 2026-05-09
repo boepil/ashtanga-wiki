@@ -1,3 +1,6 @@
+---
+sequence: 174
+---
 <div class="page-wrapper is-asana">
 
 # Vegetarian Nutrition for Yoga

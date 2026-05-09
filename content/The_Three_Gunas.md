@@ -1,3 +1,6 @@
+---
+sequence: 171
+---
 <div class="page-wrapper is-asana">
 
 # The Three Gunas (Qualities of Food)

@@ -14,6 +14,7 @@ sources:
   - "Identifying Postural Imbalances, Vayu Jung Doohwa"
   - "B. K. S. Iyengar Yoga: The Path to Holistic Health, B. K. S. Iyengar"
 updated: 2026-04-30
+sequence: 35
 ---
 <div class="page-wrapper is-asana">
 

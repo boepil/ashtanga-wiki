@@ -1,3 +1,6 @@
+---
+sequence: 1
+---
 <div class="page-wrapper is-asana">
 
 # Ashtanga Yoga Knowledge Wiki

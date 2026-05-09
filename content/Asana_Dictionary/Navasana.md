@@ -12,6 +12,7 @@ sources:
   - "ASHTANGA_YOGA_KNOWLEDGE_BASE.pdf, Unknown"
   - "Science of Yoga, Ann Swanson"
 updated: 2026-05-02
+sequence: 43
 ---
 <div class="page-wrapper is-asana">
 

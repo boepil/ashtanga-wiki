@@ -1,3 +1,6 @@
+---
+sequence: 102
+---
 <div class="page-wrapper is-asana">
 
 # Mula Bandha (Root Lock)

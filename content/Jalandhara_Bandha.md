@@ -1,3 +1,6 @@
+---
+sequence: 104
+---
 <div class="page-wrapper is-asana">
 
 # Jalandhara Bandha (Throat Lock)

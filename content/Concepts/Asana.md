@@ -2,6 +2,7 @@
 title: "Asana (Physical Posture)"
 tags: [philosophy, eight-limbs, physical-practice]
 aliases: [Asana, Sthira Sukham Asanam]
+sequence: 7
 ---
 <div class="page-wrapper is-asana">
 

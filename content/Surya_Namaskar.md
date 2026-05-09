@@ -3,6 +3,7 @@ type: practice
 tags: [asana, surya-namaskar, primary-series]
 sources: [raw/01_ASANA/1. Primary_Series_(Sanskrit Name-English Meaning)/Sun_Salutations/*]
 updated: 2026-04-29
+sequence: 24
 ---
 <div class="page-wrapper is-asana">
 

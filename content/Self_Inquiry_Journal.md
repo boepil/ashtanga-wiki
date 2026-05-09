@@ -1,3 +1,6 @@
+---
+sequence: 167
+---
 <div class="page-wrapper is-asana">
 
 # Self-Inquiry Journal (Ātma-Vicāra)
