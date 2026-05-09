@@ -291,20 +291,20 @@ a {
 
     & .center,
     & footer {
-      max-width: 100%;
-      min-width: 100%;
+      max-width: 800px;
+      min-width: unset;
       margin-left: auto;
       margin-right: auto;
       @media all and ($tablet) {
-        margin-right: 0;
+        margin-right: auto;
       }
       @media all and ($mobile) {
-        margin-right: 0;
-        margin-left: 0;
+        margin-right: auto;
+        margin-left: auto;
       }
     }
     & footer {
-      margin-left: 0;
+      margin-left: auto;
     }
   }
 }
