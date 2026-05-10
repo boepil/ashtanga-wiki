@@ -8,9 +8,7 @@ export const sharedPageComponents: SharedLayout = {
     Component.Search(),
     Component.Darkmode(),
   ],
-  afterBody: [
-    Component.PageNavigation(),
-  ],
+  afterBody: [],
   footer: Component.Footer({
     links: {},
   }),
@@ -18,6 +16,7 @@ export const sharedPageComponents: SharedLayout = {
 
 export const defaultContentPageLayout: PageLayout = {
   beforeBody: [
+    Component.PageNavigation(),
     Component.ConditionalRender({
       component: Component.Breadcrumbs(),
       condition: (page) => page.fileData.slug !== "index",

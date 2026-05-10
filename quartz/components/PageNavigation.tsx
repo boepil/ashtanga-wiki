@@ -51,9 +51,9 @@ export default (() => {
   .page-navigation {
     display: flex;
     justify-content: space-between;
-    margin-top: 4rem;
-    padding-top: 2rem;
-    border-top: 1px solid var(--lightgray);
+    margin-bottom: 2rem;
+    padding-bottom: 1.5rem;
+    border-bottom: 1px solid var(--lightgray);
     gap: 2rem;
   }
   .page-navigation a.nav-prev, .page-navigation a.nav-next {
@@ -69,7 +69,7 @@ export default (() => {
     color: var(--tertiary);
   }
   
-  /* Bottom Text Styles */
+  /* Text Styles */
   .nav-prev { text-align: left; }
   .nav-next { text-align: right; }
   .page-navigation span.nav-label {
@@ -82,41 +82,6 @@ export default (() => {
     font-weight: 600;
     font-size: 1.1rem;
     margin-top: 0.25rem;
-  }
-
-  /* Floating Side Arrows (Desktop) */
-  @media all and (min-width: 1000px) {
-    .page-navigation a::before {
-      content: '';
-      position: fixed;
-      top: 50%;
-      transform: translateY(-50%);
-      width: 40px;
-      height: 40px;
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      font-size: 2rem;
-      color: var(--gray);
-      background: var(--light);
-      border-radius: 50%;
-      box-shadow: 0 4px 12px rgba(0,0,0,0.05);
-      z-index: 100;
-      transition: all 0.2s ease;
-    }
-    .page-navigation a.nav-prev::before {
-      content: '←';
-      left: calc(50% - 460px); /* 800px/2 + padding */
-    }
-    .page-navigation a.nav-next::before {
-      content: '→';
-      right: calc(50% - 460px);
-    }
-    .page-navigation a:hover::before {
-      color: var(--tertiary);
-      transform: translateY(-50%) scale(1.1);
-      box-shadow: 0 6px 16px rgba(0,0,0,0.1);
-    }
   }
   `
 

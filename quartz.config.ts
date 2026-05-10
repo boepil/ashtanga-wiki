@@ -40,15 +40,15 @@ const config: QuartzConfig = {
           textHighlight: "#FFFBEB", // controversy flag yellow
         },
         darkMode: {
-          light: "#FAFAF9",
-          lightgray: "#F5F5F4",
-          gray: "#D6D3D1",
-          darkgray: "#57534E",
-          dark: "#1C1917",
-          secondary: "#B45309",
-          tertiary: "#92400E",
-          highlight: "rgba(180, 83, 9, 0.15)",
-          textHighlight: "#FFFBEB",
+          light: "#1C1917", // dark background (warm gray)
+          lightgray: "#292524", // surface
+          gray: "#57534E", // subtle border
+          darkgray: "#D6D3D1", // secondary (body text)
+          dark: "#FAFAF9", // primary (headings)
+          secondary: "#D97706", // tertiary (links, amber 600)
+          tertiary: "#F59E0B", // sanskrit color for accents (amber 500)
+          highlight: "rgba(217, 119, 6, 0.15)", // amber highlight
+          textHighlight: "#453411", // controversy flag yellow (dark)
         },
       },
     },
