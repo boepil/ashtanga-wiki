@@ -8,7 +8,7 @@ sources:
   - (Kaminoff, Yoga Anatomy, p. 358-360)
   - (Ashtanga Knowledge Base, p. 33-254)
 updated: 2026-05-02
-sequence: 102
+sequence: 103
 ---
 <div class="page-wrapper is-asana">
 

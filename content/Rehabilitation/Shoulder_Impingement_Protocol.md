@@ -9,7 +9,7 @@ sources:
   - (Kaminoff, Yoga Anatomy, p. 82-83)
   - (Myers, Anatomy Trains, p. 494-505)
 updated: 2026-05-02
-sequence: 91
+sequence: 92
 ---
 <div class="page-wrapper is-rehabilitation">
 
