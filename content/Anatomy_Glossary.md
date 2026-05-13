@@ -7,9 +7,7 @@ sequence: 9999
 ---
 <div class="page-wrapper is-asana">
 
-
-
-# Anatomical Glossary
+ 
 
 This glossary maps key anatomical points using their Sanskrit, Scientific (Latin), and common Hebrew/English names.
 

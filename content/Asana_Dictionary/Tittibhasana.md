@@ -15,14 +15,14 @@ sequence: 9999
 ---
 <div class="page-wrapper is-asana">
 
+ 
 
-
-# Tittibhasana (Firefly Pose)
+"Tittibha means a firefly. This asana resembles the insect, hence the name." 
 
 ![Tittibhasana](https://www.devvratyoga.com/wp-content/uploads/2019/07/Tittibhasana.png)
 
+
 ## Sanskrit Meaning
-"Tittibha means a firefly. This asana resembles the insect, hence the name." 
 *(Light on Yoga, B.K.S. Iyengar, p. 312) — Yoga Philosophy and Origins*
 
 ## Variations

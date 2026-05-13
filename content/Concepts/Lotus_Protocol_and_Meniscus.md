@@ -8,9 +8,7 @@ sequence: 82
 ---
 <div class="page-wrapper is-asana">
 
-
-
-# The Lotus Protocol and Meniscus Mechanics
+ 
 
 ## Summary
 The meniscus of the knee has zero tolerance for rotational shear; it is a hinge joint designed for flexion and extension. Because Padmasana (Lotus) requires massive external hip rotation, forcing the pose when hip mobility or skeletal structure restricts rotation transfers catastrophic torque directly into the delicate medial meniscus.

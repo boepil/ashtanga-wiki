@@ -21,14 +21,14 @@ sequence: 9999
 ---
 <div class="page-wrapper is-asana">
 
+ 
 
-
-# Parsvottanasana (Intense Extended Side-Stretch Pose)
+"Parsva means side or flank. Uttana (ut = intense, and tan = to extend, stretch, lengthen) means an intense stretch. The name implies a pose in which the side of the chest is stretched intensely." 
 
 ![Uthitha-Parsvottanasana-A](https://www.devvratyoga.com/wp-content/uploads/2019/07/Uthitha-Parsvottanasana-A.png)
 
+
 ## Sanskrit Meaning
-"Parsva means side or flank. Uttana (ut = intense, and tan = to extend, stretch, lengthen) means an intense stretch. The name implies a pose in which the side of the chest is stretched intensely." 
 *(Light on Yoga, B.K.S. Iyengar, p. 192) — Yoga Philosophy and Origins*
 
 ## Vinyasa Count & Entry

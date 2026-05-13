@@ -15,14 +15,14 @@ sequence: 9999
 ---
 <div class="page-wrapper is-asana">
 
+ 
 
-
-# Vatayanasana (Horse Pose)
+"Vatayana means a horse. The pose resembles a horse's face, hence the name." 
 
 ![Vatayanasana](https://www.devvratyoga.com/wp-content/uploads/2019/07/Vatayanasana.png)
 
+
 ## Sanskrit Meaning
-"Vatayana means a horse. The pose resembles a horse's face, hence the name." 
 *(Light on Yoga, B.K.S. Iyengar, p. 105) — Yoga Philosophy and Origins*
 
 ## Vinyasa Count & Entry

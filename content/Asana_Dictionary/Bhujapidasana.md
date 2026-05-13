@@ -15,12 +15,12 @@ sequence: 9999
 ---
 <div class="page-wrapper is-asana">
 
+ 
 
-
-# Bhujapidasana (Arm Pressure Pose)
+![Bhujapidasana-b](https://www.devvratyoga.com/wp-content/uploads/2019/07/Bhujapidasana-b.png)
 
 ![Bhujapidasana-A](https://www.devvratyoga.com/wp-content/uploads/2019/07/Bhujapidasana-A.png)
-![Bhujapidasana-b](https://www.devvratyoga.com/wp-content/uploads/2019/07/Bhujapidasana-b.png)
+
 
 ## Sanskrit Meaning
 "Bhuja means an arm or shoulder. Pida means pain or pressure." 

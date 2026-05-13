@@ -15,14 +15,14 @@ sequence: 9999
 ---
 <div class="page-wrapper is-asana">
 
+ 
 
-
-# Karandavasana (Himalayan Duck Pose)
+"Karandava is a type of Himalayan duck. This asana resembles a duck landing or resting." 
 
 ![Karandavasana](https://www.devvratyoga.com/wp-content/uploads/2019/07/Karandavasana.png)
 
+
 ## Sanskrit Meaning
-"Karandava is a type of Himalayan duck. This asana resembles a duck landing or resting." 
 *(NotebookLM extraction) — Yoga Philosophy and Origins*
 
 ## Vinyasa Count & Entry

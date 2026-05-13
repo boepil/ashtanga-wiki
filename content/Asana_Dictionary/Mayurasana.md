@@ -15,14 +15,14 @@ sequence: 9999
 ---
 <div class="page-wrapper is-asana">
 
+ 
 
-
-# Mayurasana (Peacock Pose)
+"Mayura means a peacock. This asana resembles a peacock with its tail spread." 
 
 ![Mayurasana](https://www.devvratyoga.com/wp-content/uploads/2019/07/Mayurasana.png)
 
+
 ## Sanskrit Meaning
-"Mayura means a peacock. This asana resembles a peacock with its tail spread." 
 *(Light on Yoga, B.K.S. Iyengar, p. 283) — Yoga Philosophy and Origins*
 
 ## Vinyasa Count & Entry

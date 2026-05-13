@@ -6,9 +6,7 @@ sequence: 25
 ---
 <div class="page-wrapper is-asana">
 
-
-
-# Om (Aum)
+ 
 
 **Om**, also spelled **Aum**, is the most sacred syllable and mantra in Hinduism and yogic philosophy. It is considered the primordial sound from which the entire universe emanated—the sonic representation of the Divine or ultimate reality ([[Purusha_and_Prakriti|Purusha]]/Brahman).
 

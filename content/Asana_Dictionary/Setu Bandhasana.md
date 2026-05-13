@@ -15,14 +15,14 @@ sequence: 9999
 ---
 <div class="page-wrapper is-asana">
 
+ 
 
-
-# Setu Bandhasana (Bridge Pose)
+"Setu means a bridge. Setu bandha means the formation or construction of a bridge. In this posture, the whole body forms an arch and is supported at one end by the crown of the head and at the other by the feet." 
 
 ![Setu-Bandhasana](https://www.devvratyoga.com/wp-content/uploads/2019/07/Setu-Bandhasana.png)
 
+
 ## Sanskrit Meaning
-"Setu means a bridge. Setu bandha means the formation or construction of a bridge. In this posture, the whole body forms an arch and is supported at one end by the crown of the head and at the other by the feet." 
 *(Light on Yoga, B.K.S. Iyengar, p. 255) — Yoga Philosophy and Origins*
 
 "Setu Bandhasana: Bound Bridge Pose, or Charlie Chaplin Pose." 

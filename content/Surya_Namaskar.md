@@ -7,9 +7,7 @@ sequence: 7
 ---
 <div class="page-wrapper is-asana">
 
-
-
-# Surya Namaskar (Sun Salutation)
+ 
 
 ## Summary
 Surya Namaskar (Sun Salutation) is the dynamic, rhythmic opening sequence of the Ashtanga Yoga practice. It links breath with movement to generate internal heat, awaken the spine, and prepare the body and mind for the subsequent asanas.

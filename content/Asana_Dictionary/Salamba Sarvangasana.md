@@ -16,14 +16,14 @@ sequence: 9999
 ---
 <div class="page-wrapper is-asana">
 
+ 
 
-
-# Salamba Sarvangasana (Supported Shoulderstand)
+"Alamba means a prop, a support and sa together with or accompanied by. Salamba, therefore, means supported or propped up. Sarvanga (Sarva =all, whole, entire, complete; anga = limb or body) means the entire body or all the limbs." 
 
 ![Salamba-Sarvangasana](https://www.devvratyoga.com/wp-content/uploads/2019/07/Salamba-Sarvangasana.png)
 
+
 ## Sanskrit Meaning
-"Alamba means a prop, a support and sa together with or accompanied by. Salamba, therefore, means supported or propped up. Sarvanga (Sarva =all, whole, entire, complete; anga = limb or body) means the entire body or all the limbs." 
 *(Light on Yoga, B.K.S. Iyengar, p. 205–206) — Yoga Philosophy and Origins*
 
 ## Vinyasa Count & Entry

@@ -16,14 +16,14 @@ sequence: 9999
 ---
 <div class="page-wrapper is-asana">
 
+ 
 
-
-# Navasana (Boat Pose)
+"Paripurna means entire or complete. The posture here resembles that of a boat with oars, hence the name." 
 
 ![Navasana](https://www.devvratyoga.com/wp-content/uploads/2019/07/Navasana.png)
 
+
 ## Sanskrit Meaning
-"Paripurna means entire or complete. The posture here resembles that of a boat with oars, hence the name." 
 *(Light on Yoga, B.K.S. Iyengar, p. 207) — Yoga Philosophy and Origins*
 
 "Navasana... keep our bodies like a boat." 

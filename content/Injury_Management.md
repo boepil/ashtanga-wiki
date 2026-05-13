@@ -7,9 +7,7 @@ sequence: 55
 ---
 <div class="page-wrapper is-asana">
 
-
-
-# Injury Management and Rehabilitation
+ 
 
 ## Summary
 The intense physical demands of Ashtanga Yoga, if performed without anatomical intelligence, commonly lead to a specific set of chronic injuries. The three most prevalent are proximal hamstring attachment tears ("Yoga Butt"), Sacroiliac (SI) Joint dysfunction, and medial meniscus tears of the knee resulting from forced hip openers.

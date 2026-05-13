@@ -7,9 +7,7 @@ sequence: 26
 ---
 <div class="page-wrapper is-asana">
 
-
-
-# Women's Practice Traditions
+ 
 
 ## Summary
 The Ashtanga and Krishnamacharya lineages maintain specific traditional guidelines regarding women's practice. These guidelines dictate periods of rest aligned with natural cycles—specifically Moon Days (full and new moons), the "Ladies Holiday" (menstruation), and precise modifications or suspensions of practice during and after pregnancy.

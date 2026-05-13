@@ -15,14 +15,14 @@ sequence: 9999
 ---
 <div class="page-wrapper is-asana">
 
+ 
 
-
-# Urdhva Dhanurasana (Upward Bow / Wheel Pose)
+"Urdhva means upwards. Dhanu means a bow. In this posture the body is arched back and supported on the palms and soles." 
 
 ![Urdhva-Dhanurasana](https://www.devvratyoga.com/wp-content/uploads/2019/07/Urdhva-Dhanurasana.png)
 
+
 ## Sanskrit Meaning
-"Urdhva means upwards. Dhanu means a bow. In this posture the body is arched back and supported on the palms and soles." 
 *(Light on Yoga, B.K.S. Iyengar, p. 357) — Yoga Philosophy and Origins*
 
 ## Vinyasa Count & Entry

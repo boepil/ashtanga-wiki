@@ -15,14 +15,14 @@ sequence: 9999
 ---
 <div class="page-wrapper is-asana">
 
+ 
 
-
-# Kukkutasana (Rooster Pose)
+"Kukkuta means a cock, which this posture resembles." 
 
 ![Kukkutasana](https://www.devvratyoga.com/wp-content/uploads/2019/07/Kukkutasana.png)
 
+
 ## Sanskrit Meaning
-"Kukkuta means a cock, which this posture resembles." 
 *(Light on Yoga, B.K.S. Iyengar, p. 140) — Yoga Philosophy and Origins*
 
 ## Vinyasa Count & Entry

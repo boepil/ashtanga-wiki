@@ -16,12 +16,12 @@ sequence: 9999
 ---
 <div class="page-wrapper is-asana">
 
+ 
 
-
-# Supta Padangusthasana (Reclining Big Toe Pose)
+![Supta-Padangusthasana-b](https://www.devvratyoga.com/wp-content/uploads/2019/07/Supta-Padangusthasana-b.png)
 
 ![Supta-Padangusthasana-A](https://www.devvratyoga.com/wp-content/uploads/2019/07/Supta-Padangusthasana-A.png)
-![Supta-Padangusthasana-b](https://www.devvratyoga.com/wp-content/uploads/2019/07/Supta-Padangusthasana-b.png)
+
 
 ## Sanskrit Meaning
 "Supta means lying down. Pada is the foot. Angustha means the big toe." 

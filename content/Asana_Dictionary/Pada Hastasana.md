@@ -19,12 +19,12 @@ sequence: 9999
 ---
 <div class="page-wrapper is-asana">
 
+ 
 
-
-# Pada Hastasana (Hands to Feet Pose)
+![Pada-Hastasana-b](https://www.devvratyoga.com/wp-content/uploads/2019/07/Pada-Hastasana-b.png)
 
 ![Pada-Hastasana-a](https://www.devvratyoga.com/wp-content/uploads/2019/07/Pada-Hastasana-a.png)
-![Pada-Hastasana-b](https://www.devvratyoga.com/wp-content/uploads/2019/07/Pada-Hastasana-b.png)
+
 
 ## Sanskrit Meaning
 "Pada means the foot. Hasta means the hand. This posture is done by bending forward and standing on one's hands." 

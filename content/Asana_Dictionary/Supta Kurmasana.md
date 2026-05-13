@@ -15,14 +15,14 @@ sequence: 9999
 ---
 <div class="page-wrapper is-asana">
 
+ 
 
-
-# Supta Kurmasana (Sleeping Tortoise Pose)
+"Supta means reclined or sleeping. Kurma means a tortoise." 
 
 ![Supta-Kurmasana](https://www.devvratyoga.com/wp-content/uploads/2019/07/Supta-Kurmasana.png)
 
+
 ## Sanskrit Meaning
-"Supta means reclined or sleeping. Kurma means a tortoise." 
 *(Yoga Mala, K. Pattabhi Jois, p. 1573) — Yoga Philosophy and Origins*
 
 ## Vinyasa Count & Entry

@@ -7,9 +7,7 @@ sequence: 6
 ---
 <div class="page-wrapper is-bridge">
 
-
-
-# Asana Fundamentals
+ 
 
 ## Summary
 The foundation of Ashtanga Yoga postures (Asanas) relies on precise alignment, breath integration, and structural integrity. Understanding functional anatomy and the mechanics of movement allows practitioners to cultivate stability, avoid injury, and facilitate the unobstructed flow of prana (vital energy).

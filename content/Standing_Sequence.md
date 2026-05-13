@@ -7,9 +7,7 @@ sequence: 9
 ---
 <div class="page-wrapper is-asana">
 
-
-
-# Standing Sequence
+ 
 
 ## Summary
 The Standing Sequence is the foundational block of asanas following the Sun Salutations in all Ashtanga series. It builds leg strength, balance, and pelvic stability while opening the hips and hamstrings.

@@ -11,14 +11,14 @@ sequence: 86
 ---
 <div class="page-wrapper is-compensation">
 
-
-
-# Nervous System Dysregulation in Practice
-
-![[Nervous System Dysregulation.png]]
-### 1. Parasympathetic Vagal Tone / Breath Regulation
+ 
 
 **Lack**  
+
+![[Nervous System Dysregulation.png]]
+
+### 1. Parasympathetic Vagal Tone / Breath Regulation
+
 Inability to maintain a slow, rhythmic breath (Ujjayi) under physical stress or high heart rate, leading to a sympathetic "fight or flight" response (dominance of the sympathetic nervous system).
 
 **Compensation**  

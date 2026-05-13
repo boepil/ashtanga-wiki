@@ -22,14 +22,14 @@ sequence: 9999
 ---
 <div class="page-wrapper is-asana">
 
+ 
 
-
-# Utthita Trikonasana (Extended Triangle Pose)
+"Utthita means extended, stretched. Trikona (tri = three; kona = angle) is a triangle. This standing asana is the extended triangle pose." 
 
 ![Uthitha-Trikonasana-A](https://www.devvratyoga.com/wp-content/uploads/2019/07/Uthitha-Trikonasana-A.png)
 
+
 ## Sanskrit Meaning
-"Utthita means extended, stretched. Trikona (tri = three; kona = angle) is a triangle. This standing asana is the extended triangle pose." 
 *(Light on Yoga, B.K.S. Iyengar, p. 63) — Yoga Philosophy and Origins*
 
 ## Vinyasa Count & Entry

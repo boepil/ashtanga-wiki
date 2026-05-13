@@ -15,14 +15,14 @@ sequence: 9999
 ---
 <div class="page-wrapper is-asana">
 
+ 
 
-
-# Halasana (Plow Pose)
+"Hala means a plough, the shape of which this posture resembles, hence the name." 
 
 ![halasana](https://www.devvratyoga.com/wp-content/uploads/2019/07/halasana.png)
 
+
 ## Sanskrit Meaning
-"Hala means a plough, the shape of which this posture resembles, hence the name." 
 *(Light on Yoga, B.K.S. Iyengar, p. 253) — Yoga Philosophy and Origins*
 
 ## Vinyasa Count & Entry

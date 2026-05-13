@@ -12,9 +12,7 @@ sequence: 103
 ---
 <div class="page-wrapper is-asana">
 
-
-
-# Hip Flexor Dominance — asana modifications
+ 
 
 ## Overview
 When the hip flexors (psoas/iliacus) are overactive, they "pull" the pelvis into an anterior tilt, causing the lumbar spine to compensate with excessive lordosis. This is particularly visible as a "pinching" sensation in the front of the hip during forward folds or "crunching" in the lower back during backbends. Modifications focus on bypassing bone-on-flesh compression and using reciprocal inhibition to quiet the hip flexors.

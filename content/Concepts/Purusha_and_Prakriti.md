@@ -6,9 +6,7 @@ sequence: 19
 ---
 <div class="page-wrapper is-asana">
 
-
-
-# Purusha and Prakriti
+ 
 
 **Purusha** and **Prakriti** are the two foundational principles of Samkhya philosophy, the metaphysical system upon which the [[Yoga_Sutras]] of Patañjali are built. Understanding this dualism is essential for grasping the ultimate goal of classical yoga: the realization of the true self as distinct from the material world.
 

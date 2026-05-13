@@ -15,14 +15,14 @@ sequence: 9999
 ---
 <div class="page-wrapper is-asana">
 
+ 
 
-
-# Garbha Pindasana (Embryo in the Womb Pose)
+"Garbha Pinda means an embryo in the womb (garbha = womb; pinda = embryo). This variation of Padmasana... resembles that of a human foetus in the womb." 
 
 ![Garbha-Pindasana](https://www.devvratyoga.com/wp-content/uploads/2019/07/Garbha-Pindasana.png)
 
+
 ## Sanskrit Meaning
-"Garbha Pinda means an embryo in the womb (garbha = womb; pinda = embryo). This variation of Padmasana... resembles that of a human foetus in the womb." 
 *(Light on Yoga, B.K.S. Iyengar, p. 141) — Yoga Philosophy and Origins*
 
 ## Vinyasa Count & Entry

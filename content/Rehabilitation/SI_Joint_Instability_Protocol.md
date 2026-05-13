@@ -14,13 +14,13 @@ sequence: 98
 ---
 <div class="page-wrapper is-rehabilitation">
 
+ 
 
-
-# SI Joint Instability — rehabilitation protocol
+Sacroiliac (SI) joint instability is often a result of ligamentous laxity or "overmobilization" in asymmetric yoga poses like Janu Sirsasana or Parivrtta Parsvakonasana (Kaminoff, Yoga Anatomy, p. 251). Stability in this joint is not derived from traditional muscle strength, but from "muscular stiffness"—a guy-wire system of tension that inhibits painful micro-movements (McGill, Back Mechanic, p. 31). This protocol focuses on "tuning" the core and adductors to restore congruence to the joint edges (Kaminoff, p. 246).
 
 ![[ChatGPT Image May 10, 2026, 09_08_42 PM.png]]
+
 ## Overview
-Sacroiliac (SI) joint instability is often a result of ligamentous laxity or "overmobilization" in asymmetric yoga poses like Janu Sirsasana or Parivrtta Parsvakonasana (Kaminoff, Yoga Anatomy, p. 251). Stability in this joint is not derived from traditional muscle strength, but from "muscular stiffness"—a guy-wire system of tension that inhibits painful micro-movements (McGill, Back Mechanic, p. 31). This protocol focuses on "tuning" the core and adductors to restore congruence to the joint edges (Kaminoff, p. 246).
 
 ## Guidelines
 - Frequency: Daily for "Spine Hygiene" and Bracing.

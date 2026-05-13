@@ -19,12 +19,12 @@ sequence: 9999
 ---
 <div class="page-wrapper is-asana">
 
+ 
 
-
-# Pada Angusthasana (Big Toe Pose)
+![Pada-Angusthasana-b](https://www.devvratyoga.com/wp-content/uploads/2019/07/Pada-Angusthasana-b.png)
 
 ![Pada-Angusthasana](https://www.devvratyoga.com/wp-content/uploads/2019/07/Pada-Angusthasana.png)
-![Pada-Angusthasana-b](https://www.devvratyoga.com/wp-content/uploads/2019/07/Pada-Angusthasana-b.png)
+
 
 ## Sanskrit Meaning
 "Pada means the foot. Angustha is the big toe. This posture is done by standing and catching the big toes." 

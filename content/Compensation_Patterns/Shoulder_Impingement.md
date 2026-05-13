@@ -11,14 +11,14 @@ sequence: 84
 ---
 <div class="page-wrapper is-compensation">
 
-
-
-# Shoulder Impingement in Yoga
-
-![[ChatGPT Image May 2, 2026, 06_28_35 PM.png]]
-### 1. Scapular Stability and Upward Rotation
+ 
 
 **Lack**  
+
+![[ChatGPT Image May 2, 2026, 06_28_35 PM.png]]
+
+### 1. Scapular Stability and Upward Rotation
+
 Underdeveloped capacity for the scapula to rotate upward and remain stable against the ribcage (Serratus Anterior insufficiency) and a lack of humeral external rotation (Rotator Cuff weakness).
 
 **Compensation**  

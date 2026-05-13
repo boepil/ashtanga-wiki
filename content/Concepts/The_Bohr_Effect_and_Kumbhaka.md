@@ -8,9 +8,7 @@ sequence: 28
 ---
 <div class="page-wrapper is-bridge">
 
-
-
-# The Bohr Effect and Kumbhaka
+ 
 
 ## Summary
 The Bohr Effect explains the counterintuitive physiological reality that cellular oxygenation is dictated not by the amount of oxygen inhaled, but by the accumulation of carbon dioxide (CO₂) in the bloodstream. In the context of yoga, traditional practices like Ujjayi (restricted breathing) and Kumbhaka (breath retention) leverage this mechanism by deliberately building CO₂ tolerance (hypercapnia). This shifts the body away from sympathetic overbreathing, maximizing oxygen delivery to the brain and tissues, and bridging ancient yogic techniques with modern respiratory science.

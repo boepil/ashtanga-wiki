@@ -19,14 +19,14 @@ sequence: 9999
 ---
 <div class="page-wrapper is-asana">
 
+ 
 
-
-# Triang Mukha Eka Pada Paschimottanasana (Three-Limb Face One-Foot Seated Forward Bend)
+"Trianga means three limbs or parts thereof. In this posture the three parts are the feet, knees and buttocks. Mukhaikapada (a compound of three words, mukha = face, eka = one, and pada = leg or foot) corresponds to the face (or mouth) touching one (extended) leg. In Paschimottanasana the back of the whole body is intensely stretched." 
 
 ![Triang-Mukha-ek-Pada-Paschimattanasana](https://www.devvratyoga.com/wp-content/uploads/2019/07/Triang-Mukha-ek-Pada-Paschimattanasana.png)
 
+
 ## Sanskrit Meaning
-"Trianga means three limbs or parts thereof. In this posture the three parts are the feet, knees and buttocks. Mukhaikapada (a compound of three words, mukha = face, eka = one, and pada = leg or foot) corresponds to the face (or mouth) touching one (extended) leg. In Paschimottanasana the back of the whole body is intensely stretched." 
 *(Light on Yoga, B.K.S. Iyengar, p. 254) — Yoga Philosophy and Origins*
 
 "Tiriang Mukha Eka Pada Paschimottanasana: Three Limb Face One Foot Western Intense Stretch Pose." 

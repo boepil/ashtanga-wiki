@@ -6,9 +6,7 @@ sequence: 14
 ---
 <div class="page-wrapper is-asana">
 
-
-
-# Pranayama (Breath Control)
+ 
 
 **Pranayama** is the fourth limb of the [[Eight_Limbs]] of yoga. The term combines *prana* (vital life force or energy) and *ayama* (extension, expansion, or control). It is the practice of regulating the breath to control and expand the life force within the body.
 

@@ -6,9 +6,7 @@ sequence: 108
 ---
 <div class="page-wrapper is-asana">
 
-
-
-# Hebrew Translation Cues (Karaoke)
+ 
 
 This dictionary establishes the exact Hebrew transliterations for the Ashtanga Vinyasa Yoga sequence, designed specifically for the Karaoke integration and teaching standards.
 

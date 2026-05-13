@@ -17,14 +17,14 @@ sequence: 9999
 ---
 <div class="page-wrapper is-asana">
 
+ 
 
-
-# Ardha Baddha Padma Paschimottanasana (Half Bound Lotus Seated Forward Bend)
+"Ardha means half, baddha means caught, restrained and padma a lotus. Paschimottanasana is the posture where the back of the whole body is intensely stretched." 
 
 ![Ardha-Baddha-Padma-paschimattanasana](https://www.devvratyoga.com/wp-content/uploads/2019/07/Ardha-Baddha-Padma-paschimattanasana.png)
 
+
 ## Sanskrit Meaning
-"Ardha means half, baddha means caught, restrained and padma a lotus. Paschimottanasana is the posture where the back of the whole body is intensely stretched." 
 *(Light on Yoga, B.K.S. Iyengar, p. 248) — Yoga Philosophy and Origins*
 
 "Ardha Baddha Padma Paschimottanasana: Half Bound Lotus West Intense Stretch Pose." 

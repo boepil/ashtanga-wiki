@@ -11,14 +11,14 @@ sequence: 85
 ---
 <div class="page-wrapper is-compensation">
 
-
-
-# Collapse in Chaturanga
-
-![[Chaturanga_Collapse.png]]
-### 1. Serratus Anterior and Core Integration
+ 
 
 **Lack**  
+
+![[Chaturanga_Collapse.png]]
+
+### 1. Serratus Anterior and Core Integration
+
 Lack of eccentric control in the triceps and failure of the serratus anterior to maintain scapular protraction (preventing winging) combined with poor intra-abdominal pressure (IAP).
 
 **Compensation**  

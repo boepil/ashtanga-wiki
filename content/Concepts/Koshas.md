@@ -6,9 +6,7 @@ sequence: 22
 ---
 <div class="page-wrapper is-asana">
 
-
-
-# The Five Koshas
+ 
 
 The **Koshas** are the five "sheaths" or layers that encase the true Self (Atman), as described in Vedantic philosophy (specifically the Taittiriya Upanishad). They are often conceptualized like the layers of an onion, ranging from the grossest physical layer on the outside to the most subtle spiritual layer at the core.
 

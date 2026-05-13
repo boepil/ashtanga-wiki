@@ -20,14 +20,14 @@ sequence: 9999
 ---
 <div class="page-wrapper is-asana">
 
+ 
 
-
-# Utkatasana (Chair Pose)
+"Utkaṭa means powerful, fierce, uneven. This asana is like sitting on an imaginary chair." 
 
 ![Utkatasana](https://www.devvratyoga.com/wp-content/uploads/2019/07/Utkatasana-1.png)
 
+
 ## Sanskrit Meaning
-"Utkaṭa means powerful, fierce, uneven. This asana is like sitting on an imaginary chair." 
 *(Light on Yoga, B.K.S. Iyengar, p. 174) — Yoga Philosophy and Origins*
 
 "utkata. awkward; powerful; fierce" 

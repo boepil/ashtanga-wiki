@@ -15,12 +15,12 @@ sequence: 9999
 ---
 <div class="page-wrapper is-asana">
 
+ 
 
-
-# Upavistha Konasana (Seated Wide Angle Pose)
+![Upavistha-Konasana-b](https://www.devvratyoga.com/wp-content/uploads/2019/07/Upavistha-Konasana-b.png)
 
 ![Upavistha-Konasana-A](https://www.devvratyoga.com/wp-content/uploads/2019/07/Upavistha-Konasana-A.png)
-![Upavistha-Konasana-b](https://www.devvratyoga.com/wp-content/uploads/2019/07/Upavistha-Konasana-b.png)
+
 
 ## Sanskrit Meaning
 "Upavistha means seated. Kona means an angle." 

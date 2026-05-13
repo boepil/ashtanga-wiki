@@ -19,14 +19,14 @@ sequence: 9999
 ---
 <div class="page-wrapper is-asana">
 
+ 
 
-
-# Ardha Baddha Padmottanasana (Half-Bound Lotus Intense Stretch Pose)
+"Ardha means half. Baddha means bound, restrained, caught, withheld. Padma is a lotus. Uttana is an intense stretch." 
 
 ![Ardha-Baddha-Padmottanasana](https://www.devvratyoga.com/wp-content/uploads/2019/07/Ardha-Baddha-Padmottanasana-1.png)
 
+
 ## Sanskrit Meaning
-"Ardha means half. Baddha means bound, restrained, caught, withheld. Padma is a lotus. Uttana is an intense stretch." 
 *(Light on Yoga, B.K.S. Iyengar, p. 210) — Yoga Philosophy and Origins*
 
 ## Vinyasa Count & Entry

@@ -15,14 +15,14 @@ sequence: 9999
 ---
 <div class="page-wrapper is-asana">
 
+ 
 
-
-# Urdhva Padmasana (Upward Lotus Pose)
+"Ūrdhva means above or high. Padmāsana is the lotus pose. In this variation, Padmasana is done in the shoulderstand." 
 
 ![Urdhva-Padmasana](https://www.devvratyoga.com/wp-content/uploads/2019/07/Urdhva-Padmasana.png)
 
+
 ## Sanskrit Meaning
-"Ūrdhva means above or high. Padmāsana is the lotus pose. In this variation, Padmasana is done in the shoulderstand." 
 *(Light on Yoga, B.K.S. Iyengar, p. 266) — Yoga Philosophy and Origins*
 
 ## Vinyasa Count & Entry

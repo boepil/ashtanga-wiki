@@ -15,14 +15,14 @@ sequence: 9999
 ---
 <div class="page-wrapper is-asana">
 
+ 
 
-
-# Bharadvajasana (Bharadvaja's Twist)
+"Bharadvaja was the father of Drona, the teacher of the Pandavas. This asana is dedicated to him." 
 
 ![Bharadvajasana](https://www.devvratyoga.com/wp-content/uploads/2019/07/Bharadvajasana.png)
 
+
 ## Sanskrit Meaning
-"Bharadvaja was the father of Drona, the teacher of the Pandavas. This asana is dedicated to him." 
 *(Light on Yoga, B.K.S. Iyengar, p. 254) — Yoga Philosophy and Origins*
 
 ## Vinyasa Count & Entry

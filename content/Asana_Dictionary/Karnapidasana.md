@@ -15,14 +15,14 @@ sequence: 9999
 ---
 <div class="page-wrapper is-asana">
 
+ 
 
-
-# Karnapidasana (Ear Pressure Pose)
+"Karṇa means the ear. Pīḍā means pain, discomfort or pressure. This is a variant of Halasana and can be done along with it." 
 
 ![Karnapidasana](https://www.devvratyoga.com/wp-content/uploads/2019/07/Karnapidasana.png)
 
+
 ## Sanskrit Meaning
-"Karṇa means the ear. Pīḍā means pain, discomfort or pressure. This is a variant of Halasana and can be done along with it." 
 *(Light on Yoga, B.K.S. Iyengar, p. 256) — Yoga Philosophy and Origins*
 
 ## Vinyasa Count & Entry

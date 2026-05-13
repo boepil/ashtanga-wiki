@@ -10,14 +10,14 @@ sequence: 87
 ---
 <div class="page-wrapper is-compensation">
 
-
-
-# Hip Flexor Dominance in Forward Folds
-
-![[ChatGPT Image May 5, 2026, 04_48_15 PM.png]]
-### 1. Pelvic Tilt and Spinal Integrity
+ 
 
 **Lack**  
+
+![[ChatGPT Image May 5, 2026, 04_48_15 PM.png]]
+
+### 1. Pelvic Tilt and Spinal Integrity
+
 Eccentric hamstring length and the capacity for the pelvis to rotate anteriorly (anterior pelvic tilt) at the hip joint.
 
 **Compensation**  

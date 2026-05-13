@@ -8,9 +8,7 @@ sequence: 81
 ---
 <div class="page-wrapper is-bridge">
 
-
-
-# Tissue Mechanics of the Vinyasa Count
+ 
 
 ## Summary
 The rigid structure of Ashtanga Yoga—the fixed sequence, internal heat (tapas), 5-breath holds, and linking vinyasas—maps precisely to optimal conditions for fascial remodeling. Traditional methodology anticipated modern biomechanics by centuries, creating a perfect protocol for viscoelastic tissue adaptation and cellular oxygenation.

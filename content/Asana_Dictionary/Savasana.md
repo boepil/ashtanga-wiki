@@ -14,14 +14,14 @@ sequence: 9999
 ---
 <div class="page-wrapper is-asana">
 
+ 
 
-
-# Savasana (Corpse Pose)
+"Sava means a corpse. In this posture, one mimics the stillness of a corpse." 
 
 ![Savasana](https://www.devvratyoga.com/wp-content/uploads/2019/07/Savasana.png)
 
+
 ## Sanskrit Meaning
-"Sava means a corpse. In this posture, one mimics the stillness of a corpse." 
 *(Light on Yoga, B.K.S. Iyengar, p. 422) — Yoga Philosophy and Origins*
 
 ## Vinyasa Count & Entry

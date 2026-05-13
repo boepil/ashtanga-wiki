@@ -22,14 +22,14 @@ sequence: 9999
 ---
 <div class="page-wrapper is-asana">
 
+ 
 
-
-# Virabhadrasana B (Warrior II Pose)
+"Asanas are named after legendary heroes like Vīrabhadra... When Śiva heard [of the death of Satī] he was gravely provoked, tore a hair from his matted locks and threw it to the ground. A powerful hero named Vīrabhadra rose up... This asana is dedicated to the powerful hero created by Śiva from his matted hair." 
 
 ![Virabhadrasana-b](https://www.devvratyoga.com/wp-content/uploads/2019/07/Virabhadrasana-b.png)
 
+
 ## Sanskrit Meaning
-"Asanas are named after legendary heroes like Vīrabhadra... When Śiva heard [of the death of Satī] he was gravely provoked, tore a hair from his matted locks and threw it to the ground. A powerful hero named Vīrabhadra rose up... This asana is dedicated to the powerful hero created by Śiva from his matted hair." 
 *(Light on Yoga, B.K.S. Iyengar, p. 212-213) — Yoga Philosophy and Origins*
 
 "Virabhadra—the fierce spiritual warrior... Like Shiva, Virabhadra’s aim in destruction is not revenge but to destroy the real enemy, which is the ego standing in the way of humility." 

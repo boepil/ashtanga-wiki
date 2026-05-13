@@ -22,12 +22,12 @@ sequence: 9999
 ---
 <div class="page-wrapper is-asana">
 
+ 
 
-
-# Prasarita Padottanasana (Spread Foot Stretching Pose)
+![Prasarita-Padottanasana-b](https://www.devvratyoga.com/wp-content/uploads/2019/07/Prasarita-Padottanasana-b.png)
 
 ![Prasarita-Padottanasana-A](https://www.devvratyoga.com/wp-content/uploads/2019/07/Prasarita-Padottanasana-A.png)
-![Prasarita-Padottanasana-b](https://www.devvratyoga.com/wp-content/uploads/2019/07/Prasarita-Padottanasana-b.png)
+
 ![Prasarita-Padottanasana-c](https://www.devvratyoga.com/wp-content/uploads/2019/07/Prasarita-Padottanasana-c.png)
 ![Prasarita-Padottanasana-d](https://www.devvratyoga.com/wp-content/uploads/2019/07/Prasarita-Padottanasana-d.png)
 

@@ -23,14 +23,14 @@ sequence: 9999
 ---
 <div class="page-wrapper is-asana">
 
+ 
 
-
-# Samasthitihi (Equal Standing)
+"Tada means a mountain. Sama means upright, straight, unmoved. Sthiti is standing still, steadiness. Tadasana [also called Samasthiti] therefore implies a pose where one stands firm and erect as a mountain." 
 
 ![Surya-Namaskar](https://www.devvratyoga.com/wp-content/uploads/2019/08/Surya-Namaskar.png)
 
+
 ## Sanskrit Meaning
-"Tada means a mountain. Sama means upright, straight, unmoved. Sthiti is standing still, steadiness. Tadasana [also called Samasthiti] therefore implies a pose where one stands firm and erect as a mountain." 
 *(Light on Yoga, B.K.S. Iyengar, p. 338) — Yoga Philosophy and Origins*
 
 "Samasthiti, which means standing up in a straight line." 

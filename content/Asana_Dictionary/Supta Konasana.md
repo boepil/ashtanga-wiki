@@ -15,14 +15,14 @@ sequence: 9999
 ---
 <div class="page-wrapper is-asana">
 
+ 
 
-
-# Supta Konasana (Reclining Angle Pose)
+"Supta means lying down and kona an angle." 
 
 ![Supta-Konasana](https://www.devvratyoga.com/wp-content/uploads/2019/07/Supta-Konasana.png)
 
+
 ## Sanskrit Meaning
-"Supta means lying down and kona an angle." 
 *(Light on Yoga, B.K.S. Iyengar, p. 247) — Yoga Philosophy and Origins*
 
 ## Vinyasa Count & Entry

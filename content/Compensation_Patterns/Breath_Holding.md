@@ -11,14 +11,14 @@ sequence: 89
 ---
 <div class="page-wrapper is-compensation">
 
-
-
-# Breath Holding Under Effort
-
-![[ChatGPT Image May 6, 2026, 08_14_33 PM.png]]
-### 1. Vinyasa Synchronization and Subtle Support
+ 
 
 **Lack**  
+
+![[ChatGPT Image May 6, 2026, 08_14_33 PM.png]]
+
+### 1. Vinyasa Synchronization and Subtle Support
+
 Lack of core/energetic support via the *Bandhas* and a failure to synchronize movement with the rhythm of the *Ujjayi* breath.
 
 **Compensation**  

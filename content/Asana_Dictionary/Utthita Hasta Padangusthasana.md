@@ -17,12 +17,12 @@ sequence: 9999
 ---
 <div class="page-wrapper is-asana">
 
+ 
 
-
-# Utthita Hasta Padangusthasana (Extended Hand to Big Toe Pose)
+![Utthita-Hasta-Padangusthasana-b](https://www.devvratyoga.com/wp-content/uploads/2019/07/Utthita-Hasta-Padangusthasana-b.png)
 
 ![Utthita-Hasta-Padangusthasana-a](https://www.devvratyoga.com/wp-content/uploads/2019/07/Utthita-Hasta-Padangusthasana-a.png)
-![Utthita-Hasta-Padangusthasana-b](https://www.devvratyoga.com/wp-content/uploads/2019/07/Utthita-Hasta-Padangusthasana-b.png)
+
 ![Utthita-Hasta-Padangusthasana-c](https://www.devvratyoga.com/wp-content/uploads/2019/07/Utthita-Hasta-Padangusthasana-c.png)
 
 ## Sanskrit Meaning

@@ -15,14 +15,14 @@ sequence: 9999
 ---
 <div class="page-wrapper is-asana">
 
+ 
 
-
-# Nakrasana (Crocodile Pose)
+"Nakra means a crocodile. This asana resembles a crocodile pouncing on its prey." 
 
 ![Nakrasana](https://www.devvratyoga.com/wp-content/uploads/2019/07/Nakrasana.png)
 
+
 ## Sanskrit Meaning
-"Nakra means a crocodile. This asana resembles a crocodile pouncing on its prey." 
 *(Light on Yoga, B.K.S. Iyengar, p. 75) — Yoga Philosophy and Origins*
 
 ## Vinyasa Count & Entry

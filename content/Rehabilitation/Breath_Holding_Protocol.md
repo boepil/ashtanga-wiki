@@ -14,13 +14,13 @@ sequence: 99
 ---
 <div class="page-wrapper is-rehabilitation">
 
+ 
 
-
-# Breath Holding — rehabilitation protocol
+Breath holding under effort (involuntary Kumbhaka) is a sign of high CO2 sensitivity and poor metabolic efficiency (McKeown, The Oxygen Advantage, p. 55). In Ashtanga vinyasa, this manifests as gasping after intense transitions or "locking" the breath to create stability. This protocol retrains the chemoreceptors to tolerate higher levels of CO2, allowing for calm, nasal breathing even under significant physical load (Nestor, Breath, p. 210).
 
 ![[ChatGPT Image May 9, 2026, 01_22_54 PM.png]]
+
 ## Overview
-Breath holding under effort (involuntary Kumbhaka) is a sign of high CO2 sensitivity and poor metabolic efficiency (McKeown, The Oxygen Advantage, p. 55). In Ashtanga vinyasa, this manifests as gasping after intense transitions or "locking" the breath to create stability. This protocol retrains the chemoreceptors to tolerate higher levels of CO2, allowing for calm, nasal breathing even under significant physical load (Nestor, Breath, p. 210).
 
 ## Guidelines
 - Frequency: Daily (especially nasal breathing awareness).

@@ -4,9 +4,7 @@ sequence: 75
 ---
 <div class="page-wrapper is-asana">
 
-
-
-# Modern Yoga History and Lineage
+ 
 
 > [!NOTE]
 > *Source Note: This historical overview was synthesized using Google NotebookLM (Gemini 2.5), drawing from curated texts on yoga philosophy and origins.*

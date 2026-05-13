@@ -15,14 +15,14 @@ sequence: 9999
 ---
 <div class="page-wrapper is-asana">
 
+ 
 
-
-# Gomukhasana (Cow Face Pose)
+"Go means a cow. Mukha means a face. The pose resembles a cow's face, hence the name." 
 
 ![Gomukhasana](https://www.devvratyoga.com/wp-content/uploads/2019/07/Gomukhasana.png)
 
+
 ## Sanskrit Meaning
-"Go means a cow. Mukha means a face. The pose resembles a cow's face, hence the name." 
 *(Light on Yoga, B.K.S. Iyengar, p. 110) — Yoga Philosophy and Origins*
 
 ## Variations

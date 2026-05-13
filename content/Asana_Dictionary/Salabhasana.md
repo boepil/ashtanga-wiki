@@ -15,14 +15,14 @@ sequence: 9999
 ---
 <div class="page-wrapper is-asana">
 
+ 
 
-
-# Salabhasana (Locust Pose)
+"Salabha means a locust. The pose resembles that of a locust resting on the ground, hence the name." 
 
 ![Salabhasana](https://www.devvratyoga.com/wp-content/uploads/2019/07/Salabhasana.png)
 
+
 ## Sanskrit Meaning
-"Salabha means a locust. The pose resembles that of a locust resting on the ground, hence the name." 
 *(Light on Yoga, B.K.S. Iyengar, p. 173) — Yoga Philosophy and Origins*
 
 ## Variations

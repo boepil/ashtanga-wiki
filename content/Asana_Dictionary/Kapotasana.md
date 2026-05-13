@@ -15,14 +15,14 @@ sequence: 9999
 ---
 <div class="page-wrapper is-asana">
 
+ 
 
-
-# Kapotasana (Pigeon Pose)
+"Kapota means a pigeon. In this posture, the chest is puffed out like that of a pigeon, hence the name." 
 
 ![Kapotasana](https://www.devvratyoga.com/wp-content/uploads/2019/07/Kapotasana.png)
 
+
 ## Sanskrit Meaning
-"Kapota means a pigeon. In this posture, the chest is puffed out like that of a pigeon, hence the name." 
 *(Light on Yoga, B.K.S. Iyengar, p. 168) — Yoga Philosophy and Origins*
 
 ## Vinyasa Count & Entry

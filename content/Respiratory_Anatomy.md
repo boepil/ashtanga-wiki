@@ -7,9 +7,7 @@ sequence: 9999
 ---
 <div class="page-wrapper is-bridge">
 
-
-
-# Respiratory Anatomy and Physiology
+ 
 
 ## Summary
 In Ashtanga Yoga, breath is the primary driver of the practice. Respiratory anatomy focuses on the diaphragm, the pelvic floor, and the regulation of **Intra-Abdominal Pressure (IAP)**, which provides structural support. Additionally, specific asanas impact the endocrine system, notably the thyroid gland.

@@ -15,14 +15,14 @@ sequence: 9999
 ---
 <div class="page-wrapper is-asana">
 
+ 
 
-
-# Ustrasana (Camel Pose)
+"Ustra means a camel. In this posture, the body resembles a camel." 
 
 ![Ustrasana](https://www.devvratyoga.com/wp-content/uploads/2019/07/Ustrasana.png)
 
+
 ## Sanskrit Meaning
-"Ustra means a camel. In this posture, the body resembles a camel." 
 *(Light on Yoga, B.K.S. Iyengar, p. 165) — Yoga Philosophy and Origins*
 
 ## Vinyasa Count & Entry

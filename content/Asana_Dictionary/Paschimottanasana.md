@@ -18,12 +18,12 @@ sequence: 9999
 ---
 <div class="page-wrapper is-asana">
 
+ 
 
-
-# Paschimottanasana (Seated Forward Bend)
+![Paschimattanasana-b](https://www.devvratyoga.com/wp-content/uploads/2019/07/Paschimattanasana-b.png)
 
 ![Paschimattanasana-A](https://www.devvratyoga.com/wp-content/uploads/2019/07/Paschimattanasana-A.png)
-![Paschimattanasana-b](https://www.devvratyoga.com/wp-content/uploads/2019/07/Paschimattanasana-b.png)
+
 ![Paschimattanasana-c](https://www.devvratyoga.com/wp-content/uploads/2019/07/Paschimattanasana-c.png)
 ![Paschimattanasana-d](https://www.devvratyoga.com/wp-content/uploads/2019/07/Paschimattanasana-d.png)
 

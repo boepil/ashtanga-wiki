@@ -15,14 +15,14 @@ sequence: 9999
 ---
 <div class="page-wrapper is-asana">
 
+ 
 
-
-# Bakasana (Crane Pose)
+"Baka means a crane. In this posture, the body resembles a crane wading in a pool." 
 
 ![Bakasana](https://www.devvratyoga.com/wp-content/uploads/2019/07/Bakasana-A.png)
 
+
 ## Sanskrit Meaning
-"Baka means a crane. In this posture, the body resembles a crane wading in a pool." 
 *(Light on Yoga, B.K.S. Iyengar, p. 308) — Yoga Philosophy and Origins*
 
 ## Variations

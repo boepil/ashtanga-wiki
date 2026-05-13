@@ -7,9 +7,7 @@ sequence: 10
 ---
 <div class="page-wrapper is-asana">
 
-
-
-# Seated Sequence
+ 
 
 ## Summary
 The Seated Sequence is the core therapeutic section of the Primary Series (Yoga Chikitsa). It focuses deeply on forward folds, intense hip rotation, and core strengthening, punctuated by jumping back and jumping through (Vinyasa) to maintain internal heat.

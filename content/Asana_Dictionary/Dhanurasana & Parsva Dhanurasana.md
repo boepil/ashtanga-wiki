@@ -15,14 +15,14 @@ sequence: 9999
 ---
 <div class="page-wrapper is-asana">
 
+ 
 
-
-# Dhanurasana & Parsva Dhanurasana
+"Dhanu means a bow. Dhanurasana is the Bow Pose, where the body resembles a bow with the arms as the string." 
 
 ![Dhanurasana](https://www.devvratyoga.com/wp-content/uploads/2019/07/Dhanurasana.png)
 
+
 ## Sanskrit Meaning
-"Dhanu means a bow. Dhanurasana is the Bow Pose, where the body resembles a bow with the arms as the string." 
 *(Light on Yoga, B.K.S. Iyengar, p. 175) — Yoga Philosophy and Origins*
 
 "Parsva means side. In Parsva Dhanurasana, the practitioner rolls onto the side while maintaining the bow shape." 

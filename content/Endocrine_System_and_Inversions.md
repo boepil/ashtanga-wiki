@@ -7,9 +7,7 @@ sequence: 53
 ---
 <div class="page-wrapper is-bridge">
 
-
-
-# Endocrine System and Inversions
+ 
 
 ## Summary
 The traditional Ashtanga system claims that inversions—particularly Headstand (*Sirsasana*) and Shoulderstand (*Sarvangasana*)—exert a profound influence on the endocrine system by bathing the "master glands" (thyroid, pituitary, and pineal) in fresh blood. Modern physiological science presents a more nuanced view regarding cerebral blood flow autoregulation.

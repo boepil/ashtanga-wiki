@@ -15,14 +15,14 @@ sequence: 9999
 ---
 <div class="page-wrapper is-asana">
 
+ 
 
-
-# Eka Pada Sirsasana & Dwi Pada Sirsasana
+"Eka means one. Pada means foot. Sirsa means head. Eka Pada Sirsasana is the one-leg-behind-head pose." 
 
 ![Eka-Pada-Sirsasana](https://www.devvratyoga.com/wp-content/uploads/2019/07/Eka-Pada-Sirsasana.png)
 
+
 ## Sanskrit Meaning
-"Eka means one. Pada means foot. Sirsa means head. Eka Pada Sirsasana is the one-leg-behind-head pose." 
 *(Light on Yoga, B.K.S. Iyengar, p. 293) — Yoga Philosophy and Origins*
 
 "Dwi means two. Dwi Pada Sirsasana is the two-legs-behind-head pose." 

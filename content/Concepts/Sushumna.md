@@ -6,9 +6,7 @@ sequence: 24
 ---
 <div class="page-wrapper is-asana">
 
-
-
-# Sushumna Nadi
+ 
 
 The **Sushumna Nadi** is the central and most vital energy channel (*nadi*) in the subtle body architecture of Hatha and Tantric yoga. It runs vertically from the base of the spine (Muladhara Chakra) to the crown of the head (Sahasrara Chakra), roughly corresponding to the physical spinal cord.
 

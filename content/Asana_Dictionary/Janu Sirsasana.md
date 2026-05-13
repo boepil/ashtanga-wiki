@@ -18,12 +18,12 @@ sequence: 9999
 ---
 <div class="page-wrapper is-asana">
 
+ 
 
-
-# Janu Sirsasana (Head-to-Knee Pose)
+![Janu-Sirsasana-b](https://www.devvratyoga.com/wp-content/uploads/2019/07/Janu-Sirsasana-b.png)
 
 ![Janu-Sirsasana-A](https://www.devvratyoga.com/wp-content/uploads/2019/07/Janu-Sirsasana-A.png)
-![Janu-Sirsasana-b](https://www.devvratyoga.com/wp-content/uploads/2019/07/Janu-Sirsasana-b.png)
+
 ![Janu-Sirsasana-c](https://www.devvratyoga.com/wp-content/uploads/2019/07/Janu-Sirsasana-c.png)
 
 ## Sanskrit Meaning

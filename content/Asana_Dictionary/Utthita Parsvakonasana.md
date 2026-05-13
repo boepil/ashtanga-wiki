@@ -21,14 +21,14 @@ sequence: 9999
 ---
 <div class="page-wrapper is-asana">
 
+ 
 
-
-# Utthita Parsvakonasana (Extended Side Angle Pose)
+"Parsva means side or flank. Kona is an angle. This is the extended lateral angle pose." 
 
 ![Utthita-Parsvakonasana-A](https://www.devvratyoga.com/wp-content/uploads/2019/07/Uthitha-Parsvakonasana-A.png)
 
+
 ## Sanskrit Meaning
-"Parsva means side or flank. Kona is an angle. This is the extended lateral angle pose." 
 *(Light on Yoga, B.K.S. Iyengar, p. 177) — Yoga Philosophy and Origins*
 
 "Utthita means extended, stretched." 

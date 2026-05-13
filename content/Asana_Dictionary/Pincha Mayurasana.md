@@ -15,14 +15,14 @@ sequence: 9999
 ---
 <div class="page-wrapper is-asana">
 
+ 
 
-
-# Pincha Mayurasana (Feathered Peacock Pose)
+"Pincha means a feather. Mayura means a peacock. This asana represents a peacock with its feathers spread." 
 
 ![Pincha-Mayurasana](https://www.devvratyoga.com/wp-content/uploads/2019/07/Pincha-Mayurasana.png)
 
+
 ## Sanskrit Meaning
-"Pincha means a feather. Mayura means a peacock. This asana represents a peacock with its feathers spread." 
 *(Light on Yoga, B.K.S. Iyengar, p. 315) — Yoga Philosophy and Origins*
 
 ## Vinyasa Count & Entry

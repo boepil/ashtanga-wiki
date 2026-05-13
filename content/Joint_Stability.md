@@ -7,9 +7,7 @@ sequence: 54
 ---
 <div class="page-wrapper is-bridge">
 
-
-
-# Joint Stability and Mechanics
+ 
 
 ## Summary
 Joint stability in Ashtanga Yoga is achieved through a combination of structural alignment and dynamic muscular engagement. Understanding the specific mechanics of the hips, knees, shoulders, and spine allows for a sustainable practice that minimizes the risk of acute and chronic injuries.

@@ -10,14 +10,14 @@ sequence: 91
 ---
 <div class="page-wrapper is-compensation">
 
-
-
-# SI Joint Instability in Asymmetric Poses
-
-![[ChatGPT Image May 6, 2026, 08_39_11 PM.png]]
-### 1. Pelvic Stability and Coronal Alignment
+ 
 
 **Lack**  
+
+![[ChatGPT Image May 6, 2026, 08_39_11 PM.png]]
+
+### 1. Pelvic Stability and Coronal Alignment
+
 Lack of pelvic stability (Gluteus Medius/Minimus strength) and insufficient internal rotation capacity in the back leg humerus/femur to maintain a level sacrum.
 
 **Compensation**  

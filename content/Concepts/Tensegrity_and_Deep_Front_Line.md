@@ -8,9 +8,7 @@ sequence: 80
 ---
 <div class="page-wrapper is-bridge">
 
-
-
-# Tensegrity and the Deep Front Line
+ 
 
 ## Summary
 Mula Bandha and Uddiyana Bandha are not isolated muscular locks; they are pressure-regulation mechanisms that engage the Deep Front Line (DFL). By activating this continuous myofascial chain, practitioners create structural levity and spinal decompression through biotensegrity, rather than relying on exhausting muscular effort.

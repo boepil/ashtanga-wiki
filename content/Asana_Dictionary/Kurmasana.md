@@ -15,14 +15,14 @@ sequence: 9999
 ---
 <div class="page-wrapper is-asana">
 
+ 
 
-
-# Kurmasana (Tortoise Pose)
+"Kurma means a tortoise." 
 
 ![Kurmasana](https://www.devvratyoga.com/wp-content/uploads/2019/07/Kurmasana.png)
 
+
 ## Sanskrit Meaning
-"Kurma means a tortoise." 
 *(Light on Yoga, B.K.S. Iyengar, p. 271) — Yoga Philosophy and Origins*
 
 ## Vinyasa Count & Entry

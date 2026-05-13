@@ -18,14 +18,14 @@ sequence: 9999
 ---
 <div class="page-wrapper is-asana">
 
+ 
 
-
-# Virabhadrasana A (Warrior I Pose)
+"Asanas are named after legendary heroes like Vfrabhadra... Daksa once celebrated a great sacrifice, but he did not invite his daughter Sat! nor her husband Siva... Sat!... threw herself into the fire and perished. When Siva heard this he was gravely provoked, tore a hair from his matted locks and threw it to the ground. A powerful hero named Vlrabhadra rose up... This asana is dedicated to the powerful hero created by Siva from his matted hair." 
 
 ![Virabhadrasana-a](https://www.devvratyoga.com/wp-content/uploads/2019/07/Virabhadrasana-a.png)
 
+
 ## Sanskrit Meaning
-"Asanas are named after legendary heroes like Vfrabhadra... Daksa once celebrated a great sacrifice, but he did not invite his daughter Sat! nor her husband Siva... Sat!... threw herself into the fire and perished. When Siva heard this he was gravely provoked, tore a hair from his matted locks and threw it to the ground. A powerful hero named Vlrabhadra rose up... This asana is dedicated to the powerful hero created by Siva from his matted hair." 
 *(Light on Yoga, B.K.S. Iyengar, p. 140, 157-158) — Yoga Philosophy and Origins*
 
 "Virabhadra—the fierce spiritual warrior... Approach the asanas named for Virabhadra—Virabhadrasana I, II, and III—we can encourage students to cultivate the mind of the spiritual warrior, aware of all sides, unattached to attainment, centered in one’s being." 

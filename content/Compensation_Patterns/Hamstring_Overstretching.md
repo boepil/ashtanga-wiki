@@ -10,14 +10,14 @@ sequence: 90
 ---
 <div class="page-wrapper is-compensation">
 
-
-
-# Hamstring Overstretching vs. Posterior Chain Weakness
-
-![[ChatGPT Image May 6, 2026, 08_18_41 PM.png]]
-### 1. Posterior Chain Stability
+ 
 
 **Lack**  
+
+![[ChatGPT Image May 6, 2026, 08_18_41 PM.png]]
+
+### 1. Posterior Chain Stability
+
 Lack of strength and functional engagement in the posterior chain (gluteus maximus/medius, hamstrings, and erector spinae) to support and stabilize the skeleton during large ranges of motion.
 
 **Compensation**  

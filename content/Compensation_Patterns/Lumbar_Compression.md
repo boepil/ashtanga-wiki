@@ -10,14 +10,14 @@ sequence: 88
 ---
 <div class="page-wrapper is-compensation">
 
-
-
-# Lumbar Compression in Backbends
-
-![[ChatGPT Image May 6, 2026, 08_14_08 PM.png]]
-### 1. Thoracic Mobility and Hip Extension
+ 
 
 **Lack**  
+
+![[ChatGPT Image May 6, 2026, 08_14_08 PM.png]]
+
+### 1. Thoracic Mobility and Hip Extension
+
 Lack of hip extension (tight hip flexors) and insufficient thoracic spine mobility.
 
 **Compensation**  

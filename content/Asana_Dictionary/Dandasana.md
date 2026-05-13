@@ -21,14 +21,14 @@ sequence: 9999
 ---
 <div class="page-wrapper is-asana">
 
+ 
 
-
-# Dandasana (Staff Pose)
+"Danda means a staff or rod. In this asana, the body remains straight like a stick (Danda) and strengthens the spine, hands and legs." 
 
 ![dandasana](https://www.devvratyoga.com/wp-content/uploads/2019/08/dandasana.png)
 
+
 ## Sanskrit Meaning
-"Danda means a staff or rod. In this asana, the body remains straight like a stick (Danda) and strengthens the spine, hands and legs." 
 *(Krishnamacharya's Yogasanagalu, T. Krishnamacharya, p. 189, 250) — Yoga Philosophy and Origins*
 
 "dandasana (staff). ... When one sits like a staff, with the legs extended and the ankles, big toes and knees together, that is the 'stick' posture." 

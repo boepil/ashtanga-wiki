@@ -14,14 +14,14 @@ sequence: 9999
 ---
 <div class="page-wrapper is-asana">
 
+ 
 
-
-# Ubhaya Padangusthasana (Both Big Toes Pose)
+"Ubhaya means both, padangustha means big toe." 
 
 ![Ubhaya-Padangusthasana](https://www.devvratyoga.com/wp-content/uploads/2019/07/Ubhaya-Padangusthasana.png)
 
+
 ## Sanskrit Meaning
-"Ubhaya means both, padangustha means big toe." 
 *(Light on Yoga, B.K.S. Iyengar, p. 260) — Yoga Philosophy and Origins*
 
 ## Vinyasa Count & Entry

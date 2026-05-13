@@ -18,14 +18,14 @@ sequence: 9999
 ---
 <div class="page-wrapper is-asana">
 
+ 
 
-
-# Purvottanasana (Intense East Stretch Pose)
+"Purva literally means the East. It means the front of the whole body from the forehead to the toes. Uttana means an intense stretch. In this posture, the whole front of the body is stretched intensely." 
 
 ![purvottanasana](https://www.devvratyoga.com/wp-content/uploads/2019/08/purvottanasana.png)
 
+
 ## Sanskrit Meaning
-"Purva literally means the East. It means the front of the whole body from the forehead to the toes. Uttana means an intense stretch. In this posture, the whole front of the body is stretched intensely." 
 *(Light on Yoga, B.K.S. Iyengar, p. 291) — Yoga Philosophy and Origins*
 
 "pursvo. east; the front of the body... pursvottana. the intense stretch of the front side of the body" 

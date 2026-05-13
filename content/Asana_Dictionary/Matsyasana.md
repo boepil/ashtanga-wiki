@@ -15,14 +15,14 @@ sequence: 9999
 ---
 <div class="page-wrapper is-asana">
 
+ 
 
-
-# Matsyasana (Fish Pose)
+"Matsya means a fish. In this variation, the body is arched like a fish in the water." 
 
 ![Matsyasana](https://www.devvratyoga.com/wp-content/uploads/2019/07/Matsyasana.png)
 
+
 ## Sanskrit Meaning
-"Matsya means a fish. In this variation, the body is arched like a fish in the water." 
 *(Light on Yoga, B.K.S. Iyengar, p. 116) — Yoga Philosophy and Origins*
 
 ## Vinyasa Count & Entry

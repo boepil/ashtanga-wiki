@@ -15,12 +15,12 @@ sequence: 9999
 ---
 <div class="page-wrapper is-asana">
 
+ 
 
-
-# Baddha Konasana (Bound Angle Pose)
+![Baddha-Konasana-b](https://www.devvratyoga.com/wp-content/uploads/2019/07/Baddha-Konasana-b.png)
 
 ![Baddha-Konasana-A](https://www.devvratyoga.com/wp-content/uploads/2019/07/Baddha-Konasana-A.png)
-![Baddha-Konasana-b](https://www.devvratyoga.com/wp-content/uploads/2019/07/Baddha-Konasana-b.png)
+
 
 ## Sanskrit Meaning
 "Baddha means caught, restrained. Kona means an angle. In this posture, sit on the floor, bring the heels near the perineum, catch the feet and widen the thighs until the knees touch the floor." 

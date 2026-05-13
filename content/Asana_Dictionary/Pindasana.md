@@ -15,14 +15,14 @@ sequence: 9999
 ---
 <div class="page-wrapper is-asana">
 
+ 
 
-
-# Pindasana (Embryo Pose)
+"Piṇḍa means embryo or foetus.... the bent crossed legs are brought down until they rest on the head. The posture resembles that of an embryo in the womb, hence the name." 
 
 ![Pindasana](https://www.devvratyoga.com/wp-content/uploads/2019/07/Pindasana.png)
 
+
 ## Sanskrit Meaning
-"Piṇḍa means embryo or foetus.... the bent crossed legs are brought down until they rest on the head. The posture resembles that of an embryo in the womb, hence the name." 
 *(Light on Yoga, B.K.S. Iyengar, p. 270) — Yoga Philosophy and Origins*
 
 ## Vinyasa Count & Entry

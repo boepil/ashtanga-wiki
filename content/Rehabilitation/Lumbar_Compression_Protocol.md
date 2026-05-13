@@ -14,13 +14,13 @@ sequence: 96
 ---
 <div class="page-wrapper is-rehabilitation">
 
+ 
 
-
-# Lumbar Compression — rehabilitation protocol
+This protocol addresses "local hinge faults" where individual lumbar vertebrae bend independently, creating shear forces and disc compression (Starrett, Becoming a Supple Leopard, p. 54). In Ashtanga, this is most common during backbends (Urdhva Dhanurasana) or when "dropping back" without adequate hip extension. The goal is to build spinal stiffness through the "McGill Big 3" (McGill, Back Mechanic, p. 333) and restore the "S-shape" curve of the spine through axial extension and decompression breathing (Kaminoff, Yoga Anatomy, p. 237; Goodman, Foundation, p. 241).
 
 ![[ChatGPT Image May 9, 2026, 01_31_47 PM.png]]
+
 ## Overview
-This protocol addresses "local hinge faults" where individual lumbar vertebrae bend independently, creating shear forces and disc compression (Starrett, Becoming a Supple Leopard, p. 54). In Ashtanga, this is most common during backbends (Urdhva Dhanurasana) or when "dropping back" without adequate hip extension. The goal is to build spinal stiffness through the "McGill Big 3" (McGill, Back Mechanic, p. 333) and restore the "S-shape" curve of the spine through axial extension and decompression breathing (Kaminoff, Yoga Anatomy, p. 237; Goodman, Foundation, p. 241).
 
 ## Guidelines
 - Frequency: Daily (especially "Spine Hygiene").

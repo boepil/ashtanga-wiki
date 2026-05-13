@@ -15,14 +15,14 @@ sequence: 9999
 ---
 <div class="page-wrapper is-asana">
 
+ 
 
-
-# Laghu Vajrasana (Little Thunderbolt Pose)
+"Laghu means small or little. Vajra means a thunderbolt (the weapon of Indra). Laghu Vajrasana is a variation of the Thunderbolt pose focusing on deep spinal extension." 
 
 ![Laghu-Vajrasana](https://www.devvratyoga.com/wp-content/uploads/2019/07/Laghu-Vajrasana.png)
 
+
 ## Sanskrit Meaning
-"Laghu means small or little. Vajra means a thunderbolt (the weapon of Indra). Laghu Vajrasana is a variation of the Thunderbolt pose focusing on deep spinal extension." 
 *(Light on Yoga, B.K.S. Iyengar, p. 167) — Yoga Philosophy and Origins*
 
 ## Vinyasa Count & Entry

@@ -15,14 +15,14 @@ sequence: 9999
 ---
 <div class="page-wrapper is-asana">
 
+ 
 
-
-# Padmasana & Utpluthih
+"Padma means a lotus. Padmasana is the Lotus Pose, the most important posture for meditation." 
 
 ![Padmasana](https://www.devvratyoga.com/wp-content/uploads/2019/07/Padmasana.png)
 
+
 ## Sanskrit Meaning
-"Padma means a lotus. Padmasana is the Lotus Pose, the most important posture for meditation." 
 *(Light on Yoga, B.K.S. Iyengar, p. 104) — Yoga Philosophy and Origins*
 
 "Utpluthi means a spring or a jump. Also known as Tolasana (Scale Pose)." 

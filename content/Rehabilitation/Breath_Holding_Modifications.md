@@ -13,9 +13,7 @@ sequence: 107
 ---
 <div class="page-wrapper is-asana">
 
-
-
-# Breath Holding — asana modifications
+ 
 
 ## Overview
 Breath holding (involuntary Kumbhaka) usually occurs when the physical demand of a pose exceeds the practitioner's metabolic efficiency or stability. The brain "locks" the breath to create trunk stiffness. Modifications focus on using the breath as a primary movement initiator and using Bandhas as "pressure valves" to maintain stability without gasping.

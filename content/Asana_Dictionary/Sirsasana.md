@@ -15,14 +15,14 @@ sequence: 9999
 ---
 <div class="page-wrapper is-asana">
 
+ 
 
-
-# Sirsasana (Headstand)
+"Sirsa means the head. This is the Headstand pose, often called the 'King of Asanas'." 
 
 ![Sirsasana-A](https://www.devvratyoga.com/wp-content/uploads/2019/07/Sirsasana-A.png)
 
+
 ## Sanskrit Meaning
-"Sirsa means the head. This is the Headstand pose, often called the 'King of Asanas'." 
 *(Light on Yoga, B.K.S. Iyengar, p. 179) — Yoga Philosophy and Origins*
 
 ## Variations

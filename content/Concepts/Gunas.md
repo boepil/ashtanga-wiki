@@ -6,9 +6,7 @@ sequence: 20
 ---
 <div class="page-wrapper is-asana">
 
-
-
-# The Three Gunas
+ 
 
 In Samkhya philosophy and the [[Yoga_Sutras]], the **Gunas** are the three fundamental qualities or forces that make up all of manifest reality ([[Purusha_and_Prakriti|Prakriti]]). They are woven together in everything, from the physical world to the human mind, constantly shifting in dominance and creating the dynamic nature of existence.
 

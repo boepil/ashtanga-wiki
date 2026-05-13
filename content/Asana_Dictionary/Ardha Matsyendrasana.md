@@ -15,14 +15,14 @@ sequence: 9999
 ---
 <div class="page-wrapper is-asana">
 
+ 
 
-
-# Ardha Matsyendrasana (Half Lord of the Fishes)
+"Ardha means half. Matsyendra was a legendary yogi and founder of Hatha Yoga. This asana is the simplified version of the full Matsyendrasana." 
 
 ![Ardha-Matsyendrasana](https://www.devvratyoga.com/wp-content/uploads/2019/07/Ardha-Matsyendrasana.png)
 
+
 ## Sanskrit Meaning
-"Ardha means half. Matsyendra was a legendary yogi and founder of Hatha Yoga. This asana is the simplified version of the full Matsyendrasana." 
 *(Light on Yoga, B.K.S. Iyengar, p. 259) — Yoga Philosophy and Origins*
 
 ## Vinyasa Count & Entry

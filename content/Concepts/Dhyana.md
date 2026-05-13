@@ -6,9 +6,7 @@ sequence: 17
 ---
 <div class="page-wrapper is-asana">
 
-
-
-# Dhyana (Meditation)
+ 
 
 **Dhyana** is the seventh limb of the [[Eight_Limbs]] of yoga. It represents the state where concentration ([[Dharana]]) matures into a perfect, uninterrupted flow of awareness toward the object of meditation.
 

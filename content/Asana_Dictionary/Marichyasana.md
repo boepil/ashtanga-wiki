@@ -19,12 +19,12 @@ sequence: 9999
 ---
 <div class="page-wrapper is-asana">
 
+ 
 
-
-# Marichyasana (Sage Marichi Pose)
+![Marichyasana-b](https://www.devvratyoga.com/wp-content/uploads/2019/07/Marichyasana-b.png)
 
 ![Marichyasana-A](https://www.devvratyoga.com/wp-content/uploads/2019/07/Marichyasana-A.png)
-![Marichyasana-b](https://www.devvratyoga.com/wp-content/uploads/2019/07/Marichyasana-b.png)
+
 ![Marichyasana-c](https://www.devvratyoga.com/wp-content/uploads/2019/07/Marichyasana-c.png)
 ![Marichyasana-d](https://www.devvratyoga.com/wp-content/uploads/2019/07/Marichyasana-d.png)
 

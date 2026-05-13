@@ -15,14 +15,14 @@ sequence: 9999
 ---
 <div class="page-wrapper is-asana">
 
+ 
 
-
-# Baddha Padmasana & Yoga Mudra
+"Baddha means bound. Padma means a lotus. Baddha Padmasana is the Locked Lotus Pose." 
 
 ![Yoga-Mudra-A](https://www.devvratyoga.com/wp-content/uploads/2019/07/Yoga-Mudra-A.png)
 
+
 ## Sanskrit Meaning
-"Baddha means bound. Padma means a lotus. Baddha Padmasana is the Locked Lotus Pose." 
 *(Light on Yoga, B.K.S. Iyengar, p. 119) — Yoga Philosophy and Origins*
 
 "Yoga Mudra: The seal of Yoga. Often performed from Baddha Padmasana." 

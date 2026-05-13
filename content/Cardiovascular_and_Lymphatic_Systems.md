@@ -7,9 +7,7 @@ sequence: 52
 ---
 <div class="page-wrapper is-bridge">
 
-
-
-# Cardiovascular and Lymphatic Systems
+ 
 
 ## Summary
 The physical mechanics of Ashtanga Vinyasa Yoga—specifically the continuous linking of movement (*vinyasa*) combined with resisted breathing (*Ujjayi*)—exert massive influence on the cardiovascular and lymphatic systems. The tradition claims this process "boils the blood" (*Tapas*) to remove toxins, a concept strongly supported by the anatomical mechanics of venous return and lymphatic drainage.

@@ -7,9 +7,7 @@ sequence: 13
 ---
 <div class="page-wrapper is-asana">
 
-
-
-# Advanced Series (Sthira Bhaga)
+ 
 
 ## Summary
 The Advanced Series, known as *Sthira Bhaga* (Sublime Serenity or Divine Stability), is the third major sequence in Ashtanga Yoga (often split into Advanced A, B, C, and D). It requires immense strength, extreme flexibility, and profound mental focus, building upon the foundations of the Primary and Intermediate series.
