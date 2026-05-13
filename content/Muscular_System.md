@@ -9,6 +9,8 @@ sequence: 50
 
  
 
+# Muscular System
+
 ## Summary
 The muscular system provides the force for movement and the support for stability in Ashtanga Yoga. Beyond the major muscle groups, specific focus is placed on deep core stabilizers, the iliopsoas (the structural intermediary), and refined gluteal differentiation to ensure safety in backbends and standing balances.
 

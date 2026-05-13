@@ -1,7 +1,12 @@
 ---
+title: Ujjayi Pranayama
 sequence: 30
 ---
 <div class="page-wrapper is-asana">
+
+
+
+# Ujjayi Pranayama
 
 # Ujjayi Pranayama (Victorious Breath)
 
@@ -33,6 +38,5 @@ Unlike many pranayamas practiced only in a seated posture, Ujjayi is maintained 
 - **Throat Tension:** If the throat (*Vishuddhi* chakra) tightens excessively, the brain can feel heavy. Lifting the sternum helps relax the throat musculature.
 - **Athletic Force:** Beginners often force the breath to make it loud. The goal is a steady, effortless resonance, not volume.
 - **Saliva Management:** Accumulation of saliva is common. Practitioners should swallow only after a complete exhalation, never during the active phase of the breath.
-
 
 </div>

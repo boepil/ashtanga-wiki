@@ -8,6 +8,8 @@ sequence: 2
 
  
 
+# The Eight Limbs of Yoga (Ashtanga)
+
 The Eight Limbs of Yoga, or **Ashtanga Yoga**, form the structural foundation of classical yoga philosophy as outlined by Patañjali in the [[Yoga_Sutras]]. The term "Ashtanga" translates literally to "eight-limbed" (ashta = eight, anga = limb). Rather than a linear sequence of steps to be completed and left behind, these limbs are viewed as an interconnected, organic whole, much like the branches of a tree growing simultaneously. 
 
 ## The Eight Limbs

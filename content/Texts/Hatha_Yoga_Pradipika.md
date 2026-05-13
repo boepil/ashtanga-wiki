@@ -8,6 +8,8 @@ sequence: 73
 
  
 
+# Hatha Yoga Pradipika
+
 The **Hatha Yoga Pradipika** (Light on Hatha Yoga) is one of the most influential surviving texts on classical Hatha yoga. Compiled in the 15th century by Svatmarama, it draws upon earlier, now-lost tantric and yogic sources to create a comprehensive manual of physical and energetic practices.
 
 ## Core Purpose

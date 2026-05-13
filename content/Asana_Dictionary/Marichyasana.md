@@ -21,6 +21,8 @@ sequence: 9999
 
  
 
+# Marichyasana
+
 ![Marichyasana-b](https://www.devvratyoga.com/wp-content/uploads/2019/07/Marichyasana-b.png)
 
 ![Marichyasana-A](https://www.devvratyoga.com/wp-content/uploads/2019/07/Marichyasana-A.png)

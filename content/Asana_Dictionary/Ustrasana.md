@@ -17,6 +17,8 @@ sequence: 9999
 
  
 
+# Ustrasana
+
 "Ustra means a camel. In this posture, the body resembles a camel." 
 
 ![Ustrasana](https://www.devvratyoga.com/wp-content/uploads/2019/07/Ustrasana.png)

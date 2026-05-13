@@ -1,9 +1,14 @@
---- | :
+---
+title: Drishti
 sequence: 42
 ---
 <div class="page-wrapper is-asana">
 
- 
+
+
+# Drishti
+
+# Drishti
 
 | :--- |
 | **Nāsāgre dṛṣṭi** | Nose-tip gaze | The tip of the nose (stimulates the vagus nerve/parasympathetic system). |
@@ -24,6 +29,5 @@ The assigned Drishti is rarely arbitrary; it usually supports the anatomical ali
 - **Backbends:** Postures that open the chest utilize the third-eye (*Brūmadhye*) or upward gaze (*Ūrdhva*), facilitating the extension of the upper spine and the lifting of the heart.
 - **Twists:** The gaze follows the direction of the spinal rotation (*Pārśvayoḥ* - side gaze), supporting the cervical spine's participation in the twist.
 - **Inversions (e.g., Downward Dog):** The gaze is directed at the navel (*Nābhau*), which encourages a slight chin tuck (*Jalandhara Bandha*) and the activation of the core locks.
-
 
 </div>

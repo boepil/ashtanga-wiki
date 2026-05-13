@@ -9,6 +9,8 @@ sequence: 27
 
  
 
+# Sanskrit Mantras and Terminology
+
 ## Summary
 The Ashtanga Vinyasa tradition is deeply rooted in Sanskrit terminology and chanting. The practice is framed by the Opening Mantra (*Vande Gurunam*), which venerates the lineage, and the Closing Mantra (*Mangala Mantra*), which offers peace to the world. Furthermore, the use of Sanskrit for naming postures and counting *vinyasas* acts as a standardized matrix that preserves the integrity of the sequence across generations.
 

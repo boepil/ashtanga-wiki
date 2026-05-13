@@ -8,6 +8,8 @@ sequence: 23
 
  
 
+# The Five Prana Vayus
+
 In the subtle anatomy of yoga, *Prana* (the universal life force) is divided into five primary energetic currents or "winds" known as the **Prana Vayus**. These currents govern specific physical functions and psychological energies within the body.
 
 ## The Five Winds

@@ -1,7 +1,12 @@
 ---
+title: Bandha Overview
 sequence: 34
 ---
 <div class="page-wrapper is-asana">
+
+
+
+# Bandha Overview
 
 # Bandha Overview
 
@@ -31,6 +36,5 @@ When all three primary bandhas are engaged simultaneously, the practice is calle
 - **Structural Integrity:** By increasing Intra-Abdominal Pressure (IAP), bandhas act as a protective "airbag" for the lumbar spine, especially during heavy load-bearing or extreme extension (backbends).
 - **Levity:** Proper engagement, particularly of Mula and Uddiyana Bandha, allows practitioners to "float" through vinyasas and hold arm balances with apparent weightlessness.
 - **Mental Focus:** The continuous effort required to maintain these subtle internal locks provides a powerful point of concentration (*Dharana*), anchoring the mind in the present moment.
-
 
 </div>

@@ -17,6 +17,8 @@ sequence: 9999
 
  
 
+# Baddha Konasana
+
 ![Baddha-Konasana-b](https://www.devvratyoga.com/wp-content/uploads/2019/07/Baddha-Konasana-b.png)
 
 ![Baddha-Konasana-A](https://www.devvratyoga.com/wp-content/uploads/2019/07/Baddha-Konasana-A.png)

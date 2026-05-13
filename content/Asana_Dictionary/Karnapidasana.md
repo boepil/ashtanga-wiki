@@ -17,6 +17,8 @@ sequence: 9999
 
  
 
+# Karnapidasana
+
 "Karṇa means the ear. Pīḍā means pain, discomfort or pressure. This is a variant of Halasana and can be done along with it." 
 
 ![Karnapidasana](https://www.devvratyoga.com/wp-content/uploads/2019/07/Karnapidasana.png)

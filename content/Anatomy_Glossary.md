@@ -9,6 +9,8 @@ sequence: 9999
 
  
 
+# Anatomy Glossary
+
 This glossary maps key anatomical points using their Sanskrit, Scientific (Latin), and common Hebrew/English names.
 
 ## Feet and Legs

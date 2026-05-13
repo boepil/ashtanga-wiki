@@ -19,6 +19,8 @@ sequence: 9999
 
  
 
+# Ardha Baddha Padma Paschimottanasana
+
 "Ardha means half, baddha means caught, restrained and padma a lotus. Paschimottanasana is the posture where the back of the whole body is intensely stretched." 
 
 ![Ardha-Baddha-Padma-paschimattanasana](https://www.devvratyoga.com/wp-content/uploads/2019/07/Ardha-Baddha-Padma-paschimattanasana.png)

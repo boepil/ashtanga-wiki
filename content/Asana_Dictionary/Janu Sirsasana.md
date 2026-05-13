@@ -20,6 +20,8 @@ sequence: 9999
 
  
 
+# Janu Sirsasana
+
 ![Janu-Sirsasana-b](https://www.devvratyoga.com/wp-content/uploads/2019/07/Janu-Sirsasana-b.png)
 
 ![Janu-Sirsasana-A](https://www.devvratyoga.com/wp-content/uploads/2019/07/Janu-Sirsasana-A.png)

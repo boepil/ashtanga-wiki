@@ -20,6 +20,8 @@ sequence: 9999
 
  
 
+# Paschimottanasana
+
 ![Paschimattanasana-b](https://www.devvratyoga.com/wp-content/uploads/2019/07/Paschimattanasana-b.png)
 
 ![Paschimattanasana-A](https://www.devvratyoga.com/wp-content/uploads/2019/07/Paschimattanasana-A.png)

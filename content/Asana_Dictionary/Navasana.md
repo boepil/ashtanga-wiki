@@ -18,6 +18,8 @@ sequence: 9999
 
  
 
+# Navasana
+
 "Paripurna means entire or complete. The posture here resembles that of a boat with oars, hence the name." 
 
 ![Navasana](https://www.devvratyoga.com/wp-content/uploads/2019/07/Navasana.png)

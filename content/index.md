@@ -1,7 +1,12 @@
 ---
+title: index
 sequence: 1
 ---
 <div class="page-wrapper is-asana">
+
+
+
+# index
 
 # Ashtanga Yoga Knowledge Wiki
 
@@ -149,6 +154,5 @@ Note: [[Bohr_Effect_and_Kumbhaka]] — breath physiology → pranayama
 ## Reference
 - [[Asana_Dictionary/index|Asana Dictionary (Full A-Z List)]]
 - [[Hebrew_Translation_Cues]]
-
 
 </div>

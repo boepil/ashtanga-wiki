@@ -8,6 +8,8 @@ sequence: 16
 
  
 
+# Dharana (Concentration)
+
 **Dharana** is the sixth limb of the [[Eight_Limbs]] of yoga and marks the beginning of the internal, meditative disciplines (*antaranga*). Derived from the root *dhri*, meaning "to hold" or "to fix," Dharana is the act of binding the mind to a single point, object, or concept.
 
 ## Binding the Mind

@@ -22,6 +22,8 @@ sequence: 9999
 
  
 
+# Utkatasana
+
 "Utkaṭa means powerful, fierce, uneven. This asana is like sitting on an imaginary chair." 
 
 ![Utkatasana](https://www.devvratyoga.com/wp-content/uploads/2019/07/Utkatasana-1.png)

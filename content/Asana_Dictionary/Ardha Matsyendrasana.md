@@ -17,6 +17,8 @@ sequence: 9999
 
  
 
+# Ardha Matsyendrasana
+
 "Ardha means half. Matsyendra was a legendary yogi and founder of Hatha Yoga. This asana is the simplified version of the full Matsyendrasana." 
 
 ![Ardha-Matsyendrasana](https://www.devvratyoga.com/wp-content/uploads/2019/07/Ardha-Matsyendrasana.png)

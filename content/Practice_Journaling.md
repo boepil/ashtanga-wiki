@@ -1,7 +1,12 @@
 ---
+title: Practice Journaling
 sequence: 71
 ---
 <div class="page-wrapper is-asana">
+
+
+
+# Practice Journaling
 
 # Practice Journaling
 
@@ -55,6 +60,5 @@ Teachers use journaling to refine their pedagogy and maintain ethical vigilance.
 - **Observation:** Did I accurately identify the students' needs (tension vs. compression)?
 - **Adjustments:** Were my physical assists safe, grounding, and consensual?
 - **Ego Check:** Am I teaching to serve the student (*Karma Yoga*), or am I attached to their progress to validate my own authority?
-
 
 </div>

@@ -17,6 +17,8 @@ sequence: 9999
 
  
 
+# Supta Konasana
+
 "Supta means lying down and kona an angle." 
 
 ![Supta-Konasana](https://www.devvratyoga.com/wp-content/uploads/2019/07/Supta-Konasana.png)

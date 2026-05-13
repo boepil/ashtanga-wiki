@@ -21,6 +21,8 @@ sequence: 9999
 
  
 
+# Pada Angusthasana
+
 ![Pada-Angusthasana-b](https://www.devvratyoga.com/wp-content/uploads/2019/07/Pada-Angusthasana-b.png)
 
 ![Pada-Angusthasana](https://www.devvratyoga.com/wp-content/uploads/2019/07/Pada-Angusthasana.png)

@@ -8,6 +8,8 @@ sequence: 5
 
  
 
+# Asana (Physical Posture)
+
 **Asana** is the third limb of the [[Eight_Limbs]] of Ashtanga yoga. While in modern times it is often conflated with the entirety of yoga, in the classical context of the [[Yoga_Sutras]], it refers specifically to a seated posture for meditation. Over time, particularly in texts like the [[Hatha_Yoga_Pradipika]], the concept expanded to include a wide variety of physical postures designed to purify the body and balance energy.
 
 ## Sthira Sukham Asanam

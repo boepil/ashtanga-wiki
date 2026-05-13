@@ -9,6 +9,8 @@ sequence: 12
 
  
 
+# Intermediate Series
+
 ## Summary
 The Intermediate Series, known as *Nadi Shodhana* (Nerve Cleansing), is the second sequence in Ashtanga Yoga. It focuses on purifying and strengthening the nervous system and the energy channels (nadis) through intense backbends, deep twists, and arm balances.
 

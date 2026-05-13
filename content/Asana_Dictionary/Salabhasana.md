@@ -17,6 +17,8 @@ sequence: 9999
 
  
 
+# Salabhasana
+
 "Salabha means a locust. The pose resembles that of a locust resting on the ground, hence the name." 
 
 ![Salabhasana](https://www.devvratyoga.com/wp-content/uploads/2019/07/Salabhasana.png)

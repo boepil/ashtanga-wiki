@@ -17,6 +17,8 @@ sequence: 9999
 
  
 
+# Upavistha Konasana
+
 ![Upavistha-Konasana-b](https://www.devvratyoga.com/wp-content/uploads/2019/07/Upavistha-Konasana-b.png)
 
 ![Upavistha-Konasana-A](https://www.devvratyoga.com/wp-content/uploads/2019/07/Upavistha-Konasana-A.png)

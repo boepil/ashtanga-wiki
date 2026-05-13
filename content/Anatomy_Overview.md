@@ -9,6 +9,8 @@ sequence: 48
 
  
 
+# Anatomy Overview
+
 ## Summary
 Anatomy in Ashtanga Yoga is the study of the body's structural framework and its functional mechanics within the practice of asana. It moves beyond aesthetic ideals to prioritize functional integrity, safety, and individual skeletal variation. The core inquiry of anatomical practice is **"What Stops Me?" (WSM?)**, distinguishing between modifiable tension and fixed skeletal compression.
 

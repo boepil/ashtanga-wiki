@@ -17,6 +17,8 @@ sequence: 9999
 
  
 
+# Pasasana
+
 "Pasa means a noose or cord. The arms are used as a noose to hold the trunk to the legs, hence the name." 
 
 ![Pasasana|80](https://www.devvratyoga.com/wp-content/uploads/2019/07/Pasasana.png)

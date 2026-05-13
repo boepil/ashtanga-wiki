@@ -17,6 +17,8 @@ sequence: 9999
 
  
 
+# Uttana Padasana
+
 "Uttana means intense stretch. Pada means a foot. In this posture, the legs are intensely stretched and lifted while the body is arched." 
 
 ![Uttana-Padasana](https://www.devvratyoga.com/wp-content/uploads/2019/07/Uttana-Padasana.png)

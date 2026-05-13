@@ -17,6 +17,8 @@ sequence: 9999
 
  
 
+# Bhujapidasana
+
 ![Bhujapidasana-b](https://www.devvratyoga.com/wp-content/uploads/2019/07/Bhujapidasana-b.png)
 
 ![Bhujapidasana-A](https://www.devvratyoga.com/wp-content/uploads/2019/07/Bhujapidasana-A.png)

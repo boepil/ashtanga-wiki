@@ -17,6 +17,8 @@ sequence: 9999
 
  
 
+# Yoganidrasana
+
 "Yoga means union. Nidra means sleep. Yoganidrasana is the 'Yogic Sleep' pose, as the body is curled into itself like a person sleeping." 
 
 ![Yoganidrasana](https://www.devvratyoga.com/wp-content/uploads/2019/07/Yoganidrasana.png)

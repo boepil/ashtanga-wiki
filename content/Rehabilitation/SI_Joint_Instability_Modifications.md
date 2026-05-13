@@ -14,6 +14,8 @@ sequence: 106
 
  
 
+# SI Joint Instability Modifications
+
 ## Overview
 The objective when practicing with SI joint instability is to minimize "shearing" forces across the joint. This is achieved by maintaining a neutral pelvis, shortening the stance in asymmetric poses, and avoiding extreme ranges of motion that pull the pelvic bones in opposite directions.
 

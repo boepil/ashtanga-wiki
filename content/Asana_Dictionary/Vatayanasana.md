@@ -17,6 +17,8 @@ sequence: 9999
 
  
 
+# Vatayanasana
+
 "Vatayana means a horse. The pose resembles a horse's face, hence the name." 
 
 ![Vatayanasana](https://www.devvratyoga.com/wp-content/uploads/2019/07/Vatayanasana.png)

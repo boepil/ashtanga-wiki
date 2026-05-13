@@ -13,6 +13,8 @@ sequence: 85
 
  
 
+# Chaturanga Collapse
+
 **Lack**  
 
 ![[Chaturanga_Collapse.png]]

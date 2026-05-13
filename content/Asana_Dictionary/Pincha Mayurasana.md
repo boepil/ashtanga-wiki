@@ -17,6 +17,8 @@ sequence: 9999
 
  
 
+# Pincha Mayurasana
+
 "Pincha means a feather. Mayura means a peacock. This asana represents a peacock with its feathers spread." 
 
 ![Pincha-Mayurasana](https://www.devvratyoga.com/wp-content/uploads/2019/07/Pincha-Mayurasana.png)

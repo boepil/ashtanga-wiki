@@ -17,6 +17,8 @@ sequence: 9999
 
  
 
+# Mayurasana
+
 "Mayura means a peacock. This asana resembles a peacock with its tail spread." 
 
 ![Mayurasana](https://www.devvratyoga.com/wp-content/uploads/2019/07/Mayurasana.png)

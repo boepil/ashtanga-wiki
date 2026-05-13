@@ -1,7 +1,12 @@
 ---
+title: Hand Mudras
 sequence: 41
 ---
 <div class="page-wrapper is-asana">
+
+
+
+# Hand Mudras
 
 # Hand Mudras (Hasta Mudras)
 
@@ -47,6 +52,5 @@ Also known as *Jnana Mudra*, this gesture is physically similar to Chin Mudra bu
 
 ## 5. Mrigi Mudra (Deer Seal)
 Often used interchangeably with Vishnu Mudra in some lineages for Pranayama. It involves folding the index and middle fingers in, extending the thumb, ring, and pinky to manipulate the nostrils and regulate the *Prana* moving through the *Ida* and *Pingala* channels.
-
 
 </div>

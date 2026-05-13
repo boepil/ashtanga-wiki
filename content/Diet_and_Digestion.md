@@ -1,7 +1,12 @@
 ---
+title: Diet and Digestion
 sequence: 66
 ---
 <div class="page-wrapper is-asana">
+
+
+
+# Diet and Digestion
 
 # Diet and Digestion (Agni and Mitahara)
 
@@ -37,6 +42,5 @@ According to K. Pattabhi Jois in *Yoga Mala*:
 - **Savasana:** Always conclude with 10–15 minutes of rest to remove fatigue and allow the nervous system to integrate the practice.
 
 See [[The_Three_Gunas]] for specific food recommendations.
-
 
 </div>

@@ -6,6 +6,8 @@ sequence: 75
 
  
 
+# Modern Yoga History
+
 > [!NOTE]
 > *Source Note: This historical overview was synthesized using Google NotebookLM (Gemini 2.5), drawing from curated texts on yoga philosophy and origins.*
 

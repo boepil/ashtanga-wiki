@@ -15,6 +15,8 @@ sequence: 92
 
  
 
+# Shoulder Impingement Protocol
+
 This protocol addresses subacromial impingement by restoring the scapulohumeral rhythm and strengthening the stabilizing muscles of the rotator cuff and serratus anterior. As noted by Thomas Myers, the scapula must move the glenoid socket to "keep the peace" between the clavicle and humerus (Myers, Anatomy Trains, p. 494). A deficit in upward rotation, often caused by over-depressing the shoulder blades (Kaminoff, Yoga Anatomy, p. 83), reduces the subacromial space, leading to pain during overhead movements and pressing.
 
 ![[ChatGPT Image May 10, 2026, 09_05_52 PM.png]]

@@ -9,6 +9,8 @@ sequence: 8
 
  
 
+# Primary Series
+
 ## Summary
 The Primary Series, known as *Yoga Chikitsa* (Yoga Therapy), is the foundational sequence in Ashtanga Yoga. It is designed to heal, detoxify, and align the physical body, preparing it for deeper practice. The series emphasizes forward folds, hip openers, and building core strength and stamina.
 

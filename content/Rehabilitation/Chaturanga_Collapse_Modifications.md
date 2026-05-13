@@ -14,6 +14,8 @@ sequence: 101
 
  
 
+# Chaturanga Collapse Modifications
+
 ## Overview
 The goal is to prevent the repetitive "micro-trauma" caused by collapsing into the shoulder joints and lower back during the vinyasa. We shift the focus from "doing the vinyasa" to "building the strength for the vinyasa."
 

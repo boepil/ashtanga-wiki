@@ -17,6 +17,8 @@ sequence: 9999
 
  
 
+# Karandavasana
+
 "Karandava is a type of Himalayan duck. This asana resembles a duck landing or resting." 
 
 ![Karandavasana](https://www.devvratyoga.com/wp-content/uploads/2019/07/Karandavasana.png)

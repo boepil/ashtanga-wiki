@@ -1,7 +1,12 @@
 ---
+title: The Three Gunas
 sequence: 67
 ---
 <div class="page-wrapper is-asana">
+
+
+
+# The Three Gunas
 
 # The Three Gunas (Qualities of Food)
 
@@ -46,6 +51,5 @@ Tamasic foods cause delusion, inertia, and ignorance. They veil the intellect an
 The preparation of food is as important as the ingredients. **Saucha** (cleanliness) applies to both the external environment (a clean kitchen, seasonal ingredients) and the internal state of the cook. 
 
 Food should be prepared with gratitude and eaten as an offering to the Divine, providing the strength required for spiritual practice and service.
-
 
 </div>

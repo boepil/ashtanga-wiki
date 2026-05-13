@@ -8,6 +8,8 @@ sequence: 15
 
  
 
+# Pratyahara (Withdrawal of Senses)
+
 **Pratyahara** is the fifth limb of the [[Eight_Limbs]] of yoga. The word derives from the roots *prati* (away or against) and *ahara* (input or nourishment). It translates to the withdrawal or detaching of the senses from external stimuli, so they conform to the nature of the mind rather than wandering outward.
 
 ## The Bridge to the Inner World

@@ -9,6 +9,8 @@ sequence: 51
 
  
 
+# Fascial System
+
 ## Summary
 In modern anatomical understanding of yoga, the fascial system provides the continuous web of connective tissue that links distant parts of the body. Concepts like Thomas Myers' *Anatomy Trains* map directly onto yogic "Energy Lines," explaining how tension in one area (like the feet) affects distant areas (like the back), and how the *Bandhas* physically connect to the deep core architecture of the body.
 

@@ -14,6 +14,8 @@ sequence: 102
 
  
 
+# Nervous System Dysregulation Modifications
+
 ## Overview
 During periods of nervous system dysregulation, the objective of asana practice shifts from "attaining depth" to "attaining stability." The practice should be used as a tool to down-regulate the sympathetic nervous system and avoid the "fight or flight" triggers that can occur during intense exertion.
 

@@ -17,6 +17,8 @@ sequence: 9999
 
  
 
+# Dhanurasana & Parsva Dhanurasana
+
 "Dhanu means a bow. Dhanurasana is the Bow Pose, where the body resembles a bow with the arms as the string." 
 
 ![Dhanurasana](https://www.devvratyoga.com/wp-content/uploads/2019/07/Dhanurasana.png)

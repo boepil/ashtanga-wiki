@@ -1,7 +1,12 @@
 ---
+title: YTT 2025 Notes
 sequence: 65
 ---
 <div class="page-wrapper is-asana">
+
+
+
+# YTT 2025 Notes
 
 # Yoga Teacher Training Notes (YTT 2025)
 
@@ -50,6 +55,5 @@ Record your engagement with the structured intensive model (e.g., the "6-6-6-6" 
 ### 5. Weekly Integration
 - **The Guna Profile:** Reflect on your overall energy for the week—were you Sattvic, Rajasic, or exhausted (Tamasic)?
 - **Aha! Moments:** Document breakthroughs in your understanding of pedagogy or personal practice.
-
 
 </div>

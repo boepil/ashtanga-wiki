@@ -17,6 +17,8 @@ sequence: 9999
 
  
 
+# Urdhva Mukha Paschimottanasana
+
 "Urdhva means upwards, Mukha means face. Paschimottanasana is the intense stretch of the west (back)." 
 
 ![Urdhva-Mukha-Paschimattanasana](https://www.devvratyoga.com/wp-content/uploads/2019/07/Urdhva-Mukha-Paschimattanasana.png)

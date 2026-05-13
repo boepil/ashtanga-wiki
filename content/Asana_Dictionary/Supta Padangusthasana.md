@@ -18,6 +18,8 @@ sequence: 9999
 
  
 
+# Supta Padangusthasana
+
 ![Supta-Padangusthasana-b](https://www.devvratyoga.com/wp-content/uploads/2019/07/Supta-Padangusthasana-b.png)
 
 ![Supta-Padangusthasana-A](https://www.devvratyoga.com/wp-content/uploads/2019/07/Supta-Padangusthasana-A.png)

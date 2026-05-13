@@ -19,6 +19,8 @@ sequence: 9999
 
  
 
+# Utthita Hasta Padangusthasana
+
 ![Utthita-Hasta-Padangusthasana-b](https://www.devvratyoga.com/wp-content/uploads/2019/07/Utthita-Hasta-Padangusthasana-b.png)
 
 ![Utthita-Hasta-Padangusthasana-a](https://www.devvratyoga.com/wp-content/uploads/2019/07/Utthita-Hasta-Padangusthasana-a.png)

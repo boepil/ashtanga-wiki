@@ -21,6 +21,8 @@ sequence: 9999
 
  
 
+# Ardha Baddha Padmottanasana
+
 "Ardha means half. Baddha means bound, restrained, caught, withheld. Padma is a lotus. Uttana is an intense stretch." 
 
 ![Ardha-Baddha-Padmottanasana](https://www.devvratyoga.com/wp-content/uploads/2019/07/Ardha-Baddha-Padmottanasana-1.png)

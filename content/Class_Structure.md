@@ -1,11 +1,15 @@
---- | :
+---
+title: Class Structure
 sequence: 58
 ---
 <div class="page-wrapper is-asana">
 
  
 
-| :--- |
+# Class Structure
+
+| 1 | एकम् (ekam) | אֵקַם |
+| :--- | :--- | :--- |
 | 1 | एकम् (ekam) | אֵקַם |
 | 2 | द्वे (dve) | דְוֵה |
 | 3 | त्रीणि (trīṇi) | טְרִינִי |

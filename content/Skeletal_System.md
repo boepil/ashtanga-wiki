@@ -9,6 +9,8 @@ sequence: 49
 
  
 
+# Skeletal System
+
 ## Summary
 The skeletal system is the foundational framework of the body, consisting of approximately 206 bones that act as levers for movement. In yoga, the health of the skeleton is maintained through proper alignment, joint congruency, and understanding the specific mechanics of the spine and major joints.
 

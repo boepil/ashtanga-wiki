@@ -1,7 +1,12 @@
 ---
+title: Mudra Overview
 sequence: 39
 ---
 <div class="page-wrapper is-asana">
+
+
+
+# Mudra Overview
 
 # Mudra Overview
 
@@ -35,6 +40,5 @@ The extensive catalog of mudras comes from classical Hatha Yoga texts rather tha
 - **Hatha Yoga Pradipika:** Lists 10 main mudras (such as Mahamudra, Khechari, and Vajroli) and states that mudras are the key to awakening Kundalini.
 - **Gheranda Samhita:** Names 25 distinct mudras.
 - **Shiva Samhita:** Describes the use of mudras for spiritual transformation and conquering death.
-
 
 </div>

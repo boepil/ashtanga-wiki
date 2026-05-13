@@ -1,7 +1,12 @@
 ---
+title: Nadi Shodhana
 sequence: 31
 ---
 <div class="page-wrapper is-asana">
+
+
+
+# Nadi Shodhana
 
 # Nadi Shodhana (Alternate Nostril Breathing)
 
@@ -39,6 +44,5 @@ This completes one full cycle. A typical practice consists of 5 to 10 cycles.
 - **No Retention for Beginners:** Alternate nostril breathing should initially be practiced without breath holding. 
 - **Contraindications:** Individuals with high blood pressure or cardiovascular issues should strictly avoid *Kumbhaka* (retention) ratios, practicing only the continuous flow of Anuloma Viloma.
 - **No Force:** If a nostril is naturally blocked due to a cold or deviated septum, the practice should not be forced.
-
 
 </div>

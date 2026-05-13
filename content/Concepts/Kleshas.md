@@ -8,6 +8,8 @@ sequence: 21
 
  
 
+# The Five Kleshas
+
 The **Kleshas** are the five mental afflictions or obstacles identified by Patañjali in the [[Yoga_Sutras]] (Chapter 2). They are the root causes of all human suffering and the primary barriers to spiritual liberation. They exist as latent impressions in the mind and are activated by external triggers.
 
 ## The Five Afflictions

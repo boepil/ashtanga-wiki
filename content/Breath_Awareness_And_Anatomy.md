@@ -1,7 +1,12 @@
 ---
+title: Breath Awareness And Anatomy
 sequence: 33
 ---
 <div class="page-wrapper is-asana">
+
+
+
+# Breath Awareness And Anatomy
 
 # Breath Awareness and Anatomy
 
@@ -40,6 +45,5 @@ The inhalation moves smoothly from the bottom up (Pelvis → Ribs → Collarbone
   - **Tamasic States (Lethargy):** Invigorating practices (Kapalabhati, Surya Bhedana) can stimulate energy.
   - **Rajasic States (Anxiety):** Slower breathing, longer exhalations, and Nadi Shodhana can ground the nervous system.
 - **Oxygen Saturation:** Deep, slow, diaphragmatic breathing maximizes alveolar ventilation, improving the efficiency of gas exchange and increasing blood oxygen levels compared to shallow chest breathing.
-
 
 </div>

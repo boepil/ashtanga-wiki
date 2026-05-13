@@ -15,6 +15,8 @@ sequence: 94
 
  
 
+# Nervous System Dysregulation Protocol
+
 This protocol focuses on retraining the respiratory system to restore autonomic balance (vagal tone) and increase carbon dioxide tolerance. In yoga, breath holding or "chest breathing" under effort triggers a sympathetic (fight-or-flight) response, which compromises both performance and spinal stability. By using the Body Oxygen Level Test (BOLT) to measure chemoreceptor sensitivity (McKeown, The Oxygen Advantage, p. 37), we can systematically down-regulate the nervous system and transition from a "stressed" to a "drowsal" (rest-and-digest) state (McKeown, p. 74).
 
 ![[ChatGPT Image May 10, 2026, 09_05_37 PM.png]]

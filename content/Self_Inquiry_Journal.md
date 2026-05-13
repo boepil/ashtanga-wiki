@@ -1,7 +1,12 @@
 ---
+title: Self Inquiry Journal
 sequence: 64
 ---
 <div class="page-wrapper is-asana">
+
+
+
+# Self Inquiry Journal
 
 # Self-Inquiry Journal (Ātma-Vicāra)
 
@@ -40,6 +45,5 @@ Reflect on your ability to see passing events securely without "grasping" for th
 1. **The Source of Thought:** When a thought arises, ask: *"To whom does this thought arise?"* and *"Who is the one who thinks?"*
 2. **Neti-Neti (Not this, not that):** In repose, systematically eliminate identifications: *"I am not this breath, I am not this sensation, I am not this mind."* Observe what remains.
 3. **The Fabrication of "I":** Reflect on the "I-maker" (*Ahaṃkāra*). Ask: *"Is the 'I' that is complaining about this posture a true self, or a temporary story?"*
-
 
 </div>

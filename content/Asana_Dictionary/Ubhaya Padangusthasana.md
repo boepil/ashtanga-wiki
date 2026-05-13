@@ -16,6 +16,8 @@ sequence: 9999
 
  
 
+# Ubhaya Padangusthasana
+
 "Ubhaya means both, padangustha means big toe." 
 
 ![Ubhaya-Padangusthasana](https://www.devvratyoga.com/wp-content/uploads/2019/07/Ubhaya-Padangusthasana.png)

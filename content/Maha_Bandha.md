@@ -1,7 +1,12 @@
 ---
+title: Maha Bandha
 sequence: 38
 ---
 <div class="page-wrapper is-asana">
+
+
+
+# Maha Bandha
 
 # Maha Bandha (The Great Lock)
 
@@ -39,6 +44,5 @@ Maha Bandha involves the coordinated contraction of the three internal diaphragm
 
 - **Empty Stomach:** Absolutely mandatory to allow for the intense vacuum and organ lift of Uddiyana Bandha.
 - **Medical Warning:** Contraindicated for those with high blood pressure, heart conditions, pregnancy, or hiatal hernias.
-
 
 </div>

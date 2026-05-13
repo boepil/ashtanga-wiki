@@ -20,6 +20,8 @@ sequence: 9999
 
  
 
+# Purvottanasana
+
 "Purva literally means the East. It means the front of the whole body from the forehead to the toes. Uttana means an intense stretch. In this posture, the whole front of the body is stretched intensely." 
 
 ![purvottanasana](https://www.devvratyoga.com/wp-content/uploads/2019/08/purvottanasana.png)

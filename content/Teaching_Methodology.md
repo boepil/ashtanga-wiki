@@ -1,7 +1,12 @@
 ---
+title: Teaching Methodology
 sequence: 56
 ---
 <div class="page-wrapper is-asana">
+
+
+
+# Teaching Methodology
 
 # Teaching Methodology Overview
 
@@ -47,6 +52,5 @@ Effective teaching requires managing the subtle energy (*prana*) of both the ind
 - **Returning to the Source:** Studying in Mysore (Mysuru) or with senior authorized teachers.
 - **Specialized Workshops:** Training in hands-on adjustments, functional anatomy, and scriptural study (*Yoga Sutras*, *Bhagavad Gita*).
 - **Svādhyāya (Self-Study):** Scholarly study is the "education of the self," internalizing ennobling thoughts to manifest in character.
-
 
 </div>

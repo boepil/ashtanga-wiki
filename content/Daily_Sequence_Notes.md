@@ -1,7 +1,12 @@
 ---
+title: Daily Sequence Notes
 sequence: 61
 ---
 <div class="page-wrapper is-asana">
+
+
+
+# Daily Sequence Notes
 
 # Daily Sequence Notes
 
@@ -37,6 +42,5 @@ Identify the predominant energetic quality after *Savasana*:
 
 **Key Insight of the Day:** 
 *(e.g., Noticed frustration arising in backbends; felt deeply grounded and Sattvic after standing poses).*
-
 
 </div>

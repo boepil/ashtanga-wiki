@@ -13,6 +13,8 @@ sequence: 84
 
  
 
+# Shoulder Impingement
+
 **Lack**  
 
 ![[ChatGPT Image May 2, 2026, 06_28_35 PM.png]]

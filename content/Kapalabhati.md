@@ -1,7 +1,12 @@
 ---
+title: Kapalabhati
 sequence: 45
 ---
 <div class="page-wrapper is-asana">
+
+
+
+# Kapalabhati
 
 # Kapalabhati (Skull Shining Breath)
 
@@ -34,6 +39,5 @@ Kapālabhāti reverses the usual mechanics of breathing by using a rhythmic "bel
   - **Cranial Pressure:** Avoid if suffering from glaucoma, detached retinas, or inner ear infections.
 
 See [[Shatkarma_Safety_and_Timing]] for more details on proper practice protocols.
-
 
 </div>

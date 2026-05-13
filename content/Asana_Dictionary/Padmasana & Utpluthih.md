@@ -17,6 +17,8 @@ sequence: 9999
 
  
 
+# Padmasana & Utpluthih
+
 "Padma means a lotus. Padmasana is the Lotus Pose, the most important posture for meditation." 
 
 ![Padmasana](https://www.devvratyoga.com/wp-content/uploads/2019/07/Padmasana.png)

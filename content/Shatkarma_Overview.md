@@ -1,7 +1,12 @@
 ---
+title: Shatkarma Overview
 sequence: 43
 ---
 <div class="page-wrapper is-asana">
+
+
+
+# Shatkarma Overview
 
 # Shatkarma Overview
 
@@ -27,6 +32,5 @@ The central aim of these actions is to remove gross physical and energetic impur
 It is important to distinguish the somatic Kriya Yoga of the Hatha tradition from the psychological Kriya Yoga of Patanjali.
 - **Somatic Kriya (Hatha):** Refers to the physical actions (the Shatkarmas) used to literally "bake" and cleanse the physical body.
 - **Patanjali's Kriya:** Focuses on *Tapas* (discipline), *Svadhyaya* (self-study), and *Ishvara Pranidhana* (surrender to the divine).
-
 
 </div>

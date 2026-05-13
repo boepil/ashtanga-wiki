@@ -17,6 +17,8 @@ sequence: 9999
 
  
 
+# Supta Vajrasana
+
 "Supta means reclining. Vajra means a thunderbolt. Supta Vajrasana is the reclining version of the Thunderbolt pose, performed in Lotus (Padmasana) in the Ashtanga system." 
 
 ![Supta-Vajrasana](https://www.devvratyoga.com/wp-content/uploads/2019/07/Supta-Vajrasana.png)

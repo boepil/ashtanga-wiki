@@ -21,6 +21,8 @@ sequence: 9999
 
  
 
+# Parivrtta Parsvakonasana
+
 "Parivrtta means revolved, turned round or back. Parsva means side or flank. Kona is an angle. This is the revolving lateral angle posture." 
 
 ![Utthita-Parsvakonasana-b](https://www.devvratyoga.com/wp-content/uploads/2019/07/Uthitha-Parsvakonasana-b.png)

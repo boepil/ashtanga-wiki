@@ -8,6 +8,8 @@ sequence: 18
 
  
 
+# Samadhi (Union and Absorption)
+
 **Samadhi** is the eighth and final limb of the [[Eight_Limbs]] of yoga. It is the culmination of the meditative path, representing the ultimate state of cognitive refinement, absorption, and spiritual union. The word translates as "putting together" or "absorption."
 
 ## Merging of Observer and Object

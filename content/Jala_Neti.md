@@ -1,7 +1,12 @@
 ---
+title: Jala Neti
 sequence: 44
 ---
 <div class="page-wrapper is-asana">
+
+
+
+# Jala Neti
 
 # Jala Neti (Nasal Irrigation)
 
@@ -32,6 +37,5 @@ sequence: 44
 - **Not a Daily Requirement**: Nasal kriyas are primarily curative. They should not be practiced blindly every day if the practitioner is already healthy, as they can be habit-forming or irritate the mucous membranes.
 
 See [[Shatkarma_Safety_and_Timing]] for broader contraindications.
-
 
 </div>

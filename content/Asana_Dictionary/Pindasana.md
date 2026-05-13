@@ -17,6 +17,8 @@ sequence: 9999
 
  
 
+# Pindasana
+
 "Piṇḍa means embryo or foetus.... the bent crossed legs are brought down until they rest on the head. The posture resembles that of an embryo in the womb, hence the name." 
 
 ![Pindasana](https://www.devvratyoga.com/wp-content/uploads/2019/07/Pindasana.png)

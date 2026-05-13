@@ -24,6 +24,8 @@ sequence: 9999
 
  
 
+# Virabhadrasana B
+
 "Asanas are named after legendary heroes like Vīrabhadra... When Śiva heard [of the death of Satī] he was gravely provoked, tore a hair from his matted locks and threw it to the ground. A powerful hero named Vīrabhadra rose up... This asana is dedicated to the powerful hero created by Śiva from his matted hair." 
 
 ![Virabhadrasana-b](https://www.devvratyoga.com/wp-content/uploads/2019/07/Virabhadrasana-b.png)

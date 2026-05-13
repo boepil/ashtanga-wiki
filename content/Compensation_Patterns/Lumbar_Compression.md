@@ -12,6 +12,8 @@ sequence: 88
 
  
 
+# Lumbar Compression
+
 **Lack**  
 
 ![[ChatGPT Image May 6, 2026, 08_14_08 PM.png]]

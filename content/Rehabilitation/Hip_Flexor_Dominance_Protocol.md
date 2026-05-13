@@ -16,6 +16,8 @@ sequence: 95
 
  
 
+# Hip Flexor Dominance Protocol
+
 This protocol addresses "Lower Cross Syndrome"—the systemic imbalance of overactive, shortened hip flexors and inhibited, weak glutes (Hogan, Built From Broken, p. 329). In Ashtanga practice, this dominance manifests as lumbar compression in backbends and a "stuck" pelvis in forward folds. Because the psoas major interweaves with the respiratory diaphragm at the T12–L1 junction (Myers, Anatomy Trains, p. 356), hip flexor restriction physically impairs the freedom of the breath, creating a cycle of structural and physiological tension.
 
 ![[hip flexor rehab.png]]

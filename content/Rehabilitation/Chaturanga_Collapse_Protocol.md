@@ -15,6 +15,8 @@ sequence: 93
 
  
 
+# Chaturanga Collapse Protocol
+
 This protocol addresses the structural failure in Chaturanga Dandasana, characterized by winging scapulae, rounded shoulders, and a sagging midsection. Grounded in the "Spiral Line" force transmission, it focuses on the myofascial continuity between the serratus anterior and the external obliques (Myers, Anatomy Trains, p. 289). Failure occurs when the Pectoralis Minor is "locked-short," pulling the scapula into an anterior tilt (Myers, p. 322), and the core fails to maintain Intra-Abdominal Pressure (IAP), resulting in an "arch fault" (Starrett, Becoming a Supple Leopard, p. 40).
 
 ![[ChatGPT Image May 9, 2026, 01_27_23 PM.png]]

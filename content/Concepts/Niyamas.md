@@ -8,6 +8,8 @@ sequence: 4
 
  
 
+# Niyamas (Personal Observances)
+
 The **Niyamas** constitute the second limb of the [[Eight_Limbs]] of yoga. While the [[Yamas]] deal with our relationship to the external world, the Niyamas focus on our internal relationship with ourselves. They are personal practices and observances designed to purify the body and mind, fostering discipline and spiritual growth.
 
 ## The Five Niyamas

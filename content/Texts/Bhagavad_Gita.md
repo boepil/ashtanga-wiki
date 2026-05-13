@@ -8,6 +8,8 @@ sequence: 74
 
  
 
+# Bhagavad Gita
+
 The **Bhagavad Gita** ("Song of the Lord") is a 700-verse Hindu scripture that is part of the epic Mahabharata. It takes the form of a dialogue between the warrior prince Arjuna and his charioteer, Krishna (an avatar of the deity Vishnu), on the battlefield of Kurukshetra, just as a great fratricidal war is about to begin.
 
 ## The Yoga of Action and Devotion

@@ -15,6 +15,8 @@ sequence: 104
 
  
 
+# Lumbar Compression Modifications
+
 ## Overview
 Lumbar compression occurs when the lower back is forced to "hinge" at a single segment (usually L4-L5 or L5-S1) instead of distributing force throughout the entire kinetic chain. In backbends, this is caused by stiff thoracic segments; in forward folds, it is caused by tight hamstrings/hips. Modifications focus on stabilizing the lumbar "hinge" and mobilizing the areas above and below it.
 

@@ -14,6 +14,8 @@ sequence: 105
 
  
 
+# Hamstring Overstretching Modifications
+
 ## Overview
 The goal during rehabilitation from "yoga butt" (proximal hamstring tendinopathy) is to remove the "yanking" force on the sit-bone while keeping the muscle active. We move away from passive, gravity-led stretching and toward **Active, Resistance-based Lengthening**.
 

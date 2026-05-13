@@ -21,6 +21,8 @@ sequence: 9999
 
  
 
+# Triang Mukha Eka Pada Paschimottanasana
+
 "Trianga means three limbs or parts thereof. In this posture the three parts are the feet, knees and buttocks. Mukhaikapada (a compound of three words, mukha = face, eka = one, and pada = leg or foot) corresponds to the face (or mouth) touching one (extended) leg. In Paschimottanasana the back of the whole body is intensely stretched." 
 
 ![Triang-Mukha-ek-Pada-Paschimattanasana](https://www.devvratyoga.com/wp-content/uploads/2019/07/Triang-Mukha-ek-Pada-Paschimattanasana.png)

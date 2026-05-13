@@ -10,6 +10,8 @@ sequence: 79
 
  
 
+# Vagal Tone and Tristana
+
 ## Summary
 Tristana—the combination of Ujjayi breath, Drishti (gaze), and Bandha (energy locks)—is a neurologically sophisticated protocol for modulating the autonomic nervous system. By imposing intense sympathetic stress through physical asana while maintaining parasympathetic "brakes" via breath and gaze, the practitioner trains vagal resilience and creates a profound state of meditative absorption.
 

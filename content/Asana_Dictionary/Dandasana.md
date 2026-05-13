@@ -23,6 +23,8 @@ sequence: 9999
 
  
 
+# Dandasana
+
 "Danda means a staff or rod. In this asana, the body remains straight like a stick (Danda) and strengthens the spine, hands and legs." 
 
 ![dandasana](https://www.devvratyoga.com/wp-content/uploads/2019/08/dandasana.png)

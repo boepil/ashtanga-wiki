@@ -1,7 +1,12 @@
 ---
+title: Vegetarian Nutrition
 sequence: 70
 ---
 <div class="page-wrapper is-asana">
+
+
+
+# Vegetarian Nutrition
 
 # Vegetarian Nutrition for Yoga
 
@@ -40,6 +45,5 @@ Because a vegetarian diet naturally lacks certain compounds found in meat, speci
 - **Sweat:** Vigorous Vinyasa expels toxins through the skin.
 
 **Modern Warning:** Extreme "quick detox" diets (like extreme juice fasts) can be harmful and depleting. True detoxification is an ongoing lifestyle combining hydration, sleep, clean vegetarian nutrition, and consistent physical/breath practice, rather than a crash diet.
-
 
 </div>

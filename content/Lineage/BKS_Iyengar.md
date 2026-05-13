@@ -9,6 +9,8 @@ sequence: 78
 
  
 
+# BKS Iyengar
+
 ## Summary
 Belur Krishnamachar Sundararaja (B.K.S.) Iyengar (1918–2014) was a seminal figure in modern yoga, renowned for his emphasis on structural alignment and the invention of yoga props. A student of T. Krishnamacharya, Iyengar's methodical approach made yoga accessible to a global audience and profoundly influenced how physical postures are taught today.
 

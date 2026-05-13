@@ -1,7 +1,12 @@
 ---
+title: Adjustments That Worked
 sequence: 62
 ---
 <div class="page-wrapper is-asana">
+
+
+
+# Adjustments That Worked
 
 # Adjustments That Worked
 
@@ -39,6 +44,5 @@ Involves a shift in proprioception—the internal sense of how the body moves in
 ### 3. The Energetic Breakthrough
 A transition from the gross physical body to the subtle energetic body (*sūkṣma-śarīra*).
 - **Indicators:** A sudden surge of heat (*tapas*), a feeling of "blissful fusion," or a moment of being "thoughtfully thoughtless." You clearly perceive the movement of *Prana* through the *Nadis*, piercing through physical resistance.
-
 
 </div>

@@ -1,7 +1,12 @@
 ---
+title: Traditional Pranayama Techniques
 sequence: 32
 ---
 <div class="page-wrapper is-asana">
+
+
+
+# Traditional Pranayama Techniques
 
 # Traditional Pranayama Techniques
 
@@ -56,6 +61,5 @@ An alternative for those unable to roll their tongue for Sheetali.
 ### 9. Plavini (Floating Breath)
 - **Method:** Swallowing air to fill the stomach (not just the lungs) and retaining it.
 - **Purpose:** Traditionally said to make the body buoyant enough to float on water. *Rarely taught in modern yoga.*
-
 
 </div>

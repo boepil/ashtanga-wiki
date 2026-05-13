@@ -9,6 +9,8 @@ sequence: 76
 
  
 
+# T Krishnamacharya
+
 ## Summary
 Tirumalai Krishnamacharya (1888–1989) is commonly referred to as the "Father of Modern Yoga." He synthesized Western and Indian modes of physical culture into traditional Haṭha Yoga, fundamentally shaping the vinyāsa (movement) and krama (sequence) oriented approaches that dominate modern postural practice.
 

@@ -15,6 +15,8 @@ sequence: 100
 
  
 
+# Shoulder Impingement Modifications
+
 ## Overview
 The objective during rehabilitation is to maintain a consistent practice without aggravating the subacromial space. This involves reducing load on the shoulder joint, restoring proper scapular mechanics, and avoiding poses that force the humeral head into the acromion.
 

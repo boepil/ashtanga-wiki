@@ -22,6 +22,8 @@ sequence: 9999
 
  
 
+# Parivrtta Trikonasana
+
 "Parivrtta means revolved, turned round or back. Trikona is a triangle. This is the revolving triangle posture. It is a counter pose to Utthita Trikonasana." 
 
 ![Utthita-Trikonasana-b](https://www.devvratyoga.com/wp-content/uploads/2019/07/Uthitha-Trikonasana-b.png)

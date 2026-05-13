@@ -17,6 +17,8 @@ sequence: 9999
 
  
 
+# Bakasana
+
 "Baka means a crane. In this posture, the body resembles a crane wading in a pool." 
 
 ![Bakasana](https://www.devvratyoga.com/wp-content/uploads/2019/07/Bakasana-A.png)

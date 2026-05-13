@@ -12,6 +12,8 @@ sequence: 87
 
  
 
+# Hip Flexor Dominance
+
 **Lack**  
 
 ![[ChatGPT Image May 5, 2026, 04_48_15 PM.png]]

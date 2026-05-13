@@ -9,6 +9,8 @@ sequence: 77
 
  
 
+# K Pattabhi Jois
+
 ## Summary
 Sri Krishna Pattabhi Jois (1915–2009) was the primary architect and global popularizer of Ashtanga Vinyasa Yoga. A devoted student of T. Krishnamacharya, Jois formalized his guru's vigorous, linking sequences into a standardized, set series of postures that revolutionized modern yoga in the West.
 

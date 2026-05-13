@@ -1,7 +1,12 @@
 ---
+title: Dosha Adaptations
 sequence: 68
 ---
 <div class="page-wrapper is-asana">
+
+
+
+# Dosha Adaptations
 
 # Dosha Adaptations
 
@@ -42,6 +47,5 @@ A specific yogic concept is **Prishta-Vata**, referring to the accumulation of "
 
 - **Effects:** It obstructs flexibility and causes joint pain. If the movement of vital wind (*Vayu Sancharam*) is obstructed, the body trembles during practice, significantly increasing the risk of injury.
 - **The Remedy:** Proper **Vinyasa Krama** is essential to "thin the blood" and remove these toxic winds through sweat. Asanas like *Paschimottanasana* ensure that energy (*Prana Vayu*) flows correctly up the spine, clearing the blockages.
-
 
 </div>

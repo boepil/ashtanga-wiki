@@ -1,7 +1,12 @@
 ---
+title: Jalandhara Bandha
 sequence: 37
 ---
 <div class="page-wrapper is-asana">
+
+
+
+# Jalandhara Bandha
 
 # Jalandhara Bandha (Throat Lock)
 
@@ -39,6 +44,5 @@ Jalandhara Bandha is essential for managing the increased internal pressure gene
 
 - **Rolled Towel:** If the chin cannot comfortably reach the chest, placing a small rolled-up washcloth in the throat pit provides tactile feedback and a gentle seal without forcing the cervical spine.
 - **Neutral Alignment:** For those with neck pain, maintain a neutral "long neck" position without forward flexion, utilizing only the glottal seal.
-
 
 </div>

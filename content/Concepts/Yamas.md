@@ -8,6 +8,8 @@ sequence: 3
 
  
 
+# Yamas (Ethical Restraints)
+
 The **Yamas** form the first limb of the [[Eight_Limbs]] of yoga. They are universal ethical precepts that guide a practitioner's interactions with the external world and other living beings. Patañjali describes them as the "Great Vow" (*mahāvrata*), applicable to all spheres of life, regardless of time, place, or circumstance.
 
 ## The Five Yamas

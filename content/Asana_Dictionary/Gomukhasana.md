@@ -17,6 +17,8 @@ sequence: 9999
 
  
 
+# Gomukhasana
+
 "Go means a cow. Mukha means a face. The pose resembles a cow's face, hence the name." 
 
 ![Gomukhasana](https://www.devvratyoga.com/wp-content/uploads/2019/07/Gomukhasana.png)

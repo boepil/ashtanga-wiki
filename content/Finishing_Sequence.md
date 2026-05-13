@@ -9,6 +9,8 @@ sequence: 11
 
  
 
+# Finishing Sequence
+
 ## Summary
 The Finishing Sequence is the concluding section of the Ashtanga Yoga practice. It consists of deep backbends, inversions, and finally, profound rest. Its purpose is to calm the nervous system, balance the energy generated during the practice, and shift the body into a state of profound integration.
 

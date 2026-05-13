@@ -8,6 +8,8 @@ sequence: 72
 
  
 
+# Yoga Sutras of Patanjali
+
 The **Yoga Sutras** is a foundational text of classical yoga philosophy, compiled by the sage Patañjali around 400 CE. Comprising 196 concise aphorisms (sutras), the text systematizes older traditions and practices into a coherent philosophical framework, heavily influenced by the dualistic Samkhya philosophy (the division of [[Purusha_and_Prakriti]]).
 
 ## Structure of the Text

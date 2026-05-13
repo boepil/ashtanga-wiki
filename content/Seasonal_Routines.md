@@ -1,7 +1,12 @@
 ---
+title: Seasonal Routines
 sequence: 69
 ---
 <div class="page-wrapper is-asana">
+
+
+
+# Seasonal Routines
 
 # Seasonal Routines (Ritucharya)
 
@@ -37,6 +42,5 @@ The season of wind and rapid change, often leading to mental restlessness, physi
 - **Moderation:** Strictly follow *Mitahara* (moderate diet).
 - **Gradual Shift:** Change practice intensity gradually (*shanaih shanaih*). Do not abruptly switch from a vigorous winter practice to a slow summer practice.
 - **Purity:** Maintain *Saucha* (cleanliness) and devotion to keep the mind steady through the environmental transition.
-
 
 </div>
