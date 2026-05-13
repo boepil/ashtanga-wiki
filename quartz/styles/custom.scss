@@ -3,15 +3,7 @@
 // Ashtanga Wiki Custom Styles from DESIGN.md
 
 :root {
-  --primary: #1C1917;
-  --secondary: #57534E;
-  --tertiary: #B45309;
-  --neutral: #FAFAF9;
-  --surface: #F5F5F4;
-  --danger: #B91C1C;
-  --success: #15803D;
-  --info: #1D4ED8;
-  --sanskrit: #92400E;
+  /* Use theme variables defined in quartz.config.ts */
 }
 
 body {
@@ -60,8 +52,8 @@ body {
 }
 
 .controversy-flag {
-  background-color: #FFFBEB;
-  color: var(--primary);
+  background-color: var(--textHighlight);
+  color: var(--dark);
   border-radius: 4px;
   padding: 16px;
   margin: 16px 0;

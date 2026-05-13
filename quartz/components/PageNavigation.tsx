@@ -51,6 +51,7 @@ export default (() => {
   .page-navigation {
     display: flex;
     justify-content: space-between;
+    margin-top: 0;
     margin-bottom: 2rem;
     padding-bottom: 1.5rem;
     border-bottom: 1px solid var(--lightgray);

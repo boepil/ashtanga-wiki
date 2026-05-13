@@ -19,4 +19,10 @@ header h1 {
 }
 `
 
+Header.afterDOMLoaded = `
+  document.addEventListener("nav", () => {
+    window.scrollTo(0, 0);
+  });
+`
+
 export default (() => Header) satisfies QuartzComponentConstructor
