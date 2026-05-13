@@ -74,15 +74,17 @@ export default (() => {
   .nav-prev { text-align: left; }
   .nav-next { text-align: right; }
   .page-navigation span.nav-label {
-    font-size: 0.85rem;
+    font-size: 0.7rem;
     text-transform: uppercase;
-    letter-spacing: 0.05em;
-    opacity: 0.8;
+    letter-spacing: 0.15em;
+    opacity: 0.7;
+    font-weight: 500;
   }
   .nav-title {
-    font-weight: 600;
-    font-size: 1.1rem;
-    margin-top: 0.25rem;
+    font-weight: 400;
+    font-size: 0.9rem;
+    margin-top: 0.2rem;
+    opacity: 0.9;
   }
   `
 
