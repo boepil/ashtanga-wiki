@@ -57,7 +57,7 @@ Cooling and neutralizing the body, shifting into a meditative state.
 | **[[Uttana Padasana]]** | ![Uttana-Padasana](https://www.devvratyoga.com/wp-content/uploads/2019/07/Uttana-Padasana.png) |
 | **[[Sirsasana]]** | ![Sirsasana](https://www.devvratyoga.com/wp-content/uploads/2019/07/Sirsasana-A.png) |
 | **[[Baddha Padmasana & Yoga Mudra]]** | ![Baddha-Padmasana](https://www.devvratyoga.com/wp-content/uploads/2019/07/Yoga-Mudra-A.png) |
-| **[[Padmasana & Utpluthih|Padmasana]]** | ![Padmasana](https://www.devvratyoga.com/wp-content/uploads/2019/07/Padmasana.png) |
+| **[[Padmasana & Utpluthih\|Padmasana]]** | ![Padmasana](https://www.devvratyoga.com/wp-content/uploads/2019/07/Padmasana.png) |
 | **[[Savasana]]** | ![Savasana](https://www.devvratyoga.com/wp-content/uploads/2019/07/Savasana.png) |
 
 ## Sources
