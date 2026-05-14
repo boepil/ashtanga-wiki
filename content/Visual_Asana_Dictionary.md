@@ -30,17 +30,17 @@ Fundamental postures that build grounding, balance, and leg strength.
 | Asana | Image |
 | :--- | :--- |
 | **[[Samasthitihi]]** | ![Samasthitihi](https://www.devvratyoga.com/wp-content/uploads/2019/08/Surya-Namaskar.png) |
-| **[[Pada Angusthasana]]** | ![Pada-Angusthasana](https://www.devvratyoga.com/wp-content/uploads/2019/07/Padangusthasana.png) |
-| **[[Pada Hastasana]]** | ![Pada-Hastasana](https://www.devvratyoga.com/wp-content/uploads/2019/07/Padahastasana.png) |
-| **[[Utthita Trikonasana]]** | ![Utthita-Trikonasana](https://www.devvratyoga.com/wp-content/uploads/2019/07/Utthita-Trikonasana.png) |
-| **[[Parivrtta Trikonasana]]** | ![Parivrtta-Trikonasana](https://www.devvratyoga.com/wp-content/uploads/2019/07/Parivrtta-Trikonasana.png) |
-| **[[Utthita Parsvakonasana]]** | ![Utthita-Parsvakonasana](https://www.devvratyoga.com/wp-content/uploads/2019/07/Utthita-Parsvakonasana.png) |
-| **[[Parivrtta Parsvakonasana]]** | ![Parivrtta-Parsvakonasana](https://www.devvratyoga.com/wp-content/uploads/2019/07/Parivrtta-Parsvakonasana.png) |
-| **[[Prasarita Padottanasana]]** | ![Prasarita-Padottanasana](https://www.devvratyoga.com/wp-content/uploads/2019/07/Prasarita-Padottanasana-a.png) |
-| **[[Parsvottanasana]]** | ![Parsvottanasana](https://www.devvratyoga.com/wp-content/uploads/2019/07/Parsvottanasana.png) |
-| **[[Utthita Hasta Padangusthasana]]** | ![Utthita-Hasta-Padangusthasana](https://www.devvratyoga.com/wp-content/uploads/2019/07/Utthita-Hasta-Padangusthasana.png) |
+| **[[Pada Angusthasana]]** | ![Pada-Angusthasana](https://www.devvratyoga.com/wp-content/uploads/2019/07/Pada-Angusthasana.png) |
+| **[[Pada Hastasana]]** | ![Pada-Hastasana](https://www.devvratyoga.com/wp-content/uploads/2019/07/Pada-Hastasana-a.png) |
+| **[[Utthita Trikonasana]]** | ![Utthita-Trikonasana](https://www.devvratyoga.com/wp-content/uploads/2019/07/Uthitha-Trikonasana-A.png) |
+| **[[Parivrtta Trikonasana]]** | ![Parivrtta-Trikonasana](https://www.devvratyoga.com/wp-content/uploads/2019/07/Uthitha-Trikonasana-b.png) |
+| **[[Utthita Parsvakonasana]]** | ![Utthita-Parsvakonasana](https://www.devvratyoga.com/wp-content/uploads/2019/07/Uthitha-Parsvakonasana-A.png) |
+| **[[Parivrtta Parsvakonasana]]** | ![Parivrtta-Parsvakonasana](https://www.devvratyoga.com/wp-content/uploads/2019/07/Uthitha-Parsvakonasana-b.png) |
+| **[[Prasarita Padottanasana]]** | ![Prasarita-Padottanasana](https://www.devvratyoga.com/wp-content/uploads/2019/07/Prasarita-Padottanasana-A.png) |
+| **[[Parsvottanasana]]** | ![Parsvottanasana](https://www.devvratyoga.com/wp-content/uploads/2019/07/Uthitha-Parsvottanasana-A.png) |
+| **[[Utthita Hasta Padangusthasana]]** | ![Utthita-Hasta-Padangusthasana](https://www.devvratyoga.com/wp-content/uploads/2019/07/Utthita-Hasta-Padangusthasana-a.png) |
 | **[[Ardha Baddha Padmottanasana]]** | ![Ardha-Baddha-Padmottanasana](https://www.devvratyoga.com/wp-content/uploads/2019/07/Ardha-Baddha-Padmottanasana.png) |
-| **[[Utkatasana]]** | ![Utkatasana](https://www.devvratyoga.com/wp-content/uploads/2019/07/Utkatasana.png) |
+| **[[Utkatasana]]** | ![Utkatasana](https://www.devvratyoga.com/wp-content/uploads/2019/07/Utkatasana-1.png) |
 | **[[Virabhadrasana A]]** | ![Virabhadrasana-A](https://www.devvratyoga.com/wp-content/uploads/2019/07/Virabhadrasana-a.png) |
 | **[[Virabhadrasana B]]** | ![Virabhadrasana-B](https://www.devvratyoga.com/wp-content/uploads/2019/07/Virabhadrasana-b.png) |
 
@@ -53,9 +53,9 @@ The core of *Yoga Chikitsa* (Yoga Therapy), focusing on forward folds and hip op
 | :--- | :--- |
 | **[[Dandasana]]** | ![Dandasana](https://www.devvratyoga.com/wp-content/uploads/2019/07/Dandasana.png) |
 | **[[Paschimottanasana]]** | ![Paschimottanasana](https://www.devvratyoga.com/wp-content/uploads/2019/07/Paschimattanasana-A.png) |
-| **[[Purvottanasana]]** | ![Purvottanasana](https://www.devvratyoga.com/wp-content/uploads/2019/07/Purvottanasana.png) |
+| **[[Purvottanasana]]** | ![Purvottanasana](https://www.devvratyoga.com/wp-content/uploads/2019/08/purvottanasana.png) |
 | **[[Ardha Baddha Padma Paschimottanasana]]** | ![Ardha-Baddha-Padma-Paschimottanasana](https://www.devvratyoga.com/wp-content/uploads/2019/07/Ardha-Baddha-Padma-Paschimattanasana.png) |
-| **[[Triang Mukha Eka Pada Paschimottanasana]]** | ![Triang-Mukha-Eka-Pada](https://www.devvratyoga.com/wp-content/uploads/2019/07/Triang-Mukha-Eka-Pada-Paschimattanasana.png) |
+| **[[Triang Mukha Eka Pada Paschimottanasana]]** | ![Triang-Mukha-Eka-Pada](https://www.devvratyoga.com/wp-content/uploads/2019/07/Triang-Mukha-ek-Pada-Paschimattanasana.png) |
 | **[[Janu Sirsasana]]** | ![Janu-Sirsasana](https://www.devvratyoga.com/wp-content/uploads/2019/07/Janu-Sirsasana-a.png) |
 | **[[Marichyasana]]** | ![Marichyasana-A](https://www.devvratyoga.com/wp-content/uploads/2019/07/Marichyasana-a.png) |
 | **[[Navasana]]** | ![Navasana](https://www.devvratyoga.com/wp-content/uploads/2019/07/Navasana.png) |
@@ -65,11 +65,11 @@ The core of *Yoga Chikitsa* (Yoga Therapy), focusing on forward folds and hip op
 | **[[Garbha Pindasana]]** | ![Garbha-Pindasana](https://www.devvratyoga.com/wp-content/uploads/2019/07/Garbha-Pindasana.png) |
 | **[[Kukkutasana]]** | ![Kukkutasana](https://www.devvratyoga.com/wp-content/uploads/2019/07/Kukkutasana.png) |
 | **[[Baddha Konasana]]** | ![Baddha-Konasana](https://www.devvratyoga.com/wp-content/uploads/2019/07/Baddha-Konasana-A.png) |
-| **[[Upavistha Konasana]]** | ![Upavistha-Konasana](https://www.devvratyoga.com/wp-content/uploads/2019/07/Upavistha-Konasana-a.png) |
+| **[[Upavistha Konasana]]** | ![Upavistha-Konasana](https://www.devvratyoga.com/wp-content/uploads/2019/07/Upavistha-Konasana-A.png) |
 | **[[Supta Konasana]]** | ![Supta-Konasana](https://www.devvratyoga.com/wp-content/uploads/2019/07/Supta-Konasana.png) |
-| **[[Supta Padangusthasana]]** | ![Supta-Padangusthasana](https://www.devvratyoga.com/wp-content/uploads/2019/07/Supta-Padangusthasana-a.png) |
-| **[[Ubhaya Padangusthasana]]** | ![Ubhaya-Padangusthasana](https://www.devvratyoga.com/wp-content/uploads/2019/07/Ubhaya-Padangusthasana-b.png) |
-| **[[Urdhva Mukha Paschimottanasana]]** | ![Urdhva-Mukha-Paschimottanasana](https://www.devvratyoga.com/wp-content/uploads/2019/07/Urdhva-Mukha-Paschimattanasana-b.png) |
+| **[[Supta Padangusthasana]]** | ![Supta-Padangusthasana](https://www.devvratyoga.com/wp-content/uploads/2019/07/Supta-Padangusthasana-A.png) |
+| **[[Ubhaya Padangusthasana]]** | ![Ubhaya-Padangusthasana](https://www.devvratyoga.com/wp-content/uploads/2019/07/Ubhaya-Padangusthasana.png) |
+| **[[Urdhva Mukha Paschimottanasana]]** | ![Urdhva-Mukha-Paschimottanasana](https://www.devvratyoga.com/wp-content/uploads/2019/07/Urdhva-Mukha-Paschimattanasana.png) |
 | **[[Setu Bandhasana]]** | ![Setu-Bandhasana](https://www.devvratyoga.com/wp-content/uploads/2019/07/Setu-Bandhasana.png) |
 
 ---
@@ -79,8 +79,8 @@ Cooling and neutralizing the body, shifting into a meditative state.
 
 | Asana | Image |
 | :--- | :--- |
-| **[[Urdhva Dhanurasana]]** | ![Urdhva-Dhanurasana](https://www.devvratyoga.com/wp-content/uploads/2019/07/Urdhva-Dhanurasana.png) |
-| **[[Salamba Sarvangasana]]** | ![Salamba-Sarvangasana](https://www.devvratyoga.com/wp-content/uploads/2019/07/Sarvangasana.png) |
+| **[[Urdhva Dhanurasana]]** | ![Urdhva-D Dhanurasana](https://www.devvratyoga.com/wp-content/uploads/2019/07/Urdhva-Dhanurasana.png) |
+| **[[Salamba Sarvangasana]]** | ![Salamba-Sarvangasana](https://www.devvratyoga.com/wp-content/uploads/2019/07/Salamba-Sarvangasana.png) |
 | **[[Halasana]]** | ![Halasana](https://www.devvratyoga.com/wp-content/uploads/2019/07/Halasana.png) |
 | **[[Karnapidasana]]** | ![Karnapidasana](https://www.devvratyoga.com/wp-content/uploads/2019/07/Karnapidasana.png) |
 | **[[Urdhva Padmasana]]** | ![Urdhva-Padmasana](https://www.devvratyoga.com/wp-content/uploads/2019/07/Urdhva-Padmasana.png) |
@@ -90,7 +90,7 @@ Cooling and neutralizing the body, shifting into a meditative state.
 | **[[Sirsasana]]** | ![Sirsasana](https://www.devvratyoga.com/wp-content/uploads/2019/07/Sirsasana-A.png) |
 | **[[Baddha Padmasana & Yoga Mudra]]** | ![Baddha-Padmasana](https://www.devvratyoga.com/wp-content/uploads/2019/07/Baddha-Padmasana.png) |
 | **[[Padmasana & Utpluthih\|Padmasana]]** | ![Padmasana](https://www.devvratyoga.com/wp-content/uploads/2019/07/Padmasana.png) |
-| **[[Savasana]]** | ![Savasana](https://www.devvratyoga.com/wp-content/uploads/2019/07/Shavasana.png) |
+| **[[Savasana]]** | ![Savasana](https://www.devvratyoga.com/wp-content/uploads/2019/07/Savasana.png) |
 
 ---
 
@@ -99,9 +99,9 @@ Purifying the nervous system through deep backbends and arm balances.
 
 | Asana | Image |
 | :--- | :--- |
-| **[[Pasasana]]** | ![Pasasana](https://www.devvratyoga.com/wp-content/uploads/2019/07/Pashasana.png) |
+| **[[Pasasana]]** | ![Pasasana](https://www.devvratyoga.com/wp-content/uploads/2019/07/Pasasana.png) |
 | **[[Krounchasana]]** | ![Krounchasana](https://www.devvratyoga.com/wp-content/uploads/2019/07/Krounchasana.png) |
-| **[[Salabhasana]]** | ![Salabhasana](https://www.devvratyoga.com/wp-content/uploads/2019/07/Shalabhasana.png) |
+| **[[Salabhasana]]** | ![Salabhasana](https://www.devvratyoga.com/wp-content/uploads/2019/07/Salabhasana.png) |
 | **[[Bhekasana]]** | ![Bhekasana](https://www.devvratyoga.com/wp-content/uploads/2019/07/Bhekasana.png) |
 | **[[Dhanurasana & Parsva Dhanurasana\|Dhanurasana]]** | ![Dhanurasana](https://www.devvratyoga.com/wp-content/uploads/2019/07/Dhanurasana.png) |
 | **[[Ustrasana]]** | ![Ustrasana](https://www.devvratyoga.com/wp-content/uploads/2019/07/Ustrasana.png) |
