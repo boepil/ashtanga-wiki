@@ -1,12 +1,14 @@
 ---
 title: Dosha Adaptations
+type: concept
+tags: [ayurveda, dosha, vata, pitta, kapha, adaptation]
+sources: [raw/10_AYURVEDA_AND_DIET/Dosha_Types_and_Practice_Adaptations.md]
+updated: 2026-05-14
 sequence: 68
 ---
-<div class="page-wrapper is-asana">
+<div class="page-wrapper is-bridge">
 
 
-
-# Dosha Adaptations
 
 # Dosha Adaptations
 
@@ -47,5 +49,10 @@ A specific yogic concept is **Prishta-Vata**, referring to the accumulation of "
 
 - **Effects:** It obstructs flexibility and causes joint pain. If the movement of vital wind (*Vayu Sancharam*) is obstructed, the body trembles during practice, significantly increasing the risk of injury.
 - **The Remedy:** Proper **Vinyasa Krama** is essential to "thin the blood" and remove these toxic winds through sweat. Asanas like *Paschimottanasana* ensure that energy (*Prana Vayu*) flows correctly up the spine, clearing the blockages.
+
+## Sources
+- `raw/10_AYURVEDA_AND_DIET/Dosha_Types_and_Practice_Adaptations.md`
+- K. Pattabhi Jois, *Yoga Mala* [via NotebookLM Yoga and Human Anatomy]
+- Vasant Lad, *Ayurveda: The Science of Self-Healing* [via NotebookLM Yoga and Human Anatomy]
 
 </div>

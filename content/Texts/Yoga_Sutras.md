@@ -1,7 +1,10 @@
 ---
 title: "Yoga Sutras of Patanjali"
+type: text
 tags: [texts, classical-yoga, philosophy]
 aliases: [Yoga Sutras, Patanjali]
+sources: [raw/07_PHILOSOPHY/Eight_Limbs_of_Yoga_(Ashtanga)/*]
+updated: 2026-05-14
 sequence: 72
 ---
 <div class="page-wrapper is-asana">
@@ -23,6 +26,13 @@ The text is divided into four chapters (Padas):
 ## Historical Context and Relevance
 
 While modern yoga often looks to the Sutras for validation of postural practice, historical scholarship indicates that Patañjali’s system was primarily a meditative and contemplative one. The text's only mention of physical posture ([[Asana]]) describes a steady and comfortable seated position for meditation. However, its psychological insights into the nature of suffering and the methodology for stilling the mind remain the philosophical bedrock for the Ashtanga Vinyasa system and modern yoga as a whole.
+
+## Sources
+- `raw/07_PHILOSOPHY/Eight_Limbs_of_Yoga_(Ashtanga)/Eight_Limbs_Overview.md`
+- Patanjali, *Yoga Sutras* [via NotebookLM Yoga Philosophy and Origins]
+- Edwin Bryant, *The Yoga Sutras of Patanjali* [via NotebookLM Yoga Philosophy and Origins]
+- `raw/07_PHILOSOPHY/Practical_Philosophy/my own Yoga_Analysis.md`
+- `raw/07_PHILOSOPHY/Practical_Philosophy/Three Common Misconceptions About Early Yoga.md`
 
 
 </div>

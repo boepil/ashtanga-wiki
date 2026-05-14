@@ -1,8 +1,12 @@
 ---
 title: Jalandhara Bandha
+type: concept
+tags: [bandha, anatomy, energy, foundational]
+sources: [raw/03_BANDHA/Jalandhara_Bandha_(Throat_Lock)/*]
+updated: 2026-05-14
 sequence: 37
 ---
-<div class="page-wrapper is-asana">
+<div class="page-wrapper is-bridge">
 
 
 
@@ -44,5 +48,14 @@ Jalandhara Bandha is essential for managing the increased internal pressure gene
 
 - **Rolled Towel:** If the chin cannot comfortably reach the chest, placing a small rolled-up washcloth in the throat pit provides tactile feedback and a gentle seal without forcing the cervical spine.
 - **Neutral Alignment:** For those with neck pain, maintain a neutral "long neck" position without forward flexion, utilizing only the glottal seal.
+
+## Sources
+- `raw/03_BANDHA/Jalandhara_Bandha_(Throat_Lock)/Anatomical_Location.md`
+- `raw/03_BANDHA/Jalandhara_Bandha_(Throat_Lock)/Engagement_Techniques.md`
+- `raw/03_BANDHA/Jalandhara_Bandha_(Throat_Lock)/Integration_with_Pranayama.md`
+- Swami Swatmarama, *Hatha Yoga Pradipika* [via NotebookLM Yoga and Human Anatomy]
+- B.K.S. Iyengar, *Light on Yoga* [via NotebookLM Yoga and Human Anatomy]
+- K. Pattabhi Jois, *Yoga Mala* [via NotebookLM Yoga and Human Anatomy]
+
 
 </div>

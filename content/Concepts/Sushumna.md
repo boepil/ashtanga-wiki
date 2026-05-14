@@ -1,10 +1,13 @@
 ---
 title: "Sushumna Nadi"
+type: concept
 tags: [philosophy, subtle-body, energy]
 aliases: [Sushumna, Central Channel]
+sources: [raw/07_PHILOSOPHY/Practical_Philosophy/Sushomana.md]
+updated: 2026-05-14
 sequence: 24
 ---
-<div class="page-wrapper is-asana">
+<div class="page-wrapper is-bridge">
 
  
 
@@ -28,6 +31,13 @@ The activation of Sushumna is a primary goal of texts like the [[Hatha_Yoga_Prad
 - **Bandhas and Pranayama**: The engagement of physical locks (Bandhas) combined with breath retention ([[Pranayama]]) builds the internal heat necessary to open the mouth of the Sushumna and direct energy upward.
 
 When prana flows steadily in the central channel, the mind becomes entirely absorbed, leading to a state of timelessness and liberation from karmic influences.
+
+## Sources
+- `raw/07_PHILOSOPHY/Practical_Philosophy/Sushomana.md`
+- `raw/07_PHILOSOPHY/Practical_Philosophy/my own Yoga_Analysis.md`
+- Swami Swatmarama, *Hatha Yoga Pradipika* [via NotebookLM Yoga and Human Anatomy]
+- K. Pattabhi Jois, *Yoga Mala* [via NotebookLM Yoga and Human Anatomy]
+- `raw/07_PHILOSOPHY/Classical_Texts/James Mallinson on “Tantric Traditions and Haṭhayoga”.md`
 
 
 </div>

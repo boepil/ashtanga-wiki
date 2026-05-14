@@ -1,14 +1,16 @@
 ---
 title: Breath Awareness And Anatomy
+type: concept
+tags: [anatomy, breathing, pranayama, foundational]
+sources: [raw/02_PRANAYAMA/Breath_Awareness/*, raw/02_PRANAYAMA/Three_Part_Breath_(Dirga_Pranayama)/*]
+updated: 2026-05-14
 sequence: 33
 ---
-<div class="page-wrapper is-asana">
+<div class="page-wrapper is-bridge">
 
 
 
 # Breath Awareness And Anatomy
-
-# Breath Awareness and Anatomy
 
 Before attempting advanced pranayama, a practitioner must develop a high degree of somatic awareness regarding their natural respiratory patterns. This practice of observation (*Svadhyaya*) is the bridge between unconscious physiology and conscious regulation.
 
@@ -45,5 +47,13 @@ The inhalation moves smoothly from the bottom up (Pelvis → Ribs → Collarbone
   - **Tamasic States (Lethargy):** Invigorating practices (Kapalabhati, Surya Bhedana) can stimulate energy.
   - **Rajasic States (Anxiety):** Slower breathing, longer exhalations, and Nadi Shodhana can ground the nervous system.
 - **Oxygen Saturation:** Deep, slow, diaphragmatic breathing maximizes alveolar ventilation, improving the efficiency of gas exchange and increasing blood oxygen levels compared to shallow chest breathing.
+
+## Sources
+- `raw/02_PRANAYAMA/Breath_Awareness/Observation_Techniques.md`
+- `raw/02_PRANAYAMA/Breath_Awareness/Therapeutic_Applications.md`
+- `raw/02_PRANAYAMA/Three_Part_Breath_(Dirga_Pranayama)/Anatomical_Understanding.md`
+- `raw/02_PRANAYAMA/Three_Part_Breath_(Dirga_Pranayama)/Technique_Breakdown.md`
+- Leslie Kaminoff, *Yoga Anatomy* [via NotebookLM Yoga and Human Anatomy]
+- K. Pattabhi Jois, *Yoga Mala* [via NotebookLM Yoga and Human Anatomy]
 
 </div>

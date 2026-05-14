@@ -1,8 +1,12 @@
 ---
 title: Uddiyana Bandha
+type: concept
+tags: [bandha, anatomy, energy, foundational]
+sources: [raw/03_BANDHA/Uddiyana_Bandha_(Upward_Flying_Lock)/*]
+updated: 2026-05-14
 sequence: 36
 ---
-<div class="page-wrapper is-asana">
+<div class="page-wrapper is-bridge">
 
 
 
@@ -10,37 +14,32 @@ sequence: 36
 
 # Uddiyana Bandha (Upward Flying Lock)
 
-Derived from the Sanskrit for "flying up" or "soaring," *Uddiyana Bandha* is a sophisticated seal that manipulates the internal pressure of the torso by drawing the abdominal organs upward and backward.
+*Uddiyana* translates to "upward flying" or "soaring." This lock involves drawing the abdominal wall inward and upward, creating a powerful vacuum that lifts the internal organs and manipulates the subtle energy of the torso.
 
-## The Vacuum Effect
+## Anatomical Mechanics
 
-Uddiyana Bandha utilizes the respiratory diaphragm and the glottis to create a powerful internal vacuum.
-- **False Inhalation:** After a complete exhalation, the practitioner seals the throat (glottis) to prevent air from entering and then expands the ribcage as if trying to inhale.
-- **Organ Lift:** Because no air can enter the lungs, a strong negative pressure is created in the thoracic cavity. This vacuum "hoists" the abdominal organs (viscera) upward and backward toward the spine, nestling them underneath the ribcage.
+- **The Vacuum Effect:** By performing a "false inhalation" against a closed glottis, the practitioner creates a powerful negative pressure in the chest. This suction "hoists" the abdominal organs upward and backward toward the spine.
+- **Transversus Abdominis:** The engagement is primarily driven by the deepest abdominal layer, which tones the organs and stabilizes the spine.
+- **Diaphragmatic Co-activation:** In Asana practice, a "soft" version of this lock is maintained below the navel, ensuring the lower abdomen remains stable while allowing the upper diaphragm to move freely for breathing.
 
-## Engagement Techniques
+## Benefits in Practice
 
-Traditionally, the full Uddiyana Bandha is practiced as a standalone *kriya* (cleansing action) or during external breath retention (*Bahya Kumbhaka*).
+- **Organ Purification:** The intense internal "massage" and pressure shifts flush the internal organs, particularly the liver and intestines, with fresh venous blood.
+- **Core Stability:** It increases Intra-Abdominal Pressure (IAP), providing a critical "internal airbag" that protects the lower back during intense physical load.
+- **Energetic Ascent:** It acts as a channel that directs *Prana* (vital energy) from the lower belly up into the central channel (*Sushumna*).
 
-1. **The Stance:** Stand with feet hip-width apart, knees slightly bent, hands resting on the thighs.
-2. **Full Exhalation:** Exhale completely through the mouth until the lungs are empty.
-3. **The Lift:** Seal the throat and perform the "false inhalation." The belly should "disappear" under the ribs.
-4. **The Release:** Relax the abdomen *completely* before inhaling to prevent gasping and shock to the heart.
+## Safety and Prerequisites
 
-> **In-Practice Application:** During the flow of Ashtanga Asana, a "soft" version of Uddiyana Bandha is used. Instead of a full vacuum, the lower abdomen (below the navel) is gently drawn inward and maintained constantly to stabilize the core and support *Ujjayi* breathing.
+- **Empty Stomach:** This practice should only be performed on an empty stomach (traditionally at least 4 hours after a meal) to avoid digestive distress and allow for full abdominal retraction.
+- **Pregnancy and Health:** It is strictly contraindicated during pregnancy, the first few days of the menstrual cycle, and for those with active stomach ulcers or hiatal hernias.
 
-## Benefits and Energetic Context
-
-- **Visceral Massage:** The upward pull acts like a "spin cycle" for the internal tissues.
-- **Liver Flush:** The pressure change prompts a surge of venous blood through the hepatic portal vein, boosting circulation and detoxification.
-- **The Great Bird:** Energetically, the "great bird" of Prana is forced to fly up the *Sushumna* (central channel). It fans the digestive fire (*Jathara Agni*), baking away impurities.
-
-## Prerequisites and Safety
-
-> [!CAUTION]
-> Do NOT practice full Uddiyana Bandha if you are pregnant, have high blood pressure, heart conditions, a hiatal hernia, recent abdominal surgery, or active digestive issues (ulcers, gastritis).
-
-- **Empty Stomach:** The most critical requirement. It must be practiced after fasting (ideally first thing in the morning) so the organs can move freely without food or waste.
-- **Progression:** Beginners should master *Mula Bandha* and *Jalandhara Bandha* first, as Uddiyana is significantly more intense. Standing Uddiyana is the easiest version to learn due to gravity assistance.
+## Sources
+- `raw/03_BANDHA/Uddiyana_Bandha_(Upward_Flying_Lock)/Anatomical_Location.md`
+- `raw/03_BANDHA/Uddiyana_Bandha_(Upward_Flying_Lock)/Engagement_Techniques.md`
+- `raw/03_BANDHA/Uddiyana_Bandha_(Upward_Flying_Lock)/Practice_Prerequisites.md`
+- `raw/03_BANDHA/Uddiyana_Bandha_(Upward_Flying_Lock)/Safety_Considerations.md`
+- Tias Little, *Yoga of the Subtle Body* [via NotebookLM Yoga and Human Anatomy]
+- Ray Long, *Key Muscles of Yoga* [via NotebookLM Yoga and Human Anatomy]
+- K. Pattabhi Jois, *Yoga Mala* [via NotebookLM Yoga and Human Anatomy]
 
 </div>

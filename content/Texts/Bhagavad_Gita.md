@@ -1,12 +1,14 @@
 ---
 title: "Bhagavad Gita"
-tags: [texts, philosophy, karma-yoga]
-aliases: [Bhagavad Gita, The Gita]
+type: concept
+tags: [texts, philosophy, karma-yoga, bhagavad-gita]
+sources: [raw/07_PHILOSOPHY/Classical_Context/Yoga in the Bhagavad Gita.md]
+updated: 2026-05-14
 sequence: 74
 ---
-<div class="page-wrapper is-asana">
+<div class="page-wrapper is-bridge">
 
- 
+
 
 # Bhagavad Gita
 
@@ -22,6 +24,11 @@ Facing a moral crisis about fighting his own kin, Arjuna refuses to fight. Krish
 ## Philosophical Significance
 
 The Gita provides a practical philosophy for living in the world while remaining spiritually unattached. It redefines yoga not just as ascetic withdrawal from society, but as skill in action and equanimity of mind amidst the chaos of life. Its teachings on duty, detachment, and devotion deeply inform the broader philosophical context within which physical practices like [[Asana]] are meant to be understood.
+
+## Sources
+- `raw/07_PHILOSOPHY/Classical_Context/Yoga in the Bhagavad Gita.md`
+- *The Bhagavad Gita* [via NotebookLM Yoga Philosophy and Origins]
+- Eknath Easwaran, *The Bhagavad Gita* [via NotebookLM Yoga Philosophy and Origins]
 
 
 </div>

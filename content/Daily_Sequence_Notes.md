@@ -1,12 +1,14 @@
 ---
 title: Daily Sequence Notes
+type: resource
+tags: [journaling, svadhyaya, practice, sequence]
+sources: [raw/09_PERSONAL_PRACTICE/Daily_Sequence_Notes.md]
+updated: 2026-05-14
 sequence: 61
 ---
 <div class="page-wrapper is-asana">
 
 
-
-# Daily Sequence Notes
 
 # Daily Sequence Notes
 
@@ -42,5 +44,10 @@ Identify the predominant energetic quality after *Savasana*:
 
 **Key Insight of the Day:** 
 *(e.g., Noticed frustration arising in backbends; felt deeply grounded and Sattvic after standing poses).*
+
+## Sources
+- `raw/09_PERSONAL_PRACTICE/Daily_Sequence_Notes.md`
+- `raw/07_PHILOSOPHY/Patanjali_Yoga_Sutras/Sutra_2_46_Definition_of_Asana.md` (Sthira Sukham)
+- K. Pattabhi Jois, *Yoga Mala* [via NotebookLM Yoga and Human Anatomy]
 
 </div>

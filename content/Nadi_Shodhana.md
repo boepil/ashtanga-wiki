@@ -1,5 +1,9 @@
 ---
 title: Nadi Shodhana
+type: practice
+tags: [pranayama, purification, breathing, energy]
+sources: [raw/02_PRANAYAMA/Traditional_Pranayama_Practices/Nadi_Shodhana_(Alternate_Nostril).md]
+updated: 2026-05-14
 sequence: 31
 ---
 <div class="page-wrapper is-asana">
@@ -44,5 +48,12 @@ This completes one full cycle. A typical practice consists of 5 to 10 cycles.
 - **No Retention for Beginners:** Alternate nostril breathing should initially be practiced without breath holding. 
 - **Contraindications:** Individuals with high blood pressure or cardiovascular issues should strictly avoid *Kumbhaka* (retention) ratios, practicing only the continuous flow of Anuloma Viloma.
 - **No Force:** If a nostril is naturally blocked due to a cold or deviated septum, the practice should not be forced.
+
+## Sources
+- `raw/02_PRANAYAMA/Traditional_Pranayama_Practices/Nadi_Shodhana_(Alternate_Nostril).md`
+- `raw/02_PRANAYAMA/Traditional_Pranayama_Practices/Analoma villoma.md`
+- Swami Swatmarama, *Hatha Yoga Pradipika* [via NotebookLM Yoga and Human Anatomy]
+- T. Krishnamacharya, *Yoga Makaranda* [via NotebookLM Yoga and Human Anatomy]
+- K. Pattabhi Jois, *Yoga Mala* [via NotebookLM Yoga and Human Anatomy]
 
 </div>

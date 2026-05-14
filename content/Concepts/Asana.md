@@ -1,10 +1,13 @@
 ---
 title: "Asana (Physical Posture)"
+type: concept
 tags: [philosophy, eight-limbs, physical-practice]
 aliases: [Asana, Sthira Sukham Asanam]
+sources: [raw/07_PHILOSOPHY/Eight_Limbs_of_Yoga_(Ashtanga)/Asana_(Physical_Practice).md]
+updated: 2026-05-14
 sequence: 5
 ---
-<div class="page-wrapper is-asana">
+<div class="page-wrapper is-bridge">
 
  
 
@@ -29,6 +32,13 @@ A perfect posture is achieved when the dualities (*dvandvas*) of effort and rela
 ## Integration in Practice
 
 In Ashtanga Yoga, Asana is practiced dynamically through *vinyasa* (breath-synchronized movement). The practitioner cultivates *sthira* and *sukha* in every pose, ensuring that physical alignment is married with steady breathing and a focused gaze, setting the stage for [[Pratyahara]] and deeper inner focus.
+
+## Sources
+- `raw/07_PHILOSOPHY/Eight_Limbs_of_Yoga_(Ashtanga)/Asana_(Physical_Practice).md`
+- Patanjali, *Yoga Sutras* [via NotebookLM Yoga Philosophy and Origins]
+- Edwin Bryant, *The Yoga Sutras of Patanjali* [via NotebookLM Yoga Philosophy and Origins]
+- K. Pattabhi Jois, *Yoga Mala* [via NotebookLM Yoga Philosophy and Origins]
+- `raw/07_PHILOSOPHY/Practical_Philosophy/sthira sukham asanam.md`
 
 
 </div>

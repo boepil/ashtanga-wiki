@@ -1,8 +1,12 @@
 ---
 title: Maha Bandha
+type: concept
+tags: [bandha, anatomy, energy, foundational, advanced]
+sources: [raw/03_BANDHA/Maha_Bandha_(Great_Lock)/*]
+updated: 2026-05-14
 sequence: 38
 ---
-<div class="page-wrapper is-asana">
+<div class="page-wrapper is-bridge">
 
 
 
@@ -44,5 +48,13 @@ Maha Bandha involves the coordinated contraction of the three internal diaphragm
 
 - **Empty Stomach:** Absolutely mandatory to allow for the intense vacuum and organ lift of Uddiyana Bandha.
 - **Medical Warning:** Contraindicated for those with high blood pressure, heart conditions, pregnancy, or hiatal hernias.
+
+## Sources
+- `raw/03_BANDHA/Maha_Bandha_(Great_Lock)/Advanced_Applications.md`
+- `raw/03_BANDHA/Maha_Bandha_(Great_Lock)/Combined_Practice.md`
+- Swami Swatmarama, *Hatha Yoga Pradipika* [via NotebookLM Yoga and Human Anatomy]
+- B.K.S. Iyengar, *Light on Yoga* [via NotebookLM Yoga and Human Anatomy]
+- K. Pattabhi Jois, *Yoga Mala* [via NotebookLM Yoga and Human Anatomy]
+
 
 </div>

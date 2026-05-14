@@ -1,14 +1,16 @@
 ---
 title: Student And Teacher Development
+type: concept
+tags: [teaching, development, progression, professional-growth]
+sources: [raw/08_TEACHING_METHODOLOGY/Student_Development/*, raw/08_TEACHING_METHODOLOGY/Professional_Development/*]
+updated: 2026-05-14
 sequence: 59
 ---
-<div class="page-wrapper is-asana">
+<div class="page-wrapper is-bridge">
 
 
 
 # Student And Teacher Development
-
-# Student and Teacher Development
 
 Growth in Ashtanga Yoga is a continuous, lifelong process for both the student and the teacher. Advancement is measured not just by physical capability, but by internal refinement, ethical grounding, and nervous system regulation.
 
@@ -46,5 +48,14 @@ Teaching in the Mysore room presents interpersonal and energetic challenges that
 - **Managing the Gunas:** Address *Rajasic* restlessness with slow breathing and grounding cues; address *Tamasic* lethargy with invigorating sequences.
 - **Student Resistance:** Gently remind students that yoga is a purificatory therapy (*Yoga Chikitsa*), not a competitive sport.
 - **Teacher's *Svādhyāya*:** Use challenges to observe personal ego (*Asmita*) and practice detachment (*Vairagya*). The most difficult student is often the teacher's greatest lesson.
+
+## Sources
+- `raw/08_TEACHING_METHODOLOGY/Student_Development/Practice_Progression.md`
+- `raw/08_TEACHING_METHODOLOGY/Student_Development/Injury_Management.md`
+- `raw/08_TEACHING_METHODOLOGY/Professional_Development/Continuing_Education.md`
+- `raw/08_TEACHING_METHODOLOGY/Professional_Development/Ethics_and_Boundaries.md`
+- `raw/08_TEACHING_METHODOLOGY/Professional_Development/Scope_of_Practice.md`
+- Mark Stephens, *Teaching Yoga* [via NotebookLM Yoga and Human Anatomy]
+- K. Pattabhi Jois, *Yoga Mala* [via NotebookLM Yoga and Human Anatomy]
 
 </div>

@@ -1,10 +1,13 @@
 ---
 title: "The Eight Limbs of Yoga (Ashtanga)"
+type: concept
 tags: [philosophy, ashtanga, core-concepts]
 aliases: [Ashtanga, Eight Limbs, Ashtanga Yoga]
+sources: [raw/07_PHILOSOPHY/Eight_Limbs_of_Yoga_(Ashtanga)/*]
+updated: 2026-05-14
 sequence: 2
 ---
-<div class="page-wrapper is-asana">
+<div class="page-wrapper is-bridge">
 
  
 
@@ -26,6 +29,14 @@ The Eight Limbs of Yoga, or **Ashtanga Yoga**, form the structural foundation of
 ## Integration in Practice
 
 In the Ashtanga Vinyasa system, the physical practice (Asana) serves as the entry point and foundation for engaging with the other limbs. Through the method of Tristhana (posture, breath, and gaze), the practitioner simultaneously cultivates physical steadiness, energetic regulation (Pranayama), and sensory withdrawal (Pratyahara), laying the groundwork for the higher meditative states.
+
+## Sources
+- `raw/07_PHILOSOPHY/Eight_Limbs_of_Yoga_(Ashtanga)/Eight_Limbs_Overview.md`
+- `raw/07_PHILOSOPHY/Practical_Philosophy/Living_the_Eight_Limbs.md`
+- Patanjali, *Yoga Sutras* [via NotebookLM Yoga Philosophy and Origins]
+- Edwin Bryant, *The Yoga Sutras of Patanjali* [via NotebookLM Yoga Philosophy and Origins]
+- K. Pattabhi Jois, *Yoga Mala* [via NotebookLM Yoga Philosophy and Origins]
+- Sharath Jois, *Ashtanga Yoga Anusthana* [via NotebookLM Yoga Philosophy and Origins]
 
 
 </div>

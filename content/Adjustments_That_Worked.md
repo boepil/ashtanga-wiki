@@ -1,12 +1,14 @@
 ---
 title: Adjustments That Worked
+type: resource
+tags: [teaching, adjustment, journaling, practice]
+sources: [raw/08_TEACHING_METHODOLOGY/Observation_and_Adjustment/Adjustments.md]
+updated: 2026-05-14
 sequence: 62
 ---
 <div class="page-wrapper is-asana">
 
 
-
-# Adjustments That Worked
 
 # Adjustments That Worked
 
@@ -44,5 +46,10 @@ Involves a shift in proprioception—the internal sense of how the body moves in
 ### 3. The Energetic Breakthrough
 A transition from the gross physical body to the subtle energetic body (*sūkṣma-śarīra*).
 - **Indicators:** A sudden surge of heat (*tapas*), a feeling of "blissful fusion," or a moment of being "thoughtfully thoughtless." You clearly perceive the movement of *Prana* through the *Nadis*, piercing through physical resistance.
+
+## Sources
+- `raw/08_TEACHING_METHODOLOGY/Observation_and_Adjustment/Adjustments.md`
+- `raw/08_TEACHING_METHODOLOGY/Practice_Journaling/Journal_Templates/Daily_Practice_Log.md`
+- K. Pattabhi Jois, *Yoga Mala* [via NotebookLM Yoga and Human Anatomy]
 
 </div>

@@ -1,12 +1,14 @@
 ---
 title: Pranayama Overview
+type: concept
+tags: [pranayama, breathing, energy, foundational]
+sources: [raw/02_PRANAYAMA/*]
+updated: 2026-05-14
 sequence: 29
 ---
-<div class="page-wrapper is-asana">
+<div class="page-wrapper is-bridge">
 
 
-
-# Pranayama Overview
 
 # Pranayama Overview
 
@@ -48,5 +50,13 @@ Because pranayama profoundly affects the nervous and cardiovascular systems, cla
 - **Asana Proficiency:** A steady, comfortable seated posture is required before advanced breath control is attempted.
 - **Contraindications:** Breath retention (*Kumbhaka*) is generally contraindicated for pregnant women and individuals with high blood pressure, heart disease, glaucoma, or severe anxiety.
 - **No Force:** The breath should be tamed gradually, like "lions, elephants, and tigers." Forceful breathing can irritate the nervous system and damage respiratory tissues.
+
+## Sources
+- `raw/02_PRANAYAMA/02_PRANAYAMA.md`
+- `raw/02_PRANAYAMA/Traditional_Pranayama_Practices/Pranayama in Early Modern Yoga.md`
+- `raw/02_PRANAYAMA/Traditional_Pranayama_Practices/Understanding Prana and Pranayama Breath Control Techniques Explained by Paul Grilley.md`
+- Swami Swatmarama, *Hatha Yoga Pradipika* [via NotebookLM Yoga and Human Anatomy]
+- T. Krishnamacharya, *Yoga Makaranda* [via NotebookLM Yoga and Human Anatomy]
+- K. Pattabhi Jois, *Yoga Mala* [via NotebookLM Yoga and Human Anatomy]
 
 </div>

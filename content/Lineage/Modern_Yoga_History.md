@@ -1,15 +1,16 @@
 ---
 title: Modern Yoga History
+type: concept
+tags: [history, lineage, krishnamacharya, hatha-yoga]
+sources: [raw/07_PHILOSOPHY/Practical_Philosophy/Yoga in Early Modern Yoga.md]
+updated: 2026-05-14
 sequence: 75
 ---
-<div class="page-wrapper is-asana">
+<div class="page-wrapper is-bridge">
 
- 
+
 
 # Modern Yoga History
-
-> [!NOTE]
-> *Source Note: This historical overview was synthesized using Google NotebookLM (Gemini 2.5), drawing from curated texts on yoga philosophy and origins.*
 
 The modern yoga movement is the result of a complex dialogical exchange between Indian spiritual traditions and Western physical culture that began in the late 19th century. While today’s global practice is often presented as an ancient, unbroken lineage, it is more accurately described as a 20th-century synthesis that medicalized, secularized, and physicalized a once meditatively-focused discipline.
 
@@ -41,6 +42,12 @@ Each of Krishnamacharya's disciples evolved his Mysore teachings into distinct g
 
 ## Contemporary Global Legacy
 By the late 20th century, these lineages merged with New Age spirituality and psychology. Figures like Bishnu Ghosh (Yogananda’s brother) influenced the creation of Bikram Yoga, while Yogi Bhajan synthesized hatha and Sikh traditions to create Kundalini Yoga. Today, approximately 90% of global yoga stems from the mainstream legacy of Krishnamacharya, evolving into a multi-billion dollar industry that continues to balance its roots in Indian spirituality with modern athletic and therapeutic demands.
+
+## Sources
+- `raw/02_PRANAYAMA/Traditional_Pranayama_Practices/Pranayama in Early Modern Yoga.md`
+- `raw/08_TEACHING_METHODOLOGY/Huge variety of Krishnamacharya`s teachings - Interview with Srivatsa Ramaswami  Wild Yogi - Independent online magazine.md`
+- Mark Singleton, *Yoga Body: The Origins of Modern Postural Practice* [via NotebookLM Yoga Philosophy and Origins]
+- Norman Sjoman, *The Yoga Tradition of the Mysore Palace* [via NotebookLM Yoga Philosophy and Origins]
 
 
 </div>

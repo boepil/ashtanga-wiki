@@ -1,5 +1,9 @@
 ---
 title: Trataka
+type: practice
+tags: [shatkarma, kriya, concentration, eye-cleansing]
+sources: [raw/05_SHATKARMAS/Accessible_Practices/Simple_Eye_Cleansing.md]
+updated: 2026-05-14
 sequence: 46
 ---
 <div class="page-wrapper is-asana">
@@ -35,5 +39,12 @@ Performed with the eyes closed, the internal gaze is focused either on the tip o
 
 - **Eye Conditions:** Individuals with glaucoma, a displaced retina, or active eye infections (pus) should avoid forceful gazing.
 - **Initial Discomfort:** Beginners may feel a slight burning sensation or experience heavy tearing; this is a normal part of the cleansing process and subsides as the ocular muscles strengthen.
+
+## Sources
+- `raw/05_SHATKARMAS/Accessible_Practices/Simple_Eye_Cleansing.md`
+- Swami Swatmarama, *Hatha Yoga Pradipika* [via NotebookLM Yoga and Human Anatomy]
+- T. Krishnamacharya, *Yoga Makaranda* [via NotebookLM Yoga and Human Anatomy]
+- T. Krishnamacharya, *Yogasanagalu* [via NotebookLM Yoga and Human Anatomy]
+- K. Pattabhi Jois, *Yoga Mala* [via NotebookLM Yoga and Human Anatomy]
 
 </div>

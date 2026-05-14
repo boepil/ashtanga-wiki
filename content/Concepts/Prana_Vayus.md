@@ -1,10 +1,13 @@
 ---
 title: "The Five Prana Vayus"
+type: concept
 tags: [philosophy, subtle-body, energy]
 aliases: [Prana Vayus, Vayus, Prana, Apana, Samana, Udana, Vyana]
+sources: [raw/07_PHILOSOPHY/Practical_Philosophy/חמשת זרמי האנרגיה – Pancha Prana Vayus.md]
+updated: 2026-05-14
 sequence: 23
 ---
-<div class="page-wrapper is-asana">
+<div class="page-wrapper is-bridge">
 
  
 
@@ -23,6 +26,12 @@ In the subtle anatomy of yoga, *Prana* (the universal life force) is divided int
 ## Integration in Practice
 
 Understanding the Vayus is crucial for deep [[Pranayama]] and the engagement of energetic locks (Bandhas). For instance, Mula Bandha lifts the *Apana Vayu* upward, while Jalandhara Bandha directs the *Prana Vayu* downward, forcing them to meet in the navel (*Samana*) and eventually enter the central channel ([[Sushumna]]) to awaken higher consciousness.
+
+## Sources
+- `raw/07_PHILOSOPHY/Practical_Philosophy/חמשת זרמי האנרגיה – Pancha Prana Vayus.md`
+- `raw/07_PHILOSOPHY/Practical_Philosophy/my own Yoga_Analysis.md`
+- K. Pattabhi Jois, *Yoga Mala* [via NotebookLM Yoga and Human Anatomy]
+- Swami Swatmarama, *Hatha Yoga Pradipika* [via NotebookLM Yoga and Human Anatomy]
 
 
 </div>

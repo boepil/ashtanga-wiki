@@ -1,12 +1,14 @@
 ---
 title: "Hatha Yoga Pradipika"
-tags: [texts, hatha-yoga, subtle-body]
-aliases: [Hatha Yoga Pradipika, HYP, Svatmarama]
+type: concept
+tags: [texts, hatha-yoga, subtle-body, hyp]
+sources: [raw/07_PHILOSOPHY/Classical_Context/The Hatha Yoga Pradipika.md]
+updated: 2026-05-14
 sequence: 73
 ---
-<div class="page-wrapper is-asana">
+<div class="page-wrapper is-bridge">
 
- 
+
 
 # Hatha Yoga Pradipika
 
@@ -27,6 +29,11 @@ The text outlines four main chapters (upadeshas):
 ## Significance in Modern Yoga
 
 The HYP is a critical link between ancient contemplative traditions and modern postural yoga. It demonstrates that the physical practices were traditionally deeply intertwined with energetic regulation and spiritual liberation, providing the historical basis for the use of breath and locks in the Ashtanga method.
+
+## Sources
+- `raw/07_PHILOSOPHY/Classical_Context/The Hatha Yoga Pradipika.md`
+- Swami Swatmarama, *Hatha Yoga Pradipika* [via NotebookLM Yoga and Human Anatomy]
+- James Mallinson & Mark Singleton, *Roots of Yoga* [via NotebookLM Yoga Philosophy and Origins]
 
 
 </div>

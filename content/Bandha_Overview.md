@@ -1,8 +1,12 @@
 ---
 title: Bandha Overview
+type: concept
+tags: [bandha, anatomy, energy, foundational]
+sources: [raw/03_BANDHA/*]
+updated: 2026-05-14
 sequence: 34
 ---
-<div class="page-wrapper is-asana">
+<div class="page-wrapper is-bridge">
 
 
 
@@ -36,5 +40,13 @@ When all three primary bandhas are engaged simultaneously, the practice is calle
 - **Structural Integrity:** By increasing Intra-Abdominal Pressure (IAP), bandhas act as a protective "airbag" for the lumbar spine, especially during heavy load-bearing or extreme extension (backbends).
 - **Levity:** Proper engagement, particularly of Mula and Uddiyana Bandha, allows practitioners to "float" through vinyasas and hold arm balances with apparent weightlessness.
 - **Mental Focus:** The continuous effort required to maintain these subtle internal locks provides a powerful point of concentration (*Dharana*), anchoring the mind in the present moment.
+
+## Sources
+- `raw/03_BANDHA/03_BANDHA.md`
+- K. Pattabhi Jois, *Yoga Mala* [via NotebookLM Yoga and Human Anatomy]
+- T. Krishnamacharya, *Yoga Makaranda* [via NotebookLM Yoga and Human Anatomy]
+- Ray Long, *Key Muscles of Yoga* [via NotebookLM Yoga and Human Anatomy]
+- Swami Swatmarama, *Hatha Yoga Pradipika* [via NotebookLM Yoga and Human Anatomy]
+
 
 </div>

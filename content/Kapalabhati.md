@@ -1,5 +1,9 @@
 ---
 title: Kapalabhati
+type: practice
+tags: [shatkarma, pranayama, breathing, kriya]
+sources: [raw/05_SHATKARMAS/Accessible_Practices/Kapalabhati_(Skull_Shining_Breath).md]
+updated: 2026-05-14
 sequence: 45
 ---
 <div class="page-wrapper is-asana">
@@ -39,5 +43,12 @@ Kapālabhāti reverses the usual mechanics of breathing by using a rhythmic "bel
   - **Cranial Pressure:** Avoid if suffering from glaucoma, detached retinas, or inner ear infections.
 
 See [[Shatkarma_Safety_and_Timing]] for more details on proper practice protocols.
+
+## Sources
+- `raw/05_SHATKARMAS/Accessible_Practices/Kapalabhati_(Skull_Shining_Breath).md`
+- `raw/05_SHATKARMAS/Cleansing_Practices_Overview/Six_Cleansing_Actions.md`
+- Swami Swatmarama, *Hatha Yoga Pradipika* [via NotebookLM Yoga and Human Anatomy]
+- K. Pattabhi Jois, *Yoga Mala* [via NotebookLM Yoga and Human Anatomy]
+
 
 </div>

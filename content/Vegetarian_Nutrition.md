@@ -1,14 +1,16 @@
 ---
 title: Vegetarian Nutrition
+type: concept
+tags: [ayurveda, diet, nutrition, vegetarian, protein]
+sources: [raw/10_AYURVEDA_AND_DIET/מזון עתיר חלבונים לצמחוני המתאים לאימוני כוח וגמישות.md, raw/10_AYURVEDA_AND_DIET/Nutrition_Principles.md]
+updated: 2026-05-14
 sequence: 70
 ---
-<div class="page-wrapper is-asana">
+<div class="page-wrapper is-bridge">
 
 
 
 # Vegetarian Nutrition
-
-# Vegetarian Nutrition for Yoga
 
 While classical texts focus on the *Gunas* (Sattvic, Rajasic, Tamasic), modern yoga practitioners often need to balance traditional dietary laws with the physiological demands of intense strength and flexibility training. A vegetarian diet can fully support muscle building, recovery, and cognitive health when properly planned.
 
@@ -45,5 +47,11 @@ Because a vegetarian diet naturally lacks certain compounds found in meat, speci
 - **Sweat:** Vigorous Vinyasa expels toxins through the skin.
 
 **Modern Warning:** Extreme "quick detox" diets (like extreme juice fasts) can be harmful and depleting. True detoxification is an ongoing lifestyle combining hydration, sleep, clean vegetarian nutrition, and consistent physical/breath practice, rather than a crash diet.
+
+## Sources
+- `raw/10_AYURVEDA_AND_DIET/מזון עתיר חלבונים לצמחוני המתאים לאימוני כוח וגמישות.md`
+- `raw/10_AYURVEDA_AND_DIET/Nutrition_Principles.md`
+- `raw/10_AYURVEDA_AND_DIET/ניקוי רעלים.md`
+- K. Pattabhi Jois, *Yoga Mala* [via NotebookLM Yoga and Human Anatomy]
 
 </div>

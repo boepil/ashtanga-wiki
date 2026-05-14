@@ -1,10 +1,13 @@
 ---
 title: "Yamas (Ethical Restraints)"
+type: concept
 tags: [philosophy, ethics, eight-limbs]
 aliases: [Yama, Ethical Restraints, Ahimsa, Satya, Asteya, Brahmacharya, Aparigraha]
+sources: [raw/07_PHILOSOPHY/Eight_Limbs_of_Yoga_(Ashtanga)/Yamas_(Ethical_Restraints).md]
+updated: 2026-05-14
 sequence: 3
 ---
-<div class="page-wrapper is-asana">
+<div class="page-wrapper is-bridge">
 
  
 
@@ -23,6 +26,12 @@ The **Yamas** form the first limb of the [[Eight_Limbs]] of yoga. They are unive
 ## Integration in Practice
 
 The Yamas serve as the ethical foundation necessary for stilling the mind (*citta vritti nirodha*). Without them, advanced practices like [[Pranayama]] or meditation can amplify egoic tendencies rather than dissolve them. In daily life, practicing the Yamas means relating to the world from a place of integrity, non-harming, and non-attachment.
+
+## Sources
+- `raw/07_PHILOSOPHY/Eight_Limbs_of_Yoga_(Ashtanga)/Yamas_(Ethical_Restraints).md`
+- Patanjali, *Yoga Sutras* [via NotebookLM Yoga Philosophy and Origins]
+- Edwin Bryant, *The Yoga Sutras of Patanjali* [via NotebookLM Yoga Philosophy and Origins]
+- K. Pattabhi Jois, *Yoga Mala* [via NotebookLM Yoga Philosophy and Origins]
 
 
 </div>

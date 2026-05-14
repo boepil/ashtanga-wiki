@@ -1,5 +1,9 @@
 ---
 title: Hand Mudras
+type: practice
+tags: [mudra, hand, meditation, pranayama]
+sources: [raw/04_MUDRA/Hand_Mudras/*]
+updated: 2026-05-14
 sequence: 41
 ---
 <div class="page-wrapper is-asana">
@@ -7,8 +11,6 @@ sequence: 41
 
 
 # Hand Mudras
-
-# Hand Mudras (Hasta Mudras)
 
 *Hasta Mudras* are symbolic hand gestures used primarily during meditation and *pranayama*. They act as closed circuits, looping the subtle energy (*prana*) that would normally flow out of the fingertips back into the body.
 
@@ -47,10 +49,16 @@ Also known as *Jnana Mudra*, this gesture is physically similar to Chin Mudra bu
 - **Application:** The thumb is used to close the right nostril, while the ring and pinky fingers are used to close the left nostril.
 - **Elemental Symbolism:**
   - **Thumb (Fire Element):** Corresponds perfectly with the right nostril, which represents the Solar, heating channel (*Pingala Nadi*).
-  - **Ring & Pinky (Earth & Water Elements):** Correspond perfectly with the left nostril, which represents the Lunar, cooling channel (*Ida Nadi*).
+  - **Ring & Pinky (Earth & Water Elements):** Corresponds perfectly with the left nostril, which represents the Lunar, cooling channel (*Ida Nadi*).
   - **Why Only the Right Hand?** Because the elemental mapping of the fingers aligns with the heating/cooling nadis only when the right hand is used.
 
 ## 5. Mrigi Mudra (Deer Seal)
 Often used interchangeably with Vishnu Mudra in some lineages for Pranayama. It involves folding the index and middle fingers in, extending the thumb, ring, and pinky to manipulate the nostrils and regulate the *Prana* moving through the *Ida* and *Pingala* channels.
+
+## Sources
+- `raw/04_MUDRA/Hand_Mudras/Chin_and_Jnana_Mudra.md`
+- `raw/04_MUDRA/Hand_Mudras/Vishnu_Mudra_for_Pranayama.md`
+- Swami Swatmarama, *Hatha Yoga Pradipika* [via NotebookLM Yoga and Human Anatomy]
+- T. Krishnamacharya, *Yoga Makaranda* [via NotebookLM Yoga and Human Anatomy]
 
 </div>

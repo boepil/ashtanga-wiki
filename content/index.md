@@ -1,12 +1,14 @@
 ---
-title: index
+title: Ashtanga Wiki Index
+type: index
+tags: [index, navigation, overview]
+sources: [wiki/*]
+updated: 2026-05-14
 sequence: 1
 ---
 <div class="page-wrapper is-asana">
 
 
-
-# index
 
 # Ashtanga Yoga Knowledge Wiki
 
@@ -152,7 +154,9 @@ Note: [[The_Bohr_Effect_and_Kumbhaka|Bohr_Effect_and_Kumbhaka]] — breath physi
 - [[Breath_Holding_Modifications]] — Maintaining thin, smooth Ujjayi
 
 ## Reference
-- [[index|Asana Dictionary (Full A-Z List)]]
 - [[Hebrew_Translation_Cues]]
+
+## Sources
+- `wiki/*` (Self-referential index of the digital garden)
 
 </div>

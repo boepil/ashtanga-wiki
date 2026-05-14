@@ -1,8 +1,12 @@
 ---
 title: Shatkarma Overview
+type: concept
+tags: [shatkarma, kriya, purification, foundational]
+sources: [raw/05_SHATKARMAS/*]
+updated: 2026-05-14
 sequence: 43
 ---
-<div class="page-wrapper is-asana">
+<div class="page-wrapper is-bridge">
 
 
 
@@ -32,5 +36,13 @@ The central aim of these actions is to remove gross physical and energetic impur
 It is important to distinguish the somatic Kriya Yoga of the Hatha tradition from the psychological Kriya Yoga of Patanjali.
 - **Somatic Kriya (Hatha):** Refers to the physical actions (the Shatkarmas) used to literally "bake" and cleanse the physical body.
 - **Patanjali's Kriya:** Focuses on *Tapas* (discipline), *Svadhyaya* (self-study), and *Ishvara Pranidhana* (surrender to the divine).
+
+## Sources
+- `raw/05_SHATKARMAS/05_SHATKARMAS.md`
+- `raw/05_SHATKARMAS/Cleansing_Practices_Overview/Purpose_and_Benefits.md`
+- `raw/05_SHATKARMAS/Cleansing_Practices_Overview/Six_Cleansing_Actions.md`
+- Swami Swatmarama, *Hatha Yoga Pradipika* [via NotebookLM Yoga and Human Anatomy]
+- T. Krishnamacharya, *Yoga Makaranda* [via NotebookLM Yoga and Human Anatomy]
+
 
 </div>

@@ -1,5 +1,9 @@
 ---
 title: Ujjayi Pranayama
+type: practice
+tags: [pranayama, ashtanga, breathing, foundational]
+sources: [raw/02_PRANAYAMA/Ujjayi_Breath/*]
+updated: 2026-05-14
 sequence: 30
 ---
 <div class="page-wrapper is-asana">
@@ -38,5 +42,13 @@ Unlike many pranayamas practiced only in a seated posture, Ujjayi is maintained 
 - **Throat Tension:** If the throat (*Vishuddhi* chakra) tightens excessively, the brain can feel heavy. Lifting the sternum helps relax the throat musculature.
 - **Athletic Force:** Beginners often force the breath to make it loud. The goal is a steady, effortless resonance, not volume.
 - **Saliva Management:** Accumulation of saliva is common. Practitioners should swallow only after a complete exhalation, never during the active phase of the breath.
+
+## Sources
+- `raw/02_PRANAYAMA/Ujjayi_Breath/Technique_and_Method.md`
+- `raw/02_PRANAYAMA/Ujjayi_Breath/Anatomical_Mechanics.md`
+- `raw/02_PRANAYAMA/Ujjayi_Breath/Integration_with_Asana.md`
+- `raw/02_PRANAYAMA/Ujjayi_Breath/Common_Challenges.md`
+- K. Pattabhi Jois, *Yoga Mala* [via NotebookLM Yoga and Human Anatomy]
+- Swami Swatmarama, *Hatha Yoga Pradipika* [via NotebookLM Yoga and Human Anatomy]
 
 </div>

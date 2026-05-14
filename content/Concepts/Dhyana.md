@@ -1,10 +1,13 @@
 ---
 title: "Dhyana (Meditation)"
+type: concept
 tags: [philosophy, eight-limbs, meditation]
 aliases: [Dhyana, Meditation]
+sources: [raw/07_PHILOSOPHY/Eight_Limbs_of_Yoga_(Ashtanga)/Dhyana_(Meditation).md]
+updated: 2026-05-14
 sequence: 17
 ---
-<div class="page-wrapper is-asana">
+<div class="page-wrapper is-bridge">
 
  
 
@@ -24,6 +27,12 @@ Patañjali describes Dhyana in the [[Yoga_Sutras]] (3.2) as the "continuity of c
 ## Integration in Practice
 
 Dhyana forms the crucial middle step of *Samyama* (the combined practice of concentration, meditation, and absorption). It occurs when the mind begins to take the shape of the object it contemplates, setting the stage for the final dissolution of the ego in [[Samadhi]].
+
+## Sources
+- `raw/07_PHILOSOPHY/Eight_Limbs_of_Yoga_(Ashtanga)/Dhyana_(Meditation).md`
+- Patanjali, *Yoga Sutras* [via NotebookLM Yoga Philosophy and Origins]
+- Edwin Bryant, *The Yoga Sutras of Patanjali* [via NotebookLM Yoga Philosophy and Origins]
+- `raw/07_PHILOSOPHY/Practical_Philosophy/איך עושים מדיטציה לפי מסורת היוגה.md`
 
 
 </div>

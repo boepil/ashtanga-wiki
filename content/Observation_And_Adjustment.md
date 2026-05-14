@@ -1,14 +1,16 @@
 ---
 title: Observation And Adjustment
+type: concept
+tags: [teaching, adjustment, observation, pedagogy]
+sources: [raw/08_TEACHING_METHODOLOGY/Observation_and_Adjustment/*]
+updated: 2026-05-14
 sequence: 57
 ---
-<div class="page-wrapper is-asana">
+<div class="page-wrapper is-bridge">
 
 
 
 # Observation And Adjustment
-
-# Observation and Adjustment
 
 Observation and adjustment are the primary pedagogical tools in the Ashtanga yoga room. The goal is to inform the student's body and internal awareness, not to force a specific aesthetic shape.
 
@@ -58,5 +60,13 @@ Effective cueing acts as a bridge between the teacher's understanding and the st
    - **Say Less, Teach More:** Over-cueing creates mental noise. Silence allows students to process.
    - **Inquiry over Correction:** Ask "What do you feel here?" or "What stops you?" to foster self-study (*svadhyaya*).
    - **Empowering Language:** Avoid "Nocebos" (fear-based language). Use positive, explorative language.
+
+## Sources
+- `raw/08_TEACHING_METHODOLOGY/Observation_and_Adjustment/Visual_Assessment_Skills.md`
+- `raw/08_TEACHING_METHODOLOGY/Observation_and_Adjustment/Safe_Physical_Adjustments.md`
+- `raw/08_TEACHING_METHODOLOGY/Observation_and_Adjustment/Verbal_Cueing_Techniques.md`
+- Mark Stephens, *Teaching Yoga* [via NotebookLM Yoga and Human Anatomy]
+- K. Pattabhi Jois, *Yoga Mala* [via NotebookLM Yoga and Human Anatomy]
+- T. Krishnamacharya, *Yoga Makaranda* [via NotebookLM Yoga and Human Anatomy]
 
 </div>

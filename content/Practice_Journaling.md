@@ -1,12 +1,14 @@
 ---
 title: Practice Journaling
+type: concept
+tags: [journaling, svadhyaya, self-study, pedagogy]
+sources: [raw/08_TEACHING_METHODOLOGY/Practice_Journaling/*, raw/09_PERSONAL_PRACTICE/Practice_Insights.md]
+updated: 2026-05-14
 sequence: 71
 ---
-<div class="page-wrapper is-asana">
+<div class="page-wrapper is-bridge">
 
 
-
-# Practice Journaling
 
 # Practice Journaling
 
@@ -60,5 +62,12 @@ Teachers use journaling to refine their pedagogy and maintain ethical vigilance.
 - **Observation:** Did I accurately identify the students' needs (tension vs. compression)?
 - **Adjustments:** Were my physical assists safe, grounding, and consensual?
 - **Ego Check:** Am I teaching to serve the student (*Karma Yoga*), or am I attached to their progress to validate my own authority?
+
+## Sources
+- `raw/08_TEACHING_METHODOLOGY/Practice_Journaling/Journal_Templates/Teaching_Experience_Record.md`
+- `raw/09_PERSONAL_PRACTICE/Practice_Insights.md`
+- `raw/07_PHILOSOPHY/Eight_Limbs_of_Yoga_(Ashtanga)/Niyamas_(Observances).md` (Svādhyāya)
+- Patanjali, *Yoga Sutras* [via NotebookLM Yoga Philosophy and Origins]
+- Mark Stephens, *Teaching Yoga* [via NotebookLM Yoga and Human Anatomy]
 
 </div>

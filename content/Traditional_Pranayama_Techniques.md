@@ -1,12 +1,14 @@
 ---
 title: Traditional Pranayama Techniques
+type: practice
+tags: [pranayama, hatha-yoga, breathing, advanced]
+sources: [raw/02_PRANAYAMA/Traditional_Pranayama_Practices/*]
+updated: 2026-05-14
 sequence: 32
 ---
 <div class="page-wrapper is-asana">
 
 
-
-# Traditional Pranayama Techniques
 
 # Traditional Pranayama Techniques
 
@@ -21,7 +23,7 @@ Beyond Ujjayi and Nadi Shodhana, classical Hatha Yoga texts outline several spec
 - **Contraindications:** High blood pressure, heart conditions, glaucoma, or weak lung capacity.
 
 ### 2. Kapalabhati (Skull-Shining Breath)
-Though often taught as a pranayama, classical texts classify *Kapalabhati* as a *Shatkarma* (purification technique).
+Though often taught as a pranayama, classical texts classify *Kapalabhati* as a *Shatkarma* (purification technique). See [[Kapalabhati]] for more details.
 - **Method:** Passive inhalations followed by sharp, forceful exhalations driven by contracting the abdominal muscles.
 - **Purpose:** Dries up excess phlegm (*kapha*), removes impurities from the sinuses, oxygenates the blood, and "illuminates" the mind.
 - **Contraindications:** Pregnancy, high blood pressure, and intraocular pressure.
@@ -61,5 +63,13 @@ An alternative for those unable to roll their tongue for Sheetali.
 ### 9. Plavini (Floating Breath)
 - **Method:** Swallowing air to fill the stomach (not just the lungs) and retaining it.
 - **Purpose:** Traditionally said to make the body buoyant enough to float on water. *Rarely taught in modern yoga.*
+
+## Sources
+- `raw/02_PRANAYAMA/Traditional_Pranayama_Practices/Bhastrika.md`
+- `raw/02_PRANAYAMA/Traditional_Pranayama_Practices/Surya_Bhedana.md`
+- `raw/02_PRANAYAMA/Traditional_Pranayama_Practices/Pranayama in Early Modern Yoga.md`
+- Swami Swatmarama, *Hatha Yoga Pradipika* [via NotebookLM Yoga and Human Anatomy]
+- T. Krishnamacharya, *Yoga Makaranda* [via NotebookLM Yoga and Human Anatomy]
+- K. Pattabhi Jois, *Yoga Mala* [via NotebookLM Yoga and Human Anatomy]
 
 </div>

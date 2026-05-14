@@ -1,10 +1,13 @@
 ---
 title: "Samadhi (Union and Absorption)"
+type: concept
 tags: [philosophy, eight-limbs, meditation]
 aliases: [Samadhi, Absorption, Union]
+sources: [raw/07_PHILOSOPHY/Eight_Limbs_of_Yoga_(Ashtanga)/Samadhi_(Complete_Absorption).md]
+updated: 2026-05-14
 sequence: 18
 ---
-<div class="page-wrapper is-asana">
+<div class="page-wrapper is-bridge">
 
  
 
@@ -25,6 +28,12 @@ Patañjali’s [[Yoga_Sutras]] outline different levels of Samadhi:
 ## Integration in Practice
 
 Samadhi is the final fruit of the yogic path. While the initial limbs like [[Yamas]], [[Niyamas]], and [[Asana]] require willful action and effort, Samadhi is a state of grace and surrender that arises when the mind is perfectly purified and still, revealing the true nature of the self.
+
+## Sources
+- `raw/07_PHILOSOPHY/Eight_Limbs_of_Yoga_(Ashtanga)/Samadhi_(Complete_Absorption).md`
+- Patanjali, *Yoga Sutras* [via NotebookLM Yoga Philosophy and Origins]
+- Edwin Bryant, *The Yoga Sutras of Patanjali* [via NotebookLM Yoga Philosophy and Origins]
+- `raw/07_PHILOSOPHY/Classical_Texts/Swami Sarvapriyananda on Vivekachudamani   Synopsis of Vedanta.md`
 
 
 </div>

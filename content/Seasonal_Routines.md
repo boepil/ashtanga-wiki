@@ -1,8 +1,12 @@
 ---
 title: Seasonal Routines
+type: concept
+tags: [ayurveda, ritucharya, seasons, lifestyle]
+sources: [raw/10_AYURVEDA_AND_DIET/Seasonal_Routines_(Ritucharya).md]
+updated: 2026-05-14
 sequence: 69
 ---
-<div class="page-wrapper is-asana">
+<div class="page-wrapper is-bridge">
 
 
 
@@ -42,5 +46,10 @@ The season of wind and rapid change, often leading to mental restlessness, physi
 - **Moderation:** Strictly follow *Mitahara* (moderate diet).
 - **Gradual Shift:** Change practice intensity gradually (*shanaih shanaih*). Do not abruptly switch from a vigorous winter practice to a slow summer practice.
 - **Purity:** Maintain *Saucha* (cleanliness) and devotion to keep the mind steady through the environmental transition.
+
+## Sources
+- `raw/10_AYURVEDA_AND_DIET/Seasonal_Routines_(Ritucharya).md`
+- K. Pattabhi Jois, *Yoga Mala* [via NotebookLM Yoga and Human Anatomy]
+- Vasant Lad, *Ayurveda: The Science of Self-Healing* [via NotebookLM Yoga and Human Anatomy]
 
 </div>

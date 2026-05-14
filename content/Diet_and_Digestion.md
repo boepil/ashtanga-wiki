@@ -1,8 +1,12 @@
 ---
 title: Diet and Digestion
+type: concept
+tags: [ayurveda, diet, agni, mitahara]
+sources: [raw/10_AYURVEDA_AND_DIET/*]
+updated: 2026-05-14
 sequence: 66
 ---
-<div class="page-wrapper is-asana">
+<div class="page-wrapper is-bridge">
 
 
 
@@ -42,5 +46,12 @@ According to K. Pattabhi Jois in *Yoga Mala*:
 - **Savasana:** Always conclude with 10–15 minutes of rest to remove fatigue and allow the nervous system to integrate the practice.
 
 See [[The_Three_Gunas]] for specific food recommendations.
+
+## Sources
+- `raw/10_AYURVEDA_AND_DIET/Digestive_Health_and_Practice_Timing.md`
+- `raw/10_AYURVEDA_AND_DIET/Nutrition_Principles.md`
+- `raw/10_AYURVEDA_AND_DIET/Sattvic_Food_Guide.md`
+- K. Pattabhi Jois, *Yoga Mala* [via NotebookLM Yoga and Human Anatomy]
+- Swami Swatmarama, *Hatha Yoga Pradipika* [via NotebookLM Yoga and Human Anatomy]
 
 </div>

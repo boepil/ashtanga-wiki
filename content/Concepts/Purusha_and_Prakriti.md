@@ -1,10 +1,13 @@
 ---
 title: "Purusha and Prakriti"
+type: concept
 tags: [philosophy, samkhya, core-concepts]
 aliases: [Purusha, Prakriti, Dualism]
+sources: [raw/07_PHILOSOPHY/*]
+updated: 2026-05-14
 sequence: 19
 ---
-<div class="page-wrapper is-asana">
+<div class="page-wrapper is-bridge">
 
  
 
@@ -23,7 +26,13 @@ In yogic philosophy, suffering arises from the entanglement of Purusha and Prakr
 
 ## Integration in Practice
 
-The entire eight-limbed path ([[Eight_Limbs]]) is a systematic methodology to disentangle Purusha from Prakriti. By purifying the body and mind Through practices like *Asana*, *Pranayama*, and *[[Dhyana]]*, the yogi purifies *Prakriti*. The ultimate goal is *Kaivalya* (liberation), where *Purusha* realizes its absolute independence and no longer identifies with the changing, suffering world of *Prakriti*.ng mind or body.
+The entire eight-limbed path ([[Eight_Limbs]]) is a systematic methodology to disentangle Purusha from Prakriti. By purifying the body and mind through practices like *Asana*, *Pranayama*, and *[[Dhyana]]*, the yogi purifies *Prakriti*. The ultimate goal is *Kaivalya* (liberation), where *Purusha* realizes its absolute independence and no longer identifies with the changing, suffering world of *Prakriti*.
+
+## Sources
+- `raw/07_PHILOSOPHY/Eight_Limbs_of_Yoga_(Ashtanga)/Eight_Limbs_Overview.md`
+- Patanjali, *Yoga Sutras* [via NotebookLM Yoga Philosophy and Origins]
+- Edwin Bryant, *The Yoga Sutras of Patanjali* [via NotebookLM Yoga Philosophy and Origins]
+- `raw/07_PHILOSOPHY/Practical_Philosophy/my own Yoga_Analysis.md`
 
 
 </div>

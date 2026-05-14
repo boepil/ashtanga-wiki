@@ -1,12 +1,14 @@
 ---
+title: Hebrew Translation Cues
 type: dictionary
 tags: [hebrew, karaoke, translation, asana]
-updated: 2026-05-09
+sources: [raw/11_Resources/Asana_Dictionary_Hebrew.md]
+updated: 2026-05-14
 sequence: 107
 ---
 <div class="page-wrapper is-asana">
 
- 
+
 
 # Hebrew Translation Cues
 
@@ -84,6 +86,9 @@ This dictionary establishes the exact Hebrew transliterations for the Ashtanga V
 | Virabhadrasana A | ויראבהאדראסאנה A |
 | Virabhadrasana B | ויראבהאדראסאנה B |
 | Yoganidrasana | יוגאנידראסאנה |
+
+## Sources
+- `raw/11_Resources/Asana_Dictionary_Hebrew.md`
 
 
 </div>

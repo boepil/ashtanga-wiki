@@ -1,5 +1,9 @@
 ---
 title: Inspiration and Insights
+type: resource
+tags: [inspiration, philosophy, insights, svadhyaya]
+sources: [raw/09_PERSONAL_PRACTICE/Inspiration_Quotes_or_Experiences.md]
+updated: 2026-05-14
 sequence: 63
 ---
 <div class="page-wrapper is-asana">
@@ -31,5 +35,10 @@ The ultimate goal of yoga is to develop a relationship with the **Inner Teacher*
 
 ### 4. Reflection and Future Application
 <div class="citation-block">(Discuss how this alters your relationship with your practice. How will this insight transform your approach to the mat tomorrow? How does it apply to life off the mat?) </div>
+
+## Sources
+- `raw/09_PERSONAL_PRACTICE/Inspiration_Quotes_or_Experiences.md`
+- `raw/07_PHILOSOPHY/Patanjali_Yoga_Sutras/Sutra_1_7_Sources_of_Right_Knowledge.md` (Pratyaksha)
+- Patanjali, *Yoga Sutras* [via NotebookLM Yoga Philosophy and Origins]
 
 </div>

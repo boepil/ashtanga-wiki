@@ -1,12 +1,14 @@
 ---
 title: Practice Journaling Overview
+type: concept
+tags: [journaling, svadhyaya, practice, self-study]
+sources: [raw/08_TEACHING_METHODOLOGY/Practice_Journaling/*, raw/09_PERSONAL_PRACTICE/*]
+updated: 2026-05-14
 sequence: 60
 ---
-<div class="page-wrapper is-asana">
+<div class="page-wrapper is-bridge">
 
 
-
-# Practice Journaling Overview
 
 # Practice Journaling Overview
 
@@ -32,5 +34,11 @@ Use the following specific templates to structure your daily Svādhyāya:
 - [[Adjustments_That_Worked]]: For recording physical and neurological breakthroughs provided by a teacher.
 - [[Inspiration_and_Insights]]: For linking textual wisdom with direct experience on the mat.
 - [[Self_Inquiry_Journal]]: For deep philosophical investigation (*Atma-Vicara*) and identifying the *Vrittis* (mental fluctuations).
+
+## Sources
+- `raw/08_TEACHING_METHODOLOGY/Practice_Journaling/Journal_Templates/Daily_Practice_Log.md`
+- `raw/09_PERSONAL_PRACTICE/Practice_Insights.md`
+- `raw/07_PHILOSOPHY/Eight_Limbs_of_Yoga_(Ashtanga)/Niyamas_(Observances).md` (Svādhyāya)
+- Patanjali, *Yoga Sutras* [via NotebookLM Yoga Philosophy and Origins]
 
 </div>

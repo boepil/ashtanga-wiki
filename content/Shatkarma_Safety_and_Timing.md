@@ -1,5 +1,9 @@
 ---
 title: Shatkarma Safety and Timing
+type: resource
+tags: [shatkarma, safety, timing, teaching]
+sources: [raw/05_SHATKARMAS/Safety_and_Contraindications/*]
+updated: 2026-05-14
 sequence: 47
 ---
 <div class="page-wrapper is-asana">
@@ -32,5 +36,13 @@ The Shatkarmas are specialized, highly forceful purificatory techniques. Because
 - **Not Self-Taught:** Traditional texts emphatically state that Shatkarmas should only be learned under the direct supervision of an experienced Guru. Attempting to learn them from books or videos is dangerous.
 - **The Rule of Secrecy:** The *Hatha Yoga Pradipika* commands that these actions be kept secret like a "box of jewelry." This maintains their potency and ensures they are not diluted by unqualified practitioners.
 - **Referring Out:** Yoga teachers must recognize their scope. Students with severe medical conditions should be referred to medical professionals or high-level therapeutic specialists rather than attempting to "cure" them with forceful kriyas.
+
+## Sources
+- `raw/05_SHATKARMAS/Safety_and_Contraindications/Teacher_Scope_of_Practice.md`
+- `raw/05_SHATKARMAS/Safety_and_Contraindications/When_to_Avoid.md`
+- `raw/05_SHATKARMAS/Safety_and_Contraindications/When_to_Practice.md`
+- Swami Swatmarama, *Hatha Yoga Pradipika* [via NotebookLM Yoga and Human Anatomy]
+- K. Pattabhi Jois, *Yoga Mala* [via NotebookLM Yoga and Human Anatomy]
+
 
 </div>

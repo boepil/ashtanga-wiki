@@ -1,5 +1,9 @@
 ---
 title: Jala Neti
+type: practice
+tags: [shatkarma, kriya, purification, nasal-cleansing]
+sources: [raw/05_SHATKARMAS/Accessible_Practices/Jala_Neti_(Nasal_Irrigation).md]
+updated: 2026-05-14
 sequence: 44
 ---
 <div class="page-wrapper is-asana">
@@ -37,5 +41,12 @@ sequence: 44
 - **Not a Daily Requirement**: Nasal kriyas are primarily curative. They should not be practiced blindly every day if the practitioner is already healthy, as they can be habit-forming or irritate the mucous membranes.
 
 See [[Shatkarma_Safety_and_Timing]] for broader contraindications.
+
+## Sources
+- `raw/05_SHATKARMAS/Accessible_Practices/Jala_Neti_(Nasal_Irrigation).md`
+- Swami Swatmarama, *Hatha Yoga Pradipika* [via NotebookLM Yoga and Human Anatomy]
+- T. Krishnamacharya, *Yoga Makaranda* [via NotebookLM Yoga and Human Anatomy]
+- T. Krishnamacharya, *Yogasanagalu* [via NotebookLM Yoga and Human Anatomy]
+- K. Pattabhi Jois, *Yoga Mala* [via NotebookLM Yoga and Human Anatomy]
 
 </div>

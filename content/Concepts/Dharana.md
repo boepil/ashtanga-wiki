@@ -1,10 +1,13 @@
 ---
 title: "Dharana (Concentration)"
+type: concept
 tags: [philosophy, eight-limbs, meditation]
 aliases: [Dharana, Concentration]
+sources: [raw/07_PHILOSOPHY/Eight_Limbs_of_Yoga_(Ashtanga)/Dharana_(Concentration).md]
+updated: 2026-05-14
 sequence: 16
 ---
-<div class="page-wrapper is-asana">
+<div class="page-wrapper is-bridge">
 
  
 
@@ -26,6 +29,12 @@ The mind can be fixed on various objects, including:
 ## Integration in Practice
 
 Dharana requires active mental effort to continuously bring the attention back to the chosen point of focus whenever it wanders. In daily life and physical practice, this translates to maintaining unbroken attention on the present moment or the specific task at hand, which serves as the foundation for entering the continuous flow of [[Dhyana]] (meditation).
+
+## Sources
+- `raw/07_PHILOSOPHY/Eight_Limbs_of_Yoga_(Ashtanga)/Dharana_(Concentration).md`
+- Patanjali, *Yoga Sutras* [via NotebookLM Yoga Philosophy and Origins]
+- Edwin Bryant, *The Yoga Sutras of Patanjali* [via NotebookLM Yoga Philosophy and Origins]
+- B.K.S. Iyengar, *Light on Yoga* [via NotebookLM Yoga Philosophy and Origins]
 
 
 </div>

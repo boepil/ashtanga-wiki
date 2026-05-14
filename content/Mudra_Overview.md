@@ -1,12 +1,14 @@
 ---
 title: Mudra Overview
+type: concept
+tags: [mudra, tristana, energy, foundational]
+sources: [raw/04_MUDRA/04_MUDRA.md, raw/04_MUDRA/Tristana.md]
+updated: 2026-05-14
 sequence: 39
 ---
-<div class="page-wrapper is-asana">
+<div class="page-wrapper is-bridge">
 
 
-
-# Mudra Overview
 
 # Mudra Overview
 
@@ -40,5 +42,11 @@ The extensive catalog of mudras comes from classical Hatha Yoga texts rather tha
 - **Hatha Yoga Pradipika:** Lists 10 main mudras (such as Mahamudra, Khechari, and Vajroli) and states that mudras are the key to awakening Kundalini.
 - **Gheranda Samhita:** Names 25 distinct mudras.
 - **Shiva Samhita:** Describes the use of mudras for spiritual transformation and conquering death.
+
+## Sources
+- `raw/04_MUDRA/04_MUDRA.md`
+- `raw/04_MUDRA/Tristana.md`
+- Swami Swatmarama, *Hatha Yoga Pradipika* [via NotebookLM Yoga and Human Anatomy]
+- K. Pattabhi Jois, *Yoga Mala* [via NotebookLM Yoga and Human Anatomy]
 
 </div>

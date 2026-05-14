@@ -1,25 +1,39 @@
 ---
 title: Class Structure
+type: practice
+tags: [teaching, class-structure, mysore, led-class]
+sources: [raw/08_TEACHING_METHODOLOGY/Class_Structure/*]
+updated: 2026-05-14
 sequence: 58
 ---
 <div class="page-wrapper is-asana">
 
- 
+
 
 # Class Structure
 
-| 1 | एकम् (ekam) | אֵקַם |
-| :--- | :--- | :--- |
-| 1 | एकम् (ekam) | אֵקַם |
-| 2 | द्वे (dve) | דְוֵה |
-| 3 | त्रीणि (trīṇi) | טְרִינִי |
-| 4 | चत्वारि (catvāri) | צַטְוַארִי |
-| 5 | पञ्च (pañca) | פַּנְצָ'ה |
-| 6 | षट् (ṣaṭ) | שַׁט |
-| 7 | सप्त (sapta) | סַפְּטַה |
-| 8 | अष्ट (aṣṭa) | אַשְׁטַה |
-| 9 | नव (nava) | נַוַה |
-| 10 | दश (daśa) | דַשַׁה |
+Ashtanga Yoga is traditionally taught in two distinct formats: the **Mysore Style** (self-practice under supervision) and the **Led Class** (synchronized movement to the teacher's count).
+
+## Mysore Style (Self-Practice)
+In a Mysore-style class, students practice at their own pace, following the traditional sequence from memory. The teacher moves around the room, offering individual adjustments, guidance, and "giving" new postures when the student is ready. This is the primary method for long-term development.
+
+## Led Class (Sanskrit Count)
+In a led class, the teacher counts out the vinyasa in Sanskrit, and the whole class moves in unison. This format is designed to refine the rhythm of the practice, clarify the correct vinyasa count, and build collective energy.
+
+### The Sanskrit Count (1–10)
+
+| Number | Sanskrit | Transliteration | Hebrew Phonetic |
+| :--- | :--- | :--- | :--- |
+| 1 | एकम् | ekam | אֵקַם |
+| 2 | द्वे | dve | דְוֵה |
+| 3 | त्रीणि | trīṇi | טְרִינִי |
+| 4 | चत्वारि | catvāri | צַטְוַארִי |
+| 5 | पञ्च | pañca | פַּנְצָ'ה |
+| 6 | षट् | ṣaṭ | שַׁט |
+| 7 | सप्त | sapta | סַפְּטַה |
+| 8 | अष्ट | aṣṭa | אַשְׁטַה |
+| 9 | नव | nava | נַוַה |
+| 10 | दश | daśa | דַשַׁה |
 
 ## Beginner Class Modifications
 
@@ -32,7 +46,12 @@ Introducing Ashtanga Vinyasa Yoga to beginners requires balancing the traditiona
   - **Using Props:** Blocks for floor reaches, straps for binding.
   - **Bent Knees:** Encouraged in forward folds to protect hamstrings and lower back.
   - **Limited Range of Motion:** Stepping instead of jumping.
-- **Pedagogical Patience:** Progress is slow and steady. Modifications are necessary tools, not "cheating," making the transformative power of Ashtanga accessible to everyone.
+
+## Sources
+- `raw/08_TEACHING_METHODOLOGY/Class_Structure/Traditional_Ashtanga_Format.md`
+- `raw/08_TEACHING_METHODOLOGY/Class_Structure/Count in Sanskrit.md`
+- `raw/08_TEACHING_METHODOLOGY/Class_Structure/Beginner_Class_Modifications.md`
+- K. Pattabhi Jois, *Yoga Mala* [via NotebookLM Yoga and Human Anatomy]
 
 
 </div>

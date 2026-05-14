@@ -1,8 +1,12 @@
 ---
 title: Mula Bandha
+type: concept
+tags: [bandha, anatomy, energy, foundational]
+sources: [raw/03_BANDHA/Mula_Bandha_(Root_Lock)/*]
+updated: 2026-05-14
 sequence: 35
 ---
-<div class="page-wrapper is-asana">
+<div class="page-wrapper is-bridge">
 
 
 
@@ -39,5 +43,17 @@ Mula Bandha is a spiritual anchor and a catalyst for the movement of subtle ener
 - **Reversing the Flow:** It redirects *Apana Vayu* (the naturally downward-moving energy of elimination) and forces it to move upward to meet *Prana Vayu* at the navel.
 - **Internal Heat (*Agni*):** This union at the navel generates intense internal heat, essential for purification.
 - **Awakening Kundalini:** The fire produced by this union awakens the dormant Kundalini energy. As Kundalini ascends, she pierces the *Brahma Granthi* (the "root knot" blocking energy flow at the spine's base), allowing vital air to travel toward the crown.
+
+## Sources
+- `raw/03_BANDHA/Mula_Bandha_(Root_Lock)/Anatomical_Location.md`
+- `raw/03_BANDHA/Mula_Bandha_(Root_Lock)/Engagement_Techniques.md`
+- `raw/03_BANDHA/Mula_Bandha_(Root_Lock)/Integration_with_Asana.md`
+- `raw/03_BANDHA/Mula_Bandha_(Root_Lock)/Energetic_Understanding.md`
+- Ray Long, *Key Muscles of Yoga* [via NotebookLM Yoga and Human Anatomy]
+- Ann Swanson, *Science of Yoga* [via NotebookLM Yoga and Human Anatomy]
+- Swami Swatmarama, *Hatha Yoga Pradipika* [via NotebookLM Yoga and Human Anatomy]
+- K. Pattabhi Jois, *Yoga Mala* [via NotebookLM Yoga and Human Anatomy]
+- B.K.S. Iyengar, *Light on Yoga* [via NotebookLM Yoga and Human Anatomy]
+
 
 </div>

@@ -1,8 +1,12 @@
 ---
 title: The Three Gunas
+type: concept
+tags: [philosophy, samkhya, ayurveda, diet]
+sources: [raw/10_AYURVEDA_AND_DIET/*]
+updated: 2026-05-14
 sequence: 67
 ---
-<div class="page-wrapper is-asana">
+<div class="page-wrapper is-bridge">
 
 
 
@@ -51,5 +55,13 @@ Tamasic foods cause delusion, inertia, and ignorance. They veil the intellect an
 The preparation of food is as important as the ingredients. **Saucha** (cleanliness) applies to both the external environment (a clean kitchen, seasonal ingredients) and the internal state of the cook. 
 
 Food should be prepared with gratitude and eaten as an offering to the Divine, providing the strength required for spiritual practice and service.
+
+## Sources
+- `raw/10_AYURVEDA_AND_DIET/Nutrition_Principles.md`
+- `raw/10_AYURVEDA_AND_DIET/Sattvic_Food_Guide.md`
+- K. Pattabhi Jois, *Yoga Mala* [via NotebookLM Yoga and Human Anatomy]
+- T. Krishnamacharya, *Yoga Makaranda* [via NotebookLM Yoga and Human Anatomy]
+- *Bhagavad Gita*, Chapter 17 [via NotebookLM Yoga Philosophy and Origins]
+
 
 </div>
