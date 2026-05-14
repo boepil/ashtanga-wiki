@@ -55,6 +55,9 @@ The core of *Yoga Chikitsa* (Yoga Therapy), focusing on forward folds and hip op
 ### [Intermediate Series (Nadi Shodhana)]([[Visual_Asana_Dictionary_Intermediate]])
 The core of *Nadi Shodhana* (Nerve Cleansing), focusing on deep backbends and arm balances.
 
+### [Advanced Series (Sthira Bhaga)]([[Visual_Asana_Dictionary_Advanced]])
+The core of *Sthira Bhaga* (Strength and Grace), focusing on advanced arm balances and deep flexibility.
+
 ---
 
 ## 04. Finishing Sequence
