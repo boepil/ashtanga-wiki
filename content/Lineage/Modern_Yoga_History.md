@@ -4,7 +4,7 @@ type: concept
 tags: [history, lineage, krishnamacharya, hatha-yoga]
 sources: [raw/07_PHILOSOPHY/Practical_Philosophy/Yoga in Early Modern Yoga.md]
 updated: 2026-05-14
-sequence: 75
+sequence: 76
 ---
 <div class="page-wrapper is-bridge">
 
@@ -12,7 +12,7 @@ sequence: 75
 
 # Modern Yoga History
 
-The modern yoga movement is the result of a complex dialogical exchange between Indian spiritual traditions and Western physical culture that began in the late 19th century. While today’s global practice is often presented as an ancient, unbroken lineage, it is more accurately described as a 20th-century synthesis that medicalized, secularized, and physicalized a once meditatively-focused discipline.
+The modern yoga movement is the result of a complex dialogical exchange between Indian spiritual traditions and Western physical culture that began in the late 19th century. While today’s global practice is often presented as an ancient, unbroken lineage, it is more accurately described as a 20th-century synthesis that medicalized, secularized, and physicalized a once meditatively-focused discipline. For a broader view of the various traditions and their relationships, see the [[Genealogy_of_Modern_Yoga]].
 
 ## Early Modern Transition: The Sanitizers (1890s–1920s)
 In the late 1800s, hatha yoga was widely stigmatized as the domain of "fakirs"—mendicant street performers who used physical contortions for alms. Swami Vivekananda, the first major international guru, explicitly shunned asanas (postures) in his 1896 work *Raja Yoga*, focusing instead on meditation and Neo-Vedanta philosophy to make Hinduism palatable to Westerners.

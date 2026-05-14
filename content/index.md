@@ -109,6 +109,7 @@ Welcome to the Ashtanga Yoga Knowledge Wiki.
 - [[Bhagavad_Gita]]
 
 ## Lineage
+- [[Genealogy_of_Modern_Yoga]]
 - [[Modern_Yoga_History]]
 - [[T_Krishnamacharya]]
 - [[K_Pattabhi_Jois]]
