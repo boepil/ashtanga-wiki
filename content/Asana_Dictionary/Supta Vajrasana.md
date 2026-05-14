@@ -72,7 +72,7 @@ Seated in Lotus, reclining back, arching the spine with the crown of the head on
 *(Light on Yoga, B.K.S. Iyengar, p. 126) — Yoga Philosophy and Origins*
 
 ## Connections
-- [[Baddha Padmasana]]
+- [[Baddha Padmasana & Yoga Mudra|Baddha Padmasana]]
 - [[Kapotasana]] (Previous asana)
 - [[Bakasana]] (Next asana)
 

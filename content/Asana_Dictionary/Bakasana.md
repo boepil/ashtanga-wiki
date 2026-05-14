@@ -78,7 +78,7 @@ Arm balance, knees in armpits, arms straight.
 *(Light on Yoga, B.K.S. Iyengar, p. 309) — Yoga Philosophy and Origins*
 
 ## Connections
-- [[Kakasana]] (Crow Pose - bent arm variation)
+- [[Bakasana|Kakasana]] (Crow Pose - bent arm variation)
 - [[Supta Vajrasana]] (Previous asana)
 - [[Bharadvajasana]] (Next asana)
 

@@ -74,7 +74,7 @@ Legs in Padmasana, chest lifted, the crown of the head on the floor, hold the bi
 ## Connections
 - [[Salamba Sarvangasana]] (Counter-pose)
 - [[Uttana Padasana]]
-- [[Padmasana]]
+- [[Padmasana & Utpluthih|Padmasana]]
 
 ## Sources
 - (Light on Yoga, B.K.S. Iyengar, p. 116) — Yoga Philosophy and Origins

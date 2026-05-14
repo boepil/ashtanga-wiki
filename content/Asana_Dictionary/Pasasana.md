@@ -71,7 +71,7 @@ Squatting twist, heels on the ground, arms bound around the knees.
 ## Connections
 - [[Primary_Series]] (Transition point)
 - [[Krounchasana]] (Next asana)
-- [[Twists]]
+- [[Pasasana|Twists]]
 
 ## Sources
 - (Light on Yoga, B.K.S. Iyengar, p. 267-268) — Yoga Philosophy and Origins

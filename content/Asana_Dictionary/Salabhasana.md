@@ -78,8 +78,8 @@ Lying on stomach, legs and chest lifted.
 *(Light on Yoga, B.K.S. Iyengar, p. 175) — Yoga Philosophy and Origins*
 
 ## Connections
-- [[Bhujangasana]]
-- [[Dhanurasana]]
+- [[Salabhasana|Bhujangasana]]
+- [[Dhanurasana & Parsva Dhanurasana|Dhanurasana]]
 - [[Krounchasana]] (Previous asana)
 
 ## Sources

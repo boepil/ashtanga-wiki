@@ -85,7 +85,7 @@ Revolve around, bring left hand to the floor outside the right foot, right arm u
 
 ## Connections
 - [[Utthita Trikonasana]]
-- [[Mula Bandha]]
+- [[Mula_Bandha|Mula Bandha]]
 
 ## Sources
 - (Light on Yoga, B.K.S. Iyengar, p. 164, 165, 166, 168) — Yoga Philosophy and Origins

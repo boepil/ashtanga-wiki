@@ -84,8 +84,8 @@ Feet 3ft apart, right foot 90, left foot 45, hands in Paschim namaskar mudra (in
 
 ## Connections
 - [[Prasarita Padottanasana]]
-- [[Pada Bandha]]
-- [[Mula Bandha]]
+- [[Joint_Stability|Pada Bandha]]
+- [[Mula_Bandha|Mula Bandha]]
 
 ## Sources
 - (Light on Yoga, B.K.S. Iyengar, p. 192, 193, 194) — Yoga Philosophy and Origins

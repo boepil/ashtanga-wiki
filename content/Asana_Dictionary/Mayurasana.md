@@ -69,9 +69,9 @@ Arm balance, elbows in abdomen, body horizontal, legs together and straight.
 *(Light on Yoga, B.K.S. Iyengar, p. 286) — Yoga Philosophy and Origins*
 
 ## Connections
-- [[Nakhasana]] (Next asana)
+- [[Mayurasana|Nakhasana]] (Next asana)
 - [[Bakasana]]
-- [[Hamsasana]] (Peacock variation with fingers pointing forward)
+- [[Mayurasana|Hamsasana]] (Peacock variation with fingers pointing forward)
 
 ## Sources
 - (Light on Yoga, B.K.S. Iyengar, p. 283-286) — Yoga Philosophy and Origins

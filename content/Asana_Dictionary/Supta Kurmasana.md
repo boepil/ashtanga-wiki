@@ -71,8 +71,8 @@ Jump over upper arm from downward dog then sit down, legs extended to the sides,
 
 ## Connections
 - [[Kurmasana]]
-- [[Eka Pada Sirsasana]]
-- [[Dwi Pada Sirsasana]]
+- [[Eka Pada Sirsasana & Dwi Pada Sirsasana|Eka Pada Sirsasana]]
+- [[Eka Pada Sirsasana & Dwi Pada Sirsasana|Dwi Pada Sirsasana]]
 
 ## Sources
 - (Light on Yoga, B.K.S. Iyengar) — Yoga Philosophy and Origins

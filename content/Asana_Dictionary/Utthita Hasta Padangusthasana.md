@@ -95,8 +95,8 @@ Repeat on the left side.
 
 ## Connections
 - [[Parsvottanasana]]
-- [[Pada Bandha]]
-- [[Mula Bandha]]
+- [[Joint_Stability|Pada Bandha]]
+- [[Mula_Bandha|Mula Bandha]]
 
 ## Sources
 - (Light on Yoga, B.K.S. Iyengar, p. 199, 200) — Yoga Philosophy and Origins

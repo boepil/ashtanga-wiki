@@ -89,7 +89,7 @@ Sit in, extend legs up, both legs straight, trunk up, angle between trunk & legs
 ## Connections
 - [[Dandasana]]
 - [[Bhujapidasana]]
-- [[Lolasana]]
+- [[Navasana|Lolasana]]
 
 ## Sources
 - (Light on Yoga, B.K.S. Iyengar, p. 207, 208, 209, 210, 211) — Yoga Philosophy and Origins

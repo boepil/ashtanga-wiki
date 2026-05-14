@@ -91,11 +91,11 @@ Feet engaged with surface awareness, toes stretched & heel pressed, pull knee-ca
 (not found in raw PDF)
 
 ## Connections
-- [[Mula Bandha]]
-- [[Pada Bandha]]
-- [[Uddiyana Bandha]]
+- [[Mula_Bandha|Mula Bandha]]
+- [[Joint_Stability|Pada Bandha]]
+- [[Uddiyana_Bandha|Uddiyana Bandha]]
 - [[Drishti]]
-- [[Vinyasa]]
+- [[Sanskrit_Mantras_and_Terminology|Vinyasa]]
 
 ## Sources
 - (Light on Yoga, B.K.S. Iyengar, p. 338) — Yoga Philosophy and Origins

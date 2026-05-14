@@ -72,8 +72,8 @@ Lying on stomach, knees bent, feet pressed down by hips with hands. Chest lifted
 *(Light on Yoga, B.K.S. Iyengar, p. 204) — Yoga Philosophy and Origins*
 
 ## Connections
-- [[Dhanurasana]]
-- [[Virasana]]
+- [[Dhanurasana & Parsva Dhanurasana|Dhanurasana]]
+- [[Joint_Stability|Virasana]]
 - [[Salabhasana]] (Previous asana)
 
 ## Sources

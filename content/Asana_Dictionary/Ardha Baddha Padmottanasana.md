@@ -89,7 +89,7 @@ Right leg in Padmasana, wrap the right arm around behind the back, hold the big 
 
 ## Connections
 - [[Utkatasana]]
-- [[Padmasana]]
+- [[Padmasana & Utpluthih|Padmasana]]
 
 ## Sources
 - (Light on Yoga, B.K.S. Iyengar, p. 210, 211) — Yoga Philosophy and Origins

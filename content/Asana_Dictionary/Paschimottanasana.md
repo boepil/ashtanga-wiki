@@ -94,7 +94,7 @@ Variation D: bend forward from the hips, feet flexed, grab the right wrist with 
 ## Connections
 - [[Dandasana]]
 - [[Purvottanasana]]
-- [[Mula Bandha]]
+- [[Mula_Bandha|Mula Bandha]]
 
 ## Sources
 - (Light on Yoga, B.K.S. Iyengar, p. 263, 264, 265, 435) — Yoga Philosophy and Origins

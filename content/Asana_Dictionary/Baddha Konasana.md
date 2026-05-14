@@ -82,7 +82,7 @@ Bring the feet together and close to the perineum, hold the feet with both hands
 
 ## Connections
 - [[Upavistha Konasana]]
-- [[Padmasana]]
+- [[Padmasana & Utpluthih|Padmasana]]
 
 ## Sources
 - (Light on Yoga, B.K.S. Iyengar, p. 177-178, 624) — Yoga Philosophy and Origins

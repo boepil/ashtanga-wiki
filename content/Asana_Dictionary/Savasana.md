@@ -67,8 +67,8 @@ Relax the whole body, witness the movement of your breath. Stay for 10 to 15 min
 
 ## Connections
 - [[Pranayama]]
-- [[Meditation]]
-- [[Yoga_Nidra]]
+- [[Savasana|Meditation]]
+- [[Savasana|Yoga_Nidra]]
 
 ## Sources
 - (Light on Yoga, B.K.S. Iyengar, p. 422, 424) — Yoga Philosophy and Origins

@@ -78,9 +78,9 @@ Legs in Padmasana, wrap the arms crossed behind the back to grab the big toes wi
 *(Yoga Mala, K. Pattabhi Jois, p. 1413) — Yoga Philosophy and Origins*
 
 ## Connections
-- [[Padmasana]]
+- [[Padmasana & Utpluthih|Padmasana]]
 - [[Garbha Pindasana]]
-- [[Prana]]
+- [[Bandha_Overview|Prana]]
 
 ## Sources
 - (Light on Yoga, B.K.S. Iyengar, p. 119) — Yoga Philosophy and Origins

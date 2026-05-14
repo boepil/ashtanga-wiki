@@ -72,9 +72,9 @@ Legs in Padmasana, arms between the calves and the thighs, palms flat on the flo
 *(Yoga Mala, K. Pattabhi Jois, p. 1570) — Yoga Philosophy and Origins*
 
 ## Connections
-- [[Padmasana]]
+- [[Padmasana & Utpluthih|Padmasana]]
 - [[Garbha Pindasana]]
-- [[Tolasana]]
+- [[Padmasana & Utpluthih|Tolasana]]
 
 ## Sources
 - (Light on Yoga, B.K.S. Iyengar, p. 140) — Yoga Philosophy and Origins

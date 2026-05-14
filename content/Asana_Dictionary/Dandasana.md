@@ -90,8 +90,8 @@ Extend the legs to the front, feet flexed, hands on the floor by the hips, spine
 
 ## Connections
 - [[Paschimottanasana]]
-- [[Mula Bandha]]
-- [[Jalandhara Bandha]]
+- [[Mula_Bandha|Mula Bandha]]
+- [[Jalandhara_Bandha|Jalandhara Bandha]]
 
 ## Sources
 - (Krishnamacharya's Yogasanagalu, T. Krishnamacharya, p. 189, 250, 188, 190) — Yoga Philosophy and Origins

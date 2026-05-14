@@ -106,7 +106,7 @@ sequence: 9999
 ## Connections
 - [[Janu Sirsasana]]
 - [[Paschimottanasana]]
-- [[Padmasana]]
+- [[Padmasana & Utpluthih|Padmasana]]
 
 ## Sources
 - (Light on Yoga, B.K.S. Iyengar, p. 239, 240, 243, 306-307, 309-310, 244, 311) — Yoga Philosophy and Origins

@@ -74,7 +74,7 @@ Legs straight and extended at 45 degrees, arms extended parallel to the legs, pa
 ## Connections
 - [[Matsyasana]]
 - [[Navasana]] (Similar core requirement)
-- [[Chakrasana]] (Transition out)
+- [[Asana_Fundamentals|Chakrasana]] (Transition out)
 
 ## Sources
 - (Light on Yoga, B.K.S. Iyengar, p. 118-119) — Yoga Philosophy and Origins

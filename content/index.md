@@ -117,7 +117,7 @@ Welcome to the Ashtanga Yoga Knowledge Wiki.
 - [[Tensegrity_and_Deep_Front_Line]] — fascia → energetic yoga concepts
 - [[Tissue_Mechanics_Vinyasa_Count]] — biomechanics → traditional methodology
 - [[Lotus_Protocol_and_Meniscus]] — pathology → structural anatomy
-Note: [[Bohr_Effect_and_Kumbhaka]] — breath physiology → pranayama
+Note: [[The_Bohr_Effect_and_Kumbhaka|Bohr_Effect_and_Kumbhaka]] — breath physiology → pranayama
 
 ## Compensation Patterns
 - [[Shoulder_Impingement]] — Scapular stability and upward rotation analysis
@@ -152,7 +152,7 @@ Note: [[Bohr_Effect_and_Kumbhaka]] — breath physiology → pranayama
 - [[Breath_Holding_Modifications]] — Maintaining thin, smooth Ujjayi
 
 ## Reference
-- [[Asana_Dictionary/index|Asana Dictionary (Full A-Z List)]]
+- [[index|Asana Dictionary (Full A-Z List)]]
 - [[Hebrew_Translation_Cues]]
 
 </div>

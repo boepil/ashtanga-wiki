@@ -72,7 +72,7 @@ Lying on back, both legs behind the neck, feet crossed, hands clasped behind the
 *(Light on Yoga, B.K.S. Iyengar, p. 299) — Yoga Philosophy and Origins*
 
 ## Connections
-- [[Dwi Pada Sirsasana]]
+- [[Eka Pada Sirsasana & Dwi Pada Sirsasana|Dwi Pada Sirsasana]]
 - [[Kurmasana]]
 - [[Tittibhasana]] (Next asana)
 

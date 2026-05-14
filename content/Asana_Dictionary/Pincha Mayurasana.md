@@ -74,7 +74,7 @@ Forearm balance, body vertical, legs together and straight.
 ## Connections
 - [[Sirsasana]]
 - [[Karandavasana]] (Next asana)
-- [[Adho Mukha Vrksasana]] (Handstand)
+- [[Pincha Mayurasana|Adho Mukha Vrksasana]] (Handstand)
 
 ## Sources
 - (Light on Yoga, B.K.S. Iyengar, p. 315-316) — Yoga Philosophy and Origins

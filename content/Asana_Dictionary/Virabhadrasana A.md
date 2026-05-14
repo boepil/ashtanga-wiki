@@ -96,8 +96,8 @@ Thumbs
 ## Connections
 - [[Utkatasana]]
 - [[Virabhadrasana B]]
-- [[Pada Bandha]]
-- [[Mula Bandha]]
+- [[Joint_Stability|Pada Bandha]]
+- [[Mula_Bandha|Mula Bandha]]
 
 ## Sources
 - (Light on Yoga, B.K.S. Iyengar, p. 140, 157-158, 158-159, 159, 160) — Yoga Philosophy and Origins

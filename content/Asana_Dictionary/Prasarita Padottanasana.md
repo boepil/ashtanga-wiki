@@ -93,9 +93,9 @@ D: feet parallel 4ft apart, hands to the big toes, fold forward with exhalation,
 (not found in raw PDF)
 
 ## Connections
-- [[Pada Bandha]]
-- [[Uddiyana Bandha]]
-- [[Mula Bandha]]
+- [[Joint_Stability|Pada Bandha]]
+- [[Uddiyana_Bandha|Uddiyana Bandha]]
+- [[Mula_Bandha|Mula Bandha]]
 
 ## Sources
 - (Light on Yoga, B.K.S. Iyengar, p. 179, 180) — Yoga Philosophy and Origins

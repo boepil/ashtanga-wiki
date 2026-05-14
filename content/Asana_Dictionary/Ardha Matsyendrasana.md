@@ -71,7 +71,7 @@ Seated twist, one leg folded under, other leg over, deep bind with arms.
 ## Connections
 - [[Bharadvajasana]] (Preparation)
 - [[Pasasana]]
-- [[Eka Pada Sirsasana]] (Next asana)
+- [[Eka Pada Sirsasana & Dwi Pada Sirsasana|Eka Pada Sirsasana]] (Next asana)
 
 ## Sources
 - (Light on Yoga, B.K.S. Iyengar, p. 259-262) — Yoga Philosophy and Origins

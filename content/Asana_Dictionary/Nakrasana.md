@@ -72,7 +72,7 @@ Dynamic hops forward and backward in Chaturanga Dandasana.
 *(Light on Yoga, B.K.S. Iyengar, p. 76) — Yoga Philosophy and Origins*
 
 ## Connections
-- [[Chaturanga Dandasana]]
+- [[Surya_Namaskar|Chaturanga Dandasana]]
 - [[Mayurasana]] (Previous asana)
 - [[Vatayanasana]] (Next asana)
 

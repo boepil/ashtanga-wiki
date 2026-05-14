@@ -75,7 +75,7 @@ From lying down position bend the knees, feet close to the buttocks, feet parall
 ## Connections
 - [[Setu Bandhasana]]
 - [[Paschimottanasana]] (Counter-pose)
-- [[Dwi Pada Viparita Dandasana]]
+- [[Urdhva Dhanurasana|Dwi Pada Viparita Dandasana]]
 
 ## Sources
 - (Light on Yoga, B.K.S. Iyengar, p. 357, 363-365) — Yoga Philosophy and Origins

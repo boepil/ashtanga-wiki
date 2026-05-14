@@ -88,7 +88,7 @@ Feet 4ft apart, bend the right knee over the ankle, revolve around, bring left h
 
 ## Connections
 - [[Utthita Parsvakonasana]]
-- [[Uddiyana Bandha]]
+- [[Uddiyana_Bandha|Uddiyana Bandha]]
 
 ## Sources
 - (Light on Yoga, B.K.S. Iyengar, p. 170, 171, 172, 173, 264) — Yoga Philosophy and Origins

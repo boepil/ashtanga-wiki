@@ -93,7 +93,7 @@ B: slide hands under feet (the rest as in Padangusthasana-B).
 ## Connections
 - [[Pada Angusthasana]]
 - [[Utthita Trikonasana]]
-- [[Pada Bandha]]
+- [[Joint_Stability|Pada Bandha]]
 
 ## Sources
 - (Light on Yoga, B.K.S. Iyengar, p. 91) — Yoga Philosophy and Origins

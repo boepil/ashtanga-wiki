@@ -81,7 +81,7 @@ Seated, knees stacked, arms bound behind back (one from above, one from below).
 *(Light on Yoga, B.K.S. Iyengar, p. 112) — Yoga Philosophy and Origins*
 
 ## Connections
-- [[Garudasana]]
+- [[Standing_Sequence|Garudasana]]
 - [[Pasasana]]
 - [[Bharadvajasana]]
 

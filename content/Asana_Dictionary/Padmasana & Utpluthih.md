@@ -82,8 +82,8 @@ Tip of the nose
 *(Yoga Mala, K. Pattabhi Jois, p. 1414) — Yoga Philosophy and Origins*
 
 ## Connections
-- [[Baddha Padmasana]]
-- [[Tolasana]]
+- [[Baddha Padmasana & Yoga Mudra|Baddha Padmasana]]
+- [[Padmasana & Utpluthih|Tolasana]]
 - [[Pranayama]]
 
 ## Sources

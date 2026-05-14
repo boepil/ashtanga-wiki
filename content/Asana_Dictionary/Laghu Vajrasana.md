@@ -74,7 +74,7 @@ Kneeling, head to floor behind, hands on knees.
 ## Connections
 - [[Ustrasana]] (Previous asana)
 - [[Kapotasana]] (Next asana)
-- [[Vajrasana]]
+- [[Supta Vajrasana|Vajrasana]]
 
 ## Sources
 - (Light on Yoga, B.K.S. Iyengar, p. 167-168) — Yoga Philosophy and Origins

@@ -78,7 +78,7 @@ Tip of the nose
 
 ## Connections
 - [[Salamba Sarvangasana]] (The Queen)
-- [[Balasana]] (Counter-pose)
+- [[Sirsasana|Balasana]] (Counter-pose)
 - [[Pincha Mayurasana]] (Intermediate level transition)
 
 ## Sources

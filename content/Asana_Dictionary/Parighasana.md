@@ -69,8 +69,8 @@ Kneeling on one knee, other leg extended to the side, lateral side stretch over 
 *(Light on Yoga, B.K.S. Iyengar, p. 101) — Yoga Philosophy and Origins*
 
 ## Connections
-- [[Trikonasana]]
-- [[Parsvakonasana]]
+- [[Utthita Trikonasana|Trikonasana]]
+- [[Utthita Parsvakonasana|Parsvakonasana]]
 - [[Gomukhasana]] (Next asana)
 
 ## Sources

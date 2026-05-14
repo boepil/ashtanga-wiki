@@ -71,7 +71,7 @@ Kneeling backbend, hands to heels.
 ## Connections
 - [[Laghu Vajrasana]]
 - [[Kapotasana]]
-- [[Dhanurasana]] (Previous asana)
+- [[Dhanurasana & Parsva Dhanurasana|Dhanurasana]] (Previous asana)
 
 ## Sources
 - (Light on Yoga, B.K.S. Iyengar, p. 165-166) — Yoga Philosophy and Origins

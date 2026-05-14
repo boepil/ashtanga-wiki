@@ -75,7 +75,7 @@ Legs in Padmasana, slide the hands between the calves and the thighs, bend the a
 *(Yoga Mala, K. Pattabhi Jois, p. 1570) — Yoga Philosophy and Origins*
 
 ## Connections
-- [[Padmasana]]
+- [[Padmasana & Utpluthih|Padmasana]]
 - [[Kukkutasana]]
 
 ## Sources

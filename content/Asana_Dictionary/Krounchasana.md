@@ -72,7 +72,7 @@ One leg in Virasana (bent back by hip), other leg straight and pulled towards th
 *(Light on Yoga, B.K.S. Iyengar, p. 244) — Yoga Philosophy and Origins*
 
 ## Connections
-- [[Virasana]]
+- [[Joint_Stability|Virasana]]
 - [[Paschimottanasana]]
 - [[Pasasana]] (Previous asana)
 

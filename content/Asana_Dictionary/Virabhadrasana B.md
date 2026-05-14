@@ -94,7 +94,7 @@ Finger tips
 
 ## Connections
 - [[Virabhadrasana A]]
-- [[Mula Bandha]]
+- [[Mula_Bandha|Mula Bandha]]
 
 ## Sources
 - (Light on Yoga, B.K.S. Iyengar, p. 212-213, 215, 215-216, 217, 217-218, 218) — Yoga Philosophy and Origins

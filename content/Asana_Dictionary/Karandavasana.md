@@ -73,7 +73,7 @@ Forearm balance with Lotus legs, lowering the lotus to rest on the upper arms, t
 
 ## Connections
 - [[Pincha Mayurasana]] (Entry/Exit)
-- [[Padmasana]]
+- [[Padmasana & Utpluthih|Padmasana]]
 - [[Kukkutasana]] (Similar lift mechanic)
 
 ## Sources

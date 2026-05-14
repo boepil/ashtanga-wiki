@@ -77,7 +77,7 @@ Heels together, toes pointed outwards, lift the chest off the floor, roll head t
 
 ## Connections
 - [[Urdhva Mukha Paschimottanasana]]
-- [[Chakrasana]]
+- [[Asana_Fundamentals|Chakrasana]]
 - [[Urdhva Dhanurasana]]
 
 ## Sources

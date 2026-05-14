@@ -92,7 +92,7 @@ Feet 3 to 3.5ft apart, right foot 90, left foot 45, bend to the right over the f
 ## Connections
 - [[Pada Hastasana]]
 - [[Parivrtta Trikonasana]]
-- [[Mula Bandha]]
+- [[Mula_Bandha|Mula Bandha]]
 
 ## Sources
 - (Light on Yoga, B.K.S. Iyengar, p. 63-64) — Yoga Philosophy and Origins

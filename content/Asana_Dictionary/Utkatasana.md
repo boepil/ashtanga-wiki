@@ -91,8 +91,8 @@ Bend knees, raise arms up, palms together.
 
 ## Connections
 - [[Virabhadrasana A]]
-- [[Uddiyana Bandha]]
-- [[Mula Bandha]]
+- [[Uddiyana_Bandha|Uddiyana Bandha]]
+- [[Mula_Bandha|Mula Bandha]]
 
 ## Sources
 - (Light on Yoga, B.K.S. Iyengar, p. 174) — Yoga Philosophy and Origins

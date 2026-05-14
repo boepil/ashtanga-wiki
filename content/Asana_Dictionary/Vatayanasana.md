@@ -72,8 +72,8 @@ One leg in half-lotus, kneeling on that knee, other foot flat on floor with knee
 *(Light on Yoga, B.K.S. Iyengar, p. 106) — Yoga Philosophy and Origins*
 
 ## Connections
-- [[Padmasana]]
-- [[Garudasana]] (Arms)
+- [[Padmasana & Utpluthih|Padmasana]]
+- [[Standing_Sequence|Garudasana]] (Arms)
 - [[Parighasana]] (Next asana)
 
 ## Sources
