@@ -49,13 +49,13 @@ Fundamental postures that build grounding, balance, and leg strength.
 ## 03. Core Sequences (Series Specific)
 Select a series below to view the full visual gallery for the seated and finishing sequences.
 
-### [[Visual_Asana_Dictionary_Primary|Primary Series (Yoga Chikitsa)]]
+### [Primary Series (Yoga Chikitsa)](Visual_Asana_Dictionary_Primary)
 The core of *Yoga Chikitsa* (Yoga Therapy), focusing on forward folds and hip opening.
 
-### [[Visual_Asana_Dictionary_Intermediate|Intermediate Series (Nadi Shodhana)]]
+### [Intermediate Series (Nadi Shodhana)](Visual_Asana_Dictionary_Intermediate)
 The core of *Nadi Shodhana* (Nerve Cleansing), focusing on deep backbends and arm balances.
 
-### [[Visual_Asana_Dictionary_Advanced|Advanced Series (Sthira Bhaga)]]
+### [Advanced Series (Sthira Bhaga)](Visual_Asana_Dictionary_Advanced)
 The core of *Sthira Bhaga* (Strength and Grace), focusing on advanced arm balances and deep flexibility.
 
 ---
