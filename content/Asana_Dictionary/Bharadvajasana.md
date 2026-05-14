@@ -21,7 +21,7 @@ sequence: 9999
 
 "Bharadvaja was the father of Drona, the teacher of the Pandavas. This asana is dedicated to him." 
 
-![Bharadvajasana](https://www.devvratyoga.com/wp-content/uploads/2019/07/Bharadvajasana.png)
+![Bharadvajasana](https://www.devvratyoga.com/wp-content/uploads/2020/03/Bharadvajasana-e1583309038788-194x300.png)
 
 
 ## Sanskrit Meaning

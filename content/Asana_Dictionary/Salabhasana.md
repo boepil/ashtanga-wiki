@@ -21,7 +21,7 @@ sequence: 9999
 
 "Salabha means a locust. The pose resembles that of a locust resting on the ground, hence the name." 
 
-![Salabhasana](https://www.devvratyoga.com/wp-content/uploads/2019/07/Salabhasana.png)
+![Salabhasana](https://www.devvratyoga.com/wp-content/uploads/2020/03/Salabhasana-e1583308268509-300x170.png)
 
 
 ## Sanskrit Meaning

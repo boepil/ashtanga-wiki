@@ -21,7 +21,7 @@ sequence: 9999
 
 "Krouncha means a heron. It is also the name of a mountain... The raised leg resembles the outstretched neck and head of a heron." 
 
-![Krounchasana](https://www.devvratyoga.com/wp-content/uploads/2019/07/Krounchasana.png)
+![Krounchasana](https://www.devvratyoga.com/wp-content/uploads/2020/03/Krounchasana-e1583309107113-287x300.png)
 
 
 ## Sanskrit Meaning

@@ -21,7 +21,7 @@ sequence: 9999
 
 "Bheka means a frog. The action in this asana resembles that of a frog, hence the name." 
 
-![Bhekasana](https://www.devvratyoga.com/wp-content/uploads/2019/07/Bhekasana.png)
+![Bhekasana](https://www.devvratyoga.com/wp-content/uploads/2020/03/Untitled-design-9-e1583821052402.png)
 
 
 ## Sanskrit Meaning

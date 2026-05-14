@@ -21,7 +21,7 @@ sequence: 9999
 
 "Baka means a crane. In this posture, the body resembles a crane wading in a pool." 
 
-![Bakasana](https://www.devvratyoga.com/wp-content/uploads/2019/07/Bakasana-A.png)
+![Bakasana](https://www.devvratyoga.com/wp-content/uploads/2020/03/Bakasana-copy-e1583305834400-300x268.png)
 
 
 ## Sanskrit Meaning

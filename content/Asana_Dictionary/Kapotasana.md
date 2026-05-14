@@ -21,7 +21,7 @@ sequence: 9999
 
 "Kapota means a pigeon. In this posture, the chest is puffed out like that of a pigeon, hence the name." 
 
-![Kapotasana](https://www.devvratyoga.com/wp-content/uploads/2019/07/Kapotasana.png)
+![Kapotasana](https://www.devvratyoga.com/wp-content/uploads/2020/03/Untitled-design-9-e1583821052402.png)
 
 
 ## Sanskrit Meaning

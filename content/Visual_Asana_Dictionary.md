@@ -99,15 +99,17 @@ Purifying the nervous system through deep backbends and arm balances.
 
 | Asana | Image |
 | :--- | :--- |
-| **[[Pasasana]]** | ![Pasasana](https://www.devvratyoga.com/wp-content/uploads/2019/07/Pasasana.png) |
-| **[[Krounchasana]]** | ![Krounchasana](https://www.devvratyoga.com/wp-content/uploads/2019/07/Krounchasana.png) |
-| **[[Salabhasana]]** | ![Salabhasana](https://www.devvratyoga.com/wp-content/uploads/2019/07/Salabhasana.png) |
-| **[[Bhekasana]]** | ![Bhekasana](https://www.devvratyoga.com/wp-content/uploads/2019/07/Bhekasana.png) |
-| **[[Dhanurasana & Parsva Dhanurasana\|Dhanurasana]]** | ![Dhanurasana](https://www.devvratyoga.com/wp-content/uploads/2019/07/Dhanurasana.png) |
-| **[[Ustrasana]]** | ![Ustrasana](https://www.devvratyoga.com/wp-content/uploads/2019/07/Ustrasana.png) |
-| **[[Kapotasana]]** | ![Kapotasana](https://www.devvratyoga.com/wp-content/uploads/2019/07/Kapotasana.png) |
-| **[[Bakasana]]** | ![Bakasana](https://www.devvratyoga.com/wp-content/uploads/2019/07/Bakasana.png) |
-| **[[Pincha Mayurasana]]** | ![Pincha-Mayurasana](https://www.devvratyoga.com/wp-content/uploads/2019/07/Pincha-Mayurasana.png) |
+| **[[Pasasana]]** | ![Pasasana](https://www.devvratyoga.com/wp-content/uploads/2020/03/Baddha-Malasana-e1583307499371-210x300.png) |
+| **[[Krounchasana]]** | ![Krounchasana](https://www.devvratyoga.com/wp-content/uploads/2020/03/Krounchasana-e1583309107113-287x300.png) |
+| **[[Salabhasana]]** | ![Salabhasana](https://www.devvratyoga.com/wp-content/uploads/2020/03/Salabhasana-e1583308268509-300x170.png) |
+| **[[Bhekasana]]** | ![Bhekasana](https://www.devvratyoga.com/wp-content/uploads/2020/03/Untitled-design-9-e1583821052402.png) |
+| **[[Dhanurasana & Parsva Dhanurasana\|Dhanurasana]]** | ![Dhanurasana](https://www.devvratyoga.com/wp-content/uploads/2020/03/Dhanurasana-e1583308151591-300x282.png) |
+| **[[Ustrasana]]** | ![Ustrasana](https://www.devvratyoga.com/wp-content/uploads/2020/03/Ustrasana-e1583307658730-237x300.png) |
+| **[[Kapotasana]]** | ![Kapotasana](https://www.devvratyoga.com/wp-content/uploads/2020/03/Untitled-design-9-e1583821052402.png) |
+| **[[Bakasana]]** | ![Bakasana](https://www.devvratyoga.com/wp-content/uploads/2020/03/Bakasana-copy-e1583305834400-300x268.png) |
+| **[[Bharadvajasana]]** | ![Bharadvajasana](https://www.devvratyoga.com/wp-content/uploads/2020/03/Bharadvajasana-e1583309038788-194x300.png) |
+| **[[Parighasana]]** | ![Parighasana](https://www.devvratyoga.com/wp-content/uploads/2020/03/Parighasana-e1583307607745-280x300.png) |
+| **[[Pincha Mayurasana]]** | ![Pincha-Mayurasana](https://www.devvratyoga.com/wp-content/uploads/2020/03/Salamba-Sirsasana-copy-e1583306620110-111x300.png) |
 | **[[Mayurasana]]** | ![Mayurasana](https://www.devvratyoga.com/wp-content/uploads/2019/07/Mayurasana.png) |
 
 ## Sources

@@ -21,7 +21,7 @@ sequence: 9999
 
 "Parigha means a beam or bar used for shutting a gate. In this posture, the body resembles a cross beam used for locking a gate." 
 
-![Parighasana](https://www.devvratyoga.com/wp-content/uploads/2019/07/Parighasana.png)
+![Parighasana](https://www.devvratyoga.com/wp-content/uploads/2020/03/Parighasana-e1583307607745-280x300.png)
 
 
 ## Sanskrit Meaning

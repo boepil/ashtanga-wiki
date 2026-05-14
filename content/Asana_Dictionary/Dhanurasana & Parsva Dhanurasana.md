@@ -21,7 +21,7 @@ sequence: 9999
 
 "Dhanu means a bow. Dhanurasana is the Bow Pose, where the body resembles a bow with the arms as the string." 
 
-![Dhanurasana](https://www.devvratyoga.com/wp-content/uploads/2019/07/Dhanurasana.png)
+![Dhanurasana](https://www.devvratyoga.com/wp-content/uploads/2020/03/Dhanurasana-e1583308151591-300x282.png)
 
 
 ## Sanskrit Meaning

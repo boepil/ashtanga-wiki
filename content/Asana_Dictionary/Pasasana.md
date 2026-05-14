@@ -21,7 +21,7 @@ sequence: 9999
 
 "Pasa means a noose or cord. The arms are used as a noose to hold the trunk to the legs, hence the name." 
 
-![Pasasana|80](https://www.devvratyoga.com/wp-content/uploads/2019/07/Pasasana.png)
+![Pasasana](https://www.devvratyoga.com/wp-content/uploads/2020/03/Baddha-Malasana-e1583307499371-210x300.png)
 
 
 ## Sanskrit Meaning

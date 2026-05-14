@@ -21,7 +21,7 @@ sequence: 9999
 
 "Ustra means a camel. In this posture, the body resembles a camel." 
 
-![Ustrasana](https://www.devvratyoga.com/wp-content/uploads/2019/07/Ustrasana.png)
+![Ustrasana](https://www.devvratyoga.com/wp-content/uploads/2020/03/Ustrasana-e1583307658730-237x300.png)
 
 
 ## Sanskrit Meaning
