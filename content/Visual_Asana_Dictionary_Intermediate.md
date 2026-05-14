@@ -41,19 +41,6 @@ Purifying the nervous system through deep backbends and arm balances.
 | **[[Vatayanasana]]** | ![Vatayanasana](https://www.devvratyoga.com/wp-content/uploads/2020/03/Untitled-design-9-e1583821052402.png) |
 | **[[Parighasana]]** | ![Parighasana](https://www.devvratyoga.com/wp-content/uploads/2020/03/Parighasana-e1583307607745-280x300.png) |
 | **[[Gomukhasana]]** | ![Gomukhasana](https://www.devvratyoga.com/wp-content/uploads/2020/03/Untitled-design-9-e1583821052402.png) |
-
----
-
-## 04. Finishing Sequence
-Cooling and neutralizing the body, shifting into a meditative state.
-
-| Asana | Image |
-| :--- | :--- |
-| **[[Urdhva Dhanurasana]]** | ![Urdhva-D Dhanurasana](https://www.devvratyoga.com/wp-content/uploads/2019/07/Urdhva-Dhanurasana.png) |
-| **[[Salamba Sarvangasana]]** | ![Salamba-Sarvangasana](https://www.devvratyoga.com/wp-content/uploads/2019/07/Salamba-Sarvangasana.png) |
-| **[[Halasana]]** | ![Halasana](https://www.devvratyoga.com/wp-content/uploads/2019/07/halasana.png) |
-| **[[Savasana]]** | ![Savasana](https://www.devvratyoga.com/wp-content/uploads/2019/07/Savasana.png) |
-
 ## Sources
 - `wiki/Asana_Dictionary/*`
 - `wiki/Asana_Dictionary/Hebrew_Translation_Cues.md`
