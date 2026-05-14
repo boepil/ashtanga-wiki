@@ -155,6 +155,7 @@ Note: [[The_Bohr_Effect_and_Kumbhaka|Bohr_Effect_and_Kumbhaka]] — breath physi
 - [[Breath_Holding_Modifications]] — Maintaining thin, smooth Ujjayi
 
 ## Reference
+- [[Visual_Asana_Dictionary]] — All postures with pictures and Hebrew transliterations
 - [[Hebrew_Translation_Cues]]
 
 ## Sources
