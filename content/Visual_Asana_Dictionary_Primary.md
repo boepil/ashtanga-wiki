@@ -12,41 +12,9 @@ sequence: 9999
 
 # Visual Asana Dictionary - Primary Series (Yoga Chikitsa)
 
-This page provides a visual overview of the asanas in the Ashtanga Primary Series. Click on any asana name to view its detailed alignment, anatomy, and vinyasa count.
+This page provides a visual overview of the seated and finishing asanas in the Ashtanga Primary Series.
 
-## 01. Sun Salutations (Surya Namaskar)
-The foundation of the practice, generating internal heat and focus.
-
-| Asana | Image |
-| :--- | :--- |
-| **[[Surya_Namaskar|Surya Namaskar A]]** | ![Surya-Namaskar-A](https://www.devvratyoga.com/wp-content/uploads/2019/07/sun-salutation-series-a-1024x216.png) |
-| **[[Surya_Namaskar|Surya Namaskar B]]** | ![Surya-Namaskar-B](https://www.devvratyoga.com/wp-content/uploads/2019/07/suryanamaskar-series-b-1024x100.png) |
-
----
-
-## 02. Standing Sequence
-Fundamental postures that build grounding, balance, and leg strength.
-
-| Asana | Image |
-| :--- | :--- |
-| **[[Samasthitihi]]** | ![Samasthitihi](https://www.devvratyoga.com/wp-content/uploads/2019/08/Surya-Namaskar.png) |
-| **[[Pada Angusthasana]]** | ![Pada-Angusthasana](https://www.devvratyoga.com/wp-content/uploads/2019/07/Pada-Angusthasana.png) |
-| **[[Pada Hastasana]]** | ![Pada-Hastasana](https://www.devvratyoga.com/wp-content/uploads/2019/07/Pada-Hastasana-a.png) |
-| **[[Utthita Trikonasana]]** | ![Utthita-Trikonasana](https://www.devvratyoga.com/wp-content/uploads/2019/07/Uthitha-Trikonasana-A.png) |
-| **[[Parivrtta Trikonasana]]** | ![Parivrtta-Trikonasana](https://www.devvratyoga.com/wp-content/uploads/2019/07/Uthitha-Trikonasana-b.png) |
-| **[[Utthita Parsvakonasana]]** | ![Utthita-Parsvakonasana](https://www.devvratyoga.com/wp-content/uploads/2019/07/Uthitha-Parsvakonasana-A.png) |
-| **[[Parivrtta Parsvakonasana]]** | ![Parivrtta-Parsvakonasana](https://www.devvratyoga.com/wp-content/uploads/2019/07/Uthitha-Parsvakonasana-b.png) |
-| **[[Prasarita Padottanasana]]** | ![Prasarita-Padottanasana](https://www.devvratyoga.com/wp-content/uploads/2019/07/Prasarita-Padottanasana-A.png) |
-| **[[Parsvottanasana]]** | ![Parsvottanasana](https://www.devvratyoga.com/wp-content/uploads/2019/07/Parsvottanasana.png) |
-| **[[Utthita Hasta Padangusthasana]]** | ![Utthita-Hasta-Padangusthasana](https://www.devvratyoga.com/wp-content/uploads/2019/07/Uthitha-Hasta-Padaangustasana-A.png) |
-| **[[Ardha Baddha Padmottanasana]]** | ![Ardha-Baddha-Padmottanasana](https://www.devvratyoga.com/wp-content/uploads/2019/07/Ardha-Baddha-Padmottanasana.png) |
-| **[[Utkatasana]]** | ![Utkatasana](https://www.devvratyoga.com/wp-content/uploads/2019/08/Utkatasana.png) |
-| **[[Virabhadrasana A]]** | ![Virabhadrasana-A](https://www.devvratyoga.com/wp-content/uploads/2019/08/Virbhadrasana-left-leg.png) |
-| **[[Virabhadrasana B]]** | ![Virabhadrasana-B](https://www.devvratyoga.com/wp-content/uploads/2019/07/Virbhadrasana-b.png) |
-
----
-
-## 03. Seated Sequence (Primary Series)
+## 01. Seated Sequence (Primary Series)
 The core of *Yoga Chikitsa* (Yoga Therapy), focusing on forward folds and hip opening.
 
 | Asana | Image |

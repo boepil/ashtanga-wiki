@@ -12,36 +12,9 @@ sequence: 9999
 
 # Visual Asana Dictionary - Intermediate Series (Nadi Shodhana)
 
-This page provides a visual overview of the asanas in the Ashtanga Intermediate Series. Click on any asana name to view its detailed alignment, anatomy, and vinyasa count.
+This page provides a visual overview of the seated and finishing asanas in the Ashtanga Intermediate Series.
 
-## 01. Sun Salutations (Surya Namaskar)
-The foundation of the practice, generating internal heat and focus.
-
-| Asana | Image |
-| :--- | :--- |
-| **[[Surya_Namaskar|Surya Namaskar A]]** | ![Surya-Namaskar-A](https://www.devvratyoga.com/wp-content/uploads/2019/07/sun-salutation-series-a-1024x216.png) |
-| **[[Surya_Namaskar|Surya Namaskar B]]** | ![Surya-Namaskar-B](https://www.devvratyoga.com/wp-content/uploads/2019/07/suryanamaskar-series-b-1024x100.png) |
-
----
-
-## 02. Standing Sequence
-Fundamental postures that build grounding, balance, and leg strength.
-
-| Asana | Image |
-| :--- | :--- |
-| **[[Samasthitihi]]** | ![Samasthitihi](https://www.devvratyoga.com/wp-content/uploads/2019/08/Surya-Namaskar.png) |
-| **[[Pada Angusthasana]]** | ![Pada-Angusthasana](https://www.devvratyoga.com/wp-content/uploads/2019/07/Pada-Angusthasana.png) |
-| **[[Pada Hastasana]]** | ![Pada-Hastasana](https://www.devvratyoga.com/wp-content/uploads/2019/07/Pada-Hastasana-a.png) |
-| **[[Utthita Trikonasana]]** | ![Utthita-Trikonasana](https://www.devvratyoga.com/wp-content/uploads/2019/07/Uthitha-Trikonasana-A.png) |
-| **[[Parivrtta Trikonasana]]** | ![Parivrtta-Trikonasana](https://www.devvratyoga.com/wp-content/uploads/2019/07/Uthitha-Trikonasana-b.png) |
-| **[[Utthita Parsvakonasana]]** | ![Utthita-Parsvakonasana](https://www.devvratyoga.com/wp-content/uploads/2019/07/Uthitha-Parsvakonasana-A.png) |
-| **[[Parivrtta Parsvakonasana]]** | ![Parivrtta-Parsvakonasana](https://www.devvratyoga.com/wp-content/uploads/2019/07/Uthitha-Parsvakonasana-b.png) |
-| **[[Prasarita Padottanasana]]** | ![Prasarita-Padottanasana](https://www.devvratyoga.com/wp-content/uploads/2019/07/Prasarita-Padottanasana-A.png) |
-| **[[Parsvottanasana]]** | ![Parsvottanasana](https://www.devvratyoga.com/wp-content/uploads/2019/07/Parsvottanasana.png) |
-
----
-
-## 03. Intermediate Series (Nadi Shodhana)
+## 01. Intermediate Series (Nadi Shodhana)
 Purifying the nervous system through deep backbends and arm balances.
 
 | Asana | Image |
