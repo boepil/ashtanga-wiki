@@ -24,7 +24,7 @@ sequence: 9999
 
 "Asanas are named after legendary heroes like Vfrabhadra... Daksa once celebrated a great sacrifice, but he did not invite his daughter Sat! nor her husband Siva... Sat!... threw herself into the fire and perished. When Siva heard this he was gravely provoked, tore a hair from his matted locks and threw it to the ground. A powerful hero named Vlrabhadra rose up... This asana is dedicated to the powerful hero created by Siva from his matted hair." 
 
-![Virabhadrasana-a](https://www.devvratyoga.com/wp-content/uploads/2019/07/Virabhadrasana-a.png)
+![Virabhadrasana-a](https://www.devvratyoga.com/wp-content/uploads/2019/08/Virbhadrasana-left-leg.png)
 
 
 ## Sanskrit Meaning
