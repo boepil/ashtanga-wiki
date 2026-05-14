@@ -37,7 +37,7 @@ Fundamental postures that build grounding, balance, and leg strength.
 | **[[Utthita Parsvakonasana]]** | ![Utthita-Parsvakonasana](https://www.devvratyoga.com/wp-content/uploads/2019/07/Uthitha-Parsvakonasana-A.png) |
 | **[[Parivrtta Parsvakonasana]]** | ![Parivrtta-Parsvakonasana](https://www.devvratyoga.com/wp-content/uploads/2019/07/Uthitha-Parsvakonasana-b.png) |
 | **[[Prasarita Padottanasana]]** | ![Prasarita-Padottanasana](https://www.devvratyoga.com/wp-content/uploads/2019/07/Prasarita-Padottanasana-A.png) |
-| **[[Parsvottanasana]]** | ![Parsvottanasana](https://www.devvratyoga.com/wp-content/uploads/2019/07/Uthitha-Parsvottanasana-A.png) |
+| **[[Parsvottanasana]]** | ![Parsvottanasana](https://www.devvratyoga.com/wp-content/uploads/2019/07/Parsvottanasana.png) |
 | **[[Utthita Hasta Padangusthasana]]** | ![Utthita-Hasta-Padangusthasana](https://www.devvratyoga.com/wp-content/uploads/2019/07/Uthitha-Hasta-Padaangustasana-A.png) |
 | **[[Ardha Baddha Padmottanasana]]** | ![Ardha-Baddha-Padmottanasana](https://www.devvratyoga.com/wp-content/uploads/2019/07/Ardha-Baddha-Padmottanasana.png) |
 | **[[Utkatasana]]** | ![Utkatasana](https://www.devvratyoga.com/wp-content/uploads/2019/08/Utkatasana.png) |
