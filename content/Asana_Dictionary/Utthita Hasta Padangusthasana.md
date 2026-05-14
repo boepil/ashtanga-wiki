@@ -21,11 +21,9 @@ sequence: 9999
 
 # Utthita Hasta Padangusthasana
 
-![Utthita-Hasta-Padangusthasana-b](https://www.devvratyoga.com/wp-content/uploads/2019/07/Utthita-Hasta-Padangusthasana-b.png)
-
-![Utthita-Hasta-Padangusthasana-a](https://www.devvratyoga.com/wp-content/uploads/2019/07/Utthita-Hasta-Padangusthasana-a.png)
-
-![Utthita-Hasta-Padangusthasana-c](https://www.devvratyoga.com/wp-content/uploads/2019/07/Utthita-Hasta-Padangusthasana-c.png)
+![Uthitha-Hasta-Padaangustasana-A](https://www.devvratyoga.com/wp-content/uploads/2019/07/Uthitha-Hasta-Padaangustasana-A.png)
+![Uthitha-Hasta-Padaangustasana-b](https://www.devvratyoga.com/wp-content/uploads/2019/07/Uthitha-Hasta-Padaangustasana-b.png)
+![Uthitha-Hasta-Padaangustasana-c](https://www.devvratyoga.com/wp-content/uploads/2019/07/Uthitha-Hasta-Padaangustasana-c.png)
 
 ## Sanskrit Meaning
 "Utthita means extended. Hasta means the hand. Padangustha is the big toe. This pose is done by standing on one leg, extending the other in front, holding the toe of the extended leg and resting the head on the leg." 
