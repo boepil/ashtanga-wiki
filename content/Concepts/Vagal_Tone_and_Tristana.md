@@ -5,7 +5,7 @@ tags: [nervous-system, tristana, meditation, vagus-nerve, bridge]
 sources: [raw/06_ANATOMY/04_Integration_&_Mind-Body/01_Neuro-Physiology/The Vagus Nerve (CN X).md, raw/06_ANATOMY/04_Integration_&_Mind-Body/01_Neuro-Physiology/Sympathetic_vs_Parasympathetic.md]
 bridge: Nervous System → Contemplative Practice
 updated: 2026-05-14
-sequence: 80
+sequence: 81
 ---
 <div class="page-wrapper is-bridge">
 

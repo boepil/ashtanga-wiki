@@ -4,7 +4,7 @@ type: concept
 tags: [journaling, svadhyaya, self-study, pedagogy]
 sources: [raw/08_TEACHING_METHODOLOGY/Practice_Journaling/*, raw/09_PERSONAL_PRACTICE/Practice_Insights.md]
 updated: 2026-05-14
-sequence: 71
+sequence: 72
 ---
 <div class="page-wrapper is-bridge">
 

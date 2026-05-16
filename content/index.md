@@ -79,6 +79,7 @@ Welcome to the Ashtanga Yoga Knowledge Wiki.
 - [[Endocrine_System_and_Inversions]]
 - [[Breath_Awareness_And_Anatomy]]
 - [[Joint_Stability]]
+- [[Eccentric_Contraction]]
 - [[Injury_Management]]
 
 ## 08. Teaching Methodology
@@ -120,6 +121,7 @@ Welcome to the Ashtanga Yoga Knowledge Wiki.
 - [[Tensegrity_and_Deep_Front_Line]] — fascia → energetic yoga concepts
 - [[Tissue_Mechanics_Vinyasa_Count]] — biomechanics → traditional methodology
 - [[Lotus_Protocol_and_Meniscus]] — pathology → structural anatomy
+- [[Bandha_Vayu_Integration]] — energetic locks → core anatomy integration
 Note: [[The_Bohr_Effect_and_Kumbhaka|Bohr_Effect_and_Kumbhaka]] — breath physiology → pranayama
 
 ## Compensation Patterns

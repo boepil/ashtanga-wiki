@@ -41,6 +41,9 @@ When all three primary bandhas are engaged simultaneously, the practice is calle
 - **Levity:** Proper engagement, particularly of Mula and Uddiyana Bandha, allows practitioners to "float" through vinyasas and hold arm balances with apparent weightlessness.
 - **Mental Focus:** The continuous effort required to maintain these subtle internal locks provides a powerful point of concentration (*Dharana*), anchoring the mind in the present moment.
 
+## Energetic and Anatomical Integration
+For a detailed mapping of how these locks interact with the **Prana Vayus** and the physical **Core Cylinder**, see the [[Bandha_Vayu_Integration]] guide.
+
 ## Sources
 - `raw/03_BANDHA/03_BANDHA.md`
 - K. Pattabhi Jois, *Yoga Mala* [via NotebookLM Yoga and Human Anatomy]

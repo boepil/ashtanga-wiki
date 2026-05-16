@@ -3,7 +3,7 @@ type: lineage
 tags: [krishnamacharya, history, vinyasa]
 sources: []
 updated: 2026-04-29
-sequence: 77
+sequence: 78
 ---
 <div class="page-wrapper is-asana">
 

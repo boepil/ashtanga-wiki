@@ -4,7 +4,7 @@ type: practice
 tags: [teaching, class-structure, mysore, led-class]
 sources: [raw/08_TEACHING_METHODOLOGY/Class_Structure/*]
 updated: 2026-05-14
-sequence: 58
+sequence: 59
 ---
 <div class="page-wrapper is-asana">
 

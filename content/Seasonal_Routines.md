@@ -4,7 +4,7 @@ type: concept
 tags: [ayurveda, ritucharya, seasons, lifestyle]
 sources: [raw/10_AYURVEDA_AND_DIET/Seasonal_Routines_(Ritucharya).md]
 updated: 2026-05-14
-sequence: 69
+sequence: 70
 ---
 <div class="page-wrapper is-bridge">
 

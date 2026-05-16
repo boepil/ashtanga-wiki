@@ -1,8 +1,13 @@
 ---
 type: concept
-tags: [anatomy, fascia, connective-tissue, bandhas]
-sources: []
-updated: 2026-04-29
+tags: [anatomy, fascia, connective-tissue, bandhas, biotensegrity]
+sources:
+  - (Myers, Anatomy Trains 4th Ed, p. 3, 9)
+  - (Little, Yoga of the Subtle Body, Chapter 1, 2, 8)
+  - (Clark, Your Body, Your Yoga, p. 43, 231)
+  - (Mitchell, Yoga Biomechanics, p. 17)
+  - (ASHTANGA_YOGA_KNOWLEDGE_BASE.pdf, p. 15, 18, 20)
+updated: 2026-05-16
 sequence: 51
 ---
 <div class="page-wrapper is-bridge">
@@ -12,40 +17,55 @@ sequence: 51
 # Fascial System
 
 ## Summary
-In modern anatomical understanding of yoga, the fascial system provides the continuous web of connective tissue that links distant parts of the body. Concepts like Thomas Myers' *Anatomy Trains* map directly onto yogic "Energy Lines," explaining how tension in one area (like the feet) affects distant areas (like the back), and how the *Bandhas* physically connect to the deep core architecture of the body.
+The fascial system is a body-wide network of connective tissue that separates parts yet integrates the whole [1]. In Ashtanga Yoga, understanding fascia shifts the paradigm from isolated muscle action to **myofascial meridians**—continuous lines of tension that transmit force and provide global stability [4, 15]. Key concepts include the connectivity of the [[Bandha_Overview|Bandhas]] through the Deep Front Line and the structural principle of **Biotensegrity**.
 
 ## Detail
 
 ### Myofascial Meridians (Anatomy Trains)
-Thomas Myers' pivotal work on fascia explained how "the web of fascia forms specific trains of stress, called myofascial meridians, that aid the body’s movements" (Clark, *Your Body, Your Yoga*, p. 43). Myers identified 12 of these meridians—"lines which transmit strain and rebound, facilitating movement and providing stability" (Clark, *Your Body, Your Yoga*, Appendix C).
+Thomas Myers identified 12 myofascial meridians that transmit strain and rebound throughout the body [4]. In yoga, these "Energy Lines" explain how a restriction in the foot can suddenly manifest as tension in the neck or shoulders [1, 24].
 
-In yoga, "Energy Lines correspond to Myofascial Meridians—continuous webs of connective tissue that link distant parts of the body" (*ASHTANGA YOGA KNOWLEDGE BASE*, p. 20).
+### 1. The Superficial Back Line (SBL): The Posterior Chain
+The SBL runs from the underside of the toes, up the posterior surface of the body, and over the skull to the brow [4, 22].
+- **Continuous Unit**: In straight-legged forward folds like [[Paschimottanasana]], the SBL functions as a single integrated line of tension [4, 5].
+- **The Knee "Derailment"**: The SBL only acts as a unit when the knees are extended. Flexing the knees "derails" the line at the knee joint, unlinking the lower leg from the hamstrings. This is why slightly bending the knees allows for a deeper fold in those with limited posterior mobility [5].
+- **The Plantar Root**: The plantar fascia is the "originating station" of the SBL. If the SBL is chronically tight, it acts like a bowstring, pushing the heel bone (calcaneus) forward into the ankle like an arrow, leading to postural collapse [23, 27, 28].
 
-### The Superficial Back Line (SBL) in Forward Folds
-The Superficial Back Line (SBL) runs continuously "from the soles of the feet, up the back side of the body (which includes the calves and hamstrings, the spine and the back of the neck), to the eyebrows" (Clark, *Your Body, Your Yoga*, p. 231).
+### 2. The Deep Front Line (DFL): The Myofascial Core
+The DFL is the body's structural core, running from the deep underside of the foot, through the adductors, pelvic floor, psoas, and diaphragm, up to the tongue and skull [8, 9].
+- **Fascial Correlate of the Bandhas**: The Bandhas correspond to the horizontal diaphragms of the DFL. **Mula Bandha** (pelvic floor) and **Uddiyana Bandha** (respiratory diaphragm/psoas) are linked by a continuous fascial sleeve along the front of the lumbar spine [10, 21].
+- **Pada Bandha**: The lift of the "heart of the foot" (Tala Hrdaya) provides the initial "core lift" that supports Mula Bandha, establishing an upward flow of kinetic forces through the DFL [25, 26].
 
-Because this fascia forms a single continuous sheet of tension, limitations in a forward fold like *Paschimottanasana* may originate far from the hamstrings. "Tightness in the plantar fascia (feet) can restrict forward bends (hamstrings/back)" (*ASHTANGA YOGA KNOWLEDGE BASE*, p. 18).
+### 3. Biotensegrity: Tension over Compression
+Biotensegrity is the principle of structural integrity created by continuous tension (fascia) and discontinuous compression (bones) [15, 17].
+- **Floating Struts**: In this model, bones are "compression struts" that do not touch but rather float within a balanced sea of tensile myofascial tissues [15].
+- **Global Force Distribution**: Force is distributed across the entire web rather than being concentrated at a single joint. This allows for the weight-bearing required in Ashtanga vinyasas (e.g., jump-backs, handstands) without reliance on rigid, heavy stacking of the skeleton [15, 17].
 
-### The Deep Front Line (DFL) and the Bandhas
-The concept of *Mula Bandha* and *Uddiyana Bandha* finds its exact anatomical corollary in the Deep Front Line.
+---
 
-"A fascial sleeve runs continuously from the pelvic floor along the front of the lumbar spine and up to the diaphragm... This is valuable to keep in mind in light of the actions of mūla and uḍḍīyāna bandhas. It suggests that these two bandhas and the pelvic and respiratory diaphragms have myofascial continuity" (Little, *Yoga of the Subtle Body*, Chapter 4).
-
-This continuity extends all the way down to the feet. "The inner foot and inseam of the leg have myofascial continuity with the sanctum of the pelvic floor, iliopsoas, and ventral spine" (Little, *Yoga of the Subtle Body*, Chapter 1). Therefore, "Engagement at the sole of the foot is sometimes referred to as pada bandha; it supports mula bandha in establishing a flow of kinetic forces upward through the body" (Little, *Yoga of the Subtle Body*, Chapter 1).
+## Myofascial Lines in Asana
+| Line | Primary Asana Impact | Functional Role |
+| :--- | :--- | :--- |
+| **Superficial Back (SBL)** | Forward Folds ([[Uttanasana]]) | Manages the posterior "carapace" [4]. |
+| **Deep Front (DFL)** | Lifts, Bandhas, Breath | Stabilizes the inner core/lumbar spine [9]. |
+| **Lateral Line** | Side Bends ([[Vatayanasana]]) | Stabilizes the "rails" of the body. |
+| **Spiral Line** | Twists ([[Marichyasana]]) | Regulates rotation and knee tracking. |
 
 ## Connections
-- [[Anatomy_Overview]] — The broader context of functional movement.
-- [[Asana_Fundamentals]] — How tension and compression define the limits of flexibility.
-- [[Bandha_Overview]] — The energetic locks that utilize the Deep Front Line.
+- [[Anatomy_Overview]] — Functional movement overview.
+- [[Muscular_System]] — The relationship between muscles and fascial sleeves.
+- [[Bandha_Overview]] — The energetic locks that utilize the DFL.
+- [[Asana_Fundamentals]] — Tension and compression dynamics.
 
 ## Writing angles
-- The paradigm shift from viewing muscles in isolation (origin/insertion) to understanding continuous fascial tension across the whole body.
-- How the ancient concept of *Nadis* (energy channels) may represent an early phenomenological mapping of these myofascial meridians.
+- How the ancient concept of **Nadis** (energy channels) aligns with the modern mapping of myofascial meridians.
+- The role of "Knee Derailment" as a therapeutic modification for back health.
 
 ## Sources
-- Bernie Clark, *Your Body, Your Yoga* [via NotebookLM - Yoga and Human Anatomy]
-- Tias Little, *Yoga of the Subtle Body* [via NotebookLM - Yoga and Human Anatomy]
-- `raw/06_ANATOMY/נקודות אנטאטומיות מרכזיות ביוגה.md` [via NotebookLM - Yoga and Human Anatomy]
+- (Myers, Thomas, *Anatomy Trains 4th Edition*, p. 3-30) — Yoga Rehab Library
+- (Little, Tias, *Yoga of the Subtle Body*, Chapters 1, 4, 8) — Yoga Rehab Library
+- (Clark, Bernie, *Your Body, Your Yoga*, p. 43, 231) — Yoga Rehab Library
+- (Mitchell, Jules, *Yoga Biomechanics*, p. 17) — Yoga Rehab Library
+- (ASHTANGA_YOGA_KNOWLEDGE_BASE.pdf, p. 15-20) — Yoga and Human Anatomy
 
 
 </div>

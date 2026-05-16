@@ -27,6 +27,8 @@ In the subtle anatomy of yoga, *Prana* (the universal life force) is divided int
 
 Understanding the Vayus is crucial for deep [[Pranayama]] and the engagement of energetic locks (Bandhas). For instance, Mula Bandha lifts the *Apana Vayu* upward, while Jalandhara Bandha directs the *Prana Vayu* downward, forcing them to meet in the navel (*Samana*) and eventually enter the central channel ([[Sushumna]]) to awaken higher consciousness.
 
+For a deep dive into how these energetic winds map to the physical core muscles and diaphragms, see [[Bandha_Vayu_Integration]].
+
 ## Sources
 - `raw/07_PHILOSOPHY/Practical_Philosophy/חמשת זרמי האנרגיה – Pancha Prana Vayus.md`
 - `raw/07_PHILOSOPHY/Practical_Philosophy/my own Yoga_Analysis.md`
