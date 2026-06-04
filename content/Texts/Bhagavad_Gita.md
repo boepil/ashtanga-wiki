@@ -4,7 +4,7 @@ type: concept
 tags: [texts, philosophy, karma-yoga, bhagavad-gita]
 sources: [raw/07_PHILOSOPHY/Classical_Context/Yoga in the Bhagavad Gita.md]
 updated: 2026-05-14
-sequence: 75
+sequence: 76
 ---
 <div class="page-wrapper is-bridge">
 

@@ -4,7 +4,7 @@ type: practice
 tags: [mudra, kaya-mudra, energy, advanced]
 sources: [raw/04_MUDRA/Body_Mudras/*]
 updated: 2026-05-14
-sequence: 40
+sequence: 41
 ---
 <div class="page-wrapper is-asana">
 

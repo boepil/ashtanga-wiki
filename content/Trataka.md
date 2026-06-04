@@ -4,7 +4,7 @@ type: practice
 tags: [shatkarma, kriya, concentration, eye-cleansing]
 sources: [raw/05_SHATKARMAS/Accessible_Practices/Simple_Eye_Cleansing.md]
 updated: 2026-05-14
-sequence: 46
+sequence: 47
 ---
 <div class="page-wrapper is-asana">
 

@@ -49,6 +49,7 @@ Welcome to the Ashtanga Yoga Knowledge Wiki.
 - [[Nadi_Shodhana]]
 - [[Traditional_Pranayama_Techniques]]
 - [[Breath_Awareness_And_Anatomy]]
+- [[Breath_Exercises_For_Erector_Spinae]]
 
 ## 03. Bandha
 - [[Bandha_Overview]]
@@ -78,6 +79,7 @@ Welcome to the Ashtanga Yoga Knowledge Wiki.
 - [[Cardiovascular_and_Lymphatic_Systems]]
 - [[Endocrine_System_and_Inversions]]
 - [[Breath_Awareness_And_Anatomy]]
+- [[Breath_Exercises_For_Erector_Spinae]]
 - [[Joint_Stability]]
 - [[Eccentric_Contraction]]
 - [[Injury_Management]]

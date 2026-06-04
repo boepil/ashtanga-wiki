@@ -8,7 +8,7 @@ sources:
   - (Swanson, Science of Yoga, p. 118-121)
   - (ASHTANGA_YOGA_KNOWLEDGE_BASE.pdf, p. 8, 14, 18)
 updated: 2026-05-16
-sequence: 55
+sequence: 56
 ---
 <div class="page-wrapper is-bridge">
 

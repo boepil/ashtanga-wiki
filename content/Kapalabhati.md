@@ -4,7 +4,7 @@ type: practice
 tags: [shatkarma, pranayama, breathing, kriya]
 sources: [raw/05_SHATKARMAS/Accessible_Practices/Kapalabhati_(Skull_Shining_Breath).md]
 updated: 2026-05-14
-sequence: 45
+sequence: 46
 ---
 <div class="page-wrapper is-asana">
 

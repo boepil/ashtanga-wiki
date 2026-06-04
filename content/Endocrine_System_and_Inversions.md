@@ -7,7 +7,7 @@ sources:
   - (Little, Yoga of the Subtle Body, Chapter 7)
   - (ASHTANGA_YOGA_KNOWLEDGE_BASE.pdf, p. 1)
 updated: 2026-05-16
-sequence: 53
+sequence: 54
 ---
 <div class="page-wrapper is-bridge">
 

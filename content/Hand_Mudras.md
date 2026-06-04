@@ -4,7 +4,7 @@ type: practice
 tags: [mudra, hand, meditation, pranayama]
 sources: [raw/04_MUDRA/Hand_Mudras/*]
 updated: 2026-05-14
-sequence: 41
+sequence: 42
 ---
 <div class="page-wrapper is-asana">
 

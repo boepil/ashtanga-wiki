@@ -4,7 +4,7 @@ type: resource
 tags: [teaching, adjustment, journaling, practice]
 sources: [raw/08_TEACHING_METHODOLOGY/Observation_and_Adjustment/Adjustments.md]
 updated: 2026-05-14
-sequence: 63
+sequence: 64
 ---
 <div class="page-wrapper is-asana">
 

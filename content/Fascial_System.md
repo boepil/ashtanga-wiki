@@ -8,7 +8,7 @@ sources:
   - (Mitchell, Yoga Biomechanics, p. 17)
   - (ASHTANGA_YOGA_KNOWLEDGE_BASE.pdf, p. 15, 18, 20)
 updated: 2026-05-16
-sequence: 51
+sequence: 52
 ---
 <div class="page-wrapper is-bridge">
 

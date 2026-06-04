@@ -9,7 +9,7 @@ sources:
   - (Yoga of the Subtle Body, Chapter 2)
   - (ASHTANGA_YOGA_KNOWLEDGE_BASE.pdf, p. 1-29)
 updated: 2026-05-16
-sequence: 50
+sequence: 51
 ---
 <div class="page-wrapper is-bridge">
 

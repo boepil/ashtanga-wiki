@@ -4,7 +4,7 @@ type: resource
 tags: [shatkarma, safety, timing, teaching]
 sources: [raw/05_SHATKARMAS/Safety_and_Contraindications/*]
 updated: 2026-05-14
-sequence: 47
+sequence: 48
 ---
 <div class="page-wrapper is-asana">
 

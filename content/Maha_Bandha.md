@@ -4,7 +4,7 @@ type: concept
 tags: [bandha, anatomy, energy, foundational, advanced]
 sources: [raw/03_BANDHA/Maha_Bandha_(Great_Lock)/*]
 updated: 2026-05-14
-sequence: 38
+sequence: 39
 ---
 <div class="page-wrapper is-bridge">
 

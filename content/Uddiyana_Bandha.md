@@ -4,7 +4,7 @@ type: concept
 tags: [bandha, anatomy, energy, foundational]
 sources: [raw/03_BANDHA/Uddiyana_Bandha_(Upward_Flying_Lock)/*]
 updated: 2026-05-14
-sequence: 36
+sequence: 37
 ---
 <div class="page-wrapper is-bridge">
 

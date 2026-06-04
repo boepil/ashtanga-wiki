@@ -5,7 +5,7 @@ tags: [texts, classical-yoga, philosophy]
 aliases: [Yoga Sutras, Patanjali]
 sources: [raw/07_PHILOSOPHY/Eight_Limbs_of_Yoga_(Ashtanga)/*]
 updated: 2026-05-14
-sequence: 73
+sequence: 74
 ---
 <div class="page-wrapper is-asana">
 

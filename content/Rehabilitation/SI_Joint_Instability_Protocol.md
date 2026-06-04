@@ -10,7 +10,7 @@ sources:
   - (Myers, Anatomy Trains, p. 131-146)
   - (Starrett, Becoming a Supple Leopard, p. 40-299)
 updated: 2026-05-02
-sequence: 100
+sequence: 101
 ---
 <div class="page-wrapper is-rehabilitation">
 

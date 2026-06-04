@@ -3,7 +3,7 @@ type: lineage
 tags: [iyengar, alignment, history, props]
 sources: []
 updated: 2026-04-29
-sequence: 80
+sequence: 81
 ---
 <div class="page-wrapper is-asana">
 
