@@ -17,6 +17,8 @@ Biomechanics is the study of the body's mechanical function—how bones, joints,
 ## Detail
 
 ### Closed-Chain Biomechanics
+![[chaturanga_biomechanics.png]]
+
 A closed kinetic chain exercise is one where the distal segment (hand or foot) is fixed against a surface, and forces are transmitted proximally through the limb and trunk. Chaturanga Dandasana functions as an upper-limb closed-chain exercise:
 - The hands are fixed against the mat; movement occurs at the shoulder, elbow, and trunk relative to that fixed point.
 - The rotator cuff (supraspinatus, infraspinatus, teres minor, subscapularis) dynamically stabilizes the humeral head, preventing excessive anterior translation during the lowering phase.
@@ -36,6 +38,8 @@ The pelvis acts as a biomechanical bridge between the trunk and lower limbs. Its
 - **Ashtanga Application**: In backbends, controlled anterior tilt is necessary for hip extension; in forward folds, a posterior tilt initiated by the hamstrings deepens the fold while protecting the lumbar spine.
 
 ### The Windlass Effect (Foot Biomechanics)
+![[foot_windlass_mechanism.png]]
+
 The windlass effect describes the stabilization of the foot during push-off:
 - As the toes dorsiflex during the late stance phase of gait (or the push-off in vinyasa), the plantar fascia tightens around the metatarsal heads, elevating the medial longitudinal arch.
 - This transforms the foot from a flexible shock absorber into a rigid lever for efficient propulsion.

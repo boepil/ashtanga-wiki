@@ -21,6 +21,8 @@ Nociception is the detection of potentially damaging stimuli by specialized nerv
 - **Systemic Triggers**: Nociceptors also function as thermoreceptors and chemoreceptors. Systemic factors—diet, hydration, emotional stress—can trigger pain signals without any mechanical tissue injury.
 
 ### Gate Control Theory of Pain
+![[gate_control_theory.png]]
+
 The gate control theory explains how non-painful input can override pain signals at the spinal cord level.
 - **Mechanoreceptor Dominance**: Nociceptors are a type of mechanoreceptor. Adding a non-painful stimulus (gentle touch, pressure, movement) can "close the gate" to the pain signal, preventing it from reaching conscious perception.
 - **Yoga Application**: Gentle, non-threatening movement in areas of chronic tension introduces mechanoreceptor input that helps re-wire the brain's interpretation of those signals—from "danger/pain" to "safe/functional movement." This is the physiological basis for therapeutic yoga for chronic pain conditions.
