@@ -28,7 +28,7 @@ export const Fold: QuartzTransformerPlugin<Options> = (opts) => {
         })
 
         css.push({
-          content: `.fold-heading{cursor:pointer;user-select:none}.fold-heading::before{content:"▼";display:inline-block;margin-right:0.35em;font-size:0.7em;transition:transform .2s ease}.fold-heading.is-collapsed::before{content:"▶"}.fold-content.is-collapsed{display:none}`,
+          content: `article.popover-hint .fold-heading{cursor:pointer;user-select:none}article.popover-hint .fold-heading::before{content:"▼";display:inline-block;margin-right:0.35em;font-size:0.7em;transition:transform .2s ease}article.popover-hint .fold-heading.is-collapsed::before{content:"▶"}article.popover-hint .fold-content.is-collapsed{display:none}`,
           inline: true,
         })
       }
