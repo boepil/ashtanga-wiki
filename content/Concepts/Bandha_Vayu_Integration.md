@@ -4,7 +4,7 @@ type: concept
 tags: [anatomy, bandhas, subtle-body, energy, core-stability]
 aliases: [Energetic Integration, Bandha Vayu Connection, Core Cylinder]
 updated: 2026-05-15
-sequence: 86
+sequence: 92
 ---
 <div class="page-wrapper is-bridge">
 

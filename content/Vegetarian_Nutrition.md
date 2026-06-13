@@ -4,7 +4,7 @@ type: concept
 tags: [ayurveda, diet, nutrition, vegetarian, protein]
 sources: [raw/10_AYURVEDA_AND_DIET/מזון עתיר חלבונים לצמחוני המתאים לאימוני כוח וגמישות.md, raw/10_AYURVEDA_AND_DIET/Nutrition_Principles.md]
 updated: 2026-05-14
-sequence: 72
+sequence: 78
 ---
 <div class="page-wrapper is-bridge">
 

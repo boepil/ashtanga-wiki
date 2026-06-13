@@ -4,7 +4,7 @@ type: resource
 tags: [inspiration, philosophy, insights, svadhyaya]
 sources: [raw/09_PERSONAL_PRACTICE/Inspiration_Quotes_or_Experiences.md]
 updated: 2026-05-14
-sequence: 65
+sequence: 71
 ---
 <div class="page-wrapper is-asana">
 
