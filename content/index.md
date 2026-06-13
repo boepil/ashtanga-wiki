@@ -10,36 +10,19 @@ updated: 2026-05-14
 
 Welcome to the Ashtanga Yoga Knowledge Wiki.
 
-## Concepts
-- [[Eight_Limbs]]
-- [[Yamas]]
-- [[Niyamas]]
-- [[Asana]]
-- [[Asana_Fundamentals]]
-- [[Surya_Namaskar]]
-- [[Primary_Series]]
+## 01. Asana & Vinyasa
+- [[Asana]] — The physical practice limb
+- [[Asana_Fundamentals]] — Alignment principles and energy lines
+- [[Surya_Namaskar]] — Sun Salutations
+- [[Primary_Series]] (Yoga Chikitsa)
   - [[Standing_Sequence]]
   - [[Seated_Sequence]]
   - [[Finishing_Sequence]]
-- [[Intermediate_Series]]
-- [[Advanced_Series]]
-- [[Pranayama]]
-- [[Pratyahara]]
-- [[Dharana]]
-- [[Dhyana]]
-- [[Samadhi]]
-- [[Purusha_and_Prakriti]]
-- [[Gunas]]
-- [[Kleshas]]
-- [[Koshas]]
-- [[Prana_Vayus]]
-- [[Sushumna]]
-- [[Om]]
-- [[Womens_Practice_Traditions]]
-- [[Sanskrit_Mantras_and_Terminology]]
-- [[The_Bohr_Effect_and_Kumbhaka]]
+- [[Intermediate_Series]] (Nadi Shodhana)
+- [[Advanced_Series]] (Sthira Bhaga)
 
 ## 02. Pranayama
+- [[Pranayama]] — The breath control limb
 - [[Pranayama_Overview]]
 - [[Ujjayi_Pranayama]]
 - [[Nadi_Shodhana]]
@@ -82,6 +65,26 @@ Welcome to the Ashtanga Yoga Knowledge Wiki.
 - [[Biomechanics_Overview]]
 - [[Pain_Science]]
 - [[Yoga_Physiology]]
+
+## 07. Philosophy & Subtle Systems
+- [[Eight_Limbs]] — Overview of the classical path
+  - [[Yamas]] — Ethical restraints
+  - [[Niyamas]] — Personal observances
+  - [[Asana]] — Physical posture (see Section 01)
+  - [[Pranayama]] — Breath control (see Section 02)
+  - [[Pratyahara]] — Sensory withdrawal
+  - [[Dharana]] — Concentration
+  - [[Dhyana]] — Meditation
+  - [[Samadhi]] — Integration/absorption
+- [[Purusha_and_Prakriti]] — Dualism of consciousness and nature
+- [[Gunas]] — The three forces of nature
+- [[Kleshas]] — The five obstacles to peace
+- [[Koshas]] — The five energetic sheaths
+- [[Prana_Vayus]] — The five subtle energy winds
+- [[Sushumna]] — The central energetic channel
+- [[Om]] — The sacred syllable
+- [[Womens_Practice_Traditions]] — Historical and somatic considerations
+- [[Sanskrit_Mantras_and_Terminology]]
 
 ## 08. Teaching Methodology
 - [[Teaching_Methodology]]
