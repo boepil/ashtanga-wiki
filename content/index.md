@@ -66,6 +66,11 @@ Welcome to the Ashtanga Yoga Knowledge Wiki.
 - [[Pain_Science]]
 - [[Yoga_Physiology]]
 
+### Injuries & Pathology
+- [[Upper_Extremity_Injuries]] — Shoulder, elbow, wrist, hand
+- [[Spine_Injuries]] — Lumbar disc, SI joint, core dysfunction
+- [[Lower_Extremity_Injuries]] — Hip, knee, ankle, foot, hamstring
+
 ## 07. Philosophy & Subtle Systems
 - [[Eight_Limbs]] — Overview of the classical path
   - [[Yamas]] — Ethical restraints
