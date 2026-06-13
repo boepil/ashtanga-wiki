@@ -4,11 +4,7 @@ type: index
 tags: [index, navigation, overview]
 sources: [wiki/*]
 updated: 2026-05-14
-sequence: 1
 ---
-<div class="page-wrapper is-asana">
-
-
 
 # Ashtanga Yoga Knowledge Wiki
 
@@ -83,6 +79,9 @@ Welcome to the Ashtanga Yoga Knowledge Wiki.
 - [[Joint_Stability]]
 - [[Eccentric_Contraction]]
 - [[Injury_Management]]
+- [[Biomechanics_Overview]]
+- [[Pain_Science]]
+- [[Yoga_Physiology]]
 
 ## 08. Teaching Methodology
 - [[Teaching_Methodology]]
@@ -164,5 +163,3 @@ Note: [[The_Bohr_Effect_and_Kumbhaka|Bohr_Effect_and_Kumbhaka]] — breath physi
 
 ## Sources
 - `wiki/*` (Self-referential index of the digital garden)
-
-</div>

@@ -7,11 +7,7 @@ sources:
   - (Long, Key Muscles of Yoga, p. 9-11)
   - (ASHTANGA_YOGA_KNOWLEDGE_BASE.pdf, p. 14, 21-25)
 updated: 2026-05-16
-sequence: 55
----
-<div class="page-wrapper is-bridge">
-
- 
+--- 
 
 # Joint Stability
 
@@ -44,6 +40,7 @@ The hip joint is the mechanical center of the body's movement in asana [18, 19].
 - [[Skeletal_System]] — The structural framework of the joints.
 - [[Muscular_System]] — The muscles providing dynamic stabilization.
 - [[Asana_Fundamentals]] — Practical application of stability principles (Energy Lines).
+- [[Biomechanics_Overview]] — Broader biomechanical principles including closed-chain mechanics.
 - [[Injury_Management]] — Protocol for when stability is compromised.
 
 ## Writing angles
@@ -55,6 +52,3 @@ The hip joint is the mechanical center of the body's movement in asana [18, 19].
 - (Kaminoff, Leslie, *Yoga Anatomy 2nd Ed*, p. 24) — Yoga and Human Anatomy
 - (Long, Ray, *Key Muscles of Yoga*, p. 9-11) — Yoga and Human Anatomy
 - (ASHTANGA_YOGA_KNOWLEDGE_BASE.pdf, p. 14, 21-25) — Yoga and Human Anatomy
-
-
-</div>

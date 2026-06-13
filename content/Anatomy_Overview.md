@@ -5,11 +5,7 @@ sources:
   - (Clark, Your Body, Your Yoga, p. 1-20, 579-618)
   - (ASHTANGA_YOGA_KNOWLEDGE_BASE.pdf, p. 1-8)
 updated: 2026-05-16
-sequence: 49
----
-<div class="page-wrapper is-bridge">
-
- 
+--- 
 
 # Anatomy Overview
 
@@ -51,6 +47,9 @@ Alignment is the intelligent arrangement of the body to maximize energy flow and
 - [[Asana_Fundamentals]] — The application of these anatomical principles in practice.
 - [[Skeletal_System]] — Detailed exploration of the bones and joints.
 - [[Muscular_System]] — The muscles that move and stabilize the framework.
+- [[Biomechanics_Overview]] — Detailed biomechanics of joints and movement.
+- [[Pain_Science]] — Gate control theory, nociception, and nervous system regulation.
+- [[Yoga_Physiology]] — Bandhas, nerve plexuses, and the physiology of pranayama.
 - [[Eccentric_Contraction]] — Strength through lengthening and its role in tendon health.
 - [[Anatomy_Glossary]] — Definitions of key anatomical terms.
 
@@ -61,6 +60,3 @@ Alignment is the intelligent arrangement of the body to maximize energy flow and
 ## Sources
 - (Clark, Bernie, *Your Body, Your Yoga*, p. 1-20, 579-618) — Yoga and Human Anatomy
 - (ASHTANGA_YOGA_KNOWLEDGE_BASE.pdf, p. 1-8) — Yoga and Human Anatomy
-
-
-</div>
