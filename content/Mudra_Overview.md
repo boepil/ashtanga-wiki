@@ -4,7 +4,7 @@ type: concept
 tags: [mudra, tristana, energy, foundational]
 sources: [raw/04_MUDRA/04_MUDRA.md, raw/04_MUDRA/Tristana.md]
 updated: 2026-05-14
-sequence: 40
+sequence: 22
 ---
 <div class="page-wrapper is-bridge">
 

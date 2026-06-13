@@ -6,7 +6,7 @@ sources:
   - (Broad, The Science of Yoga, Chapter 4)
   - (raw/06_ANATOMY/04_Integration_&_Mind-Body/01_Neuro-Physiology/*)
 updated: 2026-06-13
-sequence: 59
+sequence: 42
 ---
 
 # Pain Science and Neuro-Physiology

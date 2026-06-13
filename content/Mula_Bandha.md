@@ -4,7 +4,7 @@ type: concept
 tags: [bandha, anatomy, energy, foundational]
 sources: [raw/03_BANDHA/Mula_Bandha_(Root_Lock)/*]
 updated: 2026-05-14
-sequence: 36
+sequence: 18
 ---
 <div class="page-wrapper is-bridge">
 

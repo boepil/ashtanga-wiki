@@ -6,7 +6,7 @@ sources:
   - (Raw, 06_ANATOMY/02_Biomechanics_&_Dynamics/Pelvic Tilt Biomechanics*)
   - (Raw, 06_ANATOMY/01_Foundational_Systems/01_Skeletal/Spine_and_Core_Stability.md)
 updated: 2026-06-13
-sequence: 62
+sequence: 45
 ---
 
 # Spine and Mid-Extremity Injuries

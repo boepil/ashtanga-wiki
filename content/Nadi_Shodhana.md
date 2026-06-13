@@ -4,7 +4,7 @@ type: practice
 tags: [pranayama, purification, breathing, energy]
 sources: [raw/02_PRANAYAMA/Traditional_Pranayama_Practices/Nadi_Shodhana_(Alternate_Nostril).md]
 updated: 2026-05-14
-sequence: 31
+sequence: 13
 ---
 <div class="page-wrapper is-asana">
 

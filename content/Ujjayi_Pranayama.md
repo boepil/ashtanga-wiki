@@ -4,7 +4,7 @@ type: practice
 tags: [pranayama, ashtanga, breathing, foundational]
 sources: [raw/02_PRANAYAMA/Ujjayi_Breath/*]
 updated: 2026-05-14
-sequence: 30
+sequence: 12
 ---
 <div class="page-wrapper is-asana">
 

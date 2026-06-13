@@ -4,7 +4,7 @@ type: concept
 tags: [ayurveda, dosha, vata, pitta, kapha, adaptation]
 sources: [raw/10_AYURVEDA_AND_DIET/Dosha_Types_and_Practice_Adaptations.md]
 updated: 2026-05-14
-sequence: 76
+sequence: 99
 ---
 <div class="page-wrapper is-bridge">
 

@@ -2,48 +2,40 @@ document.addEventListener("nav", () => {
   const article = document.querySelector("article.popover-hint")
   if (!article) return
 
-  const toProcess: { heading: Element; content: Element[] }[] = []
-  let currentHeading: Element | null = null
-  let currentContent: Element[] = []
+  const children = Array.from(article.children)
+  let currentHeading = null
+  let currentWrapper = null
 
-  for (const child of article.children) {
+  for (let i = 0; i < children.length; i++) {
+    const child = children[i]
     const tag = child.tagName
-    if (tag === "H3" || tag === "H2") {
-      if (currentHeading && tag === "H3") {
-        toProcess.push({ heading: currentHeading, content: currentContent })
-      }
-      currentHeading = child
-      currentContent = []
-      if (tag === "H2") {
+    
+    if (tag.startsWith("H") && /^[1-6]$/.test(tag.substring(1))) {
+      const level = parseInt(tag.substring(1))
+      
+      if (currentHeading && level <= currentHeading.level) {
         currentHeading = null
+        currentWrapper = null
       }
-    } else if (currentHeading) {
-      currentContent.push(child as Element)
+      
+      currentHeading = { element: child, level: level }
+      
+      currentWrapper = document.createElement("div")
+      currentWrapper.className = "fold-content"
+      child.after(currentWrapper)
+      child.classList.add("fold-heading")
+      
+      const toggle = (e: MouseEvent) => {
+        const target = e.target as HTMLElement
+        if (target.closest("a[role=anchor]")) return
+        child.classList.toggle("is-collapsed")
+        currentWrapper.classList.toggle("is-collapsed")
+      }
+      
+      child.addEventListener("click", toggle)
+      window.addCleanup(() => child.removeEventListener("click", toggle))
+    } else if (currentWrapper) {
+      currentWrapper.appendChild(child)
     }
-  }
-  if (currentHeading) {
-    toProcess.push({ heading: currentHeading, content: currentContent })
-  }
-
-  for (const { heading, content } of toProcess) {
-    if (content.length === 0) continue
-
-    const wrapper = document.createElement("div")
-    wrapper.className = "fold-content"
-    for (const el of content) {
-      wrapper.appendChild(el)
-    }
-    heading.after(wrapper)
-    heading.classList.add("fold-heading")
-
-    const toggle = (e: MouseEvent) => {
-      const target = e.target as HTMLElement
-      if (target.closest("a[role=anchor]")) return
-      heading.classList.toggle("is-collapsed")
-      wrapper.classList.toggle("is-collapsed")
-    }
-
-    heading.addEventListener("click", toggle)
-    window.addCleanup(() => heading.removeEventListener("click", toggle))
   }
 })

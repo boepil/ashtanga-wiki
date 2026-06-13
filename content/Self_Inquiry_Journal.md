@@ -4,7 +4,7 @@ type: resource
 tags: [journaling, svadhyaya, atma-vicara, philosophy]
 sources: [raw/09_PERSONAL_PRACTICE/Self-Inquiry_Journal.md]
 updated: 2026-05-14
-sequence: 72
+sequence: 95
 ---
 <div class="page-wrapper is-asana">
 

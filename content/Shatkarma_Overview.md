@@ -4,7 +4,7 @@ type: concept
 tags: [shatkarma, kriya, purification, foundational]
 sources: [raw/05_SHATKARMAS/*]
 updated: 2026-05-14
-sequence: 44
+sequence: 26
 ---
 <div class="page-wrapper is-bridge">
 

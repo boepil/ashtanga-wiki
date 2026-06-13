@@ -4,7 +4,7 @@ type: concept
 tags: [pranayama, breathing, energy, foundational]
 sources: [raw/02_PRANAYAMA/*]
 updated: 2026-05-14
-sequence: 29
+sequence: 11
 ---
 <div class="page-wrapper is-bridge">
 
