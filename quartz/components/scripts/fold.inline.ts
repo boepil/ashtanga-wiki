@@ -1,6 +1,4 @@
 ;(() => {
-  const cleanup = typeof window.addCleanup === "function" ? window.addCleanup : (fn: () => void) => fn()
-
   document.addEventListener("nav", () => {
     try {
       const article = document.querySelector<HTMLElement>("article.popover-hint")
@@ -40,7 +38,7 @@
           }
 
           child.addEventListener("click", toggle)
-          cleanup(() => child.removeEventListener("click", toggle))
+          window.addCleanup(() => child.removeEventListener("click", toggle))
 
           stack.push({ level, wrapper: currentWrapper })
         } else if (stack.length > 0) {
