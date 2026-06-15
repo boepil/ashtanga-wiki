@@ -26,28 +26,6 @@ export const Fold: QuartzTransformerPlugin<Options> = (opts) => {
           loadTime: "afterDOMReady",
           contentType: "inline",
         })
-
-        css.push({
-          content: `article.popover-hint .fold-heading {
-    cursor: pointer;
-    user-select: none;
-  }
-  article.popover-hint .fold-heading::before {
-    content: "\\25BC";
-    display: inline-block;
-    margin-right: 0.5em;
-    font-size: 0.8em;
-    transition: transform .2s ease;
-    color: var(--gray);
-  }
-  article.popover-hint .fold-heading.is-collapsed::before {
-    content: "\\25B6";
-  }
-  article.popover-hint .fold-content.is-collapsed {
-    display: none;
-  }`,
-          inline: true,
-        })
       }
 
       return { js, css }

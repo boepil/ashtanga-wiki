@@ -113,3 +113,23 @@ article {
 h1, h2, h3, h4, h5, h6 {
   letter-spacing: -0.01em;
 }
+
+/* Collapsible Fold Headings */
+article.popover-hint .fold-heading {
+  cursor: pointer;
+  user-select: none;
+}
+article.popover-hint .fold-heading::before {
+  content: "▼";
+  display: inline-block;
+  margin-right: 0.5em;
+  font-size: 0.8em;
+  transition: transform .2s ease;
+  color: var(--gray);
+}
+article.popover-hint .fold-heading.is-collapsed::before {
+  content: "▶";
+}
+article.popover-hint .fold-content.is-collapsed {
+  display: none;
+}
