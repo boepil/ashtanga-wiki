@@ -33,7 +33,7 @@ export const Fold: QuartzTransformerPlugin<Options> = (opts) => {
     user-select: none;
   }
   article.popover-hint .fold-heading::before {
-    content: "\\25B6";
+    content: "\\25BC";
     display: inline-block;
     margin-right: 0.5em;
     font-size: 0.8em;
@@ -41,7 +41,7 @@ export const Fold: QuartzTransformerPlugin<Options> = (opts) => {
     color: var(--gray);
   }
   article.popover-hint .fold-heading.is-collapsed::before {
-    content: "\\25BC";
+    content: "\\25B6";
   }
   article.popover-hint .fold-content.is-collapsed {
     display: none;
