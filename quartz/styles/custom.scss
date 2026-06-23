@@ -132,3 +132,12 @@ article.popover-hint .fold-heading.is-collapsed .fold-arrow {
 article.popover-hint .fold-content.is-collapsed {
   display: none;
 }
+
+/* Nested collapsible section indentation & color consistency */
+article.popover-hint .fold-content .fold-heading {
+  padding-left: 1.5rem;
+  color: var(--secondary) !important;
+}
+article.popover-hint .fold-content .fold-content {
+  padding-left: 1.5rem;
+}
