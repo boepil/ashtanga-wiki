@@ -120,7 +120,7 @@ article.popover-hint .fold-heading {
   user-select: none;
 }
 article.popover-hint .fold-heading::before {
-  content: "▼";
+  content: "\25BC";
   display: inline-block;
   margin-right: 0.5em;
   font-size: 0.8em;
@@ -128,7 +128,7 @@ article.popover-hint .fold-heading::before {
   color: var(--gray) !important;
 }
 article.popover-hint .fold-heading.is-collapsed::before {
-  content: "▶";
+  content: "\25B6";
   color: var(--gray) !important;
 }
 article.popover-hint .fold-content.is-collapsed {
