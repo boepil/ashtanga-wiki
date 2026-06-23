@@ -5,7 +5,7 @@ tags: [philosophy, samkhya]
 aliases: [Gunas, Sattva, Rajas, Tamas]
 sources: [raw/07_PHILOSOPHY/The_Three_Gunas.md]
 updated: 2026-05-14
-sequence: 20
+sequence: 80
 ---
 <div class="page-wrapper is-bridge">
 

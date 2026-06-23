@@ -4,7 +4,7 @@ type: concept
 tags: [texts, hatha-yoga, subtle-body, hyp]
 sources: [raw/07_PHILOSOPHY/Classical_Context/The Hatha Yoga Pradipika.md]
 updated: 2026-05-14
-sequence: 81
+sequence: 105
 ---
 <div class="page-wrapper is-bridge">
 

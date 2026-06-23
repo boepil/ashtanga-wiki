@@ -9,7 +9,7 @@ sources:
   - (Kaminoff, Yoga Anatomy, p. 370)
   - (Starrett, Becoming a Supple Leopard, p. 55)
 updated: 2026-05-02
-sequence: 113
+sequence: 68
 ---
 <div class="page-wrapper is-asana">
 

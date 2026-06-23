@@ -4,7 +4,7 @@ tags: [pranayama, anatomy, physiology, respiratory, ujjayi, kumbhaka, bohr-effec
 sources: [raw/06_ANATOMY/01_Foundational_Systems/03_Respiratory/Bohr effect.md, raw/06_ANATOMY/01_Foundational_Systems/03_Respiratory/Neural Control of Breathing - Anatomical Overview.md, raw/06_ANATOMY/02_Biomechanics_&_Dynamics/01_Principles/היפרקפניה.md, NotebookLM: Yoga and Human Anatomy, NotebookLM: Yoga Philosophy and Origins]
 bridge: Breath Physiology → Pranayama
 updated: 2026-05-09
-sequence: 28
+sequence: 117
 ---
 <div class="page-wrapper is-bridge">
 

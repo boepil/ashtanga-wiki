@@ -5,7 +5,7 @@ tags: [philosophy, eight-limbs, meditation]
 aliases: [Samadhi, Absorption, Union]
 sources: [raw/07_PHILOSOPHY/Eight_Limbs_of_Yoga_(Ashtanga)/Samadhi_(Complete_Absorption).md]
 updated: 2026-05-14
-sequence: 18
+sequence: 78
 ---
 <div class="page-wrapper is-bridge">
 

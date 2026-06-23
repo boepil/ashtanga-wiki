@@ -6,7 +6,7 @@ sources:
   - "raw/06_ANATOMY/01_Foundational_Systems/02_Muscular/Gluteal Differentiation.md"
   - "Yoga and Human Anatomy [via NotebookLM]"
 updated: 2026-05-02
-sequence: 96
+sequence: 51
 ---
 <div class="page-wrapper is-compensation">
 

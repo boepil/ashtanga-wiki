@@ -5,7 +5,7 @@ tags: [philosophy, eight-limbs, physical-practice]
 aliases: [Asana, Sthira Sukham Asanam]
 sources: [raw/07_PHILOSOPHY/Eight_Limbs_of_Yoga_(Ashtanga)/Asana_(Physical_Practice).md]
 updated: 2026-05-14
-sequence: 5
+sequence: 1
 ---
 <div class="page-wrapper is-bridge">
 

@@ -5,7 +5,7 @@ tags: [philosophy, eight-limbs]
 aliases: [Pratyahara, Sense Withdrawal]
 sources: [raw/07_PHILOSOPHY/Eight_Limbs_of_Yoga_(Ashtanga)/Pratyahara_(Withdrawal_of_Senses).md]
 updated: 2026-05-14
-sequence: 15
+sequence: 75
 ---
 <div class="page-wrapper is-bridge">
 

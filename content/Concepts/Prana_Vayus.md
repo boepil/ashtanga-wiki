@@ -5,7 +5,7 @@ tags: [philosophy, subtle-body, energy]
 aliases: [Prana Vayus, Vayus, Prana, Apana, Samana, Udana, Vyana]
 sources: [raw/07_PHILOSOPHY/Practical_Philosophy/חמשת זרמי האנרגיה – Pancha Prana Vayus.md]
 updated: 2026-05-14
-sequence: 23
+sequence: 83
 ---
 <div class="page-wrapper is-bridge">
 

@@ -9,7 +9,7 @@ sources:
   - (Kaminoff, Yoga Anatomy, p. 11-238)
   - (Starrett, Becoming a Supple Leopard, p. 44-47)
 updated: 2026-05-02
-sequence: 103
+sequence: 58
 ---
 <div class="page-wrapper is-rehabilitation">
 

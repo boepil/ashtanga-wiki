@@ -5,7 +5,7 @@ tags: [philosophy, eight-limbs, meditation]
 aliases: [Dhyana, Meditation]
 sources: [raw/07_PHILOSOPHY/Eight_Limbs_of_Yoga_(Ashtanga)/Dhyana_(Meditation).md]
 updated: 2026-05-14
-sequence: 17
+sequence: 77
 ---
 <div class="page-wrapper is-bridge">
 

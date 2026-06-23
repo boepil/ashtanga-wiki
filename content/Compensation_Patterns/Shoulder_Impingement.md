@@ -7,7 +7,7 @@ sources:
   - "Yoga Philosophy and Origins [via NotebookLM]"
   - "Yoga and Human Anatomy [via NotebookLM]"
 updated: 2026-05-02
-sequence: 93
+sequence: 48
 ---
 <div class="page-wrapper is-compensation">
 

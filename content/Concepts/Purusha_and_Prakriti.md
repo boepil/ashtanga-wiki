@@ -5,7 +5,7 @@ tags: [philosophy, samkhya, core-concepts]
 aliases: [Purusha, Prakriti, Dualism]
 sources: [raw/07_PHILOSOPHY/*]
 updated: 2026-05-14
-sequence: 19
+sequence: 79
 ---
 <div class="page-wrapper is-bridge">
 
