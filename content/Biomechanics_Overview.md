@@ -7,7 +7,7 @@ sources:
   - (Myers, Anatomy Trains 4th Ed, p. 18)
   - (raw/06_ANATOMY/02_Biomechanics_&_Dynamics/*)
 updated: 2026-06-13
-sequence: 39
+sequence: 40
 ---
 
 # Biomechanics Overview

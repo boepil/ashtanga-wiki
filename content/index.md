@@ -3,7 +3,7 @@ title: Ashtanga Wiki Index
 type: index
 tags: [index, navigation, overview]
 sources: [wiki/*]
-updated: 2026-05-14
+updated: 2026-06-13
 ---
 
 # Ashtanga Yoga Knowledge Wiki
@@ -50,7 +50,7 @@ Welcome to the Ashtanga Yoga Knowledge Wiki.
 - [[Trataka]]
 - [[Shatkarma_Safety_and_Timing]]
 
-## 06. Anatomy
+## 06. Anatomy, Pathology & Rehabilitation
 - [[Anatomy_Overview]]
 - [[Skeletal_System]]
 - [[Muscular_System]]
@@ -61,15 +61,48 @@ Welcome to the Ashtanga Yoga Knowledge Wiki.
 - [[Breath_Exercises_For_Erector_Spinae]]
 - [[Joint_Stability]]
 - [[Eccentric_Contraction]]
-- [[Injury_Management]]
+- [[Isometric_Engagement]] — Stabilization, co-contraction, bandhas, and sustained holds
 - [[Biomechanics_Overview]]
-- [[Pain_Science]]
 - [[Yoga_Physiology]]
+- [[Respiratory_Anatomy]]
 
 ### Injuries & Pathology
+- [[Pain_Science]] — Nociception, nervous system, autonomic balance
+- [[Injury_Management]] — Assessment and general protocols
 - [[Upper_Extremity_Injuries]] — Shoulder, elbow, wrist, hand
 - [[Spine_Injuries]] — Lumbar disc, SI joint, core dysfunction
 - [[Lower_Extremity_Injuries]] — Hip, knee, ankle, foot, hamstring
+
+### Compensation Patterns
+- [[Shoulder_Impingement]] — Scapular stability and upward rotation analysis
+- [[Chaturanga_Collapse]] — Serratus anterior and core integration analysis
+- [[Nervous_System_Dysregulation]] — Parasympathetic vagal tone and breath regulation
+- [[Hip_Flexor_Dominance]] — Pelvic tilt and spinal integrity in forward folds
+- [[Lumbar_Compression]] — Thoracic mobility and hip extension in backbends
+- [[Breath_Holding]] — Vinyasa synchronization and subtle support
+- [[Hamstring_Overstretching]] — Posterior chain stability vs hanging on ligaments
+- [[SI_Joint_Instability]] — Pelvic stability and coronal alignment in asymmetric poses
+
+### Rehabilitation & Corrective Practice
+#### Protocols (Targeted Corrective Work)
+- [[Shoulder_Impingement_Protocol]] — Scapular and rotator cuff strengthening
+- [[Chaturanga_Collapse_Protocol]] — Serratus anterior and core integration
+- [[Nervous_System_Dysregulation_Protocol]] — Vagal tone and HRV restoration
+- [[Hip_Flexor_Dominance_Protocol]] — Reciprocal inhibition and glute activation
+- [[Lumbar_Compression_Protocol]] — Spinal stiffness and McGill Big 3
+- [[Hamstring_Overstretching_Protocol]] — Eccentric loading for tendinopathy
+- [[SI_Joint_Instability_Protocol]] — Pelvic stability and adductor tension
+- [[Breath_Holding_Protocol]] — CO2 tolerance and BOLT score training
+
+#### Asana Modifications (In-Practice Adjustments)
+- [[Shoulder_Impingement_Modifications]] — Protecting the rotator cuff in vinyasa
+- [[Chaturanga_Collapse_Modifications]] — Maintaining core/scapular stability
+- [[Nervous_System_Dysregulation_Modifications]] — Practice during chronic stress
+- [[Hip_Flexor_Dominance_Modifications]] — Bypassing psoas compression
+- [[Lumbar_Compression_Modifications]] — Distributing the curve in backbends
+- [[Hamstring_Overstretching_Modifications]] — Protecting the proximal attachment
+- [[SI_Joint_Instability_Modifications]] — Stabilizing the pelvis in asymmetric poses
+- [[Breath_Holding_Modifications]] — Maintaining thin, smooth Ujjayi
 
 ## 07. Philosophy & Subtle Systems
 - [[Eight_Limbs]] — Overview of the classical path
@@ -132,38 +165,6 @@ Welcome to the Ashtanga Yoga Knowledge Wiki.
 - [[Lotus_Protocol_and_Meniscus]] — pathology → structural anatomy
 - [[Bandha_Vayu_Integration]] — energetic locks → core anatomy integration
 Note: [[The_Bohr_Effect_and_Kumbhaka|Bohr_Effect_and_Kumbhaka]] — breath physiology → pranayama
-
-## Compensation Patterns
-- [[Shoulder_Impingement]] — Scapular stability and upward rotation analysis
-- [[Chaturanga_Collapse]] — Serratus anterior and core integration analysis
-- [[Nervous_System_Dysregulation]] — Parasympathetic vagal tone and breath regulation
-- [[Hip_Flexor_Dominance]] — Pelvic tilt and spinal integrity in forward folds
-- [[Lumbar_Compression]] — Thoracic mobility and hip extension in backbends
-- [[Breath_Holding]] — Vinyasa synchronization and subtle support
-- [[Hamstring_Overstretching]] — Posterior chain stability vs hanging on ligaments
-- [[SI_Joint_Instability]] — Pelvic stability and coronal alignment in asymmetric poses
-
-## Rehabilitation & Corrective Practice
-
-### Protocols (Targeted Corrective Work)
-- [[Shoulder_Impingement_Protocol]] — Scapular and rotator cuff strengthening
-- [[Chaturanga_Collapse_Protocol]] — Serratus anterior and core integration
-- [[Nervous_System_Dysregulation_Protocol]] — Vagal tone and HRV restoration
-- [[Hip_Flexor_Dominance_Protocol]] — Reciprocal inhibition and glute activation
-- [[Lumbar_Compression_Protocol]] — Spinal stiffness and McGill Big 3
-- [[Hamstring_Overstretching_Protocol]] — Eccentric loading for tendinopathy
-- [[SI_Joint_Instability_Protocol]] — Pelvic stability and adductor tension
-- [[Breath_Holding_Protocol]] — CO2 tolerance and BOLT score training
-
-### Asana Modifications (In-Practice Adjustments)
-- [[Shoulder_Impingement_Modifications]] — Protecting the rotator cuff in vinyasa
-- [[Chaturanga_Collapse_Modifications]] — Maintaining core/scapular stability
-- [[Nervous_System_Dysregulation_Modifications]] — Practice during chronic stress
-- [[Hip_Flexor_Dominance_Modifications]] — Bypassing psoas compression
-- [[Lumbar_Compression_Modifications]] — Distributing the curve in backbends
-- [[Hamstring_Overstretching_Modifications]] — Protecting the proximal attachment
-- [[SI_Joint_Instability_Modifications]] — Stabilizing the pelvis in asymmetric poses
-- [[Breath_Holding_Modifications]] — Maintaining thin, smooth Ujjayi
 
 ## Reference
 - [[Visual_Asana_Dictionary]] — All postures with pictures and Hebrew transliterations

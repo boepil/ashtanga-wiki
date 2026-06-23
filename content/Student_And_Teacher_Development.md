@@ -4,7 +4,7 @@ type: concept
 tags: [teaching, development, progression, professional-growth]
 sources: [raw/08_TEACHING_METHODOLOGY/Student_Development/*, raw/08_TEACHING_METHODOLOGY/Professional_Development/*]
 updated: 2026-05-14
-sequence: 90
+sequence: 91
 ---
 <div class="page-wrapper is-bridge">
 

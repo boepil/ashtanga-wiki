@@ -4,7 +4,7 @@ type: concept
 tags: [philosophy, samkhya, ayurveda, diet]
 sources: [raw/10_AYURVEDA_AND_DIET/*]
 updated: 2026-05-14
-sequence: 98
+sequence: 99
 ---
 <div class="page-wrapper is-bridge">
 

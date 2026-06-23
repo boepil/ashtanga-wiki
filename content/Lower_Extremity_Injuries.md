@@ -8,7 +8,7 @@ sources:
   - (Raw, 06_ANATOMY/02_Biomechanics_&_Dynamics/Lower Limb Bone Biomechanics*)
   - (Mitchell, Yoga Biomechanics, p. 151-152)
 updated: 2026-06-13
-sequence: 46
+sequence: 47
 ---
 
 # Lower Extremity Injuries

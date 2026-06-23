@@ -4,7 +4,7 @@ type: journal
 tags: [ytt, teaching, notes, journal]
 sources: [raw/08_TEACHING_METHODOLOGY/Student_And_Teacher_Development/Teacher_Training_Notes_Template.md]
 updated: 2026-05-14
-sequence: 96
+sequence: 97
 ---
 <div class="page-wrapper is-asana">
 

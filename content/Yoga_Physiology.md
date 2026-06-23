@@ -8,7 +8,7 @@ sources:
   - (Broad, The Science of Yoga, Chapter 4)
   - (raw/06_ANATOMY/04_Integration_&_Mind-Body/02_Yoga_Physiology/*)
 updated: 2026-06-13
-sequence: 40
+sequence: 41
 ---
 
 # Yoga Physiology
