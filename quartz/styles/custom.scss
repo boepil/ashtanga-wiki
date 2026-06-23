@@ -125,11 +125,11 @@ article.popover-hint .fold-heading::before {
   margin-right: 0.5em;
   font-size: 0.8em;
   transition: transform .2s ease;
-  color: var(--gray);
+  color: var(--gray) !important;
 }
 article.popover-hint .fold-heading.is-collapsed::before {
   content: "▶";
-  color: var(--gray);
+  color: var(--gray) !important;
 }
 article.popover-hint .fold-content.is-collapsed {
   display: none;
