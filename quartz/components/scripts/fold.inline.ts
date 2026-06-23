@@ -45,6 +45,10 @@
           stack[stack.length - 1].wrapper.appendChild(child)
         }
       }
+
+      document.querySelectorAll<HTMLElement>(
+        "article.popover-hint .fold-heading, article.popover-hint .fold-content"
+      ).forEach(el => el.classList.add("is-collapsed"))
     } catch (err) {
       console.debug("Fold plugin error:", err)
     }
