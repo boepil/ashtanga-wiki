@@ -119,16 +119,14 @@ article.popover-hint .fold-heading {
   cursor: pointer;
   user-select: none;
 }
-article.popover-hint .fold-heading::before {
-  content: "\25BC";
+article.popover-hint .fold-heading .fold-arrow {
   display: inline-block;
   margin-right: 0.5em;
   font-size: 0.8em;
   transition: transform .2s ease;
   color: var(--gray) !important;
 }
-article.popover-hint .fold-heading.is-collapsed::before {
-  content: "\25B6";
+article.popover-hint .fold-heading.is-collapsed .fold-arrow {
   color: var(--gray) !important;
 }
 article.popover-hint .fold-content.is-collapsed {
