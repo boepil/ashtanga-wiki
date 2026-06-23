@@ -34,6 +34,7 @@
           const arrow = document.createElement("span")
           arrow.className = "fold-arrow"
           arrow.textContent = "\u25BC\uFE0E" // ▼ expanded (forced text)
+          child.dataset.foldKey = (child.textContent?.trim() || "")
           child.prepend(arrow)
 
           const toggle = (e: MouseEvent) => {
@@ -42,7 +43,7 @@
             child.classList.toggle("is-collapsed")
             currentWrapper.classList.toggle("is-collapsed")
             arrow.textContent = child.classList.contains("is-collapsed") ? "\u25B6\uFE0E" : "\u25BC\uFE0E"
-            const key = `fold:${location.pathname}:${child.textContent?.trim()}`
+            const key = `fold:${location.pathname}:${child.dataset.foldKey || child.textContent?.trim()}`
             try { sessionStorage.setItem(key, child.classList.contains("is-collapsed") ? "0" : "1") } catch {}
           }
 
@@ -58,7 +59,7 @@
       document.querySelectorAll<HTMLElement>(
         "article.popover-hint .fold-heading"
       ).forEach(heading => {
-        const key = `fold:${location.pathname}:${heading.textContent?.trim()}`
+        const key = `fold:${location.pathname}:${heading.dataset.foldKey || heading.textContent?.trim()}`
         let saved = "0"
         try { saved = sessionStorage.getItem(key) ?? "0" } catch {}
         const arrow = heading.querySelector<HTMLElement>(".fold-arrow")

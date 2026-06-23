@@ -105,21 +105,24 @@ Welcome to the Ashtanga Yoga Knowledge Wiki.
 - [[Breath_Holding_Modifications]] — Maintaining thin, smooth Ujjayi
 
 ## 07. Philosophy & Subtle Systems
+### The Eight Limbs
 - [[Eight_Limbs]] — Overview of the classical path
-  - [[Yamas]] — Ethical restraints
-  - [[Niyamas]] — Personal observances
-  - [[Asana]] — Physical posture (see Section 01)
-  - [[Pranayama]] — Breath control (see Section 02)
-  - [[Pratyahara]] — Sensory withdrawal
-  - [[Dharana]] — Concentration
-  - [[Dhyana]] — Meditation
-  - [[Samadhi]] — Integration/absorption
+- [[Yamas]] — Ethical restraints
+- [[Niyamas]] — Personal observances
+- [[Asana]] — Physical posture (see Section 01)
+- [[Pranayama]] — Breath control (see Section 02)
+- [[Pratyahara]] — Sensory withdrawal
+- [[Dharana]] — Concentration
+- [[Dhyana]] — Meditation
+- [[Samadhi]] — Integration/absorption
+### Subtle Anatomy & Energetics
 - [[Purusha_and_Prakriti]] — Dualism of consciousness and nature
 - [[Gunas]] — The three forces of nature
 - [[Kleshas]] — The five obstacles to peace
 - [[Koshas]] — The five energetic sheaths
 - [[Prana_Vayus]] — The five subtle energy winds
 - [[Sushumna]] — The central energetic channel
+### Mantra & Tradition
 - [[Om]] — The sacred syllable
 - [[Womens_Practice_Traditions]] — Historical and somatic considerations
 - [[Sanskrit_Mantras_and_Terminology]]
