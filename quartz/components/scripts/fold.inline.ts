@@ -11,7 +11,7 @@
         const child = children[i] as HTMLElement
         const tag = child.tagName
 
-        if (tag.startsWith("H") && /^[1-6]$/.test(tag.substring(1))) {
+        if (tag.startsWith("H") && /^[2-6]$/.test(tag.substring(1))) {
           const level = parseInt(tag.substring(1))
 
           while (stack.length > 0 && stack[stack.length - 1].level >= level) {
