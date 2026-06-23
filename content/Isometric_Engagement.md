@@ -12,7 +12,7 @@ sources:
   - (ASHTANGA_YOGA_KNOWLEDGE_BASE.pdf, p. 8, 14, 18)
 updated: 2026-06-14
 ---
-<div class="page-wrapper is-asana">
+<div class="page-wrapper is-bridge">
 
 # Isometric Engagement
 

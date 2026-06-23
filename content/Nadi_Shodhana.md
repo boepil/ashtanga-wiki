@@ -6,7 +6,7 @@ sources: [raw/02_PRANAYAMA/Traditional_Pranayama_Practices/Nadi_Shodhana_(Altern
 updated: 2026-05-14
 sequence: 13
 ---
-<div class="page-wrapper is-asana">
+<div class="page-wrapper is-bridge">
 
 
 

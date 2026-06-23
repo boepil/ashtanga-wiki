@@ -5,7 +5,7 @@ sources: [raw/01_ASANA/1. Primary_Series_(Sanskrit Name-English Meaning)/Standin
 updated: 2026-04-29
 sequence: 5
 ---
-<div class="page-wrapper is-asana">
+<div class="page-wrapper is-bridge">
 
  
 

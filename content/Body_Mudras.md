@@ -6,7 +6,7 @@ sources: [raw/04_MUDRA/Body_Mudras/*]
 updated: 2026-05-14
 sequence: 23
 ---
-<div class="page-wrapper is-asana">
+<div class="page-wrapper is-bridge">
 
 
 

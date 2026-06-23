@@ -5,7 +5,7 @@ sources: [raw/01_ASANA/3. Advanced_Series_(Sthira_Bhaga)/*]
 updated: 2026-04-29
 sequence: 9
 ---
-<div class="page-wrapper is-asana">
+<div class="page-wrapper is-bridge">
 
  
 

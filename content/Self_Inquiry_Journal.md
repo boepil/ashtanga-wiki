@@ -6,7 +6,7 @@ sources: [raw/09_PERSONAL_PRACTICE/Self-Inquiry_Journal.md]
 updated: 2026-05-14
 sequence: 96
 ---
-<div class="page-wrapper is-asana">
+<div class="page-wrapper is-bridge">
 
 
 

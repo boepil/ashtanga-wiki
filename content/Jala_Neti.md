@@ -6,7 +6,7 @@ sources: [raw/05_SHATKARMAS/Accessible_Practices/Jala_Neti_(Nasal_Irrigation).md
 updated: 2026-05-14
 sequence: 27
 ---
-<div class="page-wrapper is-asana">
+<div class="page-wrapper is-bridge">
 
 
 

@@ -3,7 +3,7 @@ title: Visual Asana Dictionary - Advanced Series
 description: Visual guide to the Advanced A (Third Series) and beyond.
 sequence: 9999
 ---
-<div class="page-wrapper is-asana">
+<div class="page-wrapper is-bridge">
 
 
 

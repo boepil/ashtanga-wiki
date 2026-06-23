@@ -7,7 +7,7 @@ sources:
 updated: 2026-05-16
 sequence: 31
 --- 
-<div class="page-wrapper is-asana">
+<div class="page-wrapper is-bridge">
 
 # Anatomy Overview
 

@@ -6,7 +6,7 @@ sources: [raw/08_TEACHING_METHODOLOGY/Observation_and_Adjustment/Adjustments.md]
 updated: 2026-05-14
 sequence: 94
 ---
-<div class="page-wrapper is-asana">
+<div class="page-wrapper is-bridge">
 
 
 

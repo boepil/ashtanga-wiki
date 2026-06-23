@@ -5,7 +5,7 @@ sources: [raw/06_ANATOMY/01_Foundational_Systems/01_Skeletal/Endocrine_System/ב
 updated: 2026-04-29
 sequence: 42
 --- 
-<div class="page-wrapper is-asana">
+<div class="page-wrapper is-bridge">
 
 # Respiratory Anatomy
 

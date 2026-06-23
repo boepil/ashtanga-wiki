@@ -6,7 +6,7 @@ sources: [raw/09_PERSONAL_PRACTICE/Inspiration_Quotes_or_Experiences.md]
 updated: 2026-05-14
 sequence: 95
 ---
-<div class="page-wrapper is-asana">
+<div class="page-wrapper is-bridge">
 
 
 

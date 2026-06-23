@@ -8,7 +8,7 @@ sources:
 updated: 2026-06-13
 sequence: 43
 ---
-<div class="page-wrapper is-asana">
+<div class="page-wrapper is-bridge">
 
 # Pain Science and Neuro-Physiology
 

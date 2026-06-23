@@ -6,7 +6,7 @@ sources: [raw/05_SHATKARMAS/Safety_and_Contraindications/*]
 updated: 2026-05-14
 sequence: 30
 ---
-<div class="page-wrapper is-asana">
+<div class="page-wrapper is-bridge">
 
 
 

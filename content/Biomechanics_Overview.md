@@ -9,7 +9,7 @@ sources:
 updated: 2026-06-13
 sequence: 40
 ---
-<div class="page-wrapper is-asana">
+<div class="page-wrapper is-bridge">
 
 # Biomechanics Overview
 

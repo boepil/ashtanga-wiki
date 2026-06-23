@@ -6,7 +6,7 @@ sources: [raw/05_SHATKARMAS/Accessible_Practices/Simple_Eye_Cleansing.md]
 updated: 2026-05-14
 sequence: 29
 ---
-<div class="page-wrapper is-asana">
+<div class="page-wrapper is-bridge">
 
 
 

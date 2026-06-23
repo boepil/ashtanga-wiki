@@ -6,7 +6,7 @@ sources: [raw/09_PERSONAL_PRACTICE/Daily_Sequence_Notes.md]
 updated: 2026-05-14
 sequence: 93
 ---
-<div class="page-wrapper is-asana">
+<div class="page-wrapper is-bridge">
 
 
 

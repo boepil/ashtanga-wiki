@@ -5,7 +5,7 @@ sources: [raw/06_ANATOMY/נקודות אנטאטומיות מרכזיות ביו
 updated: 2026-04-29
 sequence: 9999
 ---
-<div class="page-wrapper is-asana">
+<div class="page-wrapper is-bridge">
 
  
 
