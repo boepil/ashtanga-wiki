@@ -129,6 +129,7 @@ article.popover-hint .fold-heading::before {
 }
 article.popover-hint .fold-heading.is-collapsed::before {
   content: "▶";
+  color: var(--gray);
 }
 article.popover-hint .fold-content.is-collapsed {
   display: none;

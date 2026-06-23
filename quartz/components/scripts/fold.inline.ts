@@ -35,6 +35,8 @@
             if (target.closest("a[role=anchor]")) return
             child.classList.toggle("is-collapsed")
             currentWrapper.classList.toggle("is-collapsed")
+            const key = `fold:${location.pathname}:${child.textContent?.trim()}`
+            try { sessionStorage.setItem(key, child.classList.contains("is-collapsed") ? "0" : "1") } catch {}
           }
 
           child.addEventListener("click", toggle)
@@ -47,8 +49,19 @@
       }
 
       document.querySelectorAll<HTMLElement>(
-        "article.popover-hint .fold-heading, article.popover-hint .fold-content"
-      ).forEach(el => el.classList.add("is-collapsed"))
+        "article.popover-hint .fold-heading"
+      ).forEach(heading => {
+        const key = `fold:${location.pathname}:${heading.textContent?.trim()}`
+        let saved = "0"
+        try { saved = sessionStorage.getItem(key) ?? "0" } catch {}
+        if (saved === "0") {
+          heading.classList.add("is-collapsed")
+          const wrapper = heading.nextElementSibling
+          if (wrapper?.classList.contains("fold-content")) {
+            wrapper.classList.add("is-collapsed")
+          }
+        }
+      })
     } catch (err) {
       console.debug("Fold plugin error:", err)
     }
