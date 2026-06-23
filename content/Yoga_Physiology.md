@@ -10,6 +10,7 @@ sources:
 updated: 2026-06-13
 sequence: 41
 ---
+<div class="page-wrapper is-asana">
 
 # Yoga Physiology
 
@@ -100,3 +101,4 @@ Consistent practice affects the brain's reward system and supports neuroplastici
 - (Huy, Matthew & McGonigle, Andrew, *The Physiology of Yoga*) — Yoga and Human Anatomy
 - (Broad, William J., *The Science of Yoga*) — Yoga and Human Anatomy
 - (Kaminoff, Leslie, *Yoga Anatomy 2nd Ed*) — Yoga and Human Anatomy
+</div>

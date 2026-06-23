@@ -7,6 +7,7 @@ sources:
 updated: 2026-05-16
 sequence: 31
 --- 
+<div class="page-wrapper is-asana">
 
 # Anatomy Overview
 
@@ -61,3 +62,4 @@ Alignment is the intelligent arrangement of the body to maximize energy flow and
 ## Sources
 - (Clark, Bernie, *Your Body, Your Yoga*, p. 1-20, 579-618) — Yoga and Human Anatomy
 - (ASHTANGA_YOGA_KNOWLEDGE_BASE.pdf, p. 1-8) — Yoga and Human Anatomy
+</div>

@@ -9,6 +9,7 @@ sources:
 updated: 2026-06-13
 sequence: 40
 ---
+<div class="page-wrapper is-asana">
 
 # Biomechanics Overview
 
@@ -76,3 +77,4 @@ Gaining functional range of motion involves both neurological and structural ada
 - (Myers, Thomas, *Anatomy Trains 4th Ed*) — Yoga Rehab Library
 - (Mitchell, Jules, *Yoga Biomechanics*) — Yoga Rehab Library
 - (Huy, Matthew & McGonigle, Andrew, *The Physiology of Yoga*) — Yoga and Human Anatomy
+</div>

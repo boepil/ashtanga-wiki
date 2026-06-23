@@ -9,6 +9,7 @@ sources:
 updated: 2026-06-13
 sequence: 45
 ---
+<div class="page-wrapper is-asana">
 
 # Upper Extremity Injuries
 
@@ -92,3 +93,4 @@ Abnormal scapular movement—often called "scapular winging"—disrupts the foun
 - (Raw, 06_ANATOMY/03_Pathology_&_Prevention/02_Regional_Anatomy/Skapula/*)
 - (Mitchell, Jules, *Yoga Biomechanics*) — Yoga and Human Anatomy
 - (Raw, 06_ANATOMY/05_Teaching_&_Continuing_Ed/Applied_Anatomy/Therapeutic_Modifications.md)
+</div>

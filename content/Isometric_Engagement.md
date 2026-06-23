@@ -12,6 +12,7 @@ sources:
   - (ASHTANGA_YOGA_KNOWLEDGE_BASE.pdf, p. 8, 14, 18)
 updated: 2026-06-14
 ---
+<div class="page-wrapper is-asana">
 
 # Isometric Engagement
 
@@ -159,3 +160,4 @@ IAP is created by the isometric co-contraction of the respiratory diaphragm (sup
 - (raw/06_ANATOMY/02_Biomechanics_&_Dynamics/01_Principles/Physiology of Flexibility*)
 - (raw/06_ANATOMY/02_Biomechanics_&_Dynamics/01_Principles/(טכניקת ההרפיה הרציפרוקית) PNF*)
 - (Yoga and Human Anatomy notebook, NotebookLM)
+</div>

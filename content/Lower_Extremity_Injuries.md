@@ -10,6 +10,7 @@ sources:
 updated: 2026-06-13
 sequence: 47
 ---
+<div class="page-wrapper is-asana">
 
 # Lower Extremity Injuries
 
@@ -97,3 +98,4 @@ General principles for all standing poses:
 - (Raw, 06_ANATOMY/02_Biomechanics_&_Dynamics/Lateral Knee Anatomy*)
 - (Raw, 06_ANATOMY/02_Biomechanics_&_Dynamics/Lower Limb Bone Biomechanics*)
 - (Raw, 06_ANATOMY/03_Pathology_&_Prevention/02_Regional_Anatomy/Spine/Lower_Back*)
+</div>

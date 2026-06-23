@@ -8,6 +8,7 @@ sources:
 updated: 2026-06-13
 sequence: 43
 ---
+<div class="page-wrapper is-asana">
 
 # Pain Science and Neuro-Physiology
 
@@ -73,3 +74,4 @@ Yoga refines two distinct types of body awareness:
 - (Huy, Matthew & McGonigle, Andrew, *The Physiology of Yoga*) — Yoga and Human Anatomy
 - (Broad, William J., *The Science of Yoga*) — Yoga and Human Anatomy
 - (Kaminoff, Leslie, *Yoga Anatomy 2nd Ed*) — Yoga and Human Anatomy
+</div>

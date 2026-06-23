@@ -9,6 +9,7 @@ sources:
 updated: 2026-05-16
 sequence: 37
 --- 
+<div class="page-wrapper is-asana">
 
 # Joint Stability
 
@@ -53,3 +54,4 @@ The hip joint is the mechanical center of the body's movement in asana [18, 19].
 - (Kaminoff, Leslie, *Yoga Anatomy 2nd Ed*, p. 24) — Yoga and Human Anatomy
 - (Long, Ray, *Key Muscles of Yoga*, p. 9-11) — Yoga and Human Anatomy
 - (ASHTANGA_YOGA_KNOWLEDGE_BASE.pdf, p. 14, 21-25) — Yoga and Human Anatomy
+</div>

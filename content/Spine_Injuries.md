@@ -8,6 +8,7 @@ sources:
 updated: 2026-06-13
 sequence: 46
 ---
+<div class="page-wrapper is-asana">
 
 # Spine and Mid-Extremity Injuries
 
@@ -88,3 +89,4 @@ Chronic low back pain in yoga practitioners is often rooted in poor coordination
 - (Raw, 06_ANATOMY/03_Pathology_&_Prevention/02_Regional_Anatomy/Spine/*)
 - (Raw, 06_ANATOMY/02_Biomechanics_&_Dynamics/Pelvic Tilt Biomechanics*)
 - (Raw, 06_ANATOMY/01_Foundational_Systems/01_Skeletal/Spine_and_Core_Stability*)
+</div>
