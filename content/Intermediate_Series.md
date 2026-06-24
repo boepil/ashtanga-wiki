@@ -3,7 +3,7 @@ type: practice
 tags: [asana, intermediate-series, nadi-shodhana]
 sources: [raw/01_ASANA/2. Intermediate_Series_(Nadi_Shodhana)/*]
 updated: 2026-04-29
-sequence: 8
+sequence: 6
 ---
 <div class="page-wrapper is-bridge">
 
