@@ -56,11 +56,6 @@ This sequence establishes the core alignment principles that will be heavily rel
 | **[[Parivrtta Parsvakonasana]]** | ![Parivrtta-Parsvakonasana](https://www.devvratyoga.com/wp-content/uploads/2019/07/Uthitha-Parsvakonasana-b.png) |
 | **[[Prasarita Padottanasana]]** | ![Prasarita-Padottanasana](https://www.devvratyoga.com/wp-content/uploads/2019/07/Prasarita-Padottanasana-A.png) |
 | **[[Parsvottanasana]]** | ![Parsvottanasana](https://www.devvratyoga.com/wp-content/uploads/2019/07/Parsvottanasana.png) |
-| **[[Utthita Hasta Padangusthasana]]** | ![Utthita-Hasta-Padangusthasana](https://www.devvratyoga.com/wp-content/uploads/2019/07/Uthitha-Hasta-Padaangustasana-A.png) |
-| **[[Ardha Baddha Padmottanasana]]** | ![Ardha-Baddha-Padmottanasana](https://www.devvratyoga.com/wp-content/uploads/2019/07/Ardha-Baddha-Padmottanasana.png) |
-| **[[Utkatasana]]** | ![Utkatasana](https://www.devvratyoga.com/wp-content/uploads/2019/08/Utkatasana.png) |
-| **[[Virabhadrasana A]]** | ![Virabhadrasana-A](https://www.devvratyoga.com/wp-content/uploads/2019/08/Virbhadrasana-left-leg.png) |
-| **[[Virabhadrasana B]]** | ![Virabhadrasana-B](https://www.devvratyoga.com/wp-content/uploads/2019/07/Virbhadrasana-b.png) |
 
 
 </div>

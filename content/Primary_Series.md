@@ -69,5 +69,16 @@ The core of *Yoga Chikitsa* (Yoga Therapy), focusing on forward folds and hip op
 | **[[Urdhva Mukha Paschimottanasana]]** | ![Urdhva-Mukha-Paschimottanasana](https://www.devvratyoga.com/wp-content/uploads/2019/07/Urdhva-Mukha-Paschimattanasana.png) |
 | **[[Setu Bandhasana]]** | ![Setu-Bandhasana](https://www.devvratyoga.com/wp-content/uploads/2019/07/Setu-Bandhasana.png) |
 
+### Standing Sequence (Primary Series)
+The closing postures of the standing sequence, practiced as part of the Primary Series.
+
+| Asana | Image |
+| :--- | :--- |
+| **[[Utthita Hasta Padangusthasana]]** | ![Utthita-Hasta-Padangusthasana](https://www.devvratyoga.com/wp-content/uploads/2019/07/Uthitha-Hasta-Padaangustasana-A.png) |
+| **[[Ardha Baddha Padmottanasana]]** | ![Ardha-Baddha-Padmottanasana](https://www.devvratyoga.com/wp-content/uploads/2019/07/Ardha-Baddha-Padmottanasana.png) |
+| **[[Utkatasana]]** | ![Utkatasana](https://www.devvratyoga.com/wp-content/uploads/2019/08/Utkatasana.png) |
+| **[[Virabhadrasana A]]** | ![Virabhadrasana-A](https://www.devvratyoga.com/wp-content/uploads/2019/08/Virbhadrasana-left-leg.png) |
+| **[[Virabhadrasana B]]** | ![Virabhadrasana-B](https://www.devvratyoga.com/wp-content/uploads/2019/07/Virbhadrasana-b.png) |
+
 
 </div>
