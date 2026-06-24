@@ -171,7 +171,3 @@ Note: [[The_Bohr_Effect_and_Kumbhaka|Bohr_Effect_and_Kumbhaka]] — breath physi
 
 ## Reference
 - [[Visual_Asana_Dictionary]] — All postures with pictures and Hebrew transliterations
-- [[Hebrew_Translation_Cues]]
-
-## Sources
-- `wiki/*` (Self-referential index of the digital garden)
