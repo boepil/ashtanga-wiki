@@ -169,5 +169,3 @@ Welcome to the Ashtanga Yoga Knowledge Wiki.
 - [[Bandha_Vayu_Integration]] — energetic locks → core anatomy integration
 Note: [[The_Bohr_Effect_and_Kumbhaka|Bohr_Effect_and_Kumbhaka]] — breath physiology → pranayama
 
-## Reference
-- [[Visual_Asana_Dictionary]] — All postures with pictures and Hebrew transliterations
