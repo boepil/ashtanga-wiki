@@ -14,12 +14,11 @@ Welcome to the Ashtanga Yoga Knowledge Wiki.
 - [[Asana]] — The physical practice limb
 - [[Asana_Fundamentals]] — Alignment principles and energy lines
 - [[Surya_Namaskar]] — Sun Salutations
+- [[Standing_Sequence]]
 - [[Primary_Series]] (Yoga Chikitsa)
-  - [[Standing_Sequence]]
-  - [[Seated_Sequence]]
-  - [[Finishing_Sequence]]
 - [[Intermediate_Series]] (Nadi Shodhana)
 - [[Advanced_Series]] (Sthira Bhaga)
+- [[Finishing_Sequence]]
 
 ## 02. Pranayama
 - [[Pranayama]] — The breath control limb
