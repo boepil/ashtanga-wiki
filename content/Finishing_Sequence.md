@@ -47,5 +47,22 @@ The sequence progresses through several distinct energetic shifts:
 - `raw/01_ASANA/1. Primary_Series_(Sanskrit Name-English Meaning)/Finishing_Sequence/Salamba Sarvangasana.md`
 - `raw/01_ASANA/1. Primary_Series_(Sanskrit Name-English Meaning)/Finishing_Sequence/Headstand_Preparation.md`
 
+## Visual Dictionary
+
+| Asana | Image |
+| :--- | :--- |
+| **[[Urdhva Dhanurasana]]** | ![Urdhva-D Dhanurasana](https://www.devvratyoga.com/wp-content/uploads/2019/07/Urdhva-Dhanurasana.png) |
+| **[[Salamba Sarvangasana]]** | ![Salamba-Sarvangasana](https://www.devvratyoga.com/wp-content/uploads/2019/07/Salamba-Sarvangasana.png) |
+| **[[Halasana]]** | ![Halasana](https://www.devvratyoga.com/wp-content/uploads/2019/07/halasana.png) |
+| **[[Karnapidasana]]** | ![Karnapidasana](https://www.devvratyoga.com/wp-content/uploads/2019/07/Karnapidasana.png) |
+| **[[Urdhva Padmasana]]** | ![Urdhva-Padmasana](https://www.devvratyoga.com/wp-content/uploads/2019/07/Urdhva-Padmasana.png) |
+| **[[Pindasana]]** | ![Pindasana](https://www.devvratyoga.com/wp-content/uploads/2019/07/Pindasana.png) |
+| **[[Matsyasana]]** | ![Matsyasana](https://www.devvratyoga.com/wp-content/uploads/2019/07/Matsyasana.png) |
+| **[[Uttana Padasana]]** | ![Uttana-Padasana](https://www.devvratyoga.com/wp-content/uploads/2019/07/Uttana-Padasana.png) |
+| **[[Sirsasana]]** | ![Sirsasana](https://www.devvratyoga.com/wp-content/uploads/2019/07/Sirsasana-A.png) |
+| **[[Baddha Padmasana & Yoga Mudra]]** | ![Baddha-Padmasana](https://www.devvratyoga.com/wp-content/uploads/2019/07/Yoga-Mudra-A.png) |
+| **[[Padmasana & Utpluthih\|Padmasana]]** | ![Padmasana](https://www.devvratyoga.com/wp-content/uploads/2019/07/Padmasana.png) |
+| **[[Savasana]]** | ![Savasana](https://www.devvratyoga.com/wp-content/uploads/2019/07/Savasana.png) |
+
 
 </div>

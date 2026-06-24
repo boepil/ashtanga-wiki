@@ -46,5 +46,12 @@ The rhythmic integration of movement and breath in these salutations shifts the 
 ## Sources
 - `raw/01_ASANA/1. Primary_Series_(Sanskrit Name-English Meaning)/1. Primary_Series_(Sanskrit Name-English Meaning).md`
 
+## Visual Dictionary
+
+| Asana | Image |
+| :--- | :--- |
+| **[[Surya_Namaskar\|Surya Namaskar A]]** | ![Surya-Namaskar-A](https://www.devvratyoga.com/wp-content/uploads/2019/07/sun-salutation-series-a.png) |
+| **[[Surya_Namaskar\|Surya Namaskar B]]** | ![Surya-Namaskar-B](https://www.devvratyoga.com/wp-content/uploads/2019/07/suryanamaskar-series-b.png) |
+
 
 </div>
