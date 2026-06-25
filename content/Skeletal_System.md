@@ -8,7 +8,7 @@ sources:
   - (ASHTANGA_YOGA_KNOWLEDGE_BASE.pdf, p. 1-8)
   - (Vayu, Identifying Postural Imbalances, Section 3)
 updated: 2026-05-16
-sequence: 33
+sequence: 32
 ---
 <div class="page-wrapper is-bridge">
 

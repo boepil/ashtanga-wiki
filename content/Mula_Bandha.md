@@ -14,6 +14,8 @@ sequence: 19
 
 # Mula Bandha (Root Lock)
 
+*Mula Bandha* is the foundational lock of the [[Bandha_Overview|Bandha]] system and a core component of [[Tristana]].
+
 *Mula* is Sanskrit for "root," "source," or "foundation." Mula Bandha is the foundational seal of the body, located at the floor of the pelvis. It acts as the "bottom lid" of the abdominal cylinder.
 
 ## Anatomical Location and Engagement

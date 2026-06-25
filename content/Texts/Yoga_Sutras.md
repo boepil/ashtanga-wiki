@@ -5,7 +5,7 @@ tags: [texts, classical-yoga, philosophy]
 aliases: [Yoga Sutras, Patanjali]
 
 updated: 2026-05-14
-sequence: 108
+sequence: 113
 ---
 <div class="page-wrapper is-asana">
 

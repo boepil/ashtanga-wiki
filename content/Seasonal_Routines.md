@@ -4,7 +4,7 @@ type: concept
 tags: [ayurveda, ritucharya, seasons, lifestyle]
 
 updated: 2026-05-14
-sequence: 105
+sequence: 111
 ---
 <div class="page-wrapper is-bridge">
 

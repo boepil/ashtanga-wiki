@@ -5,7 +5,7 @@ tags: [history, lineage, krishnamacharya, sivananda, satyananda, yoga-schools]
 
 bridge: Modern History → Lineage Branches
 updated: 2026-05-14
-sequence: 111
+sequence: 116
 ---
 <div class="page-wrapper is-bridge">
 

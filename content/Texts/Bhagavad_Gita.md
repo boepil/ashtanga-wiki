@@ -4,7 +4,7 @@ type: concept
 tags: [texts, philosophy, karma-yoga, bhagavad-gita]
 
 updated: 2026-05-14
-sequence: 110
+sequence: 115
 ---
 <div class="page-wrapper is-bridge">
 

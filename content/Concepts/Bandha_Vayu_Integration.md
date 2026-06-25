@@ -4,7 +4,7 @@ type: concept
 tags: [anatomy, bandhas, subtle-body, energy, core-stability]
 aliases: [Energetic Integration, Bandha Vayu Connection, Core Cylinder]
 updated: 2026-05-15
-sequence: 120
+sequence: 79
 ---
 <div class="page-wrapper is-bridge">
 
@@ -14,7 +14,7 @@ sequence: 120
 
 ![[Bandha_Vayu_Integration.png]]
 
-To understand the internal mechanics of Ashtanga Yoga, one must bridge the gap between ancient energetic functions (**Vayus**), medieval somatic techniques (**Bandhas**), and modern biomechanical structures (**Core Anatomy**). This integration creates what is physically known as "Intra-Abdominal Pressure" (IAP) and energetically as the "Sealing of Prana."
+To understand the internal mechanics of Ashtanga Yoga, one must bridge the gap between ancient energetic functions (**Vayus**), medieval somatic techniques (see [[Bandha_Overview]]), and modern biomechanical structures (**Core Anatomy**). This integration creates what is physically known as "Intra-Abdominal Pressure" (IAP) and energetically as the "Sealing of Prana."
 
 ## 1. Historical Framework
 The systems originated in different eras to address different aspects of the human experience:

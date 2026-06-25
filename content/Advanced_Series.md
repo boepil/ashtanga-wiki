@@ -4,7 +4,7 @@ type: practice
 tags: [asana, advanced-series, sthira-bhaga]
 
 updated: 2026-04-29
-sequence: 9
+sequence: 10
 ---
 <div class="page-wrapper is-bridge">
 

@@ -4,7 +4,7 @@ type: resource
 tags: [teaching, adjustment, journaling, practice]
 
 updated: 2026-05-14
-sequence: 98
+sequence: 104
 ---
 <div class="page-wrapper is-bridge">
 

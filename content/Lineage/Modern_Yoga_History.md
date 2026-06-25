@@ -4,7 +4,7 @@ type: concept
 tags: [history, lineage, krishnamacharya, hatha-yoga]
 
 updated: 2026-05-14
-sequence: 112
+sequence: 117
 ---
 <div class="page-wrapper is-bridge">
 

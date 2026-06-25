@@ -4,7 +4,7 @@ type: practice
 tags: [asana, intermediate-series, nadi-shodhana]
 
 updated: 2026-04-29
-sequence: 8
+sequence: 9
 ---
 <div class="page-wrapper is-bridge">
 

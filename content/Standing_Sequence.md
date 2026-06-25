@@ -4,7 +4,7 @@ type: practice
 tags: [asana, standing-sequence, primary-series]
 
 updated: 2026-04-29
-sequence: 6
+sequence: 7
 ---
 <div class="page-wrapper is-bridge">
 

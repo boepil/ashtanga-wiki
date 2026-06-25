@@ -4,7 +4,7 @@ type: practice
 tags: [pranayama, hatha-yoga, breathing, advanced]
 
 updated: 2026-05-14
-sequence: 15
+sequence: 16
 ---
 <div class="page-wrapper is-bridge">
 

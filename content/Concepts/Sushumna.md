@@ -5,7 +5,7 @@ tags: [philosophy, subtle-body, energy]
 aliases: [Sushumna, Central Channel]
 
 updated: 2026-05-14
-sequence: 88
+sequence: 94
 ---
 <div class="page-wrapper is-bridge">
 

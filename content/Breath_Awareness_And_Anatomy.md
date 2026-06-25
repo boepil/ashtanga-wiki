@@ -4,7 +4,7 @@ type: concept
 tags: [anatomy, breathing, pranayama, foundational]
 
 updated: 2026-05-14
-sequence: 16
+sequence: 17
 ---
 <div class="page-wrapper is-bridge">
 

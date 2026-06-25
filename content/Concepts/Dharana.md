@@ -5,7 +5,7 @@ tags: [philosophy, eight-limbs, meditation]
 aliases: [Dharana, Concentration]
 
 updated: 2026-05-14
-sequence: 80
+sequence: 86
 ---
 <div class="page-wrapper is-bridge">
 

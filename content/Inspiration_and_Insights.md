@@ -4,7 +4,7 @@ type: resource
 tags: [inspiration, philosophy, insights, svadhyaya]
 
 updated: 2026-05-14
-sequence: 99
+sequence: 105
 ---
 <div class="page-wrapper is-bridge">
 

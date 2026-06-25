@@ -14,7 +14,7 @@ sequence: 21
 
 # Jalandhara Bandha (Throat Lock)
 
-*Jalandhara Bandha* is the uppermost of the three primary bandhas. The name comes from *Jala* (net or mesh) and *Dhara* (holding). It functions to "hold the network" of nadis (energy channels) in the neck and serves as a seal for the thoracic outlet.
+*Jalandhara Bandha* is the uppermost lock of the [[Bandha_Overview|Bandha]] system and a core component of [[Tristana]]. It is the uppermost of the three primary bandhas. The name comes from *Jala* (net or mesh) and *Dhara* (holding). It functions to "hold the network" of nadis (energy channels) in the neck and serves as a seal for the thoracic outlet.
 
 ## Anatomical Mechanics
 

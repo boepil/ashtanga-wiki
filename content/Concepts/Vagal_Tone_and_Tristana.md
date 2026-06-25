@@ -5,7 +5,7 @@ tags: [nervous-system, tristana, meditation, vagus-nerve, bridge]
 
 bridge: Nervous System → Contemplative Practice
 updated: 2026-05-14
-sequence: 116
+sequence: 75
 ---
 <div class="page-wrapper is-bridge">
 

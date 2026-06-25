@@ -1,22 +1,17 @@
 ---
-title: The Three Gunas
+title: Gunas and Diet
 type: concept
 tags: [philosophy, samkhya, ayurveda, diet]
-
-updated: 2026-05-14
-sequence: 103
+updated: 2026-06-13
+sequence: 109
 ---
 <div class="page-wrapper is-bridge">
 
+# Gunas and Diet
 
+In Ayurvedic and yogic philosophy, all matter in the universe—including food—is composed of three fundamental qualities or energies known as the **Gunas**: *Sattva*, *Rajas*, and *Tamas*.
 
-# The Three Gunas
-
-# The Three Gunas (Qualities of Food)
-
-In Ayurvedic and yogic philosophy, all matter in the universe—including food—is composed of three fundamental qualities or energies known as the **Gunas**: *Sattva*, *Rajas*, and *Tamas*. 
-
-"When the food we take in is pure, our minds become pure." The goal of a yogic diet is to cultivate a Sattvic state of mind, which is essential for one-pointed concentration and meditation.
+"When the food we take in is pure, our minds become pure." The goal of a yogic diet is to cultivate a Sattvic state of mind, which is essential for one-pointed concentration and meditation. For the philosophical foundation of the Gunas, see [[Concepts/Gunas]].
 
 ## 1. Sattvic (Pure and Harmonious)
 
@@ -25,7 +20,7 @@ Sattvic foods are light, nourishing, and juicy. They promote radiant health, men
 **Foods to Favor:**
 - **Grains:** Wheat, barley, old thin cooked rice.
 - **Legumes:** Mung beans (*mung dal*), green lentils.
-- **Dairy/Fat:** Fresh cow’s milk, butter, and especially **ghee** (clarified butter), which is highly valued for lubricating the internal organs and nourishing the brain.
+- **Dairy/Fat:** Fresh cow's milk, butter, and especially **ghee** (clarified butter), which is highly valued for lubricating the internal organs and nourishing the brain.
 - **Vegetables:** Snake gourd, eggplant, sweet seasonal fruits.
 - **Spices:** Ginger, cardamom, cinnamon.
 - **Natural Tonics:** Honey, jaggery.
@@ -52,7 +47,7 @@ Tamasic foods cause delusion, inertia, and ignorance. They veil the intellect an
 
 ## The Yogic Kitchen (Saucha)
 
-The preparation of food is as important as the ingredients. **Saucha** (cleanliness) applies to both the external environment (a clean kitchen, seasonal ingredients) and the internal state of the cook. 
+The preparation of food is as important as the ingredients. **Saucha** (cleanliness) applies to both the external environment (a clean kitchen, seasonal ingredients) and the internal state of the cook.
 
 Food should be prepared with gratitude and eaten as an offering to the Divine, providing the strength required for spiritual practice and service.
 
@@ -62,6 +57,5 @@ Food should be prepared with gratitude and eaten as an offering to the Divine, p
 - K. Pattabhi Jois, *Yoga Mala* [via NotebookLM Yoga and Human Anatomy]
 - T. Krishnamacharya, *Yoga Makaranda* [via NotebookLM Yoga and Human Anatomy]
 - *Bhagavad Gita*, Chapter 17 [via NotebookLM Yoga Philosophy and Origins]
-
 
 </div>

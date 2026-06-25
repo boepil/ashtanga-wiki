@@ -16,7 +16,7 @@ sources:
   - (Yoga and Human Anatomy notebook)
   - (Yoga Philosophy and Origins notebook)
 updated: 2026-06-04
-sequence: 17
+sequence: 37
 ---
 <div class="page-wrapper is-bridge">
 

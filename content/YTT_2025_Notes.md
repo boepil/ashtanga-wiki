@@ -4,7 +4,7 @@ type: journal
 tags: [ytt, teaching, notes, journal]
 
 updated: 2026-05-14
-sequence: 101
+sequence: 107
 ---
 <div class="page-wrapper is-bridge">
 

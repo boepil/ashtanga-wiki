@@ -15,6 +15,7 @@ Welcome to the Ashtanga Yoga Knowledge Wiki.
 - [[Asana_Fundamentals]] — Alignment principles and energy lines
 - [[Tristana]] — The three pillars (breath, bandha, drishti)
 - [[Vinyasa]] — Breath-linked movement
+- [[Drishti]] — Gaze points and focus
 - [[Surya_Namaskar]] — Sun Salutations
 - [[Standing_Sequence]]
 - [[Primary_Series]] (Yoga Chikitsa)
@@ -29,7 +30,6 @@ Welcome to the Ashtanga Yoga Knowledge Wiki.
 - [[Nadi_Shodhana]]
 - [[Traditional_Pranayama_Techniques]]
 - [[Breath_Awareness_And_Anatomy]]
-- [[Breath_Exercises_For_Erector_Spinae]]
 
 ## 03. Bandha
 - [[Bandha_Overview]]
@@ -42,7 +42,6 @@ Welcome to the Ashtanga Yoga Knowledge Wiki.
 - [[Mudra_Overview]]
 - [[Body_Mudras]]
 - [[Hand_Mudras]]
-- [[Drishti]]
 
 ## 05. Shatkarmas
 - [[Shatkarma_Overview]]
@@ -58,7 +57,6 @@ Welcome to the Ashtanga Yoga Knowledge Wiki.
 - [[Fascial_System]]
 - [[Cardiovascular_and_Lymphatic_Systems]]
 - [[Endocrine_System_and_Inversions]]
-- [[Breath_Awareness_And_Anatomy]]
 - [[Breath_Exercises_For_Erector_Spinae]]
 - [[Joint_Stability]]
 - [[Eccentric_Contraction]]
@@ -107,27 +105,35 @@ Welcome to the Ashtanga Yoga Knowledge Wiki.
 - [[SI_Joint_Instability_Modifications]] — Stabilizing the pelvis in asymmetric poses
 - [[Breath_Holding_Modifications]] — Maintaining thin, smooth Ujjayi
 
+## Cross-Disciplinary Bridges
+- [[Concepts/Vagal_Tone_and_Tristana|Vagal_Tone_and_Tristana]] — nervous system → contemplative practice
+- [[Concepts/Tensegrity_and_Deep_Front_Line|Tensegrity_and_Deep_Front_Line]] — fascia → energetic yoga concepts
+- [[Concepts/Tissue_Mechanics_Vinyasa_Count|Tissue_Mechanics_Vinyasa_Count]] — biomechanics → traditional methodology
+- [[Concepts/Lotus_Protocol_and_Meniscus|Lotus_Protocol_and_Meniscus]] — pathology → structural anatomy
+- [[Concepts/Bandha_Vayu_Integration|Bandha_Vayu_Integration]] — energetic locks → core anatomy integration
+Note: [[Concepts/The_Bohr_Effect_and_Kumbhaka|Bohr_Effect_and_Kumbhaka]] — breath physiology → pranayama
+
 ## 07. Philosophy & Subtle Systems
 ### The Eight Limbs
-- [[Eight_Limbs]] — Overview of the classical path
-- [[Yamas]] — Ethical restraints
-- [[Niyamas]] — Personal observances
-- [[Tapas]] — Fiery discipline and purification
+- [[Concepts/Eight_Limbs|Eight_Limbs]] — Overview of the classical path
+- [[Concepts/Yamas|Yamas]] — Ethical restraints
+- [[Concepts/Niyamas|Niyamas]] — Personal observances
+- [[Concepts/Tapas|Tapas]] — Fiery discipline and purification
 - [[Concepts/Asana|Asana]] — Physical posture (see Section 01)
 - [[Concepts/Pranayama|Pranayama]] — Breath control (see Section 02)
-- [[Pratyahara]] — Sensory withdrawal
-- [[Dharana]] — Concentration
-- [[Dhyana]] — Meditation
-- [[Samadhi]] — Integration/absorption
+- [[Concepts/Pratyahara|Pratyahara]] — Sensory withdrawal
+- [[Concepts/Dharana|Dharana]] — Concentration
+- [[Concepts/Dhyana|Dhyana]] — Meditation
+- [[Concepts/Samadhi|Samadhi]] — Integration/absorption
 ### Subtle Anatomy & Energetics
-- [[Purusha_and_Prakriti]] — Dualism of consciousness and nature
-- [[Gunas]] — The three forces of nature
-- [[Kleshas]] — The five obstacles to peace
-- [[Koshas]] — The five energetic sheaths
-- [[Prana_Vayus]] — The five subtle energy winds
-- [[Sushumna]] — The central energetic channel
+- [[Concepts/Purusha_and_Prakriti|Purusha_and_Prakriti]] — Dualism of consciousness and nature
+- [[Concepts/Gunas|Gunas]] — The three forces of nature
+- [[Concepts/Kleshas|Kleshas]] — The five obstacles to peace
+- [[Concepts/Koshas|Koshas]] — The five energetic sheaths
+- [[Concepts/Prana_Vayus|Prana_Vayus]] — The five subtle energy winds
+- [[Concepts/Sushumna|Sushumna]] — The central energetic channel
 ### Mantra & Tradition
-- [[Om]] — The sacred syllable
+- [[Concepts/Om|Om]] — The sacred syllable
 - [[Womens_Practice_Traditions]] — Historical and somatic considerations
 - [[Sanskrit_Mantras_and_Terminology]]
 
@@ -147,11 +153,10 @@ Welcome to the Ashtanga Yoga Knowledge Wiki.
 
 ## 10. Ayurveda & Diet
 - [[Diet_and_Digestion]]
-- [[The_Three_Gunas]]
+- [[Gunas_and_Diet]]
 - [[Dosha_Adaptations]]
 - [[Seasonal_Routines]]
 - [[Vegetarian_Nutrition]]
-- [[Practice_Journaling]]
 
 ## Texts
 - [[Yoga_Sutras]]
@@ -165,11 +170,4 @@ Welcome to the Ashtanga Yoga Knowledge Wiki.
 - [[K_Pattabhi_Jois]]
 - [[BKS_Iyengar]]
 
-## Cross-Disciplinary Bridges
-- [[Vagal_Tone_and_Tristana]] — nervous system → contemplative practice
-- [[Tensegrity_and_Deep_Front_Line]] — fascia → energetic yoga concepts
-- [[Tissue_Mechanics_Vinyasa_Count]] — biomechanics → traditional methodology
-- [[Lotus_Protocol_and_Meniscus]] — pathology → structural anatomy
-- [[Bandha_Vayu_Integration]] — energetic locks → core anatomy integration
-Note: [[The_Bohr_Effect_and_Kumbhaka|Bohr_Effect_and_Kumbhaka]] — breath physiology → pranayama
 

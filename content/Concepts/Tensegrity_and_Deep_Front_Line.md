@@ -5,7 +5,7 @@ tags: [fascia, bandhas, tensegrity, anatomy-trains, bridge]
 
 bridge: Fascial System → Energetic Yoga Concepts
 updated: 2026-05-14
-sequence: 117
+sequence: 76
 ---
 <div class="page-wrapper is-bridge">
 

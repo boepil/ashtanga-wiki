@@ -4,7 +4,7 @@ type: concept
 tags: [texts, hatha-yoga, subtle-body, hyp]
 
 updated: 2026-05-14
-sequence: 109
+sequence: 114
 ---
 <div class="page-wrapper is-bridge">
 

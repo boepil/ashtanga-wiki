@@ -5,7 +5,7 @@ tags: [philosophy, eight-limbs, meditation]
 aliases: [Dhyana, Meditation]
 
 updated: 2026-05-14
-sequence: 81
+sequence: 87
 ---
 <div class="page-wrapper is-bridge">
 

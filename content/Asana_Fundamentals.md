@@ -19,10 +19,12 @@ The foundation of Ashtanga Yoga postures (Asanas) relies on precise alignment, b
 True alignment in yoga balances **Mobility** (freedom of movement) with **Stability** (control and safety). It is a dynamic process of constant inquiry ("What Stops Me?" — tension vs. compression).
 
 ### Tristhana: The Three Pillars
-Every asana must incorporate the three pillars of attention:
-1. **Asana (Posture)**: Functional alignment over aesthetic shape. Establishing roots to rise.
+Every asana must incorporate the three pillars of [[Tristana|attention]]:
+1. **[[Concepts/Asana|Asana]] (Posture)**: Functional alignment over aesthetic shape. Establishing roots to rise.
 2. **[[Pranayama_Overview|Pranayama]] (Breath)**: Ujjayi breath creates internal heat and synchronizes movement.
 3. **[[Drishti]] (Gaze)**: Focusing the eyes on a specific point to induce Pratyahara (sense withdrawal).
+
+The movement between postures is governed by [[Vinyasa]] — the breath-linked transition system.
 
 ### Alignment Principles
 *   **Foundation & Grounding**: "Root down to rise up." Stability must be built from the ground up, utilizing the tripod of the foot and the starfish shape of the hand (Hasta Bandha).

@@ -4,7 +4,7 @@ type: resource
 tags: [journaling, svadhyaya, practice, sequence]
 
 updated: 2026-05-14
-sequence: 97
+sequence: 103
 ---
 <div class="page-wrapper is-bridge">
 

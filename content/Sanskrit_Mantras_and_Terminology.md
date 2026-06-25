@@ -3,7 +3,7 @@ title: "Sanskrit Mantras and Terminology"
 type: concept
 tags: [mantra, sanskrit, tradition, lineage]
 updated: 2026-04-29
-sequence: 91
+sequence: 97
 ---
 <div class="page-wrapper is-bridge">
 

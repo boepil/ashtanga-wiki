@@ -5,7 +5,7 @@ tags: [philosophy, ethics, eight-limbs]
 aliases: [Niyama, Observances, Saucha, Santosha, Tapas, Svadhyaya, Isvara Pranidhana]
 
 updated: 2026-05-14
-sequence: 77
+sequence: 83
 ---
 <div class="page-wrapper is-bridge">
 

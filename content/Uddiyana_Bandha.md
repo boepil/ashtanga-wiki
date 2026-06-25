@@ -14,6 +14,8 @@ sequence: 20
 
 # Uddiyana Bandha (Upward Flying Lock)
 
+*Uddiyana Bandha* is the middle lock of the [[Bandha_Overview|Bandha]] system and a core component of [[Tristana]].
+
 *Uddiyana* translates to "upward flying" or "soaring." This lock involves drawing the abdominal wall inward and upward, creating a powerful vacuum that lifts the internal organs and manipulates the subtle energy of the torso.
 
 ## Anatomical Mechanics

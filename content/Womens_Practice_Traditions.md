@@ -3,7 +3,7 @@ title: "Womens Practice Traditions"
 type: practice
 tags: [women, moon-days, menstruation, pregnancy, tradition]
 updated: 2026-04-29
-sequence: 90
+sequence: 96
 ---
 <div class="page-wrapper is-bridge">
 

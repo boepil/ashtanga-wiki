@@ -33,6 +33,8 @@ A perfect posture is achieved when the dualities (*dvandvas*) of effort and rela
 
 In Ashtanga Yoga, Asana is practiced dynamically through *vinyasa* (breath-synchronized movement). The practitioner cultivates *sthira* and *sukha* in every pose, ensuring that physical alignment is married with steady breathing and a focused gaze, setting the stage for [[Pratyahara]] and deeper inner focus.
 
+For practical alignment principles, see [[Asana_Fundamentals]]. The primary series of postures — [[Primary_Series]], [[Intermediate_Series]], and [[Advanced_Series]] — are the practical application of Asana in the Ashtanga method.
+
 ## Sources
 - `raw/07_PHILOSOPHY/Eight_Limbs_of_Yoga_(Ashtanga)/Asana_(Physical_Practice).md`
 - Patanjali, *Yoga Sutras* [via NotebookLM Yoga Philosophy and Origins]

@@ -4,7 +4,7 @@ type: practice
 tags: [pranayama, ashtanga, breathing, foundational]
 
 updated: 2026-05-14
-sequence: 13
+sequence: 14
 ---
 <div class="page-wrapper is-bridge">
 
@@ -14,7 +14,7 @@ sequence: 13
 
 # Ujjayi Pranayama (Victorious Breath)
 
-*Ujjayi* (Victorious Breath, or Ocean Breath) is the foundational breathing technique of the Ashtanga Vinyasa system. It is characterized by a subtle constriction at the back of the throat, producing a soft, resonant, wave-like sound. 
+*Ujjayi* (Victorious Breath, or Ocean Breath) is the foundational breathing technique of the Ashtanga Vinyasa system. It is the first pillar of [[Tristana]] (the three-fold focus of Ashtanga practice). It is characterized by a subtle constriction at the back of the throat, producing a soft, resonant, wave-like sound. 
 
 Unlike many pranayamas practiced only in a seated posture, Ujjayi is maintained throughout the entire physical (Asana) practice, serving as the rhythmic metronome of the vinyasa.
 

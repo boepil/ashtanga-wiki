@@ -4,7 +4,7 @@ type: practice
 tags: [teaching, class-structure, mysore, led-class]
 
 updated: 2026-05-14
-sequence: 94
+sequence: 100
 ---
 <div class="page-wrapper is-bridge">
 

@@ -14,7 +14,7 @@ sequence: 22
 
 # Maha Bandha (The Great Lock)
 
-*Maha Bandha* is the "Great Lock," consisting of the simultaneous integration of all three primary bandhas: [[Mula_Bandha]], [[Uddiyana_Bandha]], and [[Jalandhara_Bandha]]. It is considered one of the most powerful practices in Hatha Yoga for internalizing energy and stabilizing the core.
+*Maha Bandha* is the integration of all three primary bandhas — [[Mula_Bandha]], [[Uddiyana_Bandha]], and [[Jalandhara_Bandha]] — making it the culminating practice of the [[Bandha_Overview|Bandha]] system and a core component of [[Tristana]]. It is considered one of the most powerful practices in Hatha Yoga for internalizing energy and stabilizing the core.
 
 ## The Sequence of Engagement
 

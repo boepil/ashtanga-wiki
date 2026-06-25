@@ -3,7 +3,7 @@ title: "T Krishnamacharya"
 type: lineage
 tags: [krishnamacharya, history, vinyasa]
 updated: 2026-04-29
-sequence: 113
+sequence: 118
 ---
 <div class="page-wrapper is-asana">
 

@@ -5,7 +5,7 @@ tags: [philosophy, eight-limbs, subtle-body]
 aliases: [Pranayama, Breath Control]
 
 updated: 2026-05-14
-sequence: 11
+sequence: 12
 ---
 <div class="page-wrapper is-bridge">
 
@@ -27,7 +27,7 @@ A primary goal of Pranayama is to purify the subtle energetic channels (*nadis*)
 
 ## Integration in Practice
 
-Pranayama is considered highly potent and must be approached with patience, often compared to taming a wild animal. In Ashtanga Vinyasa, the foundation of pranayama is established during [[Asana]] practice through the continuous, rhythmic *Ujjayi* breath. Dedicated, seated Pranayama practice is traditionally introduced only after the body has been sufficiently purified and strengthened through asana.
+Pranayama is considered highly potent and must be approached with patience, often compared to taming a wild animal. In Ashtanga Vinyasa, the foundation of pranayama is established during [[Asana]] practice through the continuous, rhythmic [[Ujjayi_Pranayama|Ujjayi]] breath. Key techniques include [[Nadi_Shodhana]] (alternate nostril breathing) for purifying the energetic channels. Dedicated, seated Pranayama practice is traditionally introduced only after the body has been sufficiently purified and strengthened through asana.
 
 ## Sources
 - `raw/07_PHILOSOPHY/Eight_Limbs_of_Yoga_(Ashtanga)/Pranayama_(Breath_Control).md`

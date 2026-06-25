@@ -8,7 +8,7 @@ sources:
   - (Broad, The Science of Yoga, Chapter 4)
   - (ASHTANGA_YOGA_KNOWLEDGE_BASE.pdf, p. 14, 24)
 updated: 2026-05-16
-sequence: 36
+sequence: 35
 ---
 <div class="page-wrapper is-bridge">
 

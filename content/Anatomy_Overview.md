@@ -6,7 +6,7 @@ sources:
   - (Clark, Your Body, Your Yoga, p. 1-20, 579-618)
   - (ASHTANGA_YOGA_KNOWLEDGE_BASE.pdf, p. 1-8)
 updated: 2026-05-16
-sequence: 32
+sequence: 31
 --- 
 <div class="page-wrapper is-bridge">
 

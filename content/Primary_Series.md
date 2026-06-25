@@ -4,7 +4,7 @@ type: practice
 tags: [asana, primary-series, yoga-chikitsa]
 
 updated: 2026-04-29
-sequence: 7
+sequence: 8
 ---
 <div class="page-wrapper is-bridge">
 

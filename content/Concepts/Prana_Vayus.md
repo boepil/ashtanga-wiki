@@ -5,7 +5,7 @@ tags: [philosophy, subtle-body, energy]
 aliases: [Prana Vayus, Vayus, Prana, Apana, Samana, Udana, Vyana]
 
 updated: 2026-05-14
-sequence: 87
+sequence: 93
 ---
 <div class="page-wrapper is-bridge">
 
