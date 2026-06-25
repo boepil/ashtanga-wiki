@@ -1,14 +1,14 @@
 ---
+title: "Chaturanga Collapse Modifications"
 type: asana-modification
 condition: Chaturanga Collapse
 linked-compensation-map: [[Chaturanga_Collapse]]
 linked-protocol: [[Chaturanga_Collapse_Protocol]]
-sources:
   - "raw/06_ANATOMY/03_Pathology_&_Prevention/02_Regional_Anatomy/Subacromial Impingement.md"
   - "raw/06_ANATOMY/01_Foundational_Systems/02_Muscular/Serratus Anterior (The Lift Muscle).md"
   - "Yoga and Human Anatomy [via NotebookLM]"
 updated: 2026-05-02
-sequence: 65
+sequence: 68
 ---
 <div class="page-wrapper is-asana">
 

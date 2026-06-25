@@ -3,9 +3,9 @@ title: "The Three Gunas"
 type: concept
 tags: [philosophy, samkhya]
 aliases: [Gunas, Sattva, Rajas, Tamas]
-sources: [raw/07_PHILOSOPHY/The_Three_Gunas.md]
+
 updated: 2026-05-14
-sequence: 80
+sequence: 84
 ---
 <div class="page-wrapper is-bridge">
 

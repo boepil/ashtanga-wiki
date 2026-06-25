@@ -1,14 +1,14 @@
 ---
+title: "Fascial System"
 type: concept
 tags: [anatomy, fascia, connective-tissue, bandhas, biotensegrity]
-sources:
   - (Myers, Anatomy Trains 4th Ed, p. 3, 9)
   - (Little, Yoga of the Subtle Body, Chapter 1, 2, 8)
   - (Clark, Your Body, Your Yoga, p. 43, 231)
   - (Mitchell, Yoga Biomechanics, p. 17)
   - (ASHTANGA_YOGA_KNOWLEDGE_BASE.pdf, p. 15, 18, 20)
 updated: 2026-05-16
-sequence: 34
+sequence: 35
 ---
 <div class="page-wrapper is-bridge">
 

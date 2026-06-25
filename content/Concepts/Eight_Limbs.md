@@ -3,9 +3,9 @@ title: "The Eight Limbs of Yoga (Ashtanga)"
 type: concept
 tags: [philosophy, ashtanga, core-concepts]
 aliases: [Ashtanga, Eight Limbs, Ashtanga Yoga]
-sources: [raw/07_PHILOSOPHY/Eight_Limbs_of_Yoga_(Ashtanga)/*]
+
 updated: 2026-05-14
-sequence: 72
+sequence: 75
 ---
 <div class="page-wrapper is-bridge">
 

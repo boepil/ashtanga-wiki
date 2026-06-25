@@ -1,10 +1,10 @@
 ---
+title: "Savasana"
 type: asana
 series: Primary Series (Yoga Chikitsa)
 sequence_position: Final Rest
 drishti: inwards (closed eyes)
 breath_count: 10 to 15 minutes
-sources:
   - "Light on Yoga, B.K.S. Iyengar"
   - "Teaching Yoga Essential Foundations and Techniques, Mark Stephens"
   - "Yoga Mala, K. Pattabhi Jois"

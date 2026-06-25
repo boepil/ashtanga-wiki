@@ -1,15 +1,15 @@
 ---
+title: "Shoulder Impingement Protocol"
 type: rehabilitation-protocol
 condition: Shoulder Impingement
 linked-compensation-map: [[Shoulder_Impingement]]
 linked-asana-modifications: [[Shoulder_Impingement_Modifications]]
-sources:
   - (Hogan, Built From Broken, p. 363-382)
   - (Starrett, Becoming a Supple Leopard, p. 336-342)
   - (Kaminoff, Yoga Anatomy, p. 82-83)
   - (Myers, Anatomy Trains, p. 494-505)
 updated: 2026-05-02
-sequence: 56
+sequence: 59
 ---
 <div class="page-wrapper is-rehabilitation">
 

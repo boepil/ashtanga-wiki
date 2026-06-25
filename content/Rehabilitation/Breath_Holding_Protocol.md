@@ -1,16 +1,16 @@
 ---
+title: "Breath Holding Protocol"
 type: rehabilitation-protocol
 condition: Breath Holding under Effort
 linked-compensation-map: [[Breath_Holding]]
 linked-asana-modifications: [[Breath_Holding_Modifications]]
-sources:
   - (Nestor, Breath, p. 200-215)
   - (McKeown, The Oxygen Advantage, p. 55-142)
   - (Kaminoff, Yoga Anatomy, p. 124-188)
   - (Starrett, Becoming a Supple Leopard, p. 44)
   - (Broad, Science of Yoga, p. 62-85)
 updated: 2026-05-02
-sequence: 63
+sequence: 66
 ---
 <div class="page-wrapper is-rehabilitation">
 

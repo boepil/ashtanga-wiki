@@ -1,7 +1,7 @@
 ---
+title: "Muscular System"
 type: concept
 tags: [anatomy, muscular-system, core, psoas, gluteals, serratus-anterior]
-sources:
   - (Hogan, Built From Broken, p. 9)
   - (Goodman, Foundation, p. 14)
   - (Myers, Anatomy Trains, p. 18)
@@ -9,7 +9,7 @@ sources:
   - (Yoga of the Subtle Body, Chapter 2)
   - (ASHTANGA_YOGA_KNOWLEDGE_BASE.pdf, p. 1-29)
 updated: 2026-05-16
-sequence: 33
+sequence: 34
 ---
 <div class="page-wrapper is-bridge">
 

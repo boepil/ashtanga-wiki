@@ -2,7 +2,6 @@
 title: Breath Exercises For Erector Spinae
 type: practice
 tags: [anatomy, breathing, pranayama, erector-spinae, spinal-stability, bandha, foundational, rehabilitation]
-sources:
   - (Long, Key Muscles of Yoga, p. 47, 92)
   - (Hogan, Built From Broken, p. 9, 340-342)
   - (Kaminoff, Yoga Anatomy, p. 56-72)
@@ -16,7 +15,7 @@ sources:
   - (Yoga and Human Anatomy notebook)
   - (Yoga Philosophy and Origins notebook)
 updated: 2026-06-04
-sequence: 16
+sequence: 17
 ---
 <div class="page-wrapper is-bridge">
 
@@ -24,7 +23,7 @@ sequence: 16
 
 # Breath Exercises For Erector Spinae
 
-![[ChatGPT Image Jun 4, 2026, 03_12_49 PM 1 1.png]]
+![[ChatGPT Image Jun 4, 2026, 03_12_49 PM 1.png]]
 ## Summary
 
 The erector spinae (spinalis, longissimus, iliocostalis) is the primary spinal extensor and the most overworked "compensator" muscle in modern yoga practice. Breath practices that target this group work in two directions: (1) **offloading** the erectors by recruiting the deep core "airbag" via diaphragmatic breathing and the Bandhas, and (2) **directly engaging** the erectors through spinal extension–coupled inhale-retention patterns in poses like Cobra, Locust, and Wheel [1, 4, 11]. A complete practice covers both axes.

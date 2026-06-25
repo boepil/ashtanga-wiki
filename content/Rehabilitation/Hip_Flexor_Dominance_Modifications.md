@@ -1,14 +1,14 @@
 ---
+title: "Hip Flexor Dominance Modifications"
 type: asana-modification
 condition: Hip Flexor Dominance
 linked-compensation-map: [[Hip_Flexor_Dominance]]
 linked-rehabilitation-protocol: [[Hip_Flexor_Dominance_Protocol]]
-sources:
   - (Clark, Your Body Your Yoga, p. 530)
   - (Kaminoff, Yoga Anatomy, p. 358-360)
   - (Ashtanga Knowledge Base, p. 33-254)
 updated: 2026-05-02
-sequence: 67
+sequence: 70
 ---
 <div class="page-wrapper is-asana">
 

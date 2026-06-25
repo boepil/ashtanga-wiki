@@ -1,10 +1,10 @@
 ---
+title: "Prasarita Padottanasana"
 type: asana
 series: Primary Series (Yoga Chikitsa)
 sequence_position: Standing
 drishti: tip of the nose
 breath_count: stay for 5 breaths
-sources:
   - "Light on Yoga, B.K.S. Iyengar"
   - "Ashtanga Yoga Anusthana, Sharath Jois"
   - "Teaching Yoga Essential Foundations and Techniques, Mark Stephens"

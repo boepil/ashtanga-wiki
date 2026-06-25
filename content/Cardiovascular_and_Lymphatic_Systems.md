@@ -1,13 +1,13 @@
 ---
+title: "Cardiovascular and Lymphatic Systems"
 type: concept
 tags: [anatomy, cardiovascular, lymphatic, tapas, vinyasa, inversions]
-sources:
   - (Huy & McGonigle, The Physiology of Yoga, p. 597)
   - (Kaminoff, Yoga Anatomy 2nd Ed, p. 24)
   - (Broad, The Science of Yoga, Chapter 4)
   - (ASHTANGA_YOGA_KNOWLEDGE_BASE.pdf, p. 14, 24)
 updated: 2026-05-16
-sequence: 35
+sequence: 36
 ---
 <div class="page-wrapper is-bridge">
 

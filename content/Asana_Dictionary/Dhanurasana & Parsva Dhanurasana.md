@@ -1,10 +1,10 @@
 ---
+title: "Dhanurasana & Parsva Dhanurasana"
 type: asana
 series: Intermediate Series (Nadi Shodhana)
 sequence_position: 5-6
 drishti: nose (nasagre)
 breath_count: 5 breaths (Dhanurasana), 5 breaths per side (Parsva)
-sources:
   - "Light on Yoga, B.K.S. Iyengar"
   - "Yoga Mala, K. Pattabhi Jois"
   - "Yoga Makaranda, T. Krishnamacharya"

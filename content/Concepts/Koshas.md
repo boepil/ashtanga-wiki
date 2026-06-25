@@ -3,9 +3,9 @@ title: "The Five Koshas"
 type: concept
 tags: [philosophy, subtle-body]
 aliases: [Koshas, Sheaths, Annamaya, Pranamaya, Manomaya, Vijnanamaya, Anandamaya]
-sources: [raw/07_PHILOSOPHY/Practical_Philosophy/חמשת הקושות.md]
+
 updated: 2026-05-14
-sequence: 82
+sequence: 86
 ---
 <div class="page-wrapper is-bridge">
 

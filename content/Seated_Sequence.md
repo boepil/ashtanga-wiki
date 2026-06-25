@@ -1,7 +1,8 @@
 ---
+title: "Seated Sequence"
 type: practice
 tags: [asana, seated-sequence, primary-series]
-sources: [raw/01_ASANA/1. Primary_Series_(Sanskrit Name-English Meaning)/Seated_Sequence/*]
+
 updated: 2026-04-29
 sequence: 9999
 ---

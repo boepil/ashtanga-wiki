@@ -1,10 +1,11 @@
 ---
+title: "Lotus Protocol and Meniscus"
 type: practice + asana-modification
 tags: [pathology, lotus, knee-injury, skeletal-variation]
-sources: [NotebookLM Notebook 1, NotebookLM Notebook 2, raw/06_ANATOMY/03_Pathology_&_Prevention]
+sources: [NotebookLM Notebook 1, NotebookLM Notebook 2]
 bridge: Pathology → Structural Anatomy
 updated: 2026-05-09
-sequence: 115
+sequence: 119
 ---
 <div class="page-wrapper is-asana">
 

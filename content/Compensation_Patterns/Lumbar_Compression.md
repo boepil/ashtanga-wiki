@@ -1,12 +1,12 @@
 ---
+title: "Lumbar Compression"
 type: compensation-map
 tags: [anatomy, backbends, lumbar, urdhva-dhanurasana, si-joint]
-sources:
   - "raw/06_ANATOMY/01_Foundational_Systems/01_Skeletal/Joint_Stability/Spinal_Movement_Patterns.md"
   - "raw/06_ANATOMY/01_Foundational_Systems/02_Muscular/Gluteal Differentiation.md"
   - "Yoga and Human Anatomy [via NotebookLM]"
 updated: 2026-05-02
-sequence: 52
+sequence: 54
 ---
 <div class="page-wrapper is-compensation">
 

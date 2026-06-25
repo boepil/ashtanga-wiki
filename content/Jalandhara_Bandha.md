@@ -2,9 +2,9 @@
 title: Jalandhara Bandha
 type: concept
 tags: [bandha, anatomy, energy, foundational]
-sources: [raw/03_BANDHA/Jalandhara_Bandha_(Throat_Lock)/*]
+
 updated: 2026-05-14
-sequence: 20
+sequence: 21
 ---
 <div class="page-wrapper is-bridge">
 

@@ -1,12 +1,12 @@
 ---
+title: "Pain Science"
 type: concept
 tags: [anatomy, pain-science, neuro-physiology, nervous-system, injury-management]
-sources:
   - (Huy & McGonigle, The Physiology of Yoga, p. 597)
   - (Broad, The Science of Yoga, Chapter 4)
   - (raw/06_ANATOMY/04_Integration_&_Mind-Body/01_Neuro-Physiology/*)
 updated: 2026-06-13
-sequence: 43
+sequence: 45
 ---
 <div class="page-wrapper is-bridge">
 

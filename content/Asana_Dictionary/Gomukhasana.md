@@ -1,10 +1,10 @@
 ---
+title: "Gomukhasana"
 type: asana
 series: Intermediate Series (Nadi Shodhana)
 sequence_position: 24
 drishti: nose (nasagre)
 breath_count: 5 breaths per side (A), 5 breaths per side (B)
-sources:
   - "Light on Yoga, B.K.S. Iyengar"
   - "Yoga Mala, K. Pattabhi Jois"
   - "Yoga Makaranda, T. Krishnamacharya"

@@ -2,9 +2,9 @@
 title: Observation And Adjustment
 type: concept
 tags: [teaching, adjustment, observation, pedagogy]
-sources: [raw/08_TEACHING_METHODOLOGY/Observation_and_Adjustment/*]
+
 updated: 2026-05-14
-sequence: 89
+sequence: 93
 ---
 <div class="page-wrapper is-bridge">
 

@@ -1,10 +1,10 @@
 ---
+title: "Tittibhasana"
 type: asana
 series: Intermediate Series (Nadi Shodhana)
 sequence_position: 17
 drishti: nose (nasagre)
 breath_count: 5 breaths (A), 5 breaths (B), 5 breaths (C)
-sources:
   - "Light on Yoga, B.K.S. Iyengar"
   - "Yoga Mala, K. Pattabhi Jois"
   - "Yoga Makaranda, T. Krishnamacharya"

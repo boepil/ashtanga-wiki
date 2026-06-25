@@ -2,9 +2,9 @@
 title: Hand Mudras
 type: practice
 tags: [mudra, hand, meditation, pranayama]
-sources: [raw/04_MUDRA/Hand_Mudras/*]
+
 updated: 2026-05-14
-sequence: 24
+sequence: 25
 ---
 <div class="page-wrapper is-bridge">
 

@@ -3,9 +3,9 @@ title: "Pranayama (Breath Control)"
 type: concept
 tags: [philosophy, eight-limbs, subtle-body]
 aliases: [Pranayama, Breath Control]
-sources: [raw/07_PHILOSOPHY/Eight_Limbs_of_Yoga_(Ashtanga)/Pranayama_(Breath_Control).md]
+
 updated: 2026-05-14
-sequence: 10
+sequence: 11
 ---
 <div class="page-wrapper is-bridge">
 

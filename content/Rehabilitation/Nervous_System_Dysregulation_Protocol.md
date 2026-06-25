@@ -1,15 +1,15 @@
 ---
+title: "Nervous System Dysregulation Protocol"
 type: rehabilitation-protocol
 condition: Nervous System Dysregulation
 linked-compensation-map: [[Breath_Holding]]
 linked-asana-modifications: [[Nervous_System_Dysregulation_Modifications]]
-sources:
   - (Nestor, Breath, p. 251-363)
   - (McKeown, The Oxygen Advantage, p. 37-145)
   - (Kaminoff, Yoga Anatomy, p. 11-238)
   - (Starrett, Becoming a Supple Leopard, p. 44-47)
 updated: 2026-05-02
-sequence: 58
+sequence: 61
 ---
 <div class="page-wrapper is-rehabilitation">
 

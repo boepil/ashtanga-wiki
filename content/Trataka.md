@@ -2,9 +2,9 @@
 title: Trataka
 type: practice
 tags: [shatkarma, kriya, concentration, eye-cleansing]
-sources: [raw/05_SHATKARMAS/Accessible_Practices/Simple_Eye_Cleansing.md]
+
 updated: 2026-05-14
-sequence: 29
+sequence: 30
 ---
 <div class="page-wrapper is-bridge">
 

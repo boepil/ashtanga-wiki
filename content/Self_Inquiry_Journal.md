@@ -2,9 +2,9 @@
 title: Self Inquiry Journal
 type: resource
 tags: [journaling, svadhyaya, atma-vicara, philosophy]
-sources: [raw/09_PERSONAL_PRACTICE/Self-Inquiry_Journal.md]
+
 updated: 2026-05-14
-sequence: 96
+sequence: 100
 ---
 <div class="page-wrapper is-bridge">
 

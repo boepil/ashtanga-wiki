@@ -2,9 +2,9 @@
 title: Traditional Pranayama Techniques
 type: practice
 tags: [pranayama, hatha-yoga, breathing, advanced]
-sources: [raw/02_PRANAYAMA/Traditional_Pranayama_Practices/*]
+
 updated: 2026-05-14
-sequence: 14
+sequence: 15
 ---
 <div class="page-wrapper is-bridge">
 

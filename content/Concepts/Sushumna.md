@@ -3,9 +3,9 @@ title: "Sushumna Nadi"
 type: concept
 tags: [philosophy, subtle-body, energy]
 aliases: [Sushumna, Central Channel]
-sources: [raw/07_PHILOSOPHY/Practical_Philosophy/Sushomana.md]
+
 updated: 2026-05-14
-sequence: 84
+sequence: 88
 ---
 <div class="page-wrapper is-bridge">
 

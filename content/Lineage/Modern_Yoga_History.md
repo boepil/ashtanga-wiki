@@ -2,9 +2,9 @@
 title: Modern Yoga History
 type: concept
 tags: [history, lineage, krishnamacharya, hatha-yoga]
-sources: [raw/07_PHILOSOPHY/Practical_Philosophy/Yoga in Early Modern Yoga.md]
+
 updated: 2026-05-14
-sequence: 108
+sequence: 112
 ---
 <div class="page-wrapper is-bridge">
 

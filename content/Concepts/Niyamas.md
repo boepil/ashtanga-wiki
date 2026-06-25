@@ -3,9 +3,9 @@ title: "Niyamas (Observances)"
 type: concept
 tags: [philosophy, ethics, eight-limbs]
 aliases: [Niyama, Observances, Saucha, Santosha, Tapas, Svadhyaya, Isvara Pranidhana]
-sources: [raw/07_PHILOSOPHY/Eight_Limbs_of_Yoga_(Ashtanga)/Niyamas_(Observances).md]
+
 updated: 2026-05-14
-sequence: 74
+sequence: 77
 ---
 <div class="page-wrapper is-bridge">
 

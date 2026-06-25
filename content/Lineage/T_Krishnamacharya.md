@@ -1,9 +1,9 @@
 ---
+title: "T Krishnamacharya"
 type: lineage
 tags: [krishnamacharya, history, vinyasa]
-sources: []
 updated: 2026-04-29
-sequence: 109
+sequence: 113
 ---
 <div class="page-wrapper is-asana">
 

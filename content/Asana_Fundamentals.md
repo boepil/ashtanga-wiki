@@ -1,7 +1,8 @@
 ---
+title: "Asana Fundamentals"
 type: concept
 tags: [asana, fundamentals, anatomy, alignment]
-sources: [raw/01_ASANA/Asana_Fundamentals/*]
+
 updated: 2026-04-29
 sequence: 2
 ---

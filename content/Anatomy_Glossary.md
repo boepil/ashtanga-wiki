@@ -1,9 +1,10 @@
 ---
+title: "Anatomy Glossary"
 type: resource
 tags: [anatomy, glossary, sanskrit, hebrew]
-sources: [raw/06_ANATOMY/נקודות אנטאטומיות מרכזיות ביוגה.md]
+
 updated: 2026-04-29
-sequence: 9999
+sequence: 44
 ---
 <div class="page-wrapper is-bridge">
 

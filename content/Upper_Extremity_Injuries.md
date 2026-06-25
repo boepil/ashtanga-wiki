@@ -1,13 +1,13 @@
 ---
+title: "Upper Extremity Injuries"
 type: concept
 tags: [anatomy, injury, upper-extremity, shoulder, wrist, elbow, assessment]
-sources:
   - (Raw, 06_ANATOMY/03_Pathology_&_Prevention/02_Regional_Anatomy/Shoulders/*)
   - (Raw, 06_ANATOMY/03_Pathology_&_Prevention/02_Regional_Anatomy/Neck/*)
   - (Raw, 06_ANATOMY/03_Pathology_&_Prevention/02_Regional_Anatomy/Skapula/*)
   - (Mitchell, Yoga Biomechanics, p. 151-152)
 updated: 2026-06-13
-sequence: 45
+sequence: 47
 ---
 <div class="page-wrapper is-bridge">
 

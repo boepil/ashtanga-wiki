@@ -1,10 +1,10 @@
 ---
+title: "Supta Padangusthasana"
 type: asana
 series: Primary Series (Yoga Chikitsa)
 sequence_position: Seated
 drishti: foot (A), side (B)
 breath_count: stay for 5 breaths
-sources:
   - "Light on Yoga, B.K.S. Iyengar"
   - "B. K. S. Iyengar Yoga: The Path to Holistic Health, B. K. S. Iyengar"
   - "Science of Yoga, Ann Swanson"

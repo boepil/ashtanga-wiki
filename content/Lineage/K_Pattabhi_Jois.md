@@ -1,9 +1,9 @@
 ---
+title: "K Pattabhi Jois"
 type: lineage
 tags: [pattabhi-jois, ashtanga, history]
-sources: []
 updated: 2026-04-29
-sequence: 110
+sequence: 114
 ---
 <div class="page-wrapper is-asana">
 

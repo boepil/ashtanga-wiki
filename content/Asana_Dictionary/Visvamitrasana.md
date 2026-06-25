@@ -1,10 +1,10 @@
 ---
+title: "Visvamitrasana"
 type: asana
 series: Advanced A (Third Series)
 sequence_position: 28 (R) / 29 (L)
 drishti: Upward (urdhva drishti)
 breath_count: 5 breaths
-sources:
   - (ASHTANGA_YOGA_KNOWLEDGE_BASE.pdf, p. 5)
 updated: 2026-05-16
 sequence: 9999

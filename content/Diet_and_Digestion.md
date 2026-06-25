@@ -2,9 +2,9 @@
 title: Diet and Digestion
 type: concept
 tags: [ayurveda, diet, agni, mitahara]
-sources: [raw/10_AYURVEDA_AND_DIET/*]
+
 updated: 2026-05-14
-sequence: 98
+sequence: 102
 ---
 <div class="page-wrapper is-bridge">
 

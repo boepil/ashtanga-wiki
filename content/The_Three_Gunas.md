@@ -2,9 +2,9 @@
 title: The Three Gunas
 type: concept
 tags: [philosophy, samkhya, ayurveda, diet]
-sources: [raw/10_AYURVEDA_AND_DIET/*]
+
 updated: 2026-05-14
-sequence: 99
+sequence: 103
 ---
 <div class="page-wrapper is-bridge">
 

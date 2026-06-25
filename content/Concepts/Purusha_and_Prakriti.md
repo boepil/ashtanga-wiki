@@ -3,9 +3,9 @@ title: "Purusha and Prakriti"
 type: concept
 tags: [philosophy, samkhya, core-concepts]
 aliases: [Purusha, Prakriti, Dualism]
-sources: [raw/07_PHILOSOPHY/*]
+
 updated: 2026-05-14
-sequence: 79
+sequence: 83
 ---
 <div class="page-wrapper is-bridge">
 

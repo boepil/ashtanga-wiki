@@ -3,7 +3,7 @@ title: "Asana (Physical Posture)"
 type: concept
 tags: [philosophy, eight-limbs, physical-practice]
 aliases: [Asana, Sthira Sukham Asanam]
-sources: [raw/07_PHILOSOPHY/Eight_Limbs_of_Yoga_(Ashtanga)/Asana_(Physical_Practice).md]
+
 updated: 2026-05-14
 sequence: 1
 ---

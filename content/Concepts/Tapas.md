@@ -3,9 +3,9 @@ title: "Tapas (Internal Heat/Discipline)"
 type: concept
 tags: [philosophy, practice, heat, purification, niyama]
 aliases: [Heat, Discipline, Spiritual Fire]
-sources: [raw/07_PHILOSOPHY/Eight_Limbs_of_Yoga_(Ashtanga)/Niyamas_(Observances).md]
+
 updated: 2026-05-16
-sequence: 9999
+sequence: 78
 ---
 <div class="page-wrapper is-bridge">
 

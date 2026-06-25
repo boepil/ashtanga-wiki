@@ -2,9 +2,9 @@
 title: Class Structure
 type: practice
 tags: [teaching, class-structure, mysore, led-class]
-sources: [raw/08_TEACHING_METHODOLOGY/Class_Structure/*]
+
 updated: 2026-05-14
-sequence: 90
+sequence: 94
 ---
 <div class="page-wrapper is-bridge">
 

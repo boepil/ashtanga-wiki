@@ -2,9 +2,9 @@
 title: "Bhagavad Gita"
 type: concept
 tags: [texts, philosophy, karma-yoga, bhagavad-gita]
-sources: [raw/07_PHILOSOPHY/Classical_Context/Yoga in the Bhagavad Gita.md]
+
 updated: 2026-05-14
-sequence: 106
+sequence: 110
 ---
 <div class="page-wrapper is-bridge">
 

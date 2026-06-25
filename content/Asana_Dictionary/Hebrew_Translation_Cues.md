@@ -2,7 +2,7 @@
 title: Hebrew Translation Cues
 type: dictionary
 tags: [hebrew, karaoke, translation, asana]
-sources: [raw/11_Resources/Asana_Dictionary_Hebrew.md]
+
 updated: 2026-05-14
 sequence: 119
 ---

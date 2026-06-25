@@ -3,9 +3,9 @@ title: "Dharana (Concentration)"
 type: concept
 tags: [philosophy, eight-limbs, meditation]
 aliases: [Dharana, Concentration]
-sources: [raw/07_PHILOSOPHY/Eight_Limbs_of_Yoga_(Ashtanga)/Dharana_(Concentration).md]
+
 updated: 2026-05-14
-sequence: 76
+sequence: 80
 ---
 <div class="page-wrapper is-bridge">
 

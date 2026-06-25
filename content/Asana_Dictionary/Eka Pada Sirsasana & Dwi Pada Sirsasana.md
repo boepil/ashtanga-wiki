@@ -1,10 +1,10 @@
 ---
+title: "Eka Pada Sirsasana & Dwi Pada Sirsasana"
 type: asana
 series: Intermediate Series (Nadi Shodhana)
 sequence_position: 14-15
 drishti: nose (nasagre)
 breath_count: 5 breaths per side (Eka), 5 breaths (Dwi)
-sources:
   - "Light on Yoga, B.K.S. Iyengar"
   - "Yoga Mala, K. Pattabhi Jois"
   - "Yoga Makaranda, T. Krishnamacharya"

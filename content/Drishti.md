@@ -2,9 +2,9 @@
 title: Drishti
 type: concept
 tags: [drishti, focus, gaze, tristana]
-sources: [raw/04_MUDRA/Eye_Gazing_(Drishti)/*]
+
 updated: 2026-05-14
-sequence: 25
+sequence: 26
 ---
 <div class="page-wrapper is-bridge">
 

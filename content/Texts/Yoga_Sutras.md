@@ -3,9 +3,9 @@ title: "Yoga Sutras of Patanjali"
 type: text
 tags: [texts, classical-yoga, philosophy]
 aliases: [Yoga Sutras, Patanjali]
-sources: [raw/07_PHILOSOPHY/Eight_Limbs_of_Yoga_(Ashtanga)/*]
+
 updated: 2026-05-14
-sequence: 104
+sequence: 108
 ---
 <div class="page-wrapper is-asana">
 

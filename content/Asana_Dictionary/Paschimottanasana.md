@@ -1,10 +1,10 @@
 ---
+title: "Paschimottanasana"
 type: asana
 series: Primary Series (Yoga Chikitsa)
 sequence_position: Seated
 drishti: foot or tip of the nose
 breath_count: stay for 5 breaths (per variation)
-sources:
   - "Light on Yoga, B.K.S. Iyengar"
   - "The Path of Modern Yoga, Elliott Goldberg"
   - "Teaching Yoga Essential Foundations and Techniques, Mark Stephens"

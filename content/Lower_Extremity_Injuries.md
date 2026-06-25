@@ -1,14 +1,14 @@
 ---
+title: "Lower Extremity Injuries"
 type: concept
 tags: [anatomy, injury, lower-extremity, hip, knee, ankle, foot, hamstring]
-sources:
   - (Raw, 06_ANATOMY/03_Pathology_&_Prevention/02_Regional_Anatomy/ירך/*)
   - (Raw, 06_ANATOMY/02_Biomechanics_&_Dynamics/Hip Joint Anatomy*)
   - (Raw, 06_ANATOMY/02_Biomechanics_&_Dynamics/Lateral Knee Anatomy*)
   - (Raw, 06_ANATOMY/02_Biomechanics_&_Dynamics/Lower Limb Bone Biomechanics*)
   - (Mitchell, Yoga Biomechanics, p. 151-152)
 updated: 2026-06-13
-sequence: 47
+sequence: 49
 ---
 <div class="page-wrapper is-bridge">
 

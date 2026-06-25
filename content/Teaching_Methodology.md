@@ -2,9 +2,9 @@
 title: Teaching Methodology
 type: concept
 tags: [teaching, pedagogy, parampara, ethics]
-sources: [raw/08_TEACHING_METHODOLOGY/*]
+
 updated: 2026-05-14
-sequence: 88
+sequence: 92
 ---
 <div class="page-wrapper is-bridge">
 

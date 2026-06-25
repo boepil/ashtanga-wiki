@@ -1,10 +1,10 @@
 ---
+title: "Ubhaya Padangusthasana"
 type: asana
 series: Primary Series (Yoga Chikitsa)
 sequence_position: Seated
 drishti: towards sky
 breath_count: stay for 5 breaths
-sources:
   - "Light on Yoga, B.K.S. Iyengar"
   - "Yoga Mala, K. Pattabhi Jois"
   - "Yoga Makaranda, T. Krishnamacharya"

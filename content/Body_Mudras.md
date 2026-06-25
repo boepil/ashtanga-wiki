@@ -2,9 +2,9 @@
 title: Body Mudras
 type: practice
 tags: [mudra, kaya-mudra, energy, advanced]
-sources: [raw/04_MUDRA/Body_Mudras/*]
+
 updated: 2026-05-14
-sequence: 23
+sequence: 24
 ---
 <div class="page-wrapper is-bridge">
 

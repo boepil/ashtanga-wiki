@@ -1,15 +1,15 @@
 ---
+title: "Hamstring Overstretching Protocol"
 type: rehabilitation-protocol
 condition: Hamstring Overstretching
 linked-compensation-map: [[Hamstring_Overstretching]]
 linked-asana-modifications: [[Hamstring_Overstretching_Modifications]]
-sources:
   - (Starrett, Becoming a Supple Leopard, p. 316-340)
   - (Goodman, Foundation, p. 245-314)
   - (Myers, Anatomy Trains, p. 39-104)
   - (Hogan, Built From Broken, p. 327-342)
 updated: 2026-05-02
-sequence: 61
+sequence: 64
 ---
 <div class="page-wrapper is-rehabilitation">
 

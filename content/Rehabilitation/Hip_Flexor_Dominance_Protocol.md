@@ -1,16 +1,16 @@
 ---
+title: "Hip Flexor Dominance Protocol"
 type: rehabilitation-protocol
 condition: Hip Flexor Dominance
 linked-compensation-map: [[Hip_Flexor_Dominance]]
 linked-asana-modifications: [[Hip_Flexor_Dominance_Modifications]]
-sources:
   - (Starrett, Becoming a Supple Leopard, p. 288-306)
   - (Goodman, Foundation, p. 314-340)
   - (Hogan, Built From Broken, p. 327-342)
   - (Myers, Anatomy Trains, p. 338-368)
   - (Kaminoff, Yoga Anatomy, p. 124-188)
 updated: 2026-05-02
-sequence: 59
+sequence: 62
 ---
 <div class="page-wrapper is-rehabilitation">
 

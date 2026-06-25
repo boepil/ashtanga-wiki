@@ -2,9 +2,9 @@
 title: Uddiyana Bandha
 type: concept
 tags: [bandha, anatomy, energy, foundational]
-sources: [raw/03_BANDHA/Uddiyana_Bandha_(Upward_Flying_Lock)/*]
+
 updated: 2026-05-14
-sequence: 19
+sequence: 20
 ---
 <div class="page-wrapper is-bridge">
 

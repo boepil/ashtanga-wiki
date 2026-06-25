@@ -1,10 +1,10 @@
 ---
+title: "Urdhva Mukha Paschimottanasana"
 type: asana
 series: Primary Series (Yoga Chikitsa)
 sequence_position: Seated
 drishti: toes
 breath_count: stay for 5 breaths
-sources:
   - "Light on Yoga, B.K.S. Iyengar"
   - "Science of Yoga, Ann Swanson"
   - "Yoga Mala, K. Pattabhi Jois"

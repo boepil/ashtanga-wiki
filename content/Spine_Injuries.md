@@ -1,12 +1,12 @@
 ---
+title: "Spine Injuries"
 type: concept
 tags: [anatomy, injury, spine, lower-back, SI-joint, core, mid-extremity]
-sources:
   - (Raw, 06_ANATOMY/03_Pathology_&_Prevention/02_Regional_Anatomy/Spine/*)
   - (Raw, 06_ANATOMY/02_Biomechanics_&_Dynamics/Pelvic Tilt Biomechanics*)
   - (Raw, 06_ANATOMY/01_Foundational_Systems/01_Skeletal/Spine_and_Core_Stability.md)
 updated: 2026-06-13
-sequence: 46
+sequence: 48
 ---
 <div class="page-wrapper is-bridge">
 

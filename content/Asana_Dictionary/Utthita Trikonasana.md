@@ -1,10 +1,10 @@
 ---
+title: "Utthita Trikonasana"
 type: asana
 series: Primary Series (Yoga Chikitsa)
 sequence_position: Standing
 drishti: finger tip of the upper hand
 breath_count: stay for 5 Ujjayi breaths
-sources:
   - "Light on Yoga, B.K.S. Iyengar"
   - "The Path of Modern Yoga, Elliott Goldberg"
   - "Yoga Mala, K. Pattabhi Jois"

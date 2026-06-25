@@ -1,10 +1,10 @@
 ---
+title: "Pasasana"
 type: asana
 series: Intermediate Series (Nadi Shodhana)
 sequence_position: 1
 drishti: nose (nasagre) or midbrow (bhroomadhye)
 breath_count: 5 breaths per side
-sources:
   - "Light on Yoga, B.K.S. Iyengar"
   - "Yoga Mala, K. Pattabhi Jois"
   - "Yoga Makaranda, T. Krishnamacharya"

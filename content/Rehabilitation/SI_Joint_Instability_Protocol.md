@@ -1,16 +1,16 @@
 ---
+title: "SI Joint Instability Protocol"
 type: rehabilitation-protocol
 condition: SI Joint Instability
 linked-compensation-map: [[SI_Joint_Instability]]
 linked-asana-modifications: [[SI_Joint_Instability_Modifications]]
-sources:
   - (McGill, Back Mechanic, p. 30-153)
   - (Goodman, Foundation, p. 241-314)
   - (Kaminoff, Yoga Anatomy, p. 246-255)
   - (Myers, Anatomy Trains, p. 131-146)
   - (Starrett, Becoming a Supple Leopard, p. 40-299)
 updated: 2026-05-02
-sequence: 62
+sequence: 65
 ---
 <div class="page-wrapper is-rehabilitation">
 

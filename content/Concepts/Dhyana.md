@@ -3,9 +3,9 @@ title: "Dhyana (Meditation)"
 type: concept
 tags: [philosophy, eight-limbs, meditation]
 aliases: [Dhyana, Meditation]
-sources: [raw/07_PHILOSOPHY/Eight_Limbs_of_Yoga_(Ashtanga)/Dhyana_(Meditation).md]
+
 updated: 2026-05-14
-sequence: 77
+sequence: 81
 ---
 <div class="page-wrapper is-bridge">
 

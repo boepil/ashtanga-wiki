@@ -1,9 +1,10 @@
 ---
+title: "Respiratory Anatomy"
 type: concept
 tags: [anatomy, respiratory-system, diaphragm, bandhas, endocrine]
-sources: [raw/06_ANATOMY/01_Foundational_Systems/01_Skeletal/Endocrine_System/בלוטת התריס.md, raw/06_ANATOMY/01_Foundational_Systems/02_Muscular/Major_Muscle_Groups/Pelvic Floor.md]
+
 updated: 2026-04-29
-sequence: 42
+sequence: 43
 --- 
 <div class="page-wrapper is-bridge">
 

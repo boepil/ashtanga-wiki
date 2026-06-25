@@ -2,9 +2,9 @@
 title: Breath Awareness And Anatomy
 type: concept
 tags: [anatomy, breathing, pranayama, foundational]
-sources: [raw/02_PRANAYAMA/Breath_Awareness/*, raw/02_PRANAYAMA/Three_Part_Breath_(Dirga_Pranayama)/*]
+
 updated: 2026-05-14
-sequence: 15
+sequence: 16
 ---
 <div class="page-wrapper is-bridge">
 

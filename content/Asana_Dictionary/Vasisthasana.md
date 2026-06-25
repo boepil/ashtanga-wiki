@@ -1,10 +1,10 @@
 ---
+title: "Vasisthasana"
 type: asana
 series: Advanced A (Third Series)
 sequence_position: 26 (R) / 27 (L)
 drishti: Hand (hastagre)
 breath_count: 5 breaths
-sources:
   - (ASHTANGA_YOGA_KNOWLEDGE_BASE.pdf, p. 2)
   - (Little, Yoga of the Subtle Body, Figure 6.1)
 updated: 2026-05-16

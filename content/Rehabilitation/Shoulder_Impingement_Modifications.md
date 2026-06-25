@@ -1,15 +1,15 @@
 ---
+title: "Shoulder Impingement Modifications"
 type: asana-modification
 condition: Shoulder Impingement
 linked-compensation-map: [[Shoulder_Impingement]]
 linked-protocol: [[Shoulder_Impingement_Protocol]]
-sources:
   - "raw/06_ANATOMY/03_Pathology_&_Prevention/02_Regional_Anatomy/Shoulders/Shoulders.md"
   - "raw/06_ANATOMY/03_Pathology_&_Prevention/02_Regional_Anatomy/Subacromial Impingement.md"
   - "raw/06_ANATOMY/03_Pathology_&_Prevention/01_General_Strategies/Injury_Modification_Table.md"
   - "Yoga and Human Anatomy [via NotebookLM]"
 updated: 2026-05-02
-sequence: 64
+sequence: 67
 ---
 <div class="page-wrapper is-asana">
 

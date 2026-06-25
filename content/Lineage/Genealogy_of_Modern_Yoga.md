@@ -2,10 +2,10 @@
 title: Genealogy of Modern Yoga
 type: concept
 tags: [history, lineage, krishnamacharya, sivananda, satyananda, yoga-schools]
-sources: [raw/07_PHILOSOPHY/Ashtanga_Lineage/What are the Common Yoga Styles in Krishnamacharya Lineage.md, raw/07_PHILOSOPHY/Ashtanga_Lineage/ההיסטוריה של היוגה  מאמרים   - יוגה - בי''ס לבריגהו יוגה.md]
+
 bridge: Modern History → Lineage Branches
 updated: 2026-05-14
-sequence: 107
+sequence: 111
 ---
 <div class="page-wrapper is-bridge">
 

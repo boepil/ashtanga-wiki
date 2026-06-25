@@ -2,9 +2,9 @@
 title: Maha Bandha
 type: concept
 tags: [bandha, anatomy, energy, foundational, advanced]
-sources: [raw/03_BANDHA/Maha_Bandha_(Great_Lock)/*]
+
 updated: 2026-05-14
-sequence: 21
+sequence: 22
 ---
 <div class="page-wrapper is-bridge">
 

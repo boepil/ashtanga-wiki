@@ -2,9 +2,9 @@
 title: Shatkarma Overview
 type: concept
 tags: [shatkarma, kriya, purification, foundational]
-sources: [raw/05_SHATKARMAS/*]
+
 updated: 2026-05-14
-sequence: 26
+sequence: 27
 ---
 <div class="page-wrapper is-bridge">
 

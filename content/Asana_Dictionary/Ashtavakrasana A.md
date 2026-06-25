@@ -1,10 +1,10 @@
 ---
+title: "Ashtavakrasana A"
 type: asana
 series: Advanced B (Fourth Series)
 sequence_position: Unknown (Traditionally Fourth Series)
 drishti: Hand (hastagre)
 breath_count: 5 breaths
-sources:
   - (ASHTANGA_YOGA_KNOWLEDGE_BASE.pdf, p. 12)
 updated: 2026-05-16
 sequence: 9999

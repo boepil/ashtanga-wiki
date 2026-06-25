@@ -1,16 +1,16 @@
 ---
+title: "Lumbar Compression Protocol"
 type: rehabilitation-protocol
 condition: Lumbar Compression
 linked-compensation-map: [[Lumbar_Compression]]
 linked-asana-modifications: [[Lumbar_Compression_Modifications]]
-sources:
   - (McGill, Back Mechanic, p. 301-352)
   - (Goodman, Foundation, p. 241-249)
   - (Starrett, Becoming a Supple Leopard, p. 28-55)
   - (Kaminoff, Yoga Anatomy, p. 237-250)
   - (Myers, Anatomy Trains, p. 536-563)
 updated: 2026-05-02
-sequence: 60
+sequence: 63
 ---
 <div class="page-wrapper is-rehabilitation">
 

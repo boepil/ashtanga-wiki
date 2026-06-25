@@ -2,10 +2,9 @@
 title: "Tristana (The Three Pillars of Practice)"
 type: concept
 tags: [practice, tristhana, breath, bandha, drishti]
-sources:
   - (ASHTANGA_YOGA_KNOWLEDGE_BASE.pdf, p. 1, 4)
 updated: 2026-05-16
-sequence: 9999
+sequence: 3
 ---
 <div class="page-wrapper is-bridge">
 

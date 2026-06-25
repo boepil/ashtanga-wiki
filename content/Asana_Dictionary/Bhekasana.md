@@ -1,10 +1,10 @@
 ---
+title: "Bhekasana"
 type: asana
 series: Intermediate Series (Nadi Shodhana)
 sequence_position: 4
 drishti: nose (nasagre)
 breath_count: 5 breaths
-sources:
   - "Light on Yoga, B.K.S. Iyengar"
   - "Yoga Mala, K. Pattabhi Jois"
   - "Yoga Makaranda, T. Krishnamacharya"

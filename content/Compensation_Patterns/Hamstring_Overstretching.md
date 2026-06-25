@@ -1,12 +1,12 @@
 ---
+title: "Hamstring Overstretching"
 type: compensation-map
 tags: [anatomy, hamstrings, stability, posterior-chain, ahimsa]
-sources:
   - "raw/06_ANATOMY/01_Foundational_Systems/01_Skeletal/Joint_Stability/Knee_and_Ankle_Stability.md"
   - "raw/06_ANATOMY/01_Foundational_Systems/02_Muscular/Gluteal Differentiation.md"
   - "Yoga and Human Anatomy [via NotebookLM]"
 updated: 2026-05-02
-sequence: 54
+sequence: 56
 ---
 <div class="page-wrapper is-compensation">
 

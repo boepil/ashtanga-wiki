@@ -1,12 +1,12 @@
 ---
+title: "Hip Flexor Dominance"
 type: compensation-map
 tags: [anatomy, paschimottanasana, hip-flexors, forward-folds]
-sources:
   - "raw/06_ANATOMY/01_Foundational_Systems/01_Skeletal/Joint_Stability/Spinal_Movement_Patterns.md"
   - "raw/06_ANATOMY/01_Foundational_Systems/02_Muscular/Gluteal Differentiation.md"
   - "Yoga and Human Anatomy [via NotebookLM]"
 updated: 2026-05-02
-sequence: 51
+sequence: 53
 ---
 <div class="page-wrapper is-compensation">
 

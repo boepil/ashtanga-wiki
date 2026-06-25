@@ -3,9 +3,9 @@ title: "The Five Kleshas"
 type: concept
 tags: [philosophy, yoga-sutras]
 aliases: [Kleshas, Afflictions, Avidya]
-sources: [raw/07_PHILOSOPHY/*]
+
 updated: 2026-05-14
-sequence: 81
+sequence: 85
 ---
 <div class="page-wrapper is-bridge">
 

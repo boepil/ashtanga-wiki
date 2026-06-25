@@ -2,9 +2,9 @@
 title: Bandha Overview
 type: concept
 tags: [bandha, anatomy, energy, foundational]
-sources: [raw/03_BANDHA/*]
+
 updated: 2026-05-14
-sequence: 17
+sequence: 18
 ---
 <div class="page-wrapper is-bridge">
 

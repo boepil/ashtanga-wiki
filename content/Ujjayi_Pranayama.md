@@ -2,9 +2,9 @@
 title: Ujjayi Pranayama
 type: practice
 tags: [pranayama, ashtanga, breathing, foundational]
-sources: [raw/02_PRANAYAMA/Ujjayi_Breath/*]
+
 updated: 2026-05-14
-sequence: 12
+sequence: 13
 ---
 <div class="page-wrapper is-bridge">
 

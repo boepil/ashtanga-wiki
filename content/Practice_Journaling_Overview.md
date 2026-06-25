@@ -2,9 +2,9 @@
 title: Practice Journaling Overview
 type: concept
 tags: [journaling, svadhyaya, practice, self-study]
-sources: [raw/08_TEACHING_METHODOLOGY/Practice_Journaling/*, raw/09_PERSONAL_PRACTICE/*]
+
 updated: 2026-05-14
-sequence: 92
+sequence: 96
 ---
 <div class="page-wrapper is-bridge">
 

@@ -11,8 +11,10 @@ updated: 2026-06-13
 Welcome to the Ashtanga Yoga Knowledge Wiki.
 
 ## 01. Asana & Vinyasa
-- [[Asana]] — The physical practice limb
+- [[Concepts/Asana|Asana]] — The physical practice limb
 - [[Asana_Fundamentals]] — Alignment principles and energy lines
+- [[Tristana]] — The three pillars (breath, bandha, drishti)
+- [[Vinyasa]] — Breath-linked movement
 - [[Surya_Namaskar]] — Sun Salutations
 - [[Standing_Sequence]]
 - [[Primary_Series]] (Yoga Chikitsa)
@@ -21,7 +23,7 @@ Welcome to the Ashtanga Yoga Knowledge Wiki.
 - [[Finishing_Sequence]]
 
 ## 02. Pranayama
-- [[Pranayama]] — The breath control limb
+- [[Concepts/Pranayama|Pranayama]] — The breath control limb
 - [[Pranayama_Overview]]
 - [[Ujjayi_Pranayama]]
 - [[Nadi_Shodhana]]
@@ -64,6 +66,7 @@ Welcome to the Ashtanga Yoga Knowledge Wiki.
 - [[Biomechanics_Overview]]
 - [[Yoga_Physiology]]
 - [[Respiratory_Anatomy]]
+- [[Anatomy_Glossary]] — Reference glossary
 
 ### Injuries & Pathology
 - [[Pain_Science]] — Nociception, nervous system, autonomic balance
@@ -84,6 +87,7 @@ Welcome to the Ashtanga Yoga Knowledge Wiki.
 
 ### Rehabilitation & Corrective Practice
 #### Protocols (Targeted Corrective Work)
+- [[Rehabilitation_Protocols]] — Master list and framework
 - [[Shoulder_Impingement_Protocol]] — Scapular and rotator cuff strengthening
 - [[Chaturanga_Collapse_Protocol]] — Serratus anterior and core integration
 - [[Nervous_System_Dysregulation_Protocol]] — Vagal tone and HRV restoration
@@ -108,8 +112,9 @@ Welcome to the Ashtanga Yoga Knowledge Wiki.
 - [[Eight_Limbs]] — Overview of the classical path
 - [[Yamas]] — Ethical restraints
 - [[Niyamas]] — Personal observances
-- [[Asana]] — Physical posture (see Section 01)
-- [[Pranayama]] — Breath control (see Section 02)
+- [[Tapas]] — Fiery discipline and purification
+- [[Concepts/Asana|Asana]] — Physical posture (see Section 01)
+- [[Concepts/Pranayama|Pranayama]] — Breath control (see Section 02)
 - [[Pratyahara]] — Sensory withdrawal
 - [[Dharana]] — Concentration
 - [[Dhyana]] — Meditation

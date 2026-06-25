@@ -1,9 +1,9 @@
 ---
+title: "Sanskrit Mantras and Terminology"
 type: concept
 tags: [mantra, sanskrit, tradition, lineage]
-sources: []
 updated: 2026-04-29
-sequence: 87
+sequence: 91
 ---
 <div class="page-wrapper is-bridge">
 

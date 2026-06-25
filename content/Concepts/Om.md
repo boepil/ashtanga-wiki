@@ -3,9 +3,9 @@ title: "Om (Aum)"
 type: concept
 tags: [philosophy, mantra]
 aliases: [Om, Aum, Pranava]
-sources: [raw/07_PHILOSOPHY/*]
+
 updated: 2026-05-14
-sequence: 85
+sequence: 89
 ---
 <div class="page-wrapper is-bridge">
 
