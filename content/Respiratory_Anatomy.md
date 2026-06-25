@@ -31,6 +31,36 @@ The [[Bandha_Overview|Bandhas]] are somatic manifestations of respiratory and mu
 - **Mula Bandha**: Engagement of the pelvic floor.
 - **Uddiyana Bandha**: Engagement of the lower abdominal wall, facilitating the "lift" and supporting IAP.
 
+### Intercostal Muscles
+
+![[knowledge3dart__2026-06-14T131746.000Z.jpg]]
+
+The intercostal muscles occupy the spaces between the ribs and play a vital role in respiration, thoracic stability, and rib cage movement. While the diaphragm is the primary muscle of breath, the intercostals are the primary movers of the ribcage itself.
+
+#### Three Layers
+
+The intercostals are arranged in three distinct layers:
+
+**External Intercostals** (most superficial) — Fibers run diagonally downward and forward between adjacent ribs. During inspiration, they contract to elevate the ribs, increasing the transverse and anteroposterior diameters of the thoracic cavity. This expansion decreases intrathoracic pressure and draws air into the lungs.
+
+**Internal Intercostals** (middle layer) — Fibers run perpendicular to the external layer. The interosseous portion primarily assists forced expiration by depressing the ribs and reducing thoracic volume. They also stabilize the intercostal spaces during the breath cycle.
+
+**Innermost Intercostals** (deepest layer) — Anatomically similar to the internal intercostals, they assist in rib stabilization and support forced expiratory movements while maintaining the structural integrity of the thoracic wall.
+
+#### Ribcage Mechanics
+
+Coordinated intercostal action produces two key motions:
+- **Pump-Handle Movement**: Upper ribs lift, increasing the anterior-posterior (front-to-back) diameter of the chest.
+- **Bucket-Handle Movement**: Lower ribs expand laterally, increasing the side-to-side diameter.
+
+These movements, synchronized with the diaphragm's descent, create the three-dimensional expansion that characterizes a full yogic breath.
+
+#### Yoga Application
+
+Deep, conscious breathing — particularly [[Ujjayi_Pranayama]] — trains the intercostals to be more flexible and strong. This increases the "thoracic bellows" capacity needed for the heightened oxygen demands of vigorous asana practice. The intercostals also provide dynamic support to the rib cage during coughing, sneezing, lifting, and torso rotation in twisting poses.
+
+Beyond respiration, coordinated intercostal action helps maintain chest wall stability during backbends (where the rib cage is maximally expanded) and forward folds (where it is compressed), making them essential accessory muscles for the full spectrum of asana.
+
 ## Connections
 * **[[Muscular_System]]:** Explore the primary and accessory muscles of respiration.
 * **[[Pranayama_Overview|Pranayama]]:** Discover how anatomical knowledge translates to breath control techniques.
