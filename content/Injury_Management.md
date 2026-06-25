@@ -2,6 +2,7 @@
 title: "Injury Management"
 type: practice
 tags: [anatomy, injuries, rehabilitation, safety, yoga-butt, meniscus, si-joint]
+sources:
   - (Mitchell, Yoga Biomechanics, p. 151-152)
   - (Clark, Your Body, Your Yoga, p. 30, 195)
   - (Long, Key Muscles of Yoga, p. 10)

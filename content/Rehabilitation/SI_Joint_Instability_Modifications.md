@@ -4,6 +4,7 @@ type: asana-modification
 condition: SI Joint Instability
 linked-compensation-map: [[SI_Joint_Instability]]
 linked-protocol: [[SI_Joint_Instability_Protocol]]
+sources:
   - "raw/06_ANATOMY/01_Foundational_Systems/02_Muscular/Major_Muscle_Groups/Core_Stabilizers/שרירי הליבה ‏(core ‏).md"
   - "raw/06_ANATOMY/03_Pathology_&_Prevention/02_Regional_Anatomy/כאב בשרירי הירך.md"
   - "Yoga and Human Anatomy [via NotebookLM]"

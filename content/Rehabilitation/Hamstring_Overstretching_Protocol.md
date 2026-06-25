@@ -4,6 +4,7 @@ type: rehabilitation-protocol
 condition: Hamstring Overstretching
 linked-compensation-map: [[Hamstring_Overstretching]]
 linked-asana-modifications: [[Hamstring_Overstretching_Modifications]]
+sources:
   - (Starrett, Becoming a Supple Leopard, p. 316-340)
   - (Goodman, Foundation, p. 245-314)
   - (Myers, Anatomy Trains, p. 39-104)

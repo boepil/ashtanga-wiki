@@ -2,6 +2,7 @@
 title: "Joint Stability"
 type: concept
 tags: [anatomy, biomechanics, joint-stability, safety, rotator-cuff, reciprocal-inhibition]
+sources:
   - (Starrett, Becoming a Supple Leopard, p. 26)
   - (Kaminoff, Yoga Anatomy 2nd Ed, p. 24)
   - (Long, Key Muscles of Yoga, p. 9-11)

@@ -5,6 +5,7 @@ series: Primary Series (Yoga Chikitsa)
 sequence_position: Finishing Sequence
 drishti: tip of the nose
 breath_count: stay for 15-25 breaths (A), 8-12 breaths (B)
+sources:
   - "Light on Yoga, B.K.S. Iyengar"
   - "Yoga Mala, K. Pattabhi Jois"
   - "Ashtanga Yoga Anusthana, Sharath Jois"

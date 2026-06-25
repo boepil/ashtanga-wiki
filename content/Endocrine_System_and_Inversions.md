@@ -2,6 +2,7 @@
 title: "Endocrine System and Inversions"
 type: concept
 tags: [anatomy, endocrine, inversions, thyroid, pituitary, baroreceptors]
+sources:
   - (Huy & McGonigle, The Physiology of Yoga, p. 45, 128)
   - (Broad, The Science of Yoga, Chapter 4)
   - (Little, Yoga of the Subtle Body, Chapter 7)

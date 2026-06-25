@@ -2,6 +2,7 @@
 title: "Upper Extremity Injuries"
 type: concept
 tags: [anatomy, injury, upper-extremity, shoulder, wrist, elbow, assessment]
+sources:
   - (Raw, 06_ANATOMY/03_Pathology_&_Prevention/02_Regional_Anatomy/Shoulders/*)
   - (Raw, 06_ANATOMY/03_Pathology_&_Prevention/02_Regional_Anatomy/Neck/*)
   - (Raw, 06_ANATOMY/03_Pathology_&_Prevention/02_Regional_Anatomy/Skapula/*)

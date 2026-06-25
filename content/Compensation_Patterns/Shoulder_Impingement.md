@@ -2,6 +2,7 @@
 title: "Shoulder Impingement"
 type: compensation-map
 tags: [anatomy, shoulder, impingement, biomechanics]
+sources:
   - "raw/06_ANATOMY/01_Foundational_Systems/01_Skeletal/Shoulder_Girdle.md"
   - "raw/06_ANATOMY/01_Foundational_Systems/01_Skeletal/Joint_Stability/Shoulder_Joint_Actions.md"
   - "Yoga Philosophy and Origins [via NotebookLM]"

@@ -5,6 +5,7 @@ series: Primary Series (Yoga Chikitsa)
 sequence_position: Standing
 drishti: tip of the nose (for A), to the left (for B), tip of the nose (for C)
 breath_count: stay for 5 breaths (in each of the 3 variations)
+sources:
   - "Light on Yoga, B.K.S. Iyengar"
   - "Teaching Yoga Essential Foundations and Techniques, Mark Stephens"
   - "Yoga Mala, K. Pattabhi Jois"

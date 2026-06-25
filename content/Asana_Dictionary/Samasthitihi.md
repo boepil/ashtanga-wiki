@@ -5,6 +5,7 @@ series: Primary Series (Yoga Chikitsa)
 sequence_position: Standing
 drishti: the tip of the nose
 breath_count: inhale & exhale
+sources:
   - "Light on Yoga, B.K.S. Iyengar"
   - "Yoga Mala, K. Pattabhi Jois"
   - "Teaching Yoga Essential Foundations and Techniques, Mark Stephens"

@@ -16,6 +16,7 @@ In Ashtanga Yoga, breath is the primary driver of the practice. Respiratory anat
 ## Detail
 
 ### The Diaphragm and Pelvic Floor
+sources:
 - **The Diaphragm**: The primary muscle of respiration, forming the roof of the core. It works synergistically with the abdominal wall and the pelvic floor.
 - **Intra-Abdominal Pressure (IAP)**: The "Airbag Effect." When the diaphragm descends and the pelvic floor (Mula Bandha) and abdominal wall (Uddiyana Bandha) engage, IAP increases, supporting the lumbar spine from the inside out.
 - **The Three Diaphragms**: Yoga physiology often maps the respiratory diaphragm, pelvic diaphragm, and vocal diaphragm as a coordinated system for energy management.

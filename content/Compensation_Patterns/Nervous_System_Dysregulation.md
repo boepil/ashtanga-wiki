@@ -2,6 +2,7 @@
 title: "Nervous System Dysregulation"
 type: compensation-map
 tags: [physiology, nervous-system, breath, ujjayi, dysregulation]
+sources:
   - "raw/06_ANATOMY/01_Foundational_Systems/03_Respiratory/Respiratory_Anatomy.md"
   - "wiki/Concepts/Asana.md"
   - "Yoga Philosophy and Origins [via NotebookLM]"

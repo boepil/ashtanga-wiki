@@ -5,6 +5,7 @@ series: Primary Series (Yoga Chikitsa)
 sequence_position: Finishing Sequence
 drishti: toes
 breath_count: stay for 10-25 breaths
+sources:
   - "Light on Yoga, B.K.S. Iyengar"
   - "Teaching Yoga Essential Foundations and Techniques, Mark Stephens"
   - "Yoga Mala, K. Pattabhi Jois"

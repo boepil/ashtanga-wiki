@@ -2,6 +2,7 @@
 title: "Eccentric Contraction"
 type: concept
 tags: [anatomy, biomechanics, muscular-system, eccentric-contraction, strength, tendon-health]
+sources:
   - (Long, Key Muscles of Yoga, p. 10, 21)
   - (Mitchell, Yoga Biomechanics, p. 118, 152)
   - (Hogan, Built From Broken, p. 340-342)

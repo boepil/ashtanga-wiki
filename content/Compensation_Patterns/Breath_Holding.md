@@ -2,6 +2,7 @@
 title: "Breath Holding"
 type: compensation-map
 tags: [physiology, breath, vinyasa, kumbhaka, bandha]
+sources:
   - "wiki/Concepts/Asana.md"
   - "wiki/Bandha_Overview.md"
   - "Yoga Philosophy and Origins [via NotebookLM]"

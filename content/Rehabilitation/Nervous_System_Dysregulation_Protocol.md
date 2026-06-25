@@ -4,6 +4,7 @@ type: rehabilitation-protocol
 condition: Nervous System Dysregulation
 linked-compensation-map: [[Breath_Holding]]
 linked-asana-modifications: [[Nervous_System_Dysregulation_Modifications]]
+sources:
   - (Nestor, Breath, p. 251-363)
   - (McKeown, The Oxygen Advantage, p. 37-145)
   - (Kaminoff, Yoga Anatomy, p. 11-238)

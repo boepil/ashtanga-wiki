@@ -2,6 +2,7 @@
 title: "Skeletal System"
 type: concept
 tags: [anatomy, skeletal-system, spine, axial-extension, skeletal-variation]
+sources:
   - (Kaminoff, Yoga Anatomy 2nd Ed, p. 42-45)
   - (Clark, Your Body, Your Yoga, p. 586-739)
   - (ASHTANGA_YOGA_KNOWLEDGE_BASE.pdf, p. 1-8)

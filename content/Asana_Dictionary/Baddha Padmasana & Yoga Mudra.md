@@ -5,6 +5,7 @@ series: Primary Series (Yoga Chikitsa)
 sequence_position: Finishing Sequence
 drishti: third eye
 breath_count: stay for 10 breaths
+sources:
   - "Light on Yoga, B.K.S. Iyengar"
   - "Yoga Mala, K. Pattabhi Jois"
   - "Ashtanga Yoga Anusthana, Sharath Jois"

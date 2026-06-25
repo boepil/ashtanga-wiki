@@ -2,6 +2,7 @@
 title: "Muscular System"
 type: concept
 tags: [anatomy, muscular-system, core, psoas, gluteals, serratus-anterior]
+sources:
   - (Hogan, Built From Broken, p. 9)
   - (Goodman, Foundation, p. 14)
   - (Myers, Anatomy Trains, p. 18)

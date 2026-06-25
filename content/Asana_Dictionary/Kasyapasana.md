@@ -5,6 +5,7 @@ series: Advanced A (Third Series)
 sequence_position: 30 (R) / 31 (L)
 drishti: Hand (hastagre)
 breath_count: 5 breaths
+sources:
   - (ASHTANGA_YOGA_KNOWLEDGE_BASE.pdf, p. 5, 9)
 updated: 2026-05-16
 sequence: 9999

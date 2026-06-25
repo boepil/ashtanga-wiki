@@ -4,6 +4,7 @@ type: rehabilitation-protocol
 condition: Shoulder Impingement
 linked-compensation-map: [[Shoulder_Impingement]]
 linked-asana-modifications: [[Shoulder_Impingement_Modifications]]
+sources:
   - (Hogan, Built From Broken, p. 363-382)
   - (Starrett, Becoming a Supple Leopard, p. 336-342)
   - (Kaminoff, Yoga Anatomy, p. 82-83)

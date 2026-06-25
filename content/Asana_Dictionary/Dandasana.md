@@ -5,6 +5,7 @@ series: Primary Series (Yoga Chikitsa)
 sequence_position: Seated
 drishti: tip of the nose
 breath_count: stay for 5 breaths
+sources:
   - "Krishnamacharya's Yogasanagalu, T. Krishnamacharya"
   - "Teaching Yoga Essential Foundations and Techniques, Mark Stephens"
   - "The Yoga Tradition of the Mysore Palace, N.E. Sjoman"

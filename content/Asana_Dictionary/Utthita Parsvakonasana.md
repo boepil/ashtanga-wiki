@@ -5,6 +5,7 @@ series: Primary Series (Yoga Chikitsa)
 sequence_position: Standing
 drishti: finger tip of the upper hand
 breath_count: stay for 5 Ujjayi breaths
+sources:
   - "Light on Yoga, B.K.S. Iyengar"
   - "Teaching Yoga Essential Foundations and Techniques, Mark Stephens"
   - "Yoga Mala, K. Pattabhi Jois"

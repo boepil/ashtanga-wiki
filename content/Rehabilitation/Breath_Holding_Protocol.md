@@ -4,6 +4,7 @@ type: rehabilitation-protocol
 condition: Breath Holding under Effort
 linked-compensation-map: [[Breath_Holding]]
 linked-asana-modifications: [[Breath_Holding_Modifications]]
+sources:
   - (Nestor, Breath, p. 200-215)
   - (McKeown, The Oxygen Advantage, p. 55-142)
   - (Kaminoff, Yoga Anatomy, p. 124-188)

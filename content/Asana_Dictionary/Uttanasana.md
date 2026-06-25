@@ -5,6 +5,7 @@ series: Foundational (Sun Salutations)
 sequence_position: 2, 8 (Surya Namaskar A)
 drishti: Nose (nasagre)
 breath_count: 1 breath (transitional)
+sources:
   - (Kaminoff, Yoga Anatomy 2nd Ed, p. 32)
   - (Long, Key Muscles of Yoga, p. 20)
 updated: 2026-05-16

@@ -5,6 +5,7 @@ series: Primary Series (Yoga Chikitsa)
 sequence_position: Standing
 drishti: thumbs
 breath_count: stay for 5 breaths
+sources:
   - "Light on Yoga, B.K.S. Iyengar"
   - "Teaching Yoga: Essential Foundations and Techniques, Mark Stephens"
   - "The Yoga Tradition of the Mysore Palace, N.E. Sjoman"

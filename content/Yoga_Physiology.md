@@ -2,6 +2,7 @@
 title: "Yoga Physiology"
 type: concept
 tags: [anatomy, physiology, bandhas, nervous-system, chakras, pranayama]
+sources:
   - (Little, Yoga of the Subtle Body, Chapter 1, 2, 7, 8)
   - (Myers, Anatomy Trains 4th Ed, p. 18)
   - (Huy & McGonigle, The Physiology of Yoga)

@@ -4,6 +4,7 @@ type: rehabilitation-protocol
 condition: Hip Flexor Dominance
 linked-compensation-map: [[Hip_Flexor_Dominance]]
 linked-asana-modifications: [[Hip_Flexor_Dominance_Modifications]]
+sources:
   - (Starrett, Becoming a Supple Leopard, p. 288-306)
   - (Goodman, Foundation, p. 314-340)
   - (Hogan, Built From Broken, p. 327-342)

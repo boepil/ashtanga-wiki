@@ -2,6 +2,7 @@
 title: Breath Exercises For Erector Spinae
 type: practice
 tags: [anatomy, breathing, pranayama, erector-spinae, spinal-stability, bandha, foundational, rehabilitation]
+sources:
   - (Long, Key Muscles of Yoga, p. 47, 92)
   - (Hogan, Built From Broken, p. 9, 340-342)
   - (Kaminoff, Yoga Anatomy, p. 56-72)

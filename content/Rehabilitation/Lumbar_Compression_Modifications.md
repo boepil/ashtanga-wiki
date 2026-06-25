@@ -4,6 +4,7 @@ type: asana-modification
 condition: Lumbar Compression
 linked-compensation-map: [[Lumbar_Compression]]
 linked-rehabilitation-protocol: [[Lumbar_Compression_Protocol]]
+sources:
   - (Ashtanga Knowledge Base, p. 19-254)
   - (Vayu Jung Doohwa, Identifying Postural Imbalances, p. 131)
   - (Kaminoff, Yoga Anatomy, p. 370)

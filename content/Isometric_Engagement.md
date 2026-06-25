@@ -3,6 +3,7 @@ title: "Isometric Engagement"
 type: concept
 sequence: 40
 tags: [anatomy, biomechanics, muscular-system, isometric, stabilization, bandhas, co-contraction, joint-stability]
+sources:
   - (Long, Key Muscles of Yoga, p. 10, 21)
   - (Mitchell, Yoga Biomechanics, p. 118, 152)
   - (Hogan, Built From Broken, p. 340-342)

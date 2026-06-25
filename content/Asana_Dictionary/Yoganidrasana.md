@@ -5,6 +5,7 @@ series: Intermediate Series (Nadi Shodhana)
 sequence_position: 16
 drishti: third eye (nasagre)
 breath_count: 5 breaths
+sources:
   - "Light on Yoga, B.K.S. Iyengar"
   - "Yoga Mala, K. Pattabhi Jois"
   - "Yoga Makaranda, T. Krishnamacharya"

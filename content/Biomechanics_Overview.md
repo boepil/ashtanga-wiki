@@ -2,6 +2,7 @@
 title: "Biomechanics Overview"
 type: concept
 tags: [anatomy, biomechanics, joint-stability, movement, alignment]
+sources:
   - (Clark, Your Body, Your Yoga, p. 14, 35)
   - (Kaminoff, Yoga Anatomy 2nd Ed, p. 24)
   - (Myers, Anatomy Trains 4th Ed, p. 18)

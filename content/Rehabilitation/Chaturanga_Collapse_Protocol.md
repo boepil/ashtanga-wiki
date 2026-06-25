@@ -4,6 +4,7 @@ type: rehabilitation-protocol
 condition: Chaturanga Collapse
 linked-compensation-map: [[Chaturanga_Collapse]]
 linked-asana-modifications: [[Chaturanga_Collapse_Modifications]]
+sources:
   - (Low, Overcoming Gravity, p. 278-402)
   - (Hogan, Built From Broken, p. 190-364)
   - (Starrett, Becoming a Supple Leopard, p. 40-276)

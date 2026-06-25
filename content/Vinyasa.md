@@ -2,6 +2,7 @@
 title: "Vinyasa (Breath-Linked Movement)"
 type: concept
 tags: [practice, breath, vinyasa, tristhana, movement]
+sources:
   - (Kaminoff, Yoga Anatomy 2nd Ed, p. 24)
   - (ASHTANGA_YOGA_KNOWLEDGE_BASE.pdf, p. 1)
 updated: 2026-05-16

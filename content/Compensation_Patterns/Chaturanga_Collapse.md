@@ -2,6 +2,7 @@
 title: "Chaturanga Collapse"
 type: compensation-map
 tags: [anatomy, chaturanga, core, stability, biomechanics]
+sources:
   - "raw/06_ANATOMY/01_Foundational_Systems/01_Skeletal/Joint_Stability/Shoulder_Joint_Actions.md"
   - "raw/06_ANATOMY/01_Foundational_Systems/02_Muscular/Major_Muscle_Groups/Core_Stabilizers/שרירי הליבה ‏(core ‏).md"
   - "Yoga Philosophy and Origins [via NotebookLM]"

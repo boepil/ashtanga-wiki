@@ -5,6 +5,7 @@ series: Primary Series (Yoga Chikitsa)
 sequence_position: Seated
 drishti: tip of the nose
 breath_count: stay for 5 breaths (8-9 rocks)
+sources:
   - "Light on Yoga, B.K.S. Iyengar"
   - "Teaching Yoga Essential Foundations and Techniques, Mark Stephens"
   - "Yoga Mala, K. Pattabhi Jois"

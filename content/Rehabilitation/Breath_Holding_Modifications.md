@@ -4,6 +4,7 @@ type: asana-modification
 condition: Breath Holding under Effort
 linked-compensation-map: [[Breath_Holding]]
 linked-rehabilitation-protocol: [[Breath_Holding_Protocol]]
+sources:
   - (Kaminoff, Yoga Anatomy, p. 358-372)
   - (Vayu Jung Doohwa, Identifying Postural Imbalances, p. 185)
   - (Starrett, Becoming a Supple Leopard, p. 47)

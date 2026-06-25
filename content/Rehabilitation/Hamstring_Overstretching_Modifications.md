@@ -4,6 +4,7 @@ type: asana-modification
 condition: Hamstring Overstretching
 linked-compensation-map: [[Hamstring_Overstretching]]
 linked-protocol: [[Hamstring_Overstretching_Protocol]]
+sources:
   - "raw/06_ANATOMY/03_Pathology_&_Prevention/02_Regional_Anatomy/כאב בשרירי הירך.md"
   - "raw/06_ANATOMY/02_Biomechanics_&_Dynamics/03_Applied_Movement/Optimizing_Alignment.md"
   - "Yoga and Human Anatomy [via NotebookLM]"

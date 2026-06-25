@@ -5,6 +5,7 @@ series: Intermediate Series (Nadi Shodhana)
 sequence_position: 12
 drishti: side (parshva drishti)
 breath_count: 5 breaths per side
+sources:
   - "Light on Yoga, B.K.S. Iyengar"
   - "Yoga Mala, K. Pattabhi Jois"
   - "Yoga Makaranda, T. Krishnamacharya"

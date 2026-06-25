@@ -5,6 +5,7 @@ series: Advanced A (Third Series)
 sequence_position: 36
 drishti: Nose (nasagre)
 breath_count: 5 breaths
+sources:
   - (ASHTANGA_YOGA_KNOWLEDGE_BASE.pdf, p. 9, 10)
 updated: 2026-05-16
 sequence: 9999
