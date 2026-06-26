@@ -5,7 +5,7 @@ tags: [philosophy, samkhya]
 aliases: [Gunas, Sattva, Rajas, Tamas]
 
 updated: 2026-05-14
-sequence: 90
+sequence: 93
 ---
 <div class="page-wrapper is-bridge">
 

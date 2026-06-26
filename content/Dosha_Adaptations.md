@@ -4,7 +4,7 @@ type: concept
 tags: [ayurveda, dosha, vata, pitta, kapha, adaptation]
 
 updated: 2026-05-14
-sequence: 110
+sequence: 113
 ---
 <div class="page-wrapper is-bridge">
 

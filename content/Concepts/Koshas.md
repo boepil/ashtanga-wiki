@@ -5,7 +5,7 @@ tags: [philosophy, subtle-body]
 aliases: [Koshas, Sheaths, Annamaya, Pranamaya, Manomaya, Vijnanamaya, Anandamaya]
 
 updated: 2026-05-14
-sequence: 92
+sequence: 95
 ---
 <div class="page-wrapper is-bridge">
 

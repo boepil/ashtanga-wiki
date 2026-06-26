@@ -5,7 +5,7 @@ tags: [pathology, lotus, knee-injury, skeletal-variation]
 sources: [NotebookLM Notebook 1, NotebookLM Notebook 2]
 bridge: Pathology → Structural Anatomy
 updated: 2026-05-09
-sequence: 78
+sequence: 81
 ---
 <div class="page-wrapper is-asana">
 

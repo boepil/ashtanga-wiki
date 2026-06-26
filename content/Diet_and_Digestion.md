@@ -4,7 +4,7 @@ type: concept
 tags: [ayurveda, diet, agni, mitahara]
 
 updated: 2026-05-14
-sequence: 108
+sequence: 111
 ---
 <div class="page-wrapper is-bridge">
 

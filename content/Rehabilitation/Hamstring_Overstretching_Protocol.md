@@ -10,7 +10,7 @@ sources:
   - (Myers, Anatomy Trains, p. 39-104)
   - (Hogan, Built From Broken, p. 327-342)
 updated: 2026-05-02
-sequence: 64
+sequence: 67
 ---
 <div class="page-wrapper is-rehabilitation">
 

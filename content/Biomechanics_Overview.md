@@ -8,7 +8,7 @@ sources:
   - (Myers, Anatomy Trains 4th Ed, p. 18)
   - (raw/06_ANATOMY/02_Biomechanics_&_Dynamics/*)
 updated: 2026-06-13
-sequence: 41
+sequence: 44
 ---
 <div class="page-wrapper is-bridge">
 

@@ -4,7 +4,7 @@ type: resource
 tags: [shatkarma, safety, timing, teaching]
 
 updated: 2026-05-14
-sequence: 30
+sequence: 33
 ---
 <div class="page-wrapper is-bridge">
 

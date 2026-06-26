@@ -4,7 +4,7 @@ type: practice
 tags: [shatkarma, kriya, concentration, eye-cleansing]
 
 updated: 2026-05-14
-sequence: 29
+sequence: 32
 ---
 <div class="page-wrapper is-bridge">
 

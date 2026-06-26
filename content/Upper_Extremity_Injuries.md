@@ -8,7 +8,7 @@ sources:
   - (Raw, 06_ANATOMY/03_Pathology_&_Prevention/02_Regional_Anatomy/Skapula/*)
   - (Mitchell, Yoga Biomechanics, p. 151-152)
 updated: 2026-06-13
-sequence: 47
+sequence: 50
 ---
 <div class="page-wrapper is-bridge">
 

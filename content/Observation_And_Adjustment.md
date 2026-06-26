@@ -4,7 +4,7 @@ type: concept
 tags: [teaching, adjustment, observation, pedagogy]
 
 updated: 2026-05-14
-sequence: 99
+sequence: 102
 ---
 <div class="page-wrapper is-bridge">
 

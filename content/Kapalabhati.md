@@ -4,7 +4,7 @@ type: practice
 tags: [shatkarma, pranayama, breathing, kriya]
 
 updated: 2026-05-14
-sequence: 28
+sequence: 31
 ---
 <div class="page-wrapper is-bridge">
 

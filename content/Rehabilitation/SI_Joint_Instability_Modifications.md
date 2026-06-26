@@ -9,7 +9,7 @@ sources:
   - "raw/06_ANATOMY/03_Pathology_&_Prevention/02_Regional_Anatomy/כאב בשרירי הירך.md"
   - "Yoga and Human Anatomy [via NotebookLM]"
 updated: 2026-05-02
-sequence: 73
+sequence: 76
 ---
 <div class="page-wrapper is-asana">
 

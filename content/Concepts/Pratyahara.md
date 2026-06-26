@@ -5,7 +5,7 @@ tags: [philosophy, eight-limbs]
 aliases: [Pratyahara, Sense Withdrawal]
 
 updated: 2026-05-14
-sequence: 85
+sequence: 88
 ---
 <div class="page-wrapper is-bridge">
 

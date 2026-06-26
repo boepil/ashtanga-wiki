@@ -4,7 +4,7 @@ type: concept
 tags: [teaching, development, progression, professional-growth]
 
 updated: 2026-05-14
-sequence: 101
+sequence: 104
 ---
 <div class="page-wrapper is-bridge">
 

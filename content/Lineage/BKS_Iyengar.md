@@ -3,7 +3,7 @@ title: "BKS Iyengar"
 type: lineage
 tags: [iyengar, alignment, history, props]
 updated: 2026-04-29
-sequence: 120
+sequence: 123
 ---
 <div class="page-wrapper is-asana">
 

@@ -3,7 +3,7 @@ title: Practice Journaling
 type: concept
 tags: [journaling, svadhyaya, practice, self-study, pedagogy]
 updated: 2026-06-13
-sequence: 102
+sequence: 105
 ---
 <div class="page-wrapper is-bridge">
 

@@ -8,7 +8,7 @@ sources:
   - "Yoga Philosophy and Origins [via NotebookLM]"
   - "Yoga and Human Anatomy [via NotebookLM]"
 updated: 2026-05-02
-sequence: 55
+sequence: 58
 ---
 <div class="page-wrapper is-compensation">
 

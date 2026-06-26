@@ -4,7 +4,7 @@ type: resource
 tags: [anatomy, glossary, sanskrit, hebrew]
 
 updated: 2026-04-29
-sequence: 44
+sequence: 47
 ---
 <div class="page-wrapper is-bridge">
 

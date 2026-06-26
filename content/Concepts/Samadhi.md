@@ -5,7 +5,7 @@ tags: [philosophy, eight-limbs, meditation]
 aliases: [Samadhi, Absorption, Union]
 
 updated: 2026-05-14
-sequence: 88
+sequence: 91
 ---
 <div class="page-wrapper is-bridge">
 

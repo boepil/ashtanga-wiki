@@ -8,7 +8,7 @@ sources:
   - (Long, Key Muscles of Yoga, p. 9-11)
   - (ASHTANGA_YOGA_KNOWLEDGE_BASE.pdf, p. 14, 21-25)
 updated: 2026-05-16
-sequence: 38
+sequence: 41
 --- 
 <div class="page-wrapper is-bridge">
 

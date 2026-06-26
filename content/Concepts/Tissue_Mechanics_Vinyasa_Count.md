@@ -5,7 +5,7 @@ tags: [biomechanics, vinyasa, tissue-mechanics, flexibility]
 sources: [NotebookLM Notebook 1, NotebookLM Notebook 2]
 bridge: Biomechanics → Traditional Yoga Methodology
 updated: 2026-05-09
-sequence: 77
+sequence: 80
 ---
 <div class="page-wrapper is-bridge">
 

@@ -10,7 +10,7 @@ sources:
   - (Starrett, Becoming a Supple Leopard, p. 47)
   - (Ashtanga Knowledge Base, p. 256)
 updated: 2026-05-02
-sequence: 74
+sequence: 77
 ---
 <div class="page-wrapper is-asana">
 

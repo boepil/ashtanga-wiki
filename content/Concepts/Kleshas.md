@@ -5,7 +5,7 @@ tags: [philosophy, yoga-sutras]
 aliases: [Kleshas, Afflictions, Avidya]
 
 updated: 2026-05-14
-sequence: 91
+sequence: 94
 ---
 <div class="page-wrapper is-bridge">
 

@@ -4,7 +4,7 @@ type: resource
 tags: [journaling, svadhyaya, atma-vicara, philosophy]
 
 updated: 2026-05-14
-sequence: 106
+sequence: 109
 ---
 <div class="page-wrapper is-bridge">
 

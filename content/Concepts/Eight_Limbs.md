@@ -5,7 +5,7 @@ tags: [philosophy, ashtanga, core-concepts]
 aliases: [Ashtanga, Eight Limbs, Ashtanga Yoga]
 
 updated: 2026-05-14
-sequence: 81
+sequence: 84
 ---
 <div class="page-wrapper is-bridge">
 

@@ -5,7 +5,7 @@ tags: [philosophy, practice, heat, purification, niyama]
 aliases: [Heat, Discipline, Spiritual Fire]
 
 updated: 2026-05-16
-sequence: 84
+sequence: 87
 ---
 <div class="page-wrapper is-bridge">
 

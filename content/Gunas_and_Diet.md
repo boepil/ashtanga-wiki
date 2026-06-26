@@ -3,7 +3,7 @@ title: Gunas and Diet
 type: concept
 tags: [philosophy, samkhya, ayurveda, diet]
 updated: 2026-06-13
-sequence: 109
+sequence: 112
 ---
 <div class="page-wrapper is-bridge">
 

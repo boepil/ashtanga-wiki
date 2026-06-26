@@ -10,7 +10,7 @@ sources:
   - "raw/06_ANATOMY/03_Pathology_&_Prevention/01_General_Strategies/Injury_Modification_Table.md"
   - "Yoga and Human Anatomy [via NotebookLM]"
 updated: 2026-05-02
-sequence: 67
+sequence: 70
 ---
 <div class="page-wrapper is-asana">
 

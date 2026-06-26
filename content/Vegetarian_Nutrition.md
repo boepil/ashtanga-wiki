@@ -4,7 +4,7 @@ type: concept
 tags: [ayurveda, diet, nutrition, vegetarian, protein]
 
 updated: 2026-05-14
-sequence: 112
+sequence: 115
 ---
 <div class="page-wrapper is-bridge">
 

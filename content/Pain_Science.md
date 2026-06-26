@@ -7,7 +7,7 @@ sources:
   - (Broad, The Science of Yoga, Chapter 4)
   - (raw/06_ANATOMY/04_Integration_&_Mind-Body/01_Neuro-Physiology/*)
 updated: 2026-06-13
-sequence: 45
+sequence: 48
 ---
 <div class="page-wrapper is-bridge">
 

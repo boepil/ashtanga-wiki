@@ -4,7 +4,7 @@ type: concept
 tags: [anatomy, respiratory-system, diaphragm, bandhas, endocrine]
 
 updated: 2026-04-29
-sequence: 43
+sequence: 46
 --- 
 <div class="page-wrapper is-bridge">
 

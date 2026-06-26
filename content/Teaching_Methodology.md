@@ -4,7 +4,7 @@ type: concept
 tags: [teaching, pedagogy, parampara, ethics]
 
 updated: 2026-05-14
-sequence: 98
+sequence: 101
 ---
 <div class="page-wrapper is-bridge">
 

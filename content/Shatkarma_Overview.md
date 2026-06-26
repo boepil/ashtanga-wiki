@@ -18,12 +18,12 @@ The *Shatkarmas* (Six Cleansing Actions) are a set of traditional purificatory d
 
 ## The Six Cleansing Actions
 
-1. **Dhauti**: Internal cleansing of the digestive tract (stomach and esophagus). Methods involve swallowing water, air, or traditionally, a moist strip of cloth to remove excess mucus.
-2. **Basti**: A yogic enema. Traditionally performed by squatting in water and using abdominal vacuums to draw water into the colon for cleansing.
+1. **[[Dhauti]]**: Internal cleansing of the stomach and esophagus — swallowing water, air, or a cloth strip to remove mucus.
+2. **[[Basti]]**: Yogic colon cleansing — squatting in water, using Uddiyana Bandha to draw water into the colon.
 3. **[[Jala_Neti|Neti]]**: Nasal irrigation to clear the respiratory passages and "clean the brain."
 4. **[[Trataka]]**: Concentrated gazing at a fixed point to cleanse the visual organs and steady the mind.
-5. **Nauli**: Abdominal massage via the isolation and rotation of the *rectus abdominis* muscles to stimulate digestion and remove abdominal imbalances.
-6. **[[Kapalabhati]]**: The "skull-shining" breath; a rapid, bellows-like breathing technique that dries up disorders caused by excess phlegm (*kapha*).
+5. **[[Nauli]]**: Abdominal massage — isolating and rotating the *rectus abdominis* to stimulate digestion.
+6. **[[Kapalabhati]]**: "Skull-shining" breath — rapid bellows-like breathing to dry excess phlegm (*kapha*).
 
 ## Purpose and Philosophy
 

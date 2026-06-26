@@ -45,6 +45,9 @@ Welcome to the Ashtanga Yoga Knowledge Wiki.
 
 ## 05. Shatkarmas
 - [[Shatkarma_Overview]]
+  - [[Dhauti]]
+  - [[Basti]]
+  - [[Nauli]]
 - [[Jala_Neti]]
 - [[Kapalabhati]]
 - [[Trataka]]

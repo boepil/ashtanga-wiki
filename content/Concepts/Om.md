@@ -5,7 +5,7 @@ tags: [philosophy, mantra]
 aliases: [Om, Aum, Pranava]
 
 updated: 2026-05-14
-sequence: 95
+sequence: 98
 ---
 <div class="page-wrapper is-bridge">
 

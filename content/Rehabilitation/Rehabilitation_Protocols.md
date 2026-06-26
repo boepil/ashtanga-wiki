@@ -2,7 +2,7 @@
 title: Rehabilitation Protocols
 type: practice
 tags: [rehabilitation, injury-recovery, practice-modifications, safety]
-sequence: 58
+sequence: 61
 ---
 <div class="page-wrapper is-asana">
 

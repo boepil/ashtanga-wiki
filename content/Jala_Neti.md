@@ -4,7 +4,7 @@ type: practice
 tags: [shatkarma, kriya, purification, nasal-cleansing]
 
 updated: 2026-05-14
-sequence: 27
+sequence: 30
 ---
 <div class="page-wrapper is-bridge">
 
