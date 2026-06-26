@@ -41,12 +41,16 @@ Washing the rectum using water and a finger or a turmeric stick. Related to [[Ba
 
 ## Benefits
 
-Traditional texts claim dhauti removes excess mucus, balances Kapha dosha, cleanses the digestive tract, and prepares the body for deeper yogic practices.
+- **Respiratory and mucus control** — Removes excess mucus and phlegm, alleviates respiratory disorders above the collarbone
+- **Digestive and gastric health** — Cleanses the stomach, removes gastric impurities, and "destroys" stomach-related diseases
+- **Stokes Jathara Agni** (digestive fire) — Techniques like Agni Sara fan the internal fire for metabolizing energy and "baking away" toxins (Ama)
+- **Dosha balance** — Brings Kapha, Pitta, and Vata into equilibrium; especially indicated for excess fat or phlegm (Kapha)
+- **Prepares for higher yoga** — Purifies the vessel for advanced Pranayama and meditation
 
 ## Contraindications
 
 > [!CAUTION]
-> Dhauti should **only** be performed under the direct supervision of an experienced teacher. Attempting Vastra, Danda, or Varisara Dhauti without guidance is dangerous. Contraindicated in pregnancy, ulcers, hiatal hernia, esophageal disorders, and recent abdominal surgery.
+> Dhauti should **only** be performed under the direct supervision of an experienced teacher. Attempting Vastra, Danda, or Varisara Dhauti without guidance is dangerous. Contraindicated in: stomach ulcers, gastritis, severe esophageal sensitivity, hiatal hernia, active abdominal inflammation, pregnancy, hypertension, heart disease, recent abdominal surgery, poor lung capacity, or general physical debility.
 
 ## Sources
 - `raw/05_SHATKARMAS/05_SHATKARMAS.md`

@@ -10,7 +10,7 @@ sequence: 28
 
 # Basti (Yogic Colon Cleansing)
 
-**Basti** is a [shatkarma](/Shatkarma_Overview) intended to cleanse the lower abdomen, particularly the colon. The *Hatha Yoga Pradipika* attributes to it the destruction of abdominal swelling and diseases of the spleen.
+**Basti** is the second of the six traditional [shatkarmas](/Shatkarma_Overview) (purificatory actions) described in Hatha Yoga texts. It is essentially a "yogic enema" designed for the internal cleansing of the colon. The *Hatha Yoga Pradipika* attributes to it the destruction of abdominal swelling and diseases of the spleen.
 
 ## Methods
 
@@ -19,12 +19,21 @@ sequence: 28
 
 ## Benefits
 
-Traditional texts claim basti regulates Apana Vayu, relieves constipation, balances Vata dosha, improves digestive fire, and purifies the subtle energy channels (nadis). The practice is closely linked to Mula Bandha and the management of downward energy in the body.
+Like all Shatkarmas, the primary aim of Basti is to establish internal balance and prepare the body for advanced spiritual work:
+
+- **Colon cleansing** — Direct flushing of the large intestine to remove physical and energetic impurities
+- **Dosha balance** — Brings Kapha, Pitta, and Vata into equilibrium; essential for those with excess fat or phlegm
+- **Stokes Jathara Agni** (digestive fire) — Vital for metabolizing energy and removing toxins (Ama)
+- **Regulates Apana Vayu** — Directly manages the downward energy of elimination and grounding
+- **Relieves constipation** — Colon cleansing promotes peristalsis and waste elimination
+- **Destroys abdominal swelling** and diseases of the spleen (per *Hatha Yoga Pradipika*)
+- **Wards off urinary disease** and wind (per *Gheranda Samhita*)
+- **Prepares for higher yoga** — Purifies the internal environment, making the body a "durable vessel" for advanced Pranayama and meditation
 
 ## Contraindications
 
 > [!CAUTION]
-> Basti should **only** be practiced under the direct supervision of an experienced teacher. Contraindicated in pregnancy, acute abdominal inflammation, hemorrhoids, hernias, recent colon surgery, and during menstruation.
+> Basti is a forceful and advanced technique that must be approached with caution. Should **only** be practiced under the direct supervision of a qualified teacher. Contraindicated in: pregnancy (strictly prohibited), high blood pressure, heart disease, history of stroke, acute abdominal inflammation, hemorrhoids, hernias, recent colon or abdominal surgery, and during menstruation. Must be performed on a completely empty stomach, ideally during the early morning hours of Brahma Muhurta.
 
 ## Sources
 - `raw/05_SHATKARMAS/05_SHATKARMAS.md`
