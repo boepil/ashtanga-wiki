@@ -47,10 +47,10 @@ Welcome to the Ashtanga Yoga Knowledge Wiki.
 - [[Shatkarma_Overview]]
   - [[Dhauti]]
   - [[Basti]]
+  - [[Jala_Neti]]
+  - [[Trataka]]
   - [[Nauli]]
-- [[Jala_Neti]]
-- [[Kapalabhati]]
-- [[Trataka]]
+  - [[Kapalabhati]]
 - [[Shatkarma_Safety_and_Timing]]
 
 ## 06. Anatomy, Pathology & Rehabilitation
