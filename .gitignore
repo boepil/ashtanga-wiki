@@ -1,0 +1,19 @@
+# Ignore quartz-web subproject (has its own git repo)
+quartz-web/
+
+# Ignore generated/temp files
+raw_context_summary.txt
+log.md
+tree.txt
+$logPath
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Node
+node_modules/
+
+# OS
+.DS_Store
+Thumbs.db
