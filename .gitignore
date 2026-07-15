@@ -1,19 +1,28 @@
-# Ignore quartz-web subproject (has its own git repo)
-quartz-web/
-
-# Ignore generated/temp files
-raw_context_summary.txt
-log.md
-tree.txt
-$logPath
+# Ignore generated/build artifacts
+quartz-web/node_modules/
+quartz-web/public/
+quartz-web/.quartz-cache/
+quartz-web/.github/
+quartz-web/docs/
+quartz-web/CODE_OF_CONDUCT.md
+quartz-web/Dockerfile
+quartz-web/LICENSE.txt
+quartz-web/README.md
 
 # Python cache
 __pycache__/
 *.pyc
 
-# Node
-node_modules/
-
 # OS
 .DS_Store
 Thumbs.db
+
+# Obsidian workspace config (user-specific)
+.obsidian/
+
+# Temp / scratch
+log.md
+raw_context_summary.txt
+tree.txt
+$logPath
+scratch/
