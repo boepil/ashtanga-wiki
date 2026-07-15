@@ -26,3 +26,6 @@ raw_context_summary.txt
 tree.txt
 $logPath
 scratch/
+
+# Local knowledge base (not needed for build — tracked locally)
+raw/

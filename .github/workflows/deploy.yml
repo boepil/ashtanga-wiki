@@ -26,12 +26,14 @@ jobs:
           node-version: 22
       - name: Install Dependencies
         run: npm install
+        working-directory: ./quartz-web
       - name: Build Quartz
         run: npx quartz build
+        working-directory: ./quartz-web
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: public
+          path: quartz-web/public
 
   deploy:
     needs: build
